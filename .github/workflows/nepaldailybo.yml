@@ -1,4 +1,81 @@
-name: Nepal Boxoffice Scraper
+# name: Nepal Boxoffice Scraper
+# 
+# on:
+#   schedule:
+#     - cron: "0 * * * *"   # ⏰ every 60 minutes
+#   workflow_dispatch:      # manual run
+# 
+# # ✅ REQUIRED for git push
+# permissions:
+#   contents: write
+#   
+# # ✅ Ek time pe sirf ek job chalega (no race on push)
+# concurrency:
+#   group: nepal-boxoffice-main
+#   cancel-in-progress: false
+# 
+# jobs:
+#   run:
+#     runs-on: ubuntu-latest
+# 
+#     steps:
+#     - name: Checkout repository
+#       uses: actions/checkout@v4
+#       with:
+#         fetch-depth: 0  # required for rebase & push
+# 
+#     - name: Set up Python
+#       uses: actions/setup-python@v4
+#       with:
+#         python-version: "3.11"
+# 
+#     - name: Install dependencies
+#       run: |
+#         pip install requests
+# 
+#     - name: Run Nepal Boxoffice Script
+#       run: |
+#         echo "🚀 Running Nepal Boxoffice Script..."
+#         python "nepaldailybo.py"
+# 
+#     - name: Check for changes
+#       id: check_changes
+#       run: |
+#         if [[ -n $(git status --porcelain) ]]; then
+#           echo "changes_detected=true" >> $GITHUB_ENV
+#         else
+#           echo "changes_detected=false" >> $GITHUB_ENV
+#         fi
+# 
+#     - name: Commit & Push Results (with retry)
+#       if: env.changes_detected == 'true'
+#       run: |
+#         git config --global user.name "GitHub Bot"
+#         git config --global user.email "actions@github.com"
+# 
+#         git add .
+# 
+#         # safe commit (skip if nothing staged somehow)
+#         git commit -m "📊 Auto-update: Nepal Boxoffice ($(date '+%d-%m-%Y %I:%M %p'))" || echo "No changes to commit"
+# 
+#         # ✅ retry logic: pull --rebase + push (max 3 times)
+#         for i in 1 2 3; do
+#           echo "🔄 Attempt $i to pull --rebase & push..."
+#           if git pull --rebase && git push; then
+#             echo "✅ Push success on attempt $i"
+#             break
+#           else
+#             echo "⚠️ Push failed on attempt $i"
+#             if [ "$i" -eq 3 ]; then
+#               echo "❌ Giving up after 3 attempts"
+#               exit 1
+#             fi
+#             sleep 10
+#           fi
+#         done
+
+
+name: Nepal Boxoffice Scraper + MongoDB Sync
 
 on:
   schedule:
@@ -8,37 +85,40 @@ on:
 # ✅ REQUIRED for git push
 permissions:
   contents: write
-  
-# ✅ Ek time pe sirf ek job chalega (no race on push)
+
+
+# ✅ One job at a time (no race conditions)
 concurrency:
   group: nepal-boxoffice-main
   cancel-in-progress: false
 
 jobs:
-  run:
+  scrape-and-sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
-    - name: Checkout repository
+    - name: 🧾 Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # required for rebase & push
+        fetch-depth: 0
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v5
       with:
         python-version: "3.11"
+        cache: 'pip'
 
-    - name: Install dependencies
+    - name: 📦 Install scraper dependencies
       run: |
         pip install requests
 
-    - name: Run Nepal Boxoffice Script
+    - name: 🚀 Run Nepal Boxoffice Script
       run: |
         echo "🚀 Running Nepal Boxoffice Script..."
-        python "nepaldailybo.py"
+        python nepaldailybo.py
 
-    - name: Check for changes
+    - name: 🔍 Check for changes
       id: check_changes
       run: |
         if [[ -n $(git status --porcelain) ]]; then
@@ -47,7 +127,7 @@ jobs:
           echo "changes_detected=false" >> $GITHUB_ENV
         fi
 
-    - name: Commit & Push Results (with retry)
+    - name: 💾 Commit & Push Results (with retry)
       if: env.changes_detected == 'true'
       run: |
         git config --global user.name "GitHub Bot"
@@ -55,10 +135,9 @@ jobs:
 
         git add .
 
-        # safe commit (skip if nothing staged somehow)
         git commit -m "📊 Auto-update: Nepal Boxoffice ($(date '+%d-%m-%Y %I:%M %p'))" || echo "No changes to commit"
 
-        # ✅ retry logic: pull --rebase + push (max 3 times)
+        # ✅ Retry logic: pull --rebase + push (max 3 times)
         for i in 1 2 3; do
           echo "🔄 Attempt $i to pull --rebase & push..."
           if git pull --rebase && git push; then
@@ -73,3 +152,25 @@ jobs:
             sleep 10
           fi
         done
+
+    # ✨✨✨ BUILT-IN MONGODB SYNC (DETAILED ONLY) ✨✨✨
+    - name: 📦 Install MongoDB dependencies
+      run: |
+        pip install pymongo dnspython pytz
+
+    - name: 🔄 Sync Nepal Detailed Data to MongoDB
+      if: success()
+      env:
+        MONGODB_URI: ${{ secrets.MONGODB_URI }}
+        MONGODB_DATABASE: ${{ secrets.MONGODB_DATABASE }}
+      run: |
+        python mongodb/sync_nepal.py
+
+    - name: 📊 Final Summary
+      if: always()
+      run: |
+        echo "================================"
+        echo "Nepal Boxoffice Workflow Complete"
+        echo "================================"
+        echo "Time: $(date +'%Y-%m-%d %H:%M IST')"
+        echo "Status: ${{ job.status }}"

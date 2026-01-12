@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "0 */3 * * *"   # ⏰ Runs every 3 hours
   workflow_dispatch:       # ✅ Manual run allowed
+  
+# ✅ REQUIRED for git push
+permissions:
+  contents: write
 
 # ✅ Ek time pe sirf ek job chalega (no race on push)
 concurrency:
