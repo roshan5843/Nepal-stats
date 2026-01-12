@@ -5,6 +5,10 @@ on:
     - cron: "0 * * * *"   # ⏰ every 60 minutes
   workflow_dispatch:      # manual run
 
+# ✅ REQUIRED for git push
+permissions:
+  contents: write
+  
 # ✅ Ek time pe sirf ek job chalega (no race on push)
 concurrency:
   group: nepal-boxoffice-main
