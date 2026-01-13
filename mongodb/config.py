@@ -7,6 +7,7 @@ DATABASE_NAME = os.environ.get("MONGODB_DATABASE", "movie-blog")
 
 # Collection (only detailed)
 COLLECTION_NEPAL_DETAILED = "nepal_detailed"
+COLLECTION_NEPAL_ADVANCE = "nepal_advance" 
 
 # Timezone
 IST = timezone(timedelta(hours=5, minutes=30))
