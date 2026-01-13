@@ -1,6 +1,6 @@
 {
   "date": "2026-01-13",
-  "lastUpdated": "04:30 PM, 13 January 2026",
+  "lastUpdated": "05:01 PM, 13 January 2026",
   "shows": [
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -2832,46 +2832,52 @@
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
       "movie_name": "Jhari Pachhi Ko Indreni",
       "show_id": "60390:ini-cinemas-nb-center",
-      "venue": "ini-cinemas-nb-center",
-      "theatre": "iNi Cinemas NB Center - Audi -1 (DTS: X)",
-      "date": "2026-01-13T17:15:00+05:45",
-      "time": "",
-      "seats": 177,
-      "sold": 10,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-13",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 167,
-      "gross": 2000,
-      "occupancy_percent": 5.65
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
       "movie_name": "Jhari Pachhi Ko Indreni",
       "show_id": "60404:ini-lotse-ktm",
-      "venue": "ini-lotse-ktm",
-      "theatre": "iNi Cinemas Lotse - Audi 2",
-      "date": "2026-01-13T17:15:00+05:45",
-      "time": "",
-      "seats": 240,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 2,
-      "available": 238,
-      "gross": 400,
-      "occupancy_percent": 0.83
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
       "movie_name": "Jhari Pachhi Ko Indreni",
       "show_id": "46173:bsr-movies",
-      "venue": "bsr-movies",
-      "theatre": "BSR Movies - Atmos 1",
-      "date": "2026-01-13T17:15:00+05:45",
-      "time": "",
-      "seats": 192,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 192,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
@@ -2922,16 +2928,18 @@
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "11355:infinity-movies",
-      "venue": "infinity-movies",
-      "theatre": "Infinity Movies - Audi 2",
-      "date": "2026-01-13T17:45:00+05:45",
-      "time": "",
-      "seats": 154,
-      "sold": 8,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-13",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 146,
-      "gross": 1200,
-      "occupancy_percent": 5.19
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -2972,11 +2980,11 @@
       "date": "2026-01-13T17:30:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 11,
+      "sold": 19,
       "reserved": 0,
-      "available": 165,
-      "gross": 3830,
-      "occupancy_percent": 6.25
+      "available": 157,
+      "gross": 6070,
+      "occupancy_percent": 10.8
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -2988,10 +2996,10 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 13,
-      "available": 227,
-      "gross": 2600,
-      "occupancy_percent": 5.42
+      "reserved": 14,
+      "available": 226,
+      "gross": 2800,
+      "occupancy_percent": 5.83
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3017,11 +3025,11 @@
       "date": "2026-01-13T18:30:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 20,
-      "reserved": 7,
-      "available": 183,
-      "gross": 5400,
-      "occupancy_percent": 12.86
+      "sold": 32,
+      "reserved": 3,
+      "available": 175,
+      "gross": 7000,
+      "occupancy_percent": 16.67
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3032,11 +3040,11 @@
       "date": "2026-01-13T18:45:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 21,
+      "sold": 24,
       "reserved": 0,
-      "available": 156,
-      "gross": 6390,
-      "occupancy_percent": 11.86
+      "available": 153,
+      "gross": 7200,
+      "occupancy_percent": 13.56
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3047,26 +3055,28 @@
       "date": "2026-01-13T18:15:00+05:45",
       "time": "",
       "seats": 172,
-      "sold": 24,
+      "sold": 30,
       "reserved": 8,
-      "available": 140,
-      "gross": 6400,
-      "occupancy_percent": 18.6
+      "available": 134,
+      "gross": 7600,
+      "occupancy_percent": 22.09
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "52396:mangyo-jana-jyoti-cinemas",
-      "venue": "mangyo-jana-jyoti-cinemas",
-      "theatre": "Mango Jana Jyoti Cinemas - Screen 1",
-      "date": "2026-01-13T18:30:00+05:45",
-      "time": "",
-      "seats": 309,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 309,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3077,11 +3087,11 @@
       "date": "2026-01-13T18:45:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 18,
-      "reserved": 0,
-      "available": 230,
-      "gross": 8220,
-      "occupancy_percent": 7.26
+      "sold": 26,
+      "reserved": 2,
+      "available": 220,
+      "gross": 11720,
+      "occupancy_percent": 11.29
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3093,10 +3103,10 @@
       "time": "",
       "seats": 199,
       "sold": 0,
-      "reserved": 21,
-      "available": 178,
-      "gross": 3150,
-      "occupancy_percent": 10.55
+      "reserved": 24,
+      "available": 175,
+      "gross": 3600,
+      "occupancy_percent": 12.06
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3107,11 +3117,11 @@
       "date": "2026-01-13T18:45:00+05:45",
       "time": "",
       "seats": 499,
-      "sold": 12,
+      "sold": 19,
       "reserved": 0,
-      "available": 487,
-      "gross": 4200,
-      "occupancy_percent": 2.4
+      "available": 480,
+      "gross": 6650,
+      "occupancy_percent": 3.81
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3122,11 +3132,11 @@
       "date": "2026-01-13T18:30:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 0,
-      "reserved": 4,
-      "available": 129,
-      "gross": 1320,
-      "occupancy_percent": 3.01
+      "sold": 2,
+      "reserved": 0,
+      "available": 131,
+      "gross": 660,
+      "occupancy_percent": 1.5
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3137,11 +3147,11 @@
       "date": "2026-01-13T18:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 20,
+      "sold": 22,
       "reserved": 0,
-      "available": 176,
-      "gross": 5500,
-      "occupancy_percent": 10.2
+      "available": 174,
+      "gross": 5900,
+      "occupancy_percent": 11.22
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3152,11 +3162,11 @@
       "date": "2026-01-13T18:30:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 90,
-      "reserved": 0,
-      "available": 127,
-      "gross": 18300,
-      "occupancy_percent": 41.47
+      "sold": 99,
+      "reserved": 5,
+      "available": 113,
+      "gross": 21100,
+      "occupancy_percent": 47.93
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3227,11 +3237,11 @@
       "date": "2026-01-13T18:40:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 34,
+      "sold": 39,
       "reserved": 18,
-      "available": 195,
-      "gross": 9450,
-      "occupancy_percent": 21.05
+      "available": 190,
+      "gross": 10525,
+      "occupancy_percent": 23.08
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3242,11 +3252,11 @@
       "date": "2026-01-13T18:45:00+05:45",
       "time": "",
       "seats": 231,
-      "sold": 11,
-      "reserved": 0,
-      "available": 220,
-      "gross": 2200,
-      "occupancy_percent": 4.76
+      "sold": 16,
+      "reserved": 5,
+      "available": 210,
+      "gross": 4200,
+      "occupancy_percent": 9.09
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3287,11 +3297,11 @@
       "date": "2026-01-13T18:45:00+05:45",
       "time": "",
       "seats": 150,
-      "sold": 12,
+      "sold": 13,
       "reserved": 0,
-      "available": 138,
-      "gross": 5640,
-      "occupancy_percent": 8.0
+      "available": 137,
+      "gross": 6110,
+      "occupancy_percent": 8.67
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3303,10 +3313,10 @@
       "time": "",
       "seats": 169,
       "sold": 0,
-      "reserved": 11,
-      "available": 158,
-      "gross": 2075,
-      "occupancy_percent": 6.51
+      "reserved": 15,
+      "available": 154,
+      "gross": 2925,
+      "occupancy_percent": 8.88
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3347,11 +3357,11 @@
       "date": "2026-01-13T18:30:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 24,
+      "sold": 46,
       "reserved": 0,
-      "available": 223,
-      "gross": 8400,
-      "occupancy_percent": 9.72
+      "available": 201,
+      "gross": 16100,
+      "occupancy_percent": 18.62
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -3422,11 +3432,11 @@
       "date": "2026-01-13T18:30:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 39,
-      "reserved": 21,
-      "available": 150,
-      "gross": 17400,
-      "occupancy_percent": 28.57
+      "sold": 44,
+      "reserved": 18,
+      "available": 148,
+      "gross": 17980,
+      "occupancy_percent": 29.52
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -3437,11 +3447,11 @@
       "date": "2026-01-13T18:15:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 5,
-      "reserved": 7,
-      "available": 235,
-      "gross": 5160,
-      "occupancy_percent": 4.86
+      "sold": 14,
+      "reserved": 0,
+      "available": 233,
+      "gross": 6020,
+      "occupancy_percent": 5.67
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -3452,11 +3462,11 @@
       "date": "2026-01-13T18:00:00+05:45",
       "time": "",
       "seats": 207,
-      "sold": 8,
-      "reserved": 2,
-      "available": 197,
-      "gross": 4300,
-      "occupancy_percent": 4.83
+      "sold": 16,
+      "reserved": 0,
+      "available": 191,
+      "gross": 6880,
+      "occupancy_percent": 7.73
     },
     {
       "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
@@ -3467,11 +3477,11 @@
       "date": "2026-01-13T19:15:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 36,
+      "sold": 38,
       "reserved": 0,
-      "available": 211,
-      "gross": 12600,
-      "occupancy_percent": 14.57
+      "available": 209,
+      "gross": 13300,
+      "occupancy_percent": 15.38
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3483,10 +3493,10 @@
       "time": "",
       "seats": 182,
       "sold": 5,
-      "reserved": 2,
-      "available": 175,
-      "gross": 1400,
-      "occupancy_percent": 3.85
+      "reserved": 0,
+      "available": 177,
+      "gross": 1000,
+      "occupancy_percent": 2.75
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3497,11 +3507,11 @@
       "date": "2026-01-13T19:00:00+05:45",
       "time": "",
       "seats": 285,
-      "sold": 23,
+      "sold": 26,
       "reserved": 2,
-      "available": 260,
-      "gross": 3750,
-      "occupancy_percent": 8.77
+      "available": 257,
+      "gross": 4200,
+      "occupancy_percent": 9.82
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3513,10 +3523,10 @@
       "time": "",
       "seats": 180,
       "sold": 9,
-      "reserved": 4,
-      "available": 167,
-      "gross": 6110,
-      "occupancy_percent": 7.22
+      "reserved": 0,
+      "available": 171,
+      "gross": 4230,
+      "occupancy_percent": 5.0
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3527,11 +3537,11 @@
       "date": "2026-01-13T19:15:00+05:45",
       "time": "",
       "seats": 151,
-      "sold": 37,
+      "sold": 42,
       "reserved": 0,
-      "available": 114,
-      "gross": 9250,
-      "occupancy_percent": 24.5
+      "available": 109,
+      "gross": 10700,
+      "occupancy_percent": 27.81
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3542,11 +3552,11 @@
       "date": "2026-01-13T19:15:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 5,
+      "sold": 11,
       "reserved": 0,
-      "available": 214,
-      "gross": 1600,
-      "occupancy_percent": 2.28
+      "available": 208,
+      "gross": 3520,
+      "occupancy_percent": 5.02
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3557,8 +3567,8 @@
       "date": "2026-01-13T19:15:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 43,
-      "reserved": 30,
+      "sold": 52,
+      "reserved": 21,
       "available": 139,
       "gross": 25240,
       "occupancy_percent": 34.43
@@ -3567,16 +3577,18 @@
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
       "movie_name": "The RajaSaab",
       "show_id": "3246:kawaswoti-cinemax",
-      "venue": "kawaswoti-cinemax",
-      "theatre": "Kawaswoti Cinemax - Audi-1",
-      "date": "2026-01-13T19:00:00+05:45",
-      "time": "",
-      "seats": 258,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 258,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3617,11 +3629,11 @@
       "date": "2026-01-13T19:00:00+05:45",
       "time": "",
       "seats": 265,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 265,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 260,
+      "gross": 1600,
+      "occupancy_percent": 1.89
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3738,10 +3750,10 @@
       "time": "",
       "seats": 270,
       "sold": 0,
-      "reserved": 3,
-      "available": 267,
-      "gross": 900,
-      "occupancy_percent": 1.11
+      "reserved": 0,
+      "available": 270,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -3767,11 +3779,11 @@
       "date": "2026-01-13T19:15:00+05:45",
       "time": "",
       "seats": 203,
-      "sold": 20,
-      "reserved": 3,
-      "available": 180,
-      "gross": 5750,
-      "occupancy_percent": 11.33
+      "sold": 22,
+      "reserved": 0,
+      "available": 181,
+      "gross": 5500,
+      "occupancy_percent": 10.84
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -3827,11 +3839,11 @@
       "date": "2026-01-13T19:00:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 8,
-      "reserved": 8,
-      "available": 149,
-      "gross": 4320,
-      "occupancy_percent": 9.7
+      "sold": 25,
+      "reserved": 0,
+      "available": 140,
+      "gross": 6750,
+      "occupancy_percent": 15.15
     },
     {
       "movie_id": "4rrtAWfKfKYhhsWEYUU2KE",
@@ -3842,11 +3854,11 @@
       "date": "2026-01-13T19:00:00+05:45",
       "time": "",
       "seats": 112,
-      "sold": 7,
+      "sold": 9,
       "reserved": 0,
-      "available": 105,
-      "gross": 2730,
-      "occupancy_percent": 6.25
+      "available": 103,
+      "gross": 3510,
+      "occupancy_percent": 8.04
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -3873,10 +3885,10 @@
       "time": "",
       "seats": 67,
       "sold": 15,
-      "reserved": 0,
-      "available": 52,
-      "gross": 6750,
-      "occupancy_percent": 22.39
+      "reserved": 1,
+      "available": 51,
+      "gross": 7200,
+      "occupancy_percent": 23.88
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -3902,11 +3914,11 @@
       "date": "2026-01-13T19:45:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 23,
-      "reserved": 4,
-      "available": 156,
-      "gross": 10530,
-      "occupancy_percent": 14.75
+      "sold": 29,
+      "reserved": 0,
+      "available": 154,
+      "gross": 11310,
+      "occupancy_percent": 15.85
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3918,10 +3930,10 @@
       "time": "",
       "seats": 349,
       "sold": 3,
-      "reserved": 3,
-      "available": 343,
-      "gross": 2100,
-      "occupancy_percent": 1.72
+      "reserved": 0,
+      "available": 346,
+      "gross": 1050,
+      "occupancy_percent": 0.86
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3947,11 +3959,11 @@
       "date": "2026-01-13T19:30:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 11,
+      "sold": 14,
       "reserved": 0,
-      "available": 197,
-      "gross": 2750,
-      "occupancy_percent": 5.29
+      "available": 194,
+      "gross": 3500,
+      "occupancy_percent": 6.73
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3963,10 +3975,10 @@
       "time": "",
       "seats": 342,
       "sold": 11,
-      "reserved": 36,
-      "available": 295,
-      "gross": 9400,
-      "occupancy_percent": 13.74
+      "reserved": 34,
+      "available": 297,
+      "gross": 9000,
+      "occupancy_percent": 13.16
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3977,11 +3989,11 @@
       "date": "2026-01-13T19:45:00+05:45",
       "time": "",
       "seats": 290,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 290,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 288,
+      "gross": 360,
+      "occupancy_percent": 0.69
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -3992,11 +4004,11 @@
       "date": "2026-01-13T19:30:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 6,
-      "reserved": 6,
-      "available": 126,
-      "gross": 3360,
-      "occupancy_percent": 8.7
+      "sold": 8,
+      "reserved": 3,
+      "available": 127,
+      "gross": 3080,
+      "occupancy_percent": 7.97
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -4087,6 +4099,160 @@
       "available": 196,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
+      "movie_name": "Eklo I",
+      "show_id": "77421:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-01-13T20:00:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 5,
+      "available": 160,
+      "gross": 875,
+      "occupancy_percent": 3.03
+    },
+    {
+      "movie_id": "pZfLtimsFz9yfCLa5P5ABP",
+      "movie_name": "Eklo I",
+      "show_id": "152007:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 03",
+      "date": "2026-01-13T20:00:00+05:45",
+      "time": "",
+      "seats": 139,
+      "sold": 13,
+      "reserved": 0,
+      "available": 126,
+      "gross": 2860,
+      "occupancy_percent": 9.35
+    },
+    {
+      "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
+      "movie_name": "The RajaSaab",
+      "show_id": "151868:qfx-durbar",
+      "venue": "qfx-durbar",
+      "theatre": "QFX Durbar - AUDI 02",
+      "date": "2026-01-13T20:00:00+05:45",
+      "time": "",
+      "seats": 51,
+      "sold": 0,
+      "reserved": 2,
+      "available": 49,
+      "gross": 2400,
+      "occupancy_percent": 3.92
+    },
+    {
+      "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
+      "movie_name": "The RajaSaab",
+      "show_id": "46170:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 1",
+      "date": "2026-01-13T20:00:00+05:45",
+      "time": "",
+      "seats": 192,
+      "sold": 5,
+      "reserved": 2,
+      "available": 185,
+      "gross": 1400,
+      "occupancy_percent": 3.65
+    },
+    {
+      "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
+      "movie_name": "The RajaSaab",
+      "show_id": "60353:bishwojyoti-cineplex",
+      "venue": "bishwojyoti-cineplex",
+      "theatre": "iNi Cinemas - Bishwojyoti - Audi 2",
+      "date": "2026-01-13T20:00:00+05:45",
+      "time": "",
+      "seats": 89,
+      "sold": 0,
+      "reserved": 0,
+      "available": 89,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
+      "movie_name": "The RajaSaab",
+      "show_id": "60405:ini-lotse-ktm",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-13",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
+    },
+    {
+      "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
+      "movie_name": "The RajaSaab",
+      "show_id": "60391:ini-cinemas-nb-center",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-13",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
+    },
+    {
+      "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
+      "movie_name": "The RajaSaab",
+      "show_id": "13143:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 2",
+      "date": "2026-01-13T20:00:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 70,
+      "reserved": 5,
+      "available": 142,
+      "gross": 15000,
+      "occupancy_percent": 34.56
+    },
+    {
+      "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
+      "movie_name": "The RajaSaab",
+      "show_id": "74238:city-cinema",
+      "venue": "city-cinema",
+      "theatre": "City Cinema - HALL A",
+      "date": "2026-01-13T20:15:00+05:45",
+      "time": "",
+      "seats": 189,
+      "sold": 20,
+      "reserved": 6,
+      "available": 163,
+      "gross": 5500,
+      "occupancy_percent": 13.76
+    },
+    {
+      "movie_id": "txgxCnmZREqoEgdtacpQWf",
+      "movie_name": "Avatar: Fire and Ash : Hindi Dubbed",
+      "show_id": "74242:city-cinema",
+      "venue": "city-cinema",
+      "theatre": "City Cinema - HALL B",
+      "date": "2026-01-13T20:00:00+05:45",
+      "time": "",
+      "seats": 98,
+      "sold": 2,
+      "reserved": 0,
+      "available": 96,
+      "gross": 500,
+      "occupancy_percent": 2.04
     }
   ]
 }
