@@ -5,8 +5,8 @@
     "total_shows": 1,
     "seats": 279,
     "sold": 0,
-    "reserved": 42,
-    "available": 237,
+    "reserved": 21,
+    "available": 258,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,8 +15,8 @@
         "total_shows": 1,
         "seats": 279,
         "sold": 0,
-        "reserved": 42,
-        "available": 237,
+        "reserved": 21,
+        "available": 258,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -25,21 +25,41 @@
   {
     "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
     "movie_name": "The RajaSaab",
-    "total_shows": 1,
-    "seats": 270,
-    "sold": 11,
-    "reserved": 50,
-    "available": 209,
+    "total_shows": 4,
+    "seats": 1002,
+    "sold": 19,
+    "reserved": 10,
+    "available": 973,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
         "venue": "big-movies",
+        "total_shows": 2,
+        "seats": 619,
+        "sold": 14,
+        "reserved": 0,
+        "available": 605,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
         "total_shows": 1,
-        "seats": 270,
-        "sold": 11,
-        "reserved": 50,
-        "available": 209,
+        "seats": 169,
+        "sold": 5,
+        "reserved": 10,
+        "available": 154,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 0,
+        "reserved": 0,
+        "available": 214,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -63,6 +83,52 @@
         "sold": 0,
         "reserved": 8,
         "available": 52,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
+    "movie_name": "Jhari Pachhi Ko Indreni",
+    "total_shows": 1,
+    "seats": 279,
+    "sold": 8,
+    "reserved": 42,
+    "available": 229,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 8,
+        "reserved": 42,
+        "available": 229,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
+    "movie_name": "Avatar: Fire and Ash",
+    "total_shows": 1,
+    "seats": 172,
+    "sold": 8,
+    "reserved": 8,
+    "available": 156,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 172,
+        "sold": 8,
+        "reserved": 8,
+        "available": 156,
         "housefull": 0,
         "fastfilling": 0
       }
