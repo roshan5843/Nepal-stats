@@ -1,6 +1,6 @@
 {
   "date": "2026-01-17",
-  "lastUpdated": "09:33 AM, 15 January 2026",
+  "lastUpdated": "11:52 AM, 15 January 2026",
   "shows": [
     {
       "movie_id": "DXC3Qb9sGJZirLuSLCAUoZ",
@@ -126,18 +126,16 @@
       "movie_id": "qXZ3Wzvity6DkZNsp9fSgc",
       "movie_name": "Viral Gorkhe",
       "show_id": "60545:ini-cinemas-nb-center",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-17",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-cinemas-nb-center",
+      "theatre": "iNi Cinemas NB Center - Audi -1 (DTS: X)",
+      "date": "2026-01-17T14:30:00+05:45",
+      "time": "",
+      "seats": 177,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 177,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "qXZ3Wzvity6DkZNsp9fSgc",
@@ -395,8 +393,8 @@
       "occupancy_percent": 0.0
     },
     {
-      "movie_id": "qXZ3Wzvity6DkZNsp9fSgc",
-      "movie_name": "Viral Gorkhe",
+      "movie_id": "DXC3Qb9sGJZirLuSLCAUoZ",
+      "movie_name": "28 Years Later: The Bone Temple",
       "show_id": "60540:ini-lotse-ktm",
       "venue": "ini-lotse-ktm",
       "theatre": "iNi Cinemas Lotse - Audi 2",
@@ -833,18 +831,16 @@
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
       "movie_name": "Gobar Ganesh",
       "show_id": "60524:bishwojyoti-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-17",
-      "time": null,
-      "seats": 0,
+      "venue": "bishwojyoti-cineplex",
+      "theatre": "iNi Cinemas - Bishwojyoti - Audi 2",
+      "date": "2026-01-17T08:00:00+05:45",
+      "time": "",
+      "seats": 89,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 89,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -1276,10 +1272,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 178,
+      "gross": 800,
+      "occupancy_percent": 1.11
     }
   ]
 }
