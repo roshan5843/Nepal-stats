@@ -1,6 +1,6 @@
 {
   "date": "2026-01-16",
-  "lastUpdated": "08:06 PM, 16 January 2026",
+  "lastUpdated": "08:29 PM, 16 January 2026",
   "shows": [
     {
       "movie_id": "qXZ3Wzvity6DkZNsp9fSgc",
@@ -6473,11 +6473,11 @@
       "date": "2026-01-16T20:45:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 15,
+      "sold": 21,
       "reserved": 0,
-      "available": 195,
-      "gross": 7200,
-      "occupancy_percent": 7.14
+      "available": 189,
+      "gross": 10080,
+      "occupancy_percent": 10.0
     },
     {
       "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
@@ -6488,11 +6488,11 @@
       "date": "2026-01-16T20:45:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 26,
+      "sold": 28,
       "reserved": 0,
-      "available": 188,
-      "gross": 7800,
-      "occupancy_percent": 12.15
+      "available": 186,
+      "gross": 8400,
+      "occupancy_percent": 13.08
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -6533,28 +6533,26 @@
       "date": "2026-01-16T21:00:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 6,
+      "sold": 10,
       "reserved": 0,
-      "available": 123,
-      "gross": 2340,
-      "occupancy_percent": 4.65
+      "available": 119,
+      "gross": 4200,
+      "occupancy_percent": 7.75
     },
     {
       "movie_id": "qXZ3Wzvity6DkZNsp9fSgc",
       "movie_name": "Viral Gorkhe",
       "show_id": "77473:vfx-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-16",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-01-16T21:30:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 2,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 163,
+      "gross": 700,
+      "occupancy_percent": 1.21
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -6566,27 +6564,25 @@
       "time": "",
       "seats": 177,
       "sold": 45,
-      "reserved": 3,
-      "available": 129,
-      "gross": 21110,
-      "occupancy_percent": 27.12
+      "reserved": 0,
+      "available": 132,
+      "gross": 19880,
+      "occupancy_percent": 25.42
     },
     {
       "movie_id": "qXZ3Wzvity6DkZNsp9fSgc",
       "movie_name": "Viral Gorkhe",
       "show_id": "119389:cdc-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-16",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Theatre",
+      "date": "2026-01-16T22:00:00+05:45",
+      "time": "",
+      "seats": 169,
+      "sold": 15,
+      "reserved": 15,
+      "available": 139,
+      "gross": 10600,
+      "occupancy_percent": 17.75
     }
   ]
 }
