@@ -1,6 +1,6 @@
 {
   "date": "2026-01-19",
-  "lastUpdated": "06:26 AM, 17 January 2026",
+  "lastUpdated": "09:23 AM, 17 January 2026",
   "shows": [
     {
       "movie_id": "DXC3Qb9sGJZirLuSLCAUoZ",
@@ -72,10 +72,10 @@
       "time": "",
       "seats": 176,
       "sold": 0,
-      "reserved": 0,
-      "available": 176,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 18,
+      "available": 158,
+      "gross": 5940,
+      "occupancy_percent": 10.23
     },
     {
       "movie_id": "DXC3Qb9sGJZirLuSLCAUoZ",
@@ -207,10 +207,10 @@
       "time": "",
       "seats": 176,
       "sold": 0,
-      "reserved": 0,
-      "available": 176,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 18,
+      "available": 158,
+      "gross": 5940,
+      "occupancy_percent": 10.23
     },
     {
       "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
@@ -447,10 +447,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 20,
+      "available": 176,
+      "gross": 6600,
+      "occupancy_percent": 10.2
     },
     {
       "movie_id": "qXZ3Wzvity6DkZNsp9fSgc",
@@ -642,10 +642,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 20,
+      "available": 176,
+      "gross": 6600,
+      "occupancy_percent": 10.2
     },
     {
       "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
@@ -936,16 +936,18 @@
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
       "movie_name": "Gobar Ganesh",
       "show_id": "152868:qfx-labim",
-      "venue": "qfx-labim",
-      "theatre": "QFX Labim - AUDI 3",
-      "date": "2026-01-19T18:45:00+05:45",
-      "time": "",
-      "seats": 183,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-19",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 183,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -1017,10 +1019,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 20,
+      "available": 176,
+      "gross": 6600,
+      "occupancy_percent": 10.2
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -1032,10 +1034,10 @@
       "time": "",
       "seats": 176,
       "sold": 0,
-      "reserved": 0,
-      "available": 176,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 18,
+      "available": 158,
+      "gross": 5940,
+      "occupancy_percent": 10.23
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
