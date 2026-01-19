@@ -758,10 +758,10 @@
     "movie_id": "JipRPABDzwSJN54KT4F9bJ",
     "movie_name": "Gobar Ganesh",
     "total_shows": 45,
-    "seats": 8267,
-    "sold": 46,
+    "seats": 8406,
+    "sold": 42,
     "reserved": 143,
-    "available": 8078,
+    "available": 8221,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -786,12 +786,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-square-mall",
-        "total_shows": 3,
-        "seats": 519,
-        "sold": 10,
+        "venue": "Unknown",
+        "total_shows": 2,
+        "seats": 0,
+        "sold": 0,
         "reserved": 0,
-        "available": 509,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 2,
+        "seats": 342,
+        "sold": 6,
+        "reserved": 0,
+        "available": 336,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -846,22 +856,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 2,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "cineroyale",
-        "total_shows": 1,
-        "seats": 217,
+        "total_shows": 3,
+        "seats": 651,
         "sold": 0,
         "reserved": 0,
-        "available": 217,
+        "available": 651,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -877,11 +877,11 @@
       },
       {
         "venue": "ksr-movies",
-        "total_shows": 2,
-        "seats": 317,
+        "total_shows": 1,
+        "seats": 199,
         "sold": 0,
         "reserved": 0,
-        "available": 317,
+        "available": 199,
         "housefull": 0,
         "fastfilling": 0
       },
