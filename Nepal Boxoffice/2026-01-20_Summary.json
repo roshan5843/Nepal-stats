@@ -4,9 +4,9 @@
     "movie_name": "Viral Gorkhe",
     "total_shows": 1,
     "seats": 169,
-    "sold": 2,
-    "reserved": 12,
-    "available": 155,
+    "sold": 4,
+    "reserved": 0,
+    "available": 165,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -14,9 +14,9 @@
         "venue": "cdc-cinemas",
         "total_shows": 1,
         "seats": 169,
-        "sold": 2,
-        "reserved": 12,
-        "available": 155,
+        "sold": 4,
+        "reserved": 0,
+        "available": 165,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -25,21 +25,87 @@
   {
     "movie_id": "WZanbnaScUAfySEmLFK4nP",
     "movie_name": "Dhurandhar",
-    "total_shows": 1,
-    "seats": 60,
-    "sold": 2,
-    "reserved": 6,
-    "available": 52,
+    "total_shows": 2,
+    "seats": 339,
+    "sold": 7,
+    "reserved": 2,
+    "available": 330,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 5,
+        "reserved": 2,
+        "available": 272,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "cdc-cinemas",
         "total_shows": 1,
         "seats": 60,
         "sold": 2,
-        "reserved": 6,
-        "available": 52,
+        "reserved": 0,
+        "available": 58,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
+    "movie_name": "The RajaSaab",
+    "total_shows": 1,
+    "seats": 349,
+    "sold": 0,
+    "reserved": 0,
+    "available": 349,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 0,
+        "reserved": 0,
+        "available": 349,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "JipRPABDzwSJN54KT4F9bJ",
+    "movie_name": "Gobar Ganesh",
+    "total_shows": 2,
+    "seats": 439,
+    "sold": 6,
+    "reserved": 7,
+    "available": 426,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 270,
+        "sold": 6,
+        "reserved": 0,
+        "available": 264,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 7,
+        "available": 162,
         "housefull": 0,
         "fastfilling": 0
       }
