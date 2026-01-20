@@ -2,11 +2,11 @@
   {
     "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
     "movie_name": "Mirmire",
-    "total_shows": 16,
-    "seats": 3038,
+    "total_shows": 21,
+    "seats": 3570,
     "sold": 0,
-    "reserved": 12,
-    "available": 3026,
+    "reserved": 14,
+    "available": 3556,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -41,12 +41,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-cinemas-nb-center",
-        "total_shows": 2,
-        "seats": 420,
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 420,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 1,
+        "seats": 210,
+        "sold": 0,
+        "reserved": 0,
+        "available": 210,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -55,8 +65,8 @@
         "total_shows": 1,
         "seats": 210,
         "sold": 0,
-        "reserved": 12,
-        "available": 198,
+        "reserved": 14,
+        "available": 196,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -129,17 +139,37 @@
         "available": 134,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 3,
+        "seats": 540,
+        "sold": 0,
+        "reserved": 0,
+        "available": 540,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 2,
+        "seats": 202,
+        "sold": 0,
+        "reserved": 0,
+        "available": 202,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "DXC3Qb9sGJZirLuSLCAUoZ",
     "movie_name": "28 Years Later: The Bone Temple",
-    "total_shows": 9,
-    "seats": 1516,
+    "total_shows": 10,
+    "seats": 1692,
     "sold": 0,
-    "reserved": 13,
-    "available": 1503,
+    "reserved": 31,
+    "available": 1661,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -222,17 +252,27 @@
         "available": 182,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 1,
+        "seats": 176,
+        "sold": 0,
+        "reserved": 18,
+        "available": 158,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "JipRPABDzwSJN54KT4F9bJ",
     "movie_name": "Gobar Ganesh",
-    "total_shows": 35,
-    "seats": 7728,
-    "sold": 10,
-    "reserved": 67,
-    "available": 7651,
+    "total_shows": 44,
+    "seats": 9297,
+    "sold": 18,
+    "reserved": 108,
+    "available": 9171,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -248,11 +288,11 @@
       },
       {
         "venue": "ini-lotse-ktm",
-        "total_shows": 3,
-        "seats": 720,
+        "total_shows": 2,
+        "seats": 480,
         "sold": 0,
         "reserved": 0,
-        "available": 720,
+        "available": 480,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -278,11 +318,11 @@
       },
       {
         "venue": "fcube",
-        "total_shows": 4,
-        "seats": 818,
-        "sold": 10,
-        "reserved": 67,
-        "available": 741,
+        "total_shows": 5,
+        "seats": 1028,
+        "sold": 16,
+        "reserved": 72,
+        "available": 940,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -293,6 +333,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 317,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -320,9 +370,9 @@
         "venue": "qfx-jalma",
         "total_shows": 3,
         "seats": 801,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 801,
+        "available": 799,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -395,17 +445,47 @@
         "available": 143,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 3,
+        "seats": 576,
+        "sold": 0,
+        "reserved": 0,
+        "available": 576,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 3,
+        "seats": 671,
+        "sold": 0,
+        "reserved": 0,
+        "available": 671,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 2,
+        "seats": 352,
+        "sold": 0,
+        "reserved": 36,
+        "available": 316,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
     "movie_name": "The RajaSaab",
-    "total_shows": 21,
-    "seats": 3858,
+    "total_shows": 22,
+    "seats": 4038,
     "sold": 0,
     "reserved": 12,
-    "available": 3846,
+    "available": 4026,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -578,6 +658,16 @@
         "available": 138,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 0,
+        "reserved": 0,
+        "available": 180,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -607,11 +697,11 @@
   {
     "movie_id": "qXZ3Wzvity6DkZNsp9fSgc",
     "movie_name": "Viral Gorkhe",
-    "total_shows": 20,
-    "seats": 3772,
+    "total_shows": 23,
+    "seats": 4534,
     "sold": 2,
-    "reserved": 10,
-    "available": 3760,
+    "reserved": 11,
+    "available": 4521,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -710,8 +800,8 @@
         "total_shows": 1,
         "seats": 207,
         "sold": 0,
-        "reserved": 0,
-        "available": 207,
+        "reserved": 1,
+        "available": 206,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -764,17 +854,37 @@
         "available": 143,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 2,
+        "seats": 570,
+        "sold": 0,
+        "reserved": 0,
+        "available": 570,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 192,
+        "sold": 0,
+        "reserved": 0,
+        "available": 192,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "WZanbnaScUAfySEmLFK4nP",
     "movie_name": "Dhurandhar",
-    "total_shows": 8,
-    "seats": 1229,
+    "total_shows": 9,
+    "seats": 1363,
     "sold": 0,
     "reserved": 14,
-    "available": 1215,
+    "available": 1349,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -845,6 +955,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 129,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 0,
+        "reserved": 0,
+        "available": 134,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -936,11 +1056,11 @@
   {
     "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
     "movie_name": "Jhari Pachhi Ko Indreni",
-    "total_shows": 2,
-    "seats": 455,
+    "total_shows": 3,
+    "seats": 556,
     "sold": 0,
     "reserved": 0,
-    "available": 455,
+    "available": 556,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -951,6 +1071,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 455,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 0,
+        "reserved": 0,
+        "available": 101,
         "housefull": 0,
         "fastfilling": 0
       }
