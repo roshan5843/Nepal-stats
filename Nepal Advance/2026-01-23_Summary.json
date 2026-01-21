@@ -25,11 +25,11 @@
   {
     "movie_id": "JipRPABDzwSJN54KT4F9bJ",
     "movie_name": "Gobar Ganesh",
-    "total_shows": 10,
-    "seats": 1585,
+    "total_shows": 14,
+    "seats": 2117,
     "sold": 26,
-    "reserved": 1,
-    "available": 1558,
+    "reserved": 3,
+    "available": 2088,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -108,8 +108,38 @@
         "total_shows": 1,
         "seats": 143,
         "sold": 0,
-        "reserved": 1,
-        "available": 142,
+        "reserved": 3,
+        "available": 140,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 0,
+        "reserved": 0,
+        "available": 190,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 2,
+        "seats": 282,
+        "sold": 0,
+        "reserved": 0,
+        "available": 282,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -118,17 +148,67 @@
   {
     "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
     "movie_name": "Pariwartan",
-    "total_shows": 37,
-    "seats": 5664,
-    "sold": 165,
-    "reserved": 31,
-    "available": 5468,
+    "total_shows": 46,
+    "seats": 7988,
+    "sold": 257,
+    "reserved": 47,
+    "available": 7684,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "Unknown",
+        "venue": "pathivara-cine-plaza",
+        "total_shows": 4,
+        "seats": 838,
+        "sold": 4,
+        "reserved": 0,
+        "available": 834,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 5,
+        "seats": 889,
+        "sold": 102,
+        "reserved": 0,
+        "available": 787,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
         "total_shows": 3,
+        "seats": 594,
+        "sold": 55,
+        "reserved": 33,
+        "available": 506,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 2,
+        "seats": 480,
+        "sold": 8,
+        "reserved": 0,
+        "available": 472,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 3,
+        "seats": 531,
+        "sold": 0,
+        "reserved": 1,
+        "available": 530,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -137,62 +217,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "pathivara-cine-plaza",
-        "total_shows": 3,
-        "seats": 648,
-        "sold": 0,
-        "reserved": 0,
-        "available": 648,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "one-cinemas-new-baneshwor",
-        "total_shows": 5,
-        "seats": 889,
-        "sold": 74,
-        "reserved": 0,
-        "available": 815,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "fcube",
-        "total_shows": 3,
-        "seats": 594,
-        "sold": 35,
-        "reserved": 31,
-        "available": 528,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "ini-lotse-ktm",
-        "total_shows": 2,
-        "seats": 480,
-        "sold": 0,
-        "reserved": 0,
-        "available": 480,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "ini-cinemas-nb-center",
-        "total_shows": 2,
-        "seats": 354,
-        "sold": 0,
-        "reserved": 0,
-        "available": 354,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "kirtipur-cineplex",
         "total_shows": 3,
         "seats": 487,
-        "sold": 0,
+        "sold": 24,
         "reserved": 0,
-        "available": 487,
+        "available": 463,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -200,9 +230,9 @@
         "venue": "bishwojyoti-cineplex",
         "total_shows": 3,
         "seats": 267,
-        "sold": 0,
+        "sold": 8,
         "reserved": 0,
-        "available": 267,
+        "available": 259,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -241,8 +271,48 @@
         "total_shows": 3,
         "seats": 429,
         "sold": 0,
+        "reserved": 1,
+        "available": 428,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 2,
+        "seats": 282,
+        "sold": 0,
         "reserved": 0,
-        "available": 429,
+        "available": 282,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "sts-cinema",
+        "total_shows": 2,
+        "seats": 788,
+        "sold": 0,
+        "reserved": 12,
+        "available": 776,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 2,
+        "seats": 380,
+        "sold": 0,
+        "reserved": 0,
+        "available": 380,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 3,
+        "seats": 507,
+        "sold": 0,
+        "reserved": 0,
+        "available": 507,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -253,9 +323,9 @@
     "movie_name": "Mercy",
     "total_shows": 9,
     "seats": 1503,
-    "sold": 26,
+    "sold": 42,
     "reserved": 10,
-    "available": 1467,
+    "available": 1451,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -323,9 +393,9 @@
         "venue": "kirtipur-cineplex",
         "total_shows": 1,
         "seats": 285,
-        "sold": 0,
+        "sold": 16,
         "reserved": 0,
-        "available": 285,
+        "available": 269,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -359,6 +429,85 @@
         "sold": 0,
         "reserved": 0,
         "available": 143,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
+    "movie_name": "The RajaSaab",
+    "total_shows": 2,
+    "seats": 60,
+    "sold": 0,
+    "reserved": 0,
+    "available": 60,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "qXZ3Wzvity6DkZNsp9fSgc",
+    "movie_name": "Viral Gorkhe",
+    "total_shows": 1,
+    "seats": 60,
+    "sold": 0,
+    "reserved": 0,
+    "available": 60,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "WZanbnaScUAfySEmLFK4nP",
+    "movie_name": "Dhurandhar",
+    "total_shows": 1,
+    "seats": 51,
+    "sold": 0,
+    "reserved": 0,
+    "available": 51,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 51,
+        "sold": 0,
+        "reserved": 0,
+        "available": 51,
         "housefull": 0,
         "fastfilling": 0
       }
