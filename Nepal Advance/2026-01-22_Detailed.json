@@ -1,6 +1,6 @@
 {
   "date": "2026-01-22",
-  "lastUpdated": "07:44 AM, 21 January 2026",
+  "lastUpdated": "10:26 AM, 21 January 2026",
   "shows": [
     {
       "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
@@ -341,11 +341,11 @@
       "date": "2026-01-22T12:15:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 2,
+      "sold": 3,
       "reserved": 10,
-      "available": 186,
-      "gross": 2100,
-      "occupancy_percent": 6.06
+      "available": 185,
+      "gross": 2275,
+      "occupancy_percent": 6.57
     },
     {
       "movie_id": "qXZ3Wzvity6DkZNsp9fSgc",
@@ -546,18 +546,16 @@
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
       "movie_name": "Gobar Ganesh",
       "show_id": "60673:bishwojyoti-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-01-22",
-      "time": null,
-      "seats": 0,
+      "venue": "bishwojyoti-cineplex",
+      "theatre": "iNi Cinemas - Bishwojyoti - Audi 1",
+      "date": "2026-01-22T13:45:00+05:45",
+      "time": "",
+      "seats": 201,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 201,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -583,11 +581,11 @@
       "date": "2026-01-22T15:15:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 6,
+      "sold": 12,
       "reserved": 20,
-      "available": 172,
-      "gross": 4550,
-      "occupancy_percent": 13.13
+      "available": 166,
+      "gross": 5600,
+      "occupancy_percent": 16.16
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -644,10 +642,10 @@
       "time": "",
       "seats": 210,
       "sold": 4,
-      "reserved": 10,
-      "available": 196,
-      "gross": 2450,
-      "occupancy_percent": 6.67
+      "reserved": 13,
+      "available": 193,
+      "gross": 2975,
+      "occupancy_percent": 8.1
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -683,16 +681,18 @@
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
       "movie_name": "Gobar Ganesh",
       "show_id": "60785:ksr-movies",
-      "venue": "ksr-movies",
-      "theatre": "iNi Cinemas - KSR Movies - Audi 2",
-      "date": "2026-01-22T18:30:00+05:45",
-      "time": "",
-      "seats": 199,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-22",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 199,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -823,8 +823,8 @@
       "date": "2026-01-22T11:30:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 0,
-      "reserved": 12,
+      "sold": 2,
+      "reserved": 10,
       "available": 200,
       "gross": 3900,
       "occupancy_percent": 5.66
@@ -1133,31 +1133,35 @@
       "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
       "movie_name": "Mirmire",
       "show_id": "153221:qfx-labim",
-      "venue": "qfx-labim",
-      "theatre": "QFX Labim - AUDI 2",
-      "date": "2026-01-22T11:30:00+05:45",
-      "time": "",
-      "seats": 180,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-22",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 180,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
       "movie_name": "Gobar Ganesh",
       "show_id": "153224:qfx-labim",
-      "venue": "qfx-labim",
-      "theatre": "QFX Labim - AUDI 3",
-      "date": "2026-01-22T12:00:00+05:45",
-      "time": "",
-      "seats": 183,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-22",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 183,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -1193,16 +1197,18 @@
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
       "movie_name": "Gobar Ganesh",
       "show_id": "153244:qfx-civil",
-      "venue": "qfx-civil",
-      "theatre": "QFX Civil - AUDI 1",
-      "date": "2026-01-22T12:00:00+05:45",
-      "time": "",
-      "seats": 499,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-22",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 499,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -1288,11 +1294,11 @@
       "date": "2026-01-22T11:15:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 247,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 245,
+      "gross": 500,
+      "occupancy_percent": 0.81
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -1468,11 +1474,11 @@
       "date": "2026-01-22T14:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 0,
-      "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "sold": 2,
+      "reserved": 2,
+      "available": 176,
+      "gross": 2200,
+      "occupancy_percent": 2.22
     },
     {
       "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
@@ -2003,16 +2009,18 @@
       "movie_id": "Pytcw2QFRid6aPwJ5NkuS5",
       "movie_name": "Mirmire",
       "show_id": "46275:bsr-movies",
-      "venue": "bsr-movies",
-      "theatre": "BSR Movies - Atmos 2",
-      "date": "2026-01-22T11:00:00+05:45",
-      "time": "",
-      "seats": 180,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-22",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 15,
-      "available": 165,
-      "gross": 5250,
-      "occupancy_percent": 8.33
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -2838,6 +2846,21 @@
       "available": 191,
       "gross": 6800,
       "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
+      "movie_name": "Avatar: Fire and Ash",
+      "show_id": "61279:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 2",
+      "date": "2026-01-22T09:15:00+05:45",
+      "time": "",
+      "seats": 270,
+      "sold": 0,
+      "reserved": 0,
+      "available": 270,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
