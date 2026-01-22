@@ -25,8 +25,30 @@ class NepalAdvanceMongoDBSync:
 
         print(f"✅ Connected to MongoDB: {DATABASE_NAME}")
 
+#     def find_latest_detailed_file(self):
+#         """Find the most recent Nepal advance detailed file"""
+#         print("\n🔍 Searching for latest Nepal advance file...")
+#
+#         base_dir = Path("Nepal Advance")
+#
+#         if not base_dir.exists():
+#             print(f"❌ Directory not found: {base_dir}")
+#             return None
+#
+#         # Find all detailed files
+#         detailed_files = sorted(base_dir.glob("*_Detailed.json"), reverse=True)
+#
+#         if not detailed_files:
+#             print("❌ No Nepal advance files found")
+#             return None
+#
+#         detailed_file = detailed_files[0]
+#         print(f"✅ Found Detailed: {detailed_file.name}")
+#
+#         return str(detailed_file)
+
     def find_latest_detailed_file(self):
-        """Find the most recent Nepal advance detailed file"""
+        """Find the most recent Nepal advance detailed file (by modified time)"""
         print("\n🔍 Searching for latest Nepal advance file...")
 
         base_dir = Path("Nepal Advance")
@@ -35,17 +57,20 @@ class NepalAdvanceMongoDBSync:
             print(f"❌ Directory not found: {base_dir}")
             return None
 
-        # Find all detailed files
-        detailed_files = sorted(base_dir.glob("*_Detailed.json"), reverse=True)
+        detailed_files = list(base_dir.glob("*_Detailed.json"))
 
         if not detailed_files:
             print("❌ No Nepal advance files found")
             return None
 
-        detailed_file = detailed_files[0]
-        print(f"✅ Found Detailed: {detailed_file.name}")
+    # ✅ Sort by last modified time (THIS IS THE FIX)
+        detailed_files.sort(key=lambda f: f.stat().st_mtime, reverse=True)
 
-        return str(detailed_file)
+        latest = detailed_files[0]
+        print(f"✅ Found latest file: {latest.name}")
+        print(f"🕒 Modified: {datetime.fromtimestamp(latest.stat().st_mtime)}")
+
+        return str(latest)
 
     def load_json(self, filepath):
         """Load JSON file safely"""
