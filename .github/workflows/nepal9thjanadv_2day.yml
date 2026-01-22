@@ -153,6 +153,10 @@ jobs:
         done
 
     # ✨✨✨ BUILT-IN MONGODB SYNC ✨✨✨
+    - name: 🔄 Refresh workspace after push
+      run: |
+        git pull --rebase
+
     - name: 📦 Install MongoDB dependencies
       run: |
         pip install pymongo dnspython pytz
