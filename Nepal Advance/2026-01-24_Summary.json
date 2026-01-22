@@ -2,11 +2,11 @@
   {
     "movie_id": "QLgAsZ4oA29Ks3m3Z7NVAe",
     "movie_name": "Mercy",
-    "total_shows": 2,
-    "seats": 477,
+    "total_shows": 3,
+    "seats": 745,
     "sold": 16,
     "reserved": 16,
-    "available": 445,
+    "available": 713,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -27,6 +27,16 @@
         "sold": 16,
         "reserved": 0,
         "available": 269,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 1,
+        "seats": 268,
+        "sold": 0,
+        "reserved": 0,
+        "available": 268,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -58,11 +68,11 @@
   {
     "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
     "movie_name": "Pariwartan",
-    "total_shows": 6,
-    "seats": 1051,
+    "total_shows": 9,
+    "seats": 1750,
     "sold": 20,
-    "reserved": 47,
-    "available": 984,
+    "reserved": 51,
+    "available": 1679,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -81,8 +91,28 @@
         "total_shows": 3,
         "seats": 487,
         "sold": 20,
+        "reserved": 4,
+        "available": 463,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "birat-cine",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
         "reserved": 0,
-        "available": 467,
+        "available": 169,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 2,
+        "seats": 530,
+        "sold": 0,
+        "reserved": 0,
+        "available": 530,
         "housefull": 0,
         "fastfilling": 0
       }

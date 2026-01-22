@@ -1,6 +1,6 @@
 {
   "date": "2026-01-24",
-  "lastUpdated": "09:35 AM, 22 January 2026",
+  "lastUpdated": "11:50 AM, 22 January 2026",
   "shows": [
     {
       "movie_id": "QLgAsZ4oA29Ks3m3Z7NVAe",
@@ -147,10 +147,70 @@
       "time": "",
       "seats": 285,
       "sold": 16,
+      "reserved": 4,
+      "available": 265,
+      "gross": 6000,
+      "occupancy_percent": 7.02
+    },
+    {
+      "movie_id": "QLgAsZ4oA29Ks3m3Z7NVAe",
+      "movie_name": "Mercy",
+      "show_id": "153453:qfx-jalma",
+      "venue": "qfx-jalma",
+      "theatre": "QFX Jalma, Narayangarh - AUDI 1",
+      "date": "2026-01-24T19:15:00+05:45",
+      "time": "",
+      "seats": 268,
+      "sold": 0,
       "reserved": 0,
-      "available": 269,
-      "gross": 4800,
-      "occupancy_percent": 5.61
+      "available": 268,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
+      "movie_name": "Pariwartan",
+      "show_id": "3160:birat-cine",
+      "venue": "birat-cine",
+      "theatre": "Birat Cine - Audi-2",
+      "date": "2026-01-24T14:21:00+05:45",
+      "time": "",
+      "seats": 169,
+      "sold": 0,
+      "reserved": 0,
+      "available": 169,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
+      "movie_name": "Pariwartan",
+      "show_id": "153455:qfx-jalma",
+      "venue": "qfx-jalma",
+      "theatre": "QFX Jalma, Narayangarh - AUDI 2",
+      "date": "2026-01-24T15:45:00+05:45",
+      "time": "",
+      "seats": 265,
+      "sold": 0,
+      "reserved": 0,
+      "available": 265,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
+      "movie_name": "Pariwartan",
+      "show_id": "153454:qfx-jalma",
+      "venue": "qfx-jalma",
+      "theatre": "QFX Jalma, Narayangarh - AUDI 2",
+      "date": "2026-01-24T08:45:00+05:45",
+      "time": "",
+      "seats": 265,
+      "sold": 0,
+      "reserved": 0,
+      "available": 265,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
