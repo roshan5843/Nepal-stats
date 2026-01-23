@@ -2,11 +2,11 @@
   {
     "movie_id": "QLgAsZ4oA29Ks3m3Z7NVAe",
     "movie_name": "Mercy",
-    "total_shows": 4,
-    "seats": 735,
+    "total_shows": 6,
+    "seats": 921,
     "sold": 0,
     "reserved": 0,
-    "available": 735,
+    "available": 921,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -49,6 +49,26 @@
         "available": 89,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 1,
+        "seats": 126,
+        "sold": 0,
+        "reserved": 0,
+        "available": 126,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -78,11 +98,11 @@
   {
     "movie_id": "JipRPABDzwSJN54KT4F9bJ",
     "movie_name": "Gobar Ganesh",
-    "total_shows": 7,
-    "seats": 1290,
+    "total_shows": 8,
+    "seats": 1236,
     "sold": 0,
     "reserved": 0,
-    "available": 1290,
+    "available": 1236,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -93,16 +113,6 @@
         "sold": 0,
         "reserved": 0,
         "available": 177,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "ini-lotse-ktm",
-        "total_shows": 2,
-        "seats": 480,
-        "sold": 0,
-        "reserved": 0,
-        "available": 480,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -135,67 +145,34 @@
         "available": 236,
         "housefull": 0,
         "fastfilling": 0
-      }
-    ]
-  },
-  {
-    "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
-    "movie_name": "Pariwartan",
-    "total_shows": 14,
-    "seats": 2342,
-    "sold": 0,
-    "reserved": 0,
-    "available": 2342,
-    "housefull": 0,
-    "fastfilling": 0,
-    "venues": [
-      {
-        "venue": "ini-cinemas-nb-center",
-        "total_shows": 3,
-        "seats": 531,
-        "sold": 0,
-        "reserved": 0,
-        "available": 531,
-        "housefull": 0,
-        "fastfilling": 0
       },
       {
         "venue": "ini-lotse-ktm",
-        "total_shows": 3,
-        "seats": 720,
+        "total_shows": 1,
+        "seats": 240,
         "sold": 0,
         "reserved": 0,
-        "available": 720,
+        "available": 240,
         "housefull": 0,
         "fastfilling": 0
       },
       {
-        "venue": "bishwojyoti-cineplex",
-        "total_shows": 3,
-        "seats": 267,
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
         "sold": 0,
         "reserved": 0,
-        "available": 267,
+        "available": 60,
         "housefull": 0,
         "fastfilling": 0
       },
       {
-        "venue": "ksr-movies",
-        "total_shows": 2,
-        "seats": 236,
+        "venue": "cineroyale",
+        "total_shows": 1,
+        "seats": 126,
         "sold": 0,
         "reserved": 0,
-        "available": 236,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "ini-qbox-butwal",
-        "total_shows": 3,
-        "seats": 588,
-        "sold": 0,
-        "reserved": 0,
-        "available": 588,
+        "available": 126,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -204,31 +181,31 @@
   {
     "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
     "movie_name": "Border 2",
-    "total_shows": 17,
-    "seats": 3511,
-    "sold": 0,
-    "reserved": 1,
-    "available": 3510,
+    "total_shows": 31,
+    "seats": 6175,
+    "sold": 4,
+    "reserved": 0,
+    "available": 6171,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "ini-cinemas-nb-center",
+        "venue": "ini-lotse-ktm",
         "total_shows": 4,
-        "seats": 807,
+        "seats": 960,
         "sold": 0,
         "reserved": 0,
-        "available": 807,
+        "available": 960,
         "housefull": 0,
         "fastfilling": 0
       },
       {
-        "venue": "ini-lotse-ktm",
-        "total_shows": 3,
-        "seats": 720,
-        "sold": 0,
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 4,
+        "seats": 807,
+        "sold": 3,
         "reserved": 0,
-        "available": 720,
+        "available": 804,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -256,9 +233,158 @@
         "venue": "ini-qbox-butwal",
         "total_shows": 4,
         "seats": 784,
-        "sold": 0,
-        "reserved": 1,
+        "sold": 1,
+        "reserved": 0,
         "available": 783,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 7,
+        "seats": 1519,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1519,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 6,
+        "seats": 905,
+        "sold": 0,
+        "reserved": 0,
+        "available": 905,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
+    "movie_name": "Pariwartan",
+    "total_shows": 17,
+    "seats": 2768,
+    "sold": 0,
+    "reserved": 0,
+    "available": 2768,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 3,
+        "seats": 531,
+        "sold": 0,
+        "reserved": 0,
+        "available": 531,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bishwojyoti-cineplex",
+        "total_shows": 3,
+        "seats": 267,
+        "sold": 0,
+        "reserved": 0,
+        "available": 267,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 4,
+        "seats": 960,
+        "sold": 0,
+        "reserved": 0,
+        "available": 960,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ksr-movies",
+        "total_shows": 2,
+        "seats": 236,
+        "sold": 0,
+        "reserved": 0,
+        "available": 236,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 3,
+        "seats": 588,
+        "sold": 0,
+        "reserved": 0,
+        "available": 588,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 1,
+        "seats": 126,
+        "sold": 0,
+        "reserved": 0,
+        "available": 126,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "JhkKMVe6RLLXKMoSd8avgk",
+    "movie_name": "The RajaSaab",
+    "total_shows": 1,
+    "seats": 60,
+    "sold": 0,
+    "reserved": 0,
+    "available": 60,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "qXZ3Wzvity6DkZNsp9fSgc",
+    "movie_name": "Viral Gorkhe",
+    "total_shows": 1,
+    "seats": 60,
+    "sold": 0,
+    "reserved": 0,
+    "available": 60,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
         "housefull": 0,
         "fastfilling": 0
       }
