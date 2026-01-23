@@ -182,10 +182,10 @@
     "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
     "movie_name": "Border 2",
     "total_shows": 31,
-    "seats": 6175,
+    "seats": 5729,
     "sold": 4,
-    "reserved": 0,
-    "available": 6171,
+    "reserved": 2,
+    "available": 5723,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -240,22 +240,32 @@
         "fastfilling": 0
       },
       {
-        "venue": "cineroyale",
-        "total_shows": 7,
-        "seats": 1519,
+        "venue": "Unknown",
+        "total_shows": 3,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 1519,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 6,
+        "seats": 1302,
+        "sold": 0,
+        "reserved": 2,
+        "available": 1300,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "cdc-cinemas",
-        "total_shows": 6,
-        "seats": 905,
+        "total_shows": 4,
+        "seats": 676,
         "sold": 0,
         "reserved": 0,
-        "available": 905,
+        "available": 676,
         "housefull": 0,
         "fastfilling": 0
       }
