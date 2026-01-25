@@ -46,20 +46,30 @@
     "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
     "movie_name": "Border 2",
     "total_shows": 23,
-    "seats": 3687,
+    "seats": 3634,
     "sold": 0,
     "reserved": 2,
-    "available": 3685,
+    "available": 3632,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
         "venue": "qfx-durbar",
-        "total_shows": 4,
-        "seats": 210,
+        "total_shows": 3,
+        "seats": 157,
         "sold": 0,
         "reserved": 2,
-        "available": 208,
+        "available": 155,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 2,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -110,16 +120,6 @@
         "sold": 0,
         "reserved": 0,
         "available": 736,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "Unknown",
-        "total_shows": 1,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
