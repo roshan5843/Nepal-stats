@@ -2,11 +2,11 @@
   {
     "movie_id": "QLgAsZ4oA29Ks3m3Z7NVAe",
     "movie_name": "Mercy",
-    "total_shows": 3,
-    "seats": 240,
+    "total_shows": 4,
+    "seats": 338,
     "sold": 0,
     "reserved": 2,
-    "available": 238,
+    "available": 336,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -39,37 +39,37 @@
         "available": 129,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "city-cinema",
+        "total_shows": 1,
+        "seats": 98,
+        "sold": 0,
+        "reserved": 0,
+        "available": 98,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
     "movie_name": "Border 2",
-    "total_shows": 23,
-    "seats": 3634,
+    "total_shows": 38,
+    "seats": 4941,
     "sold": 0,
-    "reserved": 2,
-    "available": 3632,
+    "reserved": 6,
+    "available": 4935,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
         "venue": "qfx-durbar",
-        "total_shows": 3,
-        "seats": 157,
+        "total_shows": 4,
+        "seats": 210,
         "sold": 0,
         "reserved": 2,
-        "available": 155,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "Unknown",
-        "total_shows": 2,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
+        "available": 208,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -88,8 +88,8 @@
         "total_shows": 3,
         "seats": 546,
         "sold": 0,
-        "reserved": 0,
-        "available": 546,
+        "reserved": 1,
+        "available": 545,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -104,22 +104,62 @@
         "fastfilling": 0
       },
       {
-        "venue": "pathivara-cine-plaza",
-        "total_shows": 3,
-        "seats": 726,
+        "venue": "Unknown",
+        "total_shows": 10,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 726,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "cdc-cinemas",
-        "total_shows": 5,
-        "seats": 736,
+        "total_shows": 2,
+        "seats": 229,
         "sold": 0,
         "reserved": 0,
-        "available": 736,
+        "available": 229,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 3,
+        "seats": 720,
+        "sold": 0,
+        "reserved": 0,
+        "available": 720,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bishwojyoti-cineplex",
+        "total_shows": 3,
+        "seats": 603,
+        "sold": 0,
+        "reserved": 0,
+        "available": 603,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ksr-movies",
+        "total_shows": 3,
+        "seats": 597,
+        "sold": 0,
+        "reserved": 3,
+        "available": 594,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "city-cinema",
+        "total_shows": 3,
+        "seats": 567,
+        "sold": 0,
+        "reserved": 0,
+        "available": 567,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -151,11 +191,11 @@
   {
     "movie_id": "JipRPABDzwSJN54KT4F9bJ",
     "movie_name": "Gobar Ganesh",
-    "total_shows": 7,
-    "seats": 1104,
+    "total_shows": 12,
+    "seats": 1880,
     "sold": 0,
-    "reserved": 0,
-    "available": 1104,
+    "reserved": 7,
+    "available": 1873,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -164,8 +204,8 @@
         "total_shows": 1,
         "seats": 129,
         "sold": 0,
-        "reserved": 0,
-        "available": 129,
+        "reserved": 1,
+        "available": 128,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -184,8 +224,8 @@
         "total_shows": 2,
         "seats": 494,
         "sold": 0,
-        "reserved": 0,
-        "available": 494,
+        "reserved": 3,
+        "available": 491,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -196,6 +236,36 @@
         "sold": 0,
         "reserved": 0,
         "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bishwojyoti-cineplex",
+        "total_shows": 2,
+        "seats": 178,
+        "sold": 0,
+        "reserved": 0,
+        "available": 178,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 2,
+        "seats": 480,
+        "sold": 0,
+        "reserved": 0,
+        "available": 480,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ksr-movies",
+        "total_shows": 1,
+        "seats": 118,
+        "sold": 0,
+        "reserved": 3,
+        "available": 115,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -250,11 +320,11 @@
   {
     "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
     "movie_name": "Pariwartan",
-    "total_shows": 8,
-    "seats": 1193,
+    "total_shows": 15,
+    "seats": 2185,
     "sold": 0,
-    "reserved": 0,
-    "available": 1193,
+    "reserved": 4,
+    "available": 2181,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -305,6 +375,46 @@
         "sold": 0,
         "reserved": 0,
         "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 2,
+        "seats": 480,
+        "sold": 0,
+        "reserved": 0,
+        "available": 480,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bishwojyoti-cineplex",
+        "total_shows": 2,
+        "seats": 178,
+        "sold": 0,
+        "reserved": 0,
+        "available": 178,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "city-cinema",
+        "total_shows": 1,
+        "seats": 98,
+        "sold": 0,
+        "reserved": 0,
+        "available": 98,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ksr-movies",
+        "total_shows": 2,
+        "seats": 236,
+        "sold": 0,
+        "reserved": 4,
+        "available": 232,
         "housefull": 0,
         "fastfilling": 0
       }
