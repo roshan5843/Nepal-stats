@@ -2,11 +2,11 @@
   {
     "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
     "movie_name": "Border 2",
-    "total_shows": 21,
-    "seats": 3564,
+    "total_shows": 25,
+    "seats": 4514,
     "sold": 0,
     "reserved": 2,
-    "available": 3562,
+    "available": 4512,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -67,6 +67,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 169,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 4,
+        "seats": 950,
+        "sold": 0,
+        "reserved": 0,
+        "available": 950,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -131,11 +141,11 @@
   {
     "movie_id": "JipRPABDzwSJN54KT4F9bJ",
     "movie_name": "Gobar Ganesh",
-    "total_shows": 7,
-    "seats": 971,
+    "total_shows": 9,
+    "seats": 1465,
     "sold": 0,
     "reserved": 0,
-    "available": 971,
+    "available": 1465,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -178,37 +188,37 @@
         "available": 268,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 2,
+        "seats": 494,
+        "sold": 0,
+        "reserved": 0,
+        "available": 494,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
     "movie_name": "Pariwartan",
-    "total_shows": 3,
-    "seats": 429,
+    "total_shows": 4,
+    "seats": 134,
     "sold": 0,
     "reserved": 0,
-    "available": 429,
+    "available": 134,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "birat-cine",
-        "total_shows": 1,
-        "seats": 169,
+        "venue": "Unknown",
+        "total_shows": 3,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 169,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "cineroyale",
-        "total_shows": 1,
-        "seats": 126,
-        "sold": 0,
-        "reserved": 0,
-        "available": 126,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -252,6 +262,29 @@
         "sold": 0,
         "reserved": 0,
         "available": 51,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "XyLXHiQiYjcPnv2KkMAjUN",
+    "movie_name": "Jhari Pachhi Ko Indreni",
+    "total_shows": 1,
+    "seats": 207,
+    "sold": 0,
+    "reserved": 0,
+    "available": 207,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 207,
+        "sold": 0,
+        "reserved": 0,
+        "available": 207,
         "housefull": 0,
         "fastfilling": 0
       }
