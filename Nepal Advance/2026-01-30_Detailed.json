@@ -1,6 +1,6 @@
 {
   "date": "2026-01-30",
-  "lastUpdated": "02:42 AM, 28 January 2026",
+  "lastUpdated": "06:27 AM, 28 January 2026",
   "shows": [
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -456,16 +456,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "24843:one-cinemas-new-baneshwor",
-      "venue": "one-cinemas-new-baneshwor",
-      "theatre": "One Cinemas New Baneshwor - Audi 1",
-      "date": "2026-01-30T11:00:00+05:45",
-      "time": "",
-      "seats": 208,
-      "sold": 23,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-30",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 185,
-      "gross": 10350,
-      "occupancy_percent": 11.06
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
