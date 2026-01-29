@@ -1,6 +1,6 @@
 {
   "date": "2026-01-29",
-  "lastUpdated": "05:33 PM, 29 January 2026",
+  "lastUpdated": "07:17 PM, 29 January 2026",
   "shows": [
     {
       "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
@@ -4094,11 +4094,11 @@
       "date": "2026-01-29T20:00:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 0,
-      "reserved": 6,
-      "available": 224,
-      "gross": 3000,
-      "occupancy_percent": 2.61
+      "sold": 2,
+      "reserved": 20,
+      "available": 208,
+      "gross": 7510,
+      "occupancy_percent": 9.57
     },
     {
       "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
@@ -4184,11 +4184,11 @@
       "date": "2026-01-29T19:45:00+05:45",
       "time": "",
       "seats": 154,
-      "sold": 0,
-      "reserved": 0,
-      "available": 154,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "sold": 5,
+      "reserved": 2,
+      "available": 147,
+      "gross": 1750,
+      "occupancy_percent": 4.55
     },
     {
       "movie_id": "JipRPABDzwSJN54KT4F9bJ",
@@ -4230,10 +4230,10 @@
       "time": "",
       "seats": 89,
       "sold": 0,
-      "reserved": 2,
-      "available": 87,
-      "gross": 600,
-      "occupancy_percent": 2.25
+      "reserved": 0,
+      "available": 89,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
@@ -4304,11 +4304,11 @@
       "date": "2026-01-29T20:30:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 118,
-      "reserved": 16,
-      "available": 215,
-      "gross": 24790,
-      "occupancy_percent": 38.4
+      "sold": 173,
+      "reserved": 7,
+      "available": 169,
+      "gross": 33300,
+      "occupancy_percent": 51.58
     },
     {
       "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
@@ -4334,11 +4334,11 @@
       "date": "2026-01-29T20:30:00+05:45",
       "time": "",
       "seats": 164,
-      "sold": 37,
-      "reserved": 19,
-      "available": 108,
-      "gross": 9800,
-      "occupancy_percent": 34.15
+      "sold": 56,
+      "reserved": 30,
+      "available": 78,
+      "gross": 15050,
+      "occupancy_percent": 52.44
     },
     {
       "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
@@ -4349,11 +4349,11 @@
       "date": "2026-01-29T20:45:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 6,
+      "sold": 13,
       "reserved": 0,
-      "available": 208,
-      "gross": 2100,
-      "occupancy_percent": 2.8
+      "available": 201,
+      "gross": 4550,
+      "occupancy_percent": 6.07
     },
     {
       "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
@@ -4364,11 +4364,11 @@
       "date": "2026-01-29T20:15:00+05:45",
       "time": "",
       "seats": 60,
-      "sold": 0,
-      "reserved": 8,
-      "available": 52,
-      "gross": 5200,
-      "occupancy_percent": 13.33
+      "sold": 9,
+      "reserved": 2,
+      "available": 49,
+      "gross": 7150,
+      "occupancy_percent": 18.33
     },
     {
       "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
@@ -4379,11 +4379,11 @@
       "date": "2026-01-29T20:15:00+05:45",
       "time": "",
       "seats": 394,
-      "sold": 2,
-      "reserved": 0,
-      "available": 392,
-      "gross": 1000,
-      "occupancy_percent": 0.51
+      "sold": 12,
+      "reserved": 4,
+      "available": 378,
+      "gross": 6200,
+      "occupancy_percent": 4.06
     },
     {
       "movie_id": "WZanbnaScUAfySEmLFK4nP",
@@ -4394,11 +4394,28 @@
       "date": "2026-01-29T20:45:00+05:45",
       "time": "",
       "seats": 118,
-      "sold": 0,
+      "sold": 5,
       "reserved": 1,
-      "available": 117,
-      "gross": 175,
-      "occupancy_percent": 0.85
+      "available": 112,
+      "gross": 1050,
+      "occupancy_percent": 5.08
+    },
+    {
+      "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
+      "movie_name": "Border 2",
+      "show_id": "13312:cineroyale",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-29",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     }
   ]
 }
