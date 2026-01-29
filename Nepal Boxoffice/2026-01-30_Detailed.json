@@ -1,5 +1,68 @@
 {
   "date": "2026-01-30",
-  "lastUpdated": "03:30 AM, 30 January 2026",
-  "shows": []
+  "lastUpdated": "04:09 AM, 30 January 2026",
+  "shows": [
+    {
+      "movie_id": "FrHBK8fhAKYd7cNZXaAHpK",
+      "movie_name": "Primate",
+      "show_id": "122476:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-01-30T07:30:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 7,
+      "available": 53,
+      "gross": 2800,
+      "occupancy_percent": 11.67
+    },
+    {
+      "movie_id": "FrHBK8fhAKYd7cNZXaAHpK",
+      "movie_name": "Primate",
+      "show_id": "61141:bishwojyoti-cineplex",
+      "venue": "bishwojyoti-cineplex",
+      "theatre": "iNi Cinemas - Bishwojyoti - Audi 1",
+      "date": "2026-01-30T07:30:00+05:45",
+      "time": "",
+      "seats": 201,
+      "sold": 4,
+      "reserved": 0,
+      "available": 197,
+      "gross": 700,
+      "occupancy_percent": 1.99
+    },
+    {
+      "movie_id": "FrHBK8fhAKYd7cNZXaAHpK",
+      "movie_name": "Primate",
+      "show_id": "61110:ini-lotse-ktm",
+      "venue": "ini-lotse-ktm",
+      "theatre": "iNi Cinemas Lotse - Audi 2",
+      "date": "2026-01-30T07:30:00+05:45",
+      "time": "",
+      "seats": 240,
+      "sold": 0,
+      "reserved": 0,
+      "available": 240,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "FrHBK8fhAKYd7cNZXaAHpK",
+      "movie_name": "Primate",
+      "show_id": "61129:ini-qbox-butwal",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-01-30",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
+    }
+  ]
 }
