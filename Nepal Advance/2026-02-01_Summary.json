@@ -2,11 +2,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 18,
-    "seats": 3814,
+    "total_shows": 40,
+    "seats": 5474,
     "sold": 164,
-    "reserved": 50,
-    "available": 3600,
+    "reserved": 113,
+    "available": 5197,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -25,18 +25,18 @@
         "total_shows": 5,
         "seats": 899,
         "sold": 74,
-        "reserved": 0,
-        "available": 825,
+        "reserved": 2,
+        "available": 823,
         "housefull": 0,
         "fastfilling": 0
       },
       {
-        "venue": "sts-cinema",
-        "total_shows": 1,
-        "seats": 394,
+        "venue": "Unknown",
+        "total_shows": 9,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 394,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -52,11 +52,11 @@
       },
       {
         "venue": "kirtipur-cineplex",
-        "total_shows": 3,
-        "seats": 855,
+        "total_shows": 4,
+        "seats": 956,
         "sold": 48,
         "reserved": 0,
-        "available": 807,
+        "available": 908,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -69,17 +69,67 @@
         "available": 411,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 3,
+        "seats": 336,
+        "sold": 0,
+        "reserved": 0,
+        "available": 336,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 4,
+        "seats": 732,
+        "sold": 0,
+        "reserved": 61,
+        "available": 671,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 3,
+        "seats": 495,
+        "sold": 0,
+        "reserved": 0,
+        "available": 495,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 2,
+        "seats": 258,
+        "sold": 0,
+        "reserved": 0,
+        "available": 258,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-skyline",
+        "total_shows": 1,
+        "seats": 132,
+        "sold": 0,
+        "reserved": 0,
+        "available": 132,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
     "movie_name": "Border 2",
-    "total_shows": 8,
-    "seats": 1458,
+    "total_shows": 29,
+    "seats": 4059,
     "sold": 79,
-    "reserved": 20,
-    "available": 1359,
+    "reserved": 62,
+    "available": 3918,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -95,11 +145,11 @@
       },
       {
         "venue": "fcube",
-        "total_shows": 2,
-        "seats": 408,
+        "total_shows": 3,
+        "seats": 606,
         "sold": 0,
-        "reserved": 20,
-        "available": 388,
+        "reserved": 30,
+        "available": 576,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -122,17 +172,97 @@
         "available": 558,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 0,
+        "reserved": 0,
+        "available": 101,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 3,
+        "seats": 410,
+        "sold": 0,
+        "reserved": 0,
+        "available": 410,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 2,
+        "seats": 384,
+        "sold": 0,
+        "reserved": 32,
+        "available": 352,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 2,
+        "seats": 354,
+        "sold": 0,
+        "reserved": 0,
+        "available": 354,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 2,
+        "seats": 364,
+        "sold": 0,
+        "reserved": 0,
+        "available": 364,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-skyline",
+        "total_shows": 4,
+        "seats": 500,
+        "sold": 0,
+        "reserved": 0,
+        "available": 500,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 1,
+        "seats": 290,
+        "sold": 0,
+        "reserved": 0,
+        "available": 290,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 5,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "SBQUUXpEEcM9fHwNjiZRqX",
     "movie_name": "The Blue Light",
-    "total_shows": 6,
-    "seats": 961,
+    "total_shows": 10,
+    "seats": 1697,
     "sold": 53,
-    "reserved": 0,
-    "available": 908,
+    "reserved": 15,
+    "available": 1629,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -175,17 +305,57 @@
         "available": 122,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 0,
+        "reserved": 15,
+        "available": 165,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-skyline",
+        "total_shows": 1,
+        "seats": 132,
+        "sold": 0,
+        "reserved": 0,
+        "available": 132,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 0,
+        "reserved": 0,
+        "available": 134,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 1,
+        "seats": 290,
+        "sold": 0,
+        "reserved": 0,
+        "available": 290,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "FrHBK8fhAKYd7cNZXaAHpK",
     "movie_name": "Primate",
-    "total_shows": 3,
-    "seats": 285,
+    "total_shows": 7,
+    "seats": 866,
     "sold": 26,
     "reserved": 0,
-    "available": 259,
+    "available": 840,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -208,17 +378,47 @@
         "available": 137,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 2,
+        "seats": 260,
+        "sold": 0,
+        "reserved": 0,
+        "available": 260,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 139,
+        "sold": 0,
+        "reserved": 0,
+        "available": 139,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 0,
+        "reserved": 0,
+        "available": 182,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "JipRPABDzwSJN54KT4F9bJ",
     "movie_name": "Gobar Ganesh",
-    "total_shows": 2,
-    "seats": 277,
+    "total_shows": 6,
+    "seats": 848,
     "sold": 6,
-    "reserved": 10,
-    "available": 261,
+    "reserved": 27,
+    "available": 815,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -237,8 +437,107 @@
         "total_shows": 1,
         "seats": 67,
         "sold": 6,
+        "reserved": 1,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 0,
         "reserved": 0,
-        "available": 61,
+        "available": 101,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 192,
+        "sold": 0,
+        "reserved": 16,
+        "available": 176,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 2,
+        "seats": 278,
+        "sold": 0,
+        "reserved": 0,
+        "available": 278,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "Dbu9CypnHYsBPN5Euq5sDT",
+    "movie_name": "Paran",
+    "total_shows": 1,
+    "seats": 139,
+    "sold": 0,
+    "reserved": 0,
+    "available": 139,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 139,
+        "sold": 0,
+        "reserved": 0,
+        "available": 139,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "kDtAfMb3GyfKiozZvtxLMi",
+    "movie_name": "Pariwartan",
+    "total_shows": 1,
+    "seats": 101,
+    "sold": 0,
+    "reserved": 0,
+    "available": 101,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 0,
+        "reserved": 0,
+        "available": 101,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "WZanbnaScUAfySEmLFK4nP",
+    "movie_name": "Dhurandhar",
+    "total_shows": 1,
+    "seats": 129,
+    "sold": 0,
+    "reserved": 0,
+    "available": 129,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 129,
+        "sold": 0,
+        "reserved": 0,
+        "available": 129,
         "housefull": 0,
         "fastfilling": 0
       }
