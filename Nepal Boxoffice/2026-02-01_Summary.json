@@ -114,5 +114,61 @@
         "fastfilling": 0
       }
     ]
+  },
+  {
+    "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
+    "movie_name": "Border 2",
+    "total_shows": 2,
+    "seats": 439,
+    "sold": 1,
+    "reserved": 60,
+    "available": 378,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 270,
+        "sold": 1,
+        "reserved": 50,
+        "available": 219,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 10,
+        "available": 159,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "SBQUUXpEEcM9fHwNjiZRqX",
+    "movie_name": "The Blue Light",
+    "total_shows": 1,
+    "seats": 210,
+    "sold": 4,
+    "reserved": 0,
+    "available": 206,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 1,
+        "seats": 210,
+        "sold": 4,
+        "reserved": 0,
+        "available": 206,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
   }
 ]
