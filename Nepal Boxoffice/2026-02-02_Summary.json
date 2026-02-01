@@ -2,14 +2,24 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 2,
-    "seats": 392,
-    "sold": 5,
-    "reserved": 278,
-    "available": 109,
+    "total_shows": 3,
+    "seats": 561,
+    "sold": 27,
+    "reserved": 285,
+    "available": 249,
     "housefull": 1,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 22,
+        "reserved": 7,
+        "available": 140,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "ini-qbox-butwal",
         "total_shows": 2,
@@ -18,6 +28,29 @@
         "reserved": 278,
         "available": 109,
         "housefull": 1,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
+    "movie_name": "Border 2",
+    "total_shows": 1,
+    "seats": 60,
+    "sold": 2,
+    "reserved": 5,
+    "available": 53,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 2,
+        "reserved": 5,
+        "available": 53,
+        "housefull": 0,
         "fastfilling": 0
       }
     ]
