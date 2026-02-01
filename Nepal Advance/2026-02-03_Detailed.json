@@ -1,6 +1,6 @@
 {
   "date": "2026-02-03",
-  "lastUpdated": "06:46 AM, 01 February 2026",
+  "lastUpdated": "10:27 AM, 01 February 2026",
   "shows": [
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -41,11 +41,11 @@
       "date": "2026-02-03T11:00:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 0,
+      "sold": 3,
       "reserved": 10,
-      "available": 202,
-      "gross": 3400,
-      "occupancy_percent": 4.72
+      "available": 199,
+      "gross": 4525,
+      "occupancy_percent": 6.13
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -177,10 +177,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 13,
-      "available": 185,
-      "gross": 3120,
-      "occupancy_percent": 6.57
+      "reserved": 15,
+      "available": 183,
+      "gross": 3600,
+      "occupancy_percent": 7.58
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -207,10 +207,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 10,
-      "available": 202,
-      "gross": 3400,
-      "occupancy_percent": 4.72
+      "reserved": 15,
+      "available": 197,
+      "gross": 5275,
+      "occupancy_percent": 7.08
     },
     {
       "movie_id": "FrHBK8fhAKYd7cNZXaAHpK",
@@ -291,16 +291,18 @@
       "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
       "movie_name": "Border 2",
       "show_id": "73112:fcube",
-      "venue": "fcube",
-      "theatre": "FCube Cinemas - Cube 2",
-      "date": "2026-02-03T11:30:00+05:45",
-      "time": "",
-      "seats": 198,
-      "sold": 2,
-      "reserved": 12,
-      "available": 184,
-      "gross": 3360,
-      "occupancy_percent": 7.07
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-03",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
@@ -584,6 +586,66 @@
       "sold": 0,
       "reserved": 0,
       "available": 118,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
+      "movie_name": "Border 2",
+      "show_id": "154875:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-02-03T11:15:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 0,
+      "reserved": 0,
+      "available": 129,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
+      "movie_name": "Border 2",
+      "show_id": "154876:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-02-03T15:15:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 2,
+      "reserved": 0,
+      "available": 127,
+      "gross": 660,
+      "occupancy_percent": 1.55
+    },
+    {
+      "movie_id": "WZanbnaScUAfySEmLFK4nP",
+      "movie_name": "Dhurandhar",
+      "show_id": "154871:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 01",
+      "date": "2026-02-03T14:15:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 0,
+      "reserved": 0,
+      "available": 182,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "WZanbnaScUAfySEmLFK4nP",
+      "movie_name": "Dhurandhar",
+      "show_id": "154872:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 01",
+      "date": "2026-02-03T18:15:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 0,
+      "reserved": 0,
+      "available": 182,
       "gross": 0,
       "occupancy_percent": 0.0
     }

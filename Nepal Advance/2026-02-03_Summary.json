@@ -4,9 +4,9 @@
     "movie_name": "Aa Bata Aama",
     "total_shows": 14,
     "seats": 2851,
-    "sold": 10,
-    "reserved": 133,
-    "available": 2708,
+    "sold": 13,
+    "reserved": 140,
+    "available": 2698,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -24,9 +24,9 @@
         "venue": "fcube",
         "total_shows": 5,
         "seats": 1044,
-        "sold": 8,
-        "reserved": 72,
-        "available": 964,
+        "sold": 11,
+        "reserved": 79,
+        "available": 954,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -88,11 +88,11 @@
   {
     "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
     "movie_name": "Border 2",
-    "total_shows": 14,
-    "seats": 2152,
+    "total_shows": 16,
+    "seats": 2212,
     "sold": 2,
-    "reserved": 65,
-    "available": 2085,
+    "reserved": 53,
+    "available": 2157,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -127,12 +127,22 @@
         "fastfilling": 0
       },
       {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "fcube",
-        "total_shows": 3,
-        "seats": 606,
-        "sold": 2,
-        "reserved": 32,
-        "available": 572,
+        "total_shows": 2,
+        "seats": 408,
+        "sold": 0,
+        "reserved": 20,
+        "available": 388,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -153,6 +163,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 169,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 2,
+        "seats": 258,
+        "sold": 2,
+        "reserved": 0,
+        "available": 256,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -283,11 +303,11 @@
   {
     "movie_id": "WZanbnaScUAfySEmLFK4nP",
     "movie_name": "Dhurandhar",
-    "total_shows": 2,
-    "seats": 169,
+    "total_shows": 4,
+    "seats": 533,
     "sold": 0,
     "reserved": 1,
-    "available": 168,
+    "available": 532,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -308,6 +328,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 118,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 2,
+        "seats": 364,
+        "sold": 0,
+        "reserved": 0,
+        "available": 364,
         "housefull": 0,
         "fastfilling": 0
       }
