@@ -2,13 +2,13 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 58,
-    "seats": 11518,
-    "sold": 20,
-    "reserved": 233,
-    "available": 11265,
+    "total_shows": 74,
+    "seats": 15879,
+    "sold": 59,
+    "reserved": 472,
+    "available": 15348,
     "housefull": 0,
-    "fastfilling": 0,
+    "fastfilling": 1,
     "venues": [
       {
         "venue": "ini-lotse-ktm",
@@ -24,21 +24,21 @@
         "venue": "ini-cinemas-nb-center",
         "total_shows": 4,
         "seats": 741,
-        "sold": 2,
+        "sold": 5,
         "reserved": 0,
-        "available": 739,
+        "available": 736,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "fcube",
-        "total_shows": 6,
-        "seats": 1268,
-        "sold": 15,
-        "reserved": 97,
-        "available": 1156,
+        "total_shows": 8,
+        "seats": 1676,
+        "sold": 36,
+        "reserved": 272,
+        "available": 1368,
         "housefull": 0,
-        "fastfilling": 0
+        "fastfilling": 1
       },
       {
         "venue": "ranjana-cineplex",
@@ -55,8 +55,8 @@
         "total_shows": 4,
         "seats": 732,
         "sold": 0,
-        "reserved": 61,
-        "available": 671,
+        "reserved": 66,
+        "available": 666,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -134,9 +134,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 4,
         "seats": 948,
-        "sold": 3,
-        "reserved": 69,
-        "available": 876,
+        "sold": 13,
+        "reserved": 70,
+        "available": 865,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -164,9 +164,49 @@
         "venue": "qfx-butwal",
         "total_shows": 3,
         "seats": 528,
+        "sold": 3,
+        "reserved": 54,
+        "available": 471,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 3,
+        "seats": 801,
+        "sold": 0,
+        "reserved": 3,
+        "available": 798,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 4,
+        "seats": 856,
         "sold": 0,
         "reserved": 0,
-        "available": 528,
+        "available": 856,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 3,
+        "seats": 720,
+        "sold": 2,
+        "reserved": 0,
+        "available": 718,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "sts-cinema",
+        "total_shows": 4,
+        "seats": 1576,
+        "sold": 0,
+        "reserved": 1,
+        "available": 1575,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -178,8 +218,8 @@
     "total_shows": 7,
     "seats": 1042,
     "sold": 0,
-    "reserved": 0,
-    "available": 1042,
+    "reserved": 20,
+    "available": 1022,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -228,8 +268,8 @@
         "total_shows": 1,
         "seats": 196,
         "sold": 0,
-        "reserved": 0,
-        "available": 196,
+        "reserved": 20,
+        "available": 176,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -248,11 +288,11 @@
   {
     "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
     "movie_name": "Border 2",
-    "total_shows": 32,
-    "seats": 5165,
+    "total_shows": 35,
+    "seats": 6030,
     "sold": 2,
-    "reserved": 80,
-    "available": 5083,
+    "reserved": 139,
+    "available": 5889,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -263,16 +303,6 @@
         "sold": 0,
         "reserved": 0,
         "available": 666,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "fcube",
-        "total_shows": 2,
-        "seats": 396,
-        "sold": 0,
-        "reserved": 30,
-        "available": 366,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -367,6 +397,16 @@
         "fastfilling": 0
       },
       {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 198,
+        "sold": 0,
+        "reserved": 13,
+        "available": 185,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "qfx-chhaya",
         "total_shows": 3,
         "seats": 372,
@@ -401,28 +441,48 @@
         "total_shows": 3,
         "seats": 744,
         "sold": 0,
-        "reserved": 18,
-        "available": 726,
+        "reserved": 54,
+        "available": 690,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "qfx-butwal",
-        "total_shows": 1,
-        "seats": 196,
+        "total_shows": 2,
+        "seats": 392,
         "sold": 0,
-        "reserved": 0,
-        "available": 196,
+        "reserved": 40,
+        "available": 352,
         "housefull": 0,
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 1,
-        "seats": 0,
+        "venue": "qfx-jalma",
+        "total_shows": 2,
+        "seats": 533,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 533,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 1,
+        "seats": 120,
+        "sold": 0,
+        "reserved": 0,
+        "available": 120,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 0,
+        "reserved": 0,
+        "available": 214,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -455,10 +515,10 @@
     "movie_id": "JipRPABDzwSJN54KT4F9bJ",
     "movie_name": "Gobar Ganesh",
     "total_shows": 13,
-    "seats": 2238,
+    "seats": 2293,
     "sold": 0,
-    "reserved": 47,
-    "available": 2191,
+    "reserved": 29,
+    "available": 2264,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -534,11 +594,11 @@
       },
       {
         "venue": "fcube",
-        "total_shows": 2,
-        "seats": 408,
+        "total_shows": 1,
+        "seats": 198,
         "sold": 0,
-        "reserved": 28,
-        "available": 380,
+        "reserved": 10,
+        "available": 188,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -569,6 +629,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 207,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 1,
+        "seats": 265,
+        "sold": 0,
+        "reserved": 0,
+        "available": 265,
         "housefull": 0,
         "fastfilling": 0
       }
