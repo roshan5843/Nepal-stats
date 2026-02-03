@@ -2,21 +2,21 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 34,
-    "seats": 7686,
-    "sold": 25,
-    "reserved": 138,
-    "available": 7523,
+    "total_shows": 39,
+    "seats": 8994,
+    "sold": 31,
+    "reserved": 177,
+    "available": 8786,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
         "venue": "fcube",
-        "total_shows": 6,
-        "seats": 1266,
-        "sold": 8,
-        "reserved": 84,
-        "available": 1174,
+        "total_shows": 7,
+        "seats": 1478,
+        "sold": 14,
+        "reserved": 108,
+        "available": 1356,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -31,22 +31,32 @@
         "fastfilling": 0
       },
       {
-        "venue": "qs-cinemas",
-        "total_shows": 2,
-        "seats": 364,
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 364,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "qfx-bhaktapur",
-        "total_shows": 3,
-        "seats": 741,
+        "total_shows": 4,
+        "seats": 948,
         "sold": 13,
-        "reserved": 54,
-        "available": 674,
+        "reserved": 69,
+        "available": 866,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 0,
+        "reserved": 0,
+        "available": 182,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -101,12 +111,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 2,
-        "seats": 0,
+        "venue": "vfx-cinemas",
+        "total_shows": 5,
+        "seats": 1071,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 1071,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -148,11 +158,11 @@
   {
     "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
     "movie_name": "Border 2",
-    "total_shows": 16,
-    "seats": 2932,
-    "sold": 0,
+    "total_shows": 17,
+    "seats": 3097,
+    "sold": 1,
     "reserved": 42,
-    "available": 2890,
+    "available": 3054,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -160,9 +170,9 @@
         "venue": "fcube",
         "total_shows": 1,
         "seats": 198,
-        "sold": 0,
+        "sold": 1,
         "reserved": 14,
-        "available": 184,
+        "available": 183,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -243,6 +253,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 120,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "vfx-cinemas",
+        "total_shows": 1,
+        "seats": 165,
+        "sold": 0,
+        "reserved": 0,
+        "available": 165,
         "housefull": 0,
         "fastfilling": 0
       }
