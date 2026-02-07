@@ -16,7 +16,8 @@ from zoneinfo import ZoneInfo
 MOVIE_LIST_URL = "https://khaltimovies.text2024mail.workers.dev/"
 MOVIE_INFO_URL = "https://khalti.com/api/v5/movie-info/{movie_id}"
 SHOWINFO_URL = "https://khalti.com/api/v2/service/use/movie/showinfo-v2/"
-TOKEN_URL = "https://boxoffice24.pages.dev/Nepal/khaltitoken.txt"
+# TOKEN_URL = "https://boxoffice24.pages.dev/Nepal/khaltitoken.txt"
+TOKEN_URL = "https://calm-meadow-803d.yroshan584.workers.dev/"
 
 IST = ZoneInfo("Asia/Kolkata")
 DATE = datetime.now(IST).strftime("%Y-%m-%d")   # ✅ Auto today
@@ -33,6 +34,7 @@ GLOBAL_COOLDOWN_SEC = 6
 # ATOMIC JSON WRITE
 #########################################
 
+
 def atomic_dump(path, data):
     tmp = path + ".tmp"
     with open(tmp, "w", encoding="utf-8") as f:
@@ -43,6 +45,7 @@ def atomic_dump(path, data):
 # LOGGER
 #########################################
 
+
 def log(msg):
     ts = datetime.now(IST).strftime("%H:%M:%S")
     print(f"[{ts}] {msg}", flush=True)
@@ -51,7 +54,9 @@ def log(msg):
 # TOKEN (FETCH ONLY ONCE)
 #########################################
 
+
 AUTH_TOKEN = None
+
 
 def init_token_once():
     global AUTH_TOKEN
@@ -65,9 +70,11 @@ def init_token_once():
 # GLOBAL 429 COOLDOWN
 #########################################
 
+
 cooldown_lock = threading.Lock()
 cooldown_until = 0
 cooldown_active = False
+
 
 def trigger_global_cooldown():
     global cooldown_until, cooldown_active
@@ -76,6 +83,7 @@ def trigger_global_cooldown():
         if not cooldown_active:
             log(f"🧊 GLOBAL COOLDOWN for {GLOBAL_COOLDOWN_SEC}s")
             cooldown_active = True
+
 
 def wait_if_global_cooldown():
     global cooldown_active
@@ -93,18 +101,22 @@ def wait_if_global_cooldown():
 # RANDOM HELPERS
 #########################################
 
+
 def random_ip():
     return ".".join(str(random.randint(0, 255)) for _ in range(4))
+
 
 def random_user_agent():
     chrome = random.randint(120, 135)
     android = random.randint(6, 11)
-    model = random.choice(["Pixel 4", "Nexus 5", "Moto G5", "Galaxy S7", "Redmi Note 8"])
+    model = random.choice(
+        ["Pixel 4", "Nexus 5", "Moto G5", "Galaxy S7", "Redmi Note 8"])
     return (
         f"Mozilla/5.0 (Linux; Android {android}; {model}) "
         f"AppleWebKit/537.36 (KHTML, like Gecko) "
         f"Chrome/{chrome}.0.0.0 Mobile Safari/537.36"
     )
+
 
 def random_device_id():
     return "kwa-" + uuid.uuid4().hex[:16]
@@ -112,6 +124,7 @@ def random_device_id():
 #########################################
 # SAFE REQUEST
 #########################################
+
 
 def safe_request(method, url, **kwargs):
     retries = MAX_RETRIES
@@ -148,6 +161,7 @@ def safe_request(method, url, **kwargs):
 # TIME PARSING + CUTOFF FILTER
 #########################################
 
+
 def parse_show_datetime(dt_str: str):
     """
     Khalti gives: '2025-12-09 12:00:00'
@@ -156,6 +170,7 @@ def parse_show_datetime(dt_str: str):
         return datetime.strptime(dt_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=IST)
     except:
         return None
+
 
 def is_within_cutoff_from_now(dt_str):
     st = parse_show_datetime(dt_str)
@@ -168,6 +183,7 @@ def is_within_cutoff_from_now(dt_str):
 #########################################
 # FETCH SINGLE SHOW SUMMARY
 #########################################
+
 
 def fetch_show_summary(movie_id, movie_name, show_id):
     try:
@@ -190,7 +206,8 @@ def fetch_show_summary(movie_id, movie_name, show_id):
         showinfo = data.get("showinfo") or {}
         tickets = showinfo.get("tickets") or []
 
-        total = {"seats": 0, "sold": 0, "reserved": 0, "available": 0, "gross": 0}
+        total = {"seats": 0, "sold": 0,
+                 "reserved": 0, "available": 0, "gross": 0}
         ticket_types = {}
 
         for row in seat_data:
@@ -282,6 +299,7 @@ def fetch_show_summary(movie_id, movie_name, show_id):
 # FETCH MOVIE LIST
 #########################################
 
+
 def fetch_movie_list():
     log("📥 Fetching movie list...")
     r = safe_request("GET", MOVIE_LIST_URL)
@@ -293,6 +311,7 @@ def fetch_movie_list():
 #########################################
 # PROCESS ONE MOVIE (WITH CUTOFF FILTER)
 #########################################
+
 
 def process_single_movie(movie_id, movie_name):
     log(f"\n🎥 Processing: {movie_name}")
@@ -341,6 +360,7 @@ def process_single_movie(movie_id, movie_name):
 #########################################
 # SUMMARY BUILDER (MOVIE + VENUE WISE, NO SHOW LIST)
 #########################################
+
 
 def build_summary_by_movie(all_rows):
     movies = {}
@@ -418,6 +438,7 @@ def build_summary_by_movie(all_rows):
 # MAIN
 #########################################
 
+
 def main():
     print("\n🚀 Nepal Khalti Boxoffice Tracker Started...\n")
 
@@ -480,6 +501,7 @@ def main():
     print(f"📁 Detailed → {detail_file}")
     print("================================================")
     print("🎉 DONE — MOVIE + VENUE SUMMARY | SHOW-WISE DETAILED\n")
+
 
 if __name__ == "__main__":
     main()
