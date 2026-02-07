@@ -176,10 +176,10 @@
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
     "total_shows": 62,
-    "seats": 11521,
+    "seats": 11878,
     "sold": 104,
-    "reserved": 209,
-    "available": 11208,
+    "reserved": 211,
+    "available": 11563,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -235,11 +235,21 @@
       },
       {
         "venue": "qfx-chhaya",
-        "total_shows": 2,
-        "seats": 300,
+        "total_shows": 1,
+        "seats": 150,
         "sold": 0,
         "reserved": 0,
-        "available": 300,
+        "available": 150,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 3,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -314,32 +324,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 4,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "qfx-bhaktapur",
-        "total_shows": 3,
-        "seats": 702,
+        "total_shows": 4,
+        "seats": 950,
         "sold": 0,
         "reserved": 0,
-        "available": 702,
+        "available": 950,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "qfx-civil",
-        "total_shows": 1,
-        "seats": 259,
+        "total_shows": 2,
+        "seats": 518,
         "sold": 0,
         "reserved": 0,
-        "available": 259,
+        "available": 518,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -348,8 +348,8 @@
         "total_shows": 5,
         "seats": 1488,
         "sold": 0,
-        "reserved": 0,
-        "available": 1488,
+        "reserved": 1,
+        "available": 1487,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -358,8 +358,8 @@
         "total_shows": 4,
         "seats": 542,
         "sold": 0,
-        "reserved": 0,
-        "available": 542,
+        "reserved": 1,
+        "available": 541,
         "housefull": 0,
         "fastfilling": 0
       }
