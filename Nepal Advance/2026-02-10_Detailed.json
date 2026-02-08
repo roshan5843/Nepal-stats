@@ -1,6 +1,6 @@
 {
   "date": "2026-02-10",
-  "lastUpdated": "06:55 AM, 08 February 2026",
+  "lastUpdated": "10:28 AM, 08 February 2026",
   "shows": [
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -12,10 +12,10 @@
       "time": "",
       "seats": 198,
       "sold": 5,
-      "reserved": 10,
-      "available": 183,
-      "gross": 3600,
-      "occupancy_percent": 7.58
+      "reserved": 12,
+      "available": 181,
+      "gross": 4080,
+      "occupancy_percent": 8.59
     },
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -41,11 +41,11 @@
       "date": "2026-02-10T14:15:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 248,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 243,
+      "gross": 1750,
+      "occupancy_percent": 2.02
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -57,10 +57,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 0,
-      "available": 210,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 6,
+      "available": 204,
+      "gross": 1440,
+      "occupancy_percent": 2.86
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -162,10 +162,10 @@
       "time": "",
       "seats": 247,
       "sold": 0,
-      "reserved": 0,
-      "available": 247,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 8,
+      "available": 239,
+      "gross": 1550,
+      "occupancy_percent": 3.24
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -207,10 +207,10 @@
       "time": "",
       "seats": 165,
       "sold": 0,
-      "reserved": 0,
-      "available": 165,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 4,
+      "available": 161,
+      "gross": 700,
+      "occupancy_percent": 2.42
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -296,11 +296,11 @@
       "date": "2026-02-10T13:45:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 0,
+      "sold": 2,
       "reserved": 15,
-      "available": 197,
-      "gross": 5170,
-      "occupancy_percent": 7.08
+      "available": 195,
+      "gross": 5850,
+      "occupancy_percent": 8.02
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -492,10 +492,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 12,
-      "available": 186,
-      "gross": 2880,
-      "occupancy_percent": 6.06
+      "reserved": 16,
+      "available": 182,
+      "gross": 3840,
+      "occupancy_percent": 8.08
     },
     {
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
@@ -526,6 +526,179 @@
       "available": 247,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
+      "movie_name": "Rammita Koo Pirati",
+      "show_id": "25076:one-cinemas-new-baneshwor",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-10",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "25074:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-02-10T15:30:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 4250,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "25079:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-02-10T20:00:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 17,
+      "reserved": 0,
+      "available": 186,
+      "gross": 4250,
+      "occupancy_percent": 8.37
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "25073:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-02-10T12:30:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 4250,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "25078:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-02-10T17:00:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 17,
+      "reserved": 0,
+      "available": 186,
+      "gross": 4250,
+      "occupancy_percent": 8.37
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "25075:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-02-10T18:30:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 4250,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "hTFKihQrTRHY82P9J5vjDQ",
+      "movie_name": "The Strangers: Chapter 3",
+      "show_id": "25082:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-02-10T17:30:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 2400,
+      "occupancy_percent": 8.96
+    },
+    {
+      "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
+      "movie_name": "Border 2",
+      "show_id": "25081:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-02-10T13:45:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 2400,
+      "occupancy_percent": 8.96
+    },
+    {
+      "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
+      "movie_name": "Kumari",
+      "show_id": "25083:one-cinemas-new-baneshwor",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-10",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
+    },
+    {
+      "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
+      "movie_name": "Kumari",
+      "show_id": "25080:one-cinemas-new-baneshwor",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-10",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
+    },
+    {
+      "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
+      "movie_name": "Kumari",
+      "show_id": "25077:one-cinemas-new-baneshwor",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-10",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     }
   ]
 }
