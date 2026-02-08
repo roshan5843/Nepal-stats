@@ -1,6 +1,6 @@
 {
   "date": "2026-02-08",
-  "lastUpdated": "07:19 PM, 08 February 2026",
+  "lastUpdated": "08:00 PM, 08 February 2026",
   "shows": [
     {
       "movie_id": "hTFKihQrTRHY82P9J5vjDQ",
@@ -5013,11 +5013,11 @@
       "date": "2026-02-08T20:30:00+05:45",
       "time": "",
       "seats": 164,
-      "sold": 10,
+      "sold": 24,
       "reserved": 0,
-      "available": 154,
-      "gross": 4000,
-      "occupancy_percent": 6.1
+      "available": 140,
+      "gross": 9600,
+      "occupancy_percent": 14.63
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -5028,11 +5028,11 @@
       "date": "2026-02-08T20:30:00+05:45",
       "time": "",
       "seats": 258,
-      "sold": 25,
-      "reserved": 0,
-      "available": 233,
-      "gross": 6250,
-      "occupancy_percent": 9.69
+      "sold": 38,
+      "reserved": 4,
+      "available": 216,
+      "gross": 10500,
+      "occupancy_percent": 16.28
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -5058,11 +5058,11 @@
       "date": "2026-02-08T20:15:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 8,
+      "sold": 9,
       "reserved": 6,
-      "available": 216,
-      "gross": 5940,
-      "occupancy_percent": 6.09
+      "available": 215,
+      "gross": 6270,
+      "occupancy_percent": 6.52
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -5103,11 +5103,11 @@
       "date": "2026-02-08T20:15:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 72,
+      "sold": 94,
       "reserved": 10,
-      "available": 56,
-      "gross": 24160,
-      "occupancy_percent": 59.42
+      "available": 34,
+      "gross": 30440,
+      "occupancy_percent": 75.36
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -5118,11 +5118,11 @@
       "date": "2026-02-08T20:15:00+05:45",
       "time": "",
       "seats": 190,
-      "sold": 12,
+      "sold": 26,
       "reserved": 0,
-      "available": 178,
-      "gross": 2400,
-      "occupancy_percent": 6.32
+      "available": 164,
+      "gross": 5200,
+      "occupancy_percent": 13.68
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -5133,11 +5133,11 @@
       "date": "2026-02-08T20:15:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 68,
+      "sold": 97,
       "reserved": 1,
-      "available": 145,
-      "gross": 20900,
-      "occupancy_percent": 32.24
+      "available": 116,
+      "gross": 29600,
+      "occupancy_percent": 45.79
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -5148,11 +5148,11 @@
       "date": "2026-02-08T20:30:00+05:45",
       "time": "",
       "seats": 169,
-      "sold": 14,
-      "reserved": 13,
-      "available": 142,
-      "gross": 9000,
-      "occupancy_percent": 15.98
+      "sold": 20,
+      "reserved": 10,
+      "available": 139,
+      "gross": 9800,
+      "occupancy_percent": 17.75
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -5173,16 +5173,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "shw_PERYGN0b9uf6SzQgVggGVw:sk-cinemas",
-      "venue": "sk-cinemas",
-      "theatre": "SK Cinemas - Audi 1",
-      "date": "2026-02-08T20:15:00+05:45",
-      "time": "",
-      "seats": 258,
-      "sold": 12,
-      "reserved": 8,
-      "available": 238,
-      "gross": 6000,
-      "occupancy_percent": 7.75
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-08",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "hTFKihQrTRHY82P9J5vjDQ",
@@ -5391,10 +5393,10 @@
       "time": "",
       "seats": 247,
       "sold": 36,
-      "reserved": 4,
-      "available": 207,
-      "gross": 14300,
-      "occupancy_percent": 16.19
+      "reserved": 8,
+      "available": 203,
+      "gross": 15400,
+      "occupancy_percent": 17.81
     },
     {
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
