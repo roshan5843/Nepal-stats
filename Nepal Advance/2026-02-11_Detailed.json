@@ -1,6 +1,6 @@
 {
   "date": "2026-02-11",
-  "lastUpdated": "06:41 AM, 09 February 2026",
+  "lastUpdated": "10:25 AM, 09 February 2026",
   "shows": [
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -477,10 +477,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 15,
-      "available": 165,
-      "gross": 3000,
-      "occupancy_percent": 8.33
+      "reserved": 18,
+      "available": 162,
+      "gross": 3600,
+      "occupancy_percent": 10.0
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -546,16 +546,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "61678:bishwojyoti-cineplex",
-      "venue": "bishwojyoti-cineplex",
-      "theatre": "iNi Cinemas - Bishwojyoti - Audi 1",
-      "date": "2026-02-11T18:45:00+05:45",
-      "time": "",
-      "seats": 201,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-11",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 201,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -998,7 +1000,7 @@
       "show_id": "73248:fcube",
       "venue": "fcube",
       "theatre": "FCube Cinemas - Cube 2",
-      "date": "2026-02-11T20:15:00+05:45",
+      "date": "2026-02-11T20:00:00+05:45",
       "time": "",
       "seats": 198,
       "sold": 0,
@@ -1186,6 +1188,81 @@
       "available": 139,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "73246:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 1",
+      "date": "2026-02-11T18:00:00+05:45",
+      "time": "",
+      "seats": 210,
+      "sold": 0,
+      "reserved": 10,
+      "available": 200,
+      "gross": 2400,
+      "occupancy_percent": 4.76
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "721003:pashupati-digital-cinema",
+      "venue": "pashupati-digital-cinema",
+      "theatre": "Pashupati Digital Cinema - Pashupati Digital cinema",
+      "date": "2026-02-11T18:30:00+05:45",
+      "time": "",
+      "seats": 220,
+      "sold": 0,
+      "reserved": 0,
+      "available": 220,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "721001:pashupati-digital-cinema",
+      "venue": "pashupati-digital-cinema",
+      "theatre": "Pashupati Digital Cinema - Pashupati Digital cinema",
+      "date": "2026-02-11T12:30:00+05:45",
+      "time": "",
+      "seats": 220,
+      "sold": 0,
+      "reserved": 0,
+      "available": 220,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "721002:pashupati-digital-cinema",
+      "venue": "pashupati-digital-cinema",
+      "theatre": "Pashupati Digital Cinema - Pashupati Digital cinema",
+      "date": "2026-02-11T15:30:00+05:45",
+      "time": "",
+      "seats": 220,
+      "sold": 0,
+      "reserved": 0,
+      "available": 220,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
+      "movie_name": "Kumari",
+      "show_id": "73242:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 2",
+      "date": "2026-02-11T14:45:00+05:45",
+      "time": "",
+      "seats": 198,
+      "sold": 0,
+      "reserved": 10,
+      "available": 188,
+      "gross": 2400,
+      "occupancy_percent": 5.05
     }
   ]
 }
