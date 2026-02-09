@@ -1,6 +1,6 @@
 {
   "date": "2026-02-11",
-  "lastUpdated": "12:27 PM, 09 February 2026",
+  "lastUpdated": "03:22 PM, 09 February 2026",
   "shows": [
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -11,11 +11,11 @@
       "date": "2026-02-11T14:45:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 210,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 209,
+      "gross": 200,
+      "occupancy_percent": 0.48
     },
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -117,10 +117,10 @@
       "time": "",
       "seats": 164,
       "sold": 0,
-      "reserved": 1,
-      "available": 163,
-      "gross": 175,
-      "occupancy_percent": 0.61
+      "reserved": 0,
+      "available": 164,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -387,10 +387,10 @@
       "time": "",
       "seats": 251,
       "sold": 0,
-      "reserved": 0,
-      "available": 251,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 5,
+      "available": 246,
+      "gross": 875,
+      "occupancy_percent": 1.99
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -401,11 +401,11 @@
       "date": "2026-02-11T16:45:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 0,
+      "sold": 2,
       "reserved": 15,
-      "available": 197,
-      "gross": 5205,
-      "occupancy_percent": 7.08
+      "available": 195,
+      "gross": 5955,
+      "occupancy_percent": 8.02
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -546,16 +546,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "61678:bishwojyoti-cineplex",
-      "venue": "bishwojyoti-cineplex",
-      "theatre": "iNi Cinemas - Bishwojyoti - Audi 1",
-      "date": "2026-02-11T18:45:00+05:45",
-      "time": "",
-      "seats": 201,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-11",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 201,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -581,11 +583,11 @@
       "date": "2026-02-11T12:30:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 165,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 161,
+      "gross": 880,
+      "occupancy_percent": 2.42
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -626,11 +628,11 @@
       "date": "2026-02-11T15:00:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 182,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 178,
+      "gross": 800,
+      "occupancy_percent": 2.2
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1002,10 +1004,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 10,
-      "available": 188,
-      "gross": 2400,
-      "occupancy_percent": 5.05
+      "reserved": 12,
+      "available": 186,
+      "gross": 2880,
+      "occupancy_percent": 6.06
     },
     {
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
@@ -1032,10 +1034,10 @@
       "time": "",
       "seats": 177,
       "sold": 0,
-      "reserved": 1,
-      "available": 176,
-      "gross": 200,
-      "occupancy_percent": 0.56
+      "reserved": 0,
+      "available": 177,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
@@ -1152,10 +1154,10 @@
       "time": "",
       "seats": 118,
       "sold": 0,
-      "reserved": 2,
-      "available": 116,
-      "gross": 450,
-      "occupancy_percent": 1.69
+      "reserved": 0,
+      "available": 118,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
@@ -1346,11 +1348,11 @@
       "date": "2026-02-11T14:30:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
+      "sold": 10,
       "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 207,
+      "gross": 2000,
+      "occupancy_percent": 4.61
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1376,11 +1378,11 @@
       "date": "2026-02-11T11:30:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 17,
-      "reserved": 0,
-      "available": 200,
-      "gross": 3400,
-      "occupancy_percent": 7.83
+      "sold": 142,
+      "reserved": 2,
+      "available": 73,
+      "gross": 28800,
+      "occupancy_percent": 66.36
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1391,11 +1393,11 @@
       "date": "2026-02-11T12:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 48,
-      "reserved": 0,
-      "available": 169,
-      "gross": 9600,
-      "occupancy_percent": 22.12
+      "sold": 91,
+      "reserved": 8,
+      "available": 118,
+      "gross": 19800,
+      "occupancy_percent": 45.62
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1436,11 +1438,11 @@
       "date": "2026-02-11T20:45:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
+      "sold": 6,
       "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 211,
+      "gross": 1200,
+      "occupancy_percent": 2.76
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1466,28 +1468,26 @@
       "date": "2026-02-11T18:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
+      "sold": 43,
       "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 174,
+      "gross": 8600,
+      "occupancy_percent": 19.82
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "13470:cineroyale",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-02-11",
-      "time": null,
-      "seats": 0,
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 2",
+      "date": "2026-02-11T20:15:00+05:45",
+      "time": "",
+      "seats": 217,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 217,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1498,11 +1498,11 @@
       "date": "2026-02-11T15:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 41,
+      "sold": 48,
       "reserved": 0,
-      "available": 176,
-      "gross": 8200,
-      "occupancy_percent": 18.89
+      "available": 169,
+      "gross": 9600,
+      "occupancy_percent": 22.12
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1543,11 +1543,11 @@
       "date": "2026-02-11T12:00:00+05:45",
       "time": "",
       "seats": 171,
-      "sold": 10,
+      "sold": 24,
       "reserved": 0,
-      "available": 161,
-      "gross": 1750,
-      "occupancy_percent": 5.85
+      "available": 147,
+      "gross": 4200,
+      "occupancy_percent": 14.04
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1559,10 +1559,10 @@
       "time": "",
       "seats": 75,
       "sold": 0,
-      "reserved": 7,
-      "available": 68,
-      "gross": 1050,
-      "occupancy_percent": 9.33
+      "reserved": 17,
+      "available": 58,
+      "gross": 2550,
+      "occupancy_percent": 22.67
     },
     {
       "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
@@ -1636,6 +1636,246 @@
       "sold": 0,
       "reserved": 0,
       "available": 75,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
+      "movie_name": "Rammita Koo Pirati",
+      "show_id": "156030:qfx-chhaya",
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 03",
+      "date": "2026-02-11T15:45:00+05:45",
+      "time": "",
+      "seats": 110,
+      "sold": 0,
+      "reserved": 0,
+      "available": 110,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "156027:qfx-chhaya",
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 2",
+      "date": "2026-02-11T18:15:00+05:45",
+      "time": "",
+      "seats": 150,
+      "sold": 0,
+      "reserved": 0,
+      "available": 150,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "156031:qfx-chhaya",
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 03",
+      "date": "2026-02-11T12:15:00+05:45",
+      "time": "",
+      "seats": 110,
+      "sold": 0,
+      "reserved": 0,
+      "available": 110,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "156026:qfx-chhaya",
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 2",
+      "date": "2026-02-11T14:45:00+05:45",
+      "time": "",
+      "seats": 150,
+      "sold": 0,
+      "reserved": 0,
+      "available": 150,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "156016:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - AUDI 01",
+      "date": "2026-02-11T14:30:00+05:45",
+      "time": "",
+      "seats": 288,
+      "sold": 0,
+      "reserved": 0,
+      "available": 288,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "156021:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - AUDI 01",
+      "date": "2026-02-11T11:00:00+05:45",
+      "time": "",
+      "seats": 288,
+      "sold": 0,
+      "reserved": 0,
+      "available": 288,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "156017:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - AUDI 01",
+      "date": "2026-02-11T17:45:00+05:45",
+      "time": "",
+      "seats": 288,
+      "sold": 15,
+      "reserved": 0,
+      "available": 273,
+      "gross": 2700,
+      "occupancy_percent": 5.21
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "156022:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
+      "date": "2026-02-11T08:30:00+05:45",
+      "time": "",
+      "seats": 290,
+      "sold": 0,
+      "reserved": 0,
+      "available": 290,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "156018:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
+      "date": "2026-02-11T15:30:00+05:45",
+      "time": "",
+      "seats": 290,
+      "sold": 0,
+      "reserved": 0,
+      "available": 290,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "156019:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - AUDI 01",
+      "date": "2026-02-11T21:15:00+05:45",
+      "time": "",
+      "seats": 288,
+      "sold": 0,
+      "reserved": 0,
+      "available": 288,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "275061:omax-cinema",
+      "venue": "omax-cinema",
+      "theatre": "Omax Cinema - Omax",
+      "date": "2026-02-11T00:01:00+05:45",
+      "time": "",
+      "seats": 378,
+      "sold": 3,
+      "reserved": 0,
+      "available": 375,
+      "gross": 900,
+      "occupancy_percent": 0.79
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "156014:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
+      "date": "2026-02-11T12:00:00+05:45",
+      "time": "",
+      "seats": 290,
+      "sold": 4,
+      "reserved": 0,
+      "available": 286,
+      "gross": 720,
+      "occupancy_percent": 1.38
+    },
+    {
+      "movie_id": "hTFKihQrTRHY82P9J5vjDQ",
+      "movie_name": "The Strangers: Chapter 3",
+      "show_id": "156029:qfx-chhaya",
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 03",
+      "date": "2026-02-11T18:30:00+05:45",
+      "time": "",
+      "seats": 110,
+      "sold": 0,
+      "reserved": 0,
+      "available": 110,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
+      "movie_name": "Kumari",
+      "show_id": "156028:qfx-chhaya",
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 2",
+      "date": "2026-02-11T12:00:00+05:45",
+      "time": "",
+      "seats": 150,
+      "sold": 0,
+      "reserved": 0,
+      "available": 150,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
+      "movie_name": "Kumari",
+      "show_id": "156024:qfx-chhaya",
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 1",
+      "date": "2026-02-11T15:00:00+05:45",
+      "time": "",
+      "seats": 112,
+      "sold": 0,
+      "reserved": 0,
+      "available": 112,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
+      "movie_name": "Kumari",
+      "show_id": "156023:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - AUDI 01",
+      "date": "2026-02-11T08:15:00+05:45",
+      "time": "",
+      "seats": 288,
+      "sold": 0,
+      "reserved": 0,
+      "available": 288,
       "gross": 0,
       "occupancy_percent": 0.0
     }
