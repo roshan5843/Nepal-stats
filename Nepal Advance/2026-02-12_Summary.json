@@ -2,11 +2,11 @@
   {
     "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
     "movie_name": "Rammita Koo Pirati",
-    "total_shows": 4,
-    "seats": 687,
+    "total_shows": 13,
+    "seats": 2127,
     "sold": 49,
     "reserved": 12,
-    "available": 626,
+    "available": 2066,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -39,17 +39,97 @@
         "available": 186,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 0,
+        "reserved": 0,
+        "available": 196,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bishwojyoti-cineplex",
+        "total_shows": 1,
+        "seats": 89,
+        "sold": 0,
+        "reserved": 0,
+        "available": 89,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ksr-movies",
+        "total_shows": 1,
+        "seats": 118,
+        "sold": 0,
+        "reserved": 0,
+        "available": 118,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 0,
+        "reserved": 0,
+        "available": 180,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 2,
+        "seats": 387,
+        "sold": 0,
+        "reserved": 0,
+        "available": 387,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 1,
+        "seats": 240,
+        "sold": 0,
+        "reserved": 0,
+        "available": 240,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 1,
+        "seats": 120,
+        "sold": 0,
+        "reserved": 0,
+        "available": 120,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 1,
+        "seats": 110,
+        "sold": 0,
+        "reserved": 0,
+        "available": 110,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 31,
-    "seats": 6576,
-    "sold": 99,
-    "reserved": 256,
-    "available": 6221,
+    "total_shows": 73,
+    "seats": 15425,
+    "sold": 86,
+    "reserved": 266,
+    "available": 15073,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -58,8 +138,8 @@
         "total_shows": 8,
         "seats": 1688,
         "sold": 14,
-        "reserved": 115,
-        "available": 1559,
+        "reserved": 118,
+        "available": 1556,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -67,9 +147,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 8,
         "seats": 1940,
-        "sold": 0,
+        "sold": 4,
         "reserved": 141,
-        "available": 1799,
+        "available": 1795,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -95,11 +175,21 @@
       },
       {
         "venue": "one-cinemas-new-baneshwor",
-        "total_shows": 5,
-        "seats": 1030,
-        "sold": 85,
+        "total_shows": 4,
+        "seats": 822,
+        "sold": 68,
         "reserved": 0,
-        "available": 945,
+        "available": 754,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -112,17 +202,127 @@
         "available": 856,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 5,
+        "seats": 1200,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1200,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 5,
+        "seats": 913,
+        "sold": 0,
+        "reserved": 0,
+        "available": 913,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 3,
+        "seats": 410,
+        "sold": 0,
+        "reserved": 0,
+        "available": 410,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 3,
+        "seats": 597,
+        "sold": 0,
+        "reserved": 0,
+        "available": 597,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bishwojyoti-cineplex",
+        "total_shows": 4,
+        "seats": 692,
+        "sold": 0,
+        "reserved": 2,
+        "available": 690,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 3,
+        "seats": 798,
+        "sold": 0,
+        "reserved": 0,
+        "available": 798,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 5,
+        "seats": 980,
+        "sold": 0,
+        "reserved": 0,
+        "available": 980,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ksr-movies",
+        "total_shows": 4,
+        "seats": 715,
+        "sold": 0,
+        "reserved": 5,
+        "available": 710,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 3,
+        "seats": 720,
+        "sold": 0,
+        "reserved": 0,
+        "available": 720,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 4,
+        "seats": 1156,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1156,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-devchuli",
+        "total_shows": 3,
+        "seats": 876,
+        "sold": 0,
+        "reserved": 0,
+        "available": 876,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
     "movie_name": "Kumari",
-    "total_shows": 12,
-    "seats": 1972,
+    "total_shows": 28,
+    "seats": 4782,
     "sold": 34,
-    "reserved": 83,
-    "available": 1855,
+    "reserved": 85,
+    "available": 4663,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -175,17 +375,117 @@
         "available": 308,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 2,
+        "seats": 262,
+        "sold": 0,
+        "reserved": 0,
+        "available": 262,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 2,
+        "seats": 354,
+        "sold": 0,
+        "reserved": 0,
+        "available": 354,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 1,
+        "seats": 240,
+        "sold": 0,
+        "reserved": 0,
+        "available": 240,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 0,
+        "reserved": 0,
+        "available": 180,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ksr-movies",
+        "total_shows": 1,
+        "seats": 118,
+        "sold": 0,
+        "reserved": 2,
+        "available": 116,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 1,
+        "seats": 268,
+        "sold": 0,
+        "reserved": 0,
+        "available": 268,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bishwojyoti-cineplex",
+        "total_shows": 2,
+        "seats": 178,
+        "sold": 0,
+        "reserved": 0,
+        "available": 178,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 2,
+        "seats": 392,
+        "sold": 0,
+        "reserved": 0,
+        "available": 392,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 2,
+        "seats": 240,
+        "sold": 0,
+        "reserved": 0,
+        "available": 240,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 2,
+        "seats": 578,
+        "sold": 0,
+        "reserved": 0,
+        "available": 578,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "hTFKihQrTRHY82P9J5vjDQ",
     "movie_name": "The Strangers: Chapter 3",
-    "total_shows": 1,
-    "seats": 67,
+    "total_shows": 2,
+    "seats": 177,
     "sold": 6,
     "reserved": 0,
-    "available": 61,
+    "available": 171,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -198,17 +498,27 @@
         "available": 61,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 1,
+        "seats": 110,
+        "sold": 0,
+        "reserved": 0,
+        "available": 110,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "ZNZDtMxLPD73QZKmNaNM4A",
     "movie_name": "Border 2",
-    "total_shows": 1,
-    "seats": 67,
+    "total_shows": 4,
+    "seats": 499,
     "sold": 6,
     "reserved": 0,
-    "available": 61,
+    "available": 493,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -219,6 +529,59 @@
         "sold": 6,
         "reserved": 0,
         "available": 61,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 1,
+        "seats": 112,
+        "sold": 0,
+        "reserved": 0,
+        "available": 112,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 138,
+        "sold": 0,
+        "reserved": 0,
+        "available": 138,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 0,
+        "reserved": 0,
+        "available": 182,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "iptWpvFJXnWYJ4w7SUVWp6",
+    "movie_name": "Avatar: Fire and Ash",
+    "total_shows": 1,
+    "seats": 180,
+    "sold": 0,
+    "reserved": 0,
+    "available": 180,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 0,
+        "reserved": 0,
+        "available": 180,
         "housefull": 0,
         "fastfilling": 0
       }
