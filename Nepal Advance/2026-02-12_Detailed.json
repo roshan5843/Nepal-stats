@@ -1,6 +1,6 @@
 {
   "date": "2026-02-12",
-  "lastUpdated": "04:20 AM, 11 February 2026",
+  "lastUpdated": "08:21 AM, 11 February 2026",
   "shows": [
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -12,10 +12,10 @@
       "time": "",
       "seats": 198,
       "sold": 32,
-      "reserved": 12,
-      "available": 154,
-      "gross": 7700,
-      "occupancy_percent": 22.22
+      "reserved": 17,
+      "available": 149,
+      "gross": 8575,
+      "occupancy_percent": 24.75
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -27,10 +27,10 @@
       "time": "",
       "seats": 210,
       "sold": 6,
-      "reserved": 17,
-      "available": 187,
-      "gross": 4025,
-      "occupancy_percent": 10.95
+      "reserved": 19,
+      "available": 185,
+      "gross": 4375,
+      "occupancy_percent": 11.9
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -57,10 +57,10 @@
       "time": "",
       "seats": 210,
       "sold": 10,
-      "reserved": 14,
-      "available": 186,
-      "gross": 4200,
-      "occupancy_percent": 11.43
+      "reserved": 18,
+      "available": 182,
+      "gross": 4900,
+      "occupancy_percent": 13.33
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -72,10 +72,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 14,
-      "available": 198,
-      "gross": 3850,
-      "occupancy_percent": 6.6
+      "reserved": 18,
+      "available": 194,
+      "gross": 4950,
+      "occupancy_percent": 8.49
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -102,10 +102,10 @@
       "time": "",
       "seats": 210,
       "sold": 4,
-      "reserved": 17,
-      "available": 189,
-      "gross": 3675,
-      "occupancy_percent": 10.0
+      "reserved": 22,
+      "available": 184,
+      "gross": 4550,
+      "occupancy_percent": 12.38
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -371,11 +371,11 @@
       "date": "2026-02-12T12:00:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 2,
+      "sold": 4,
       "reserved": 12,
-      "available": 184,
-      "gross": 2450,
-      "occupancy_percent": 7.07
+      "available": 182,
+      "gross": 2800,
+      "occupancy_percent": 8.08
     },
     {
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
@@ -668,16 +668,18 @@
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
       "movie_name": "Kumari",
       "show_id": "702951:elite-cinemas",
-      "venue": "elite-cinemas",
-      "theatre": "Elite Cinemas - Hall-2",
-      "date": "2026-02-12T19:30:00+05:45",
-      "time": "",
-      "seats": 143,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-12",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 143,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
@@ -803,35 +805,31 @@
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
       "movie_name": "Rammita Koo Pirati",
       "show_id": "61697:ini-cinemas-nb-center",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-02-12",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "ini-cinemas-nb-center",
+      "theatre": "iNi Cinemas NB Center - Audi -1 (DTS: X)",
+      "date": "2026-02-12T13:45:00+05:45",
+      "time": "",
+      "seats": 177,
+      "sold": 4,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 173,
+      "gross": 1400,
+      "occupancy_percent": 2.26
     },
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
       "movie_name": "Rammita Koo Pirati",
       "show_id": "61700:ini-cinemas-nb-center",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-02-12",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-cinemas-nb-center",
+      "theatre": "iNi Cinemas NB Center - Audi -2 (DTS: X)",
+      "date": "2026-02-12T14:45:00+05:45",
+      "time": "",
+      "seats": 210,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 210,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -1077,16 +1075,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "61694:ini-cinemas-nb-center",
-      "venue": "ini-cinemas-nb-center",
-      "theatre": "iNi Cinemas NB Center - Audi -1 (DTS: X)",
-      "date": "2026-02-12T19:45:00+05:45",
-      "time": "",
-      "seats": 177,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-12",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 177,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1167,16 +1167,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "61684:bishwojyoti-cineplex",
-      "venue": "bishwojyoti-cineplex",
-      "theatre": "iNi Cinemas - Bishwojyoti - Audi 1",
-      "date": "2026-02-12T11:45:00+05:45",
-      "time": "",
-      "seats": 201,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-12",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 201,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1608,10 +1610,10 @@
       "time": "",
       "seats": 177,
       "sold": 0,
-      "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 176,
+      "gross": 350,
+      "occupancy_percent": 0.56
     },
     {
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
@@ -1822,7 +1824,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -3200,16 +3202,18 @@
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
       "movie_name": "Kumari",
       "show_id": "13483:cineroyale",
-      "venue": "cineroyale",
-      "theatre": "Cineroyale - Audi 3",
-      "date": "2026-02-12T12:15:00+05:45",
-      "time": "",
-      "seats": 126,
-      "sold": 6,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-12",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 120,
-      "gross": 1800,
-      "occupancy_percent": 4.76
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -3373,6 +3377,51 @@
       "sold": 0,
       "reserved": 0,
       "available": 169,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "173259:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen A",
+      "date": "2026-02-12T18:00:00+05:45",
+      "time": "",
+      "seats": 171,
+      "sold": 0,
+      "reserved": 0,
+      "available": 171,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "173257:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen A",
+      "date": "2026-02-12T12:00:00+05:45",
+      "time": "",
+      "seats": 171,
+      "sold": 0,
+      "reserved": 0,
+      "available": 171,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "173258:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen A",
+      "date": "2026-02-12T15:00:00+05:45",
+      "time": "",
+      "seats": 171,
+      "sold": 0,
+      "reserved": 0,
+      "available": 171,
       "gross": 0,
       "occupancy_percent": 0.0
     }
