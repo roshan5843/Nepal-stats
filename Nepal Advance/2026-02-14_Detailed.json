@@ -1,6 +1,6 @@
 {
   "date": "2026-02-14",
-  "lastUpdated": "02:59 AM, 12 February 2026",
+  "lastUpdated": "06:42 AM, 12 February 2026",
   "shows": [
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -102,10 +102,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 21,
-      "available": 191,
-      "gross": 12660,
-      "occupancy_percent": 9.91
+      "reserved": 19,
+      "available": 193,
+      "gross": 11500,
+      "occupancy_percent": 8.96
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -376,7 +376,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -393,7 +393,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -645,11 +645,11 @@
       "date": "2026-02-14T07:30:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 9,
+      "sold": 10,
       "reserved": 0,
-      "available": 124,
-      "gross": 1380,
-      "occupancy_percent": 6.77
+      "available": 123,
+      "gross": 1520,
+      "occupancy_percent": 7.52
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -828,10 +828,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 10,
-      "available": 200,
-      "gross": 4800,
-      "occupancy_percent": 4.76
+      "reserved": 13,
+      "available": 197,
+      "gross": 6240,
+      "occupancy_percent": 6.19
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -982,7 +982,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -1229,18 +1229,16 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "156410:qfx-bageshwori",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-02-14",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - AUDI 01",
+      "date": "2026-02-14T14:45:00+05:45",
+      "time": "",
+      "seats": 288,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 288,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1642,10 +1640,10 @@
       "time": "",
       "seats": 259,
       "sold": 4,
-      "reserved": 0,
-      "available": 255,
-      "gross": 1760,
-      "occupancy_percent": 1.54
+      "reserved": 1,
+      "available": 254,
+      "gross": 2200,
+      "occupancy_percent": 1.93
     },
     {
       "movie_id": "vk98tTtEdoG2yVbmUsGHTY",
