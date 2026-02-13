@@ -2,11 +2,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 5,
-    "seats": 1195,
+    "total_shows": 9,
+    "seats": 1903,
     "sold": 5,
-    "reserved": 0,
-    "available": 1190,
+    "reserved": 87,
+    "available": 1811,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,8 +15,18 @@
         "total_shows": 5,
         "seats": 1195,
         "sold": 5,
+        "reserved": 87,
+        "available": 1103,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 4,
+        "seats": 708,
+        "sold": 0,
         "reserved": 0,
-        "available": 1190,
+        "available": 708,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -25,11 +35,11 @@
   {
     "movie_id": "Z6uq2mtBgf9WsiYeW8NdEG",
     "movie_name": "Tu Yaa Main",
-    "total_shows": 1,
-    "seats": 207,
+    "total_shows": 3,
+    "seats": 437,
     "sold": 0,
     "reserved": 45,
-    "available": 162,
+    "available": 392,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -42,17 +52,37 @@
         "available": 162,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 53,
+        "sold": 0,
+        "reserved": 0,
+        "available": 53,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 177,
+        "sold": 0,
+        "reserved": 0,
+        "available": 177,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 4,
-    "seats": 992,
+    "total_shows": 12,
+    "seats": 1860,
     "sold": 0,
-    "reserved": 0,
-    "available": 992,
+    "reserved": 72,
+    "available": 1788,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -61,8 +91,28 @@
         "total_shows": 4,
         "seats": 992,
         "sold": 0,
+        "reserved": 72,
+        "available": 920,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 4,
+        "seats": 208,
+        "sold": 0,
         "reserved": 0,
-        "available": 992,
+        "available": 208,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 4,
+        "seats": 660,
+        "sold": 0,
+        "reserved": 0,
+        "available": 660,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -71,11 +121,11 @@
   {
     "movie_id": "vk98tTtEdoG2yVbmUsGHTY",
     "movie_name": "Wuthering Heights",
-    "total_shows": 1,
-    "seats": 207,
+    "total_shows": 2,
+    "seats": 258,
     "sold": 0,
     "reserved": 0,
-    "available": 207,
+    "available": 258,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -86,6 +136,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 207,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 51,
+        "sold": 0,
+        "reserved": 0,
+        "available": 51,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -97,8 +157,8 @@
     "total_shows": 1,
     "seats": 207,
     "sold": 0,
-    "reserved": 0,
-    "available": 207,
+    "reserved": 15,
+    "available": 192,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -107,8 +167,8 @@
         "total_shows": 1,
         "seats": 207,
         "sold": 0,
-        "reserved": 0,
-        "available": 207,
+        "reserved": 15,
+        "available": 192,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -119,9 +179,9 @@
     "movie_name": "Kumari",
     "total_shows": 2,
     "seats": 454,
-    "sold": 6,
-    "reserved": 0,
-    "available": 448,
+    "sold": 12,
+    "reserved": 33,
+    "available": 409,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -129,9 +189,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 2,
         "seats": 454,
-        "sold": 6,
-        "reserved": 0,
-        "available": 448,
+        "sold": 12,
+        "reserved": 33,
+        "available": 409,
         "housefull": 0,
         "fastfilling": 0
       }
