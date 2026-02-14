@@ -28,8 +28,8 @@
     "total_shows": 7,
     "seats": 1457,
     "sold": 3,
-    "reserved": 50,
-    "available": 1404,
+    "reserved": 53,
+    "available": 1401,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -38,8 +38,8 @@
         "total_shows": 5,
         "seats": 1042,
         "sold": 3,
-        "reserved": 50,
-        "available": 989,
+        "reserved": 53,
+        "available": 986,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -104,11 +104,11 @@
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 12,
-    "seats": 1812,
-    "sold": 0,
+    "total_shows": 15,
+    "seats": 2265,
+    "sold": 42,
     "reserved": 40,
-    "available": 1772,
+    "available": 2183,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -139,6 +139,16 @@
         "sold": 0,
         "reserved": 40,
         "available": 780,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-kalimati",
+        "total_shows": 3,
+        "seats": 453,
+        "sold": 42,
+        "reserved": 0,
+        "available": 411,
         "housefull": 0,
         "fastfilling": 0
       }
