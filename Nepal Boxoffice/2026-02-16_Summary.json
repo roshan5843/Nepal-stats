@@ -2,14 +2,34 @@
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 1,
-    "seats": 208,
-    "sold": 7,
-    "reserved": 0,
-    "available": 201,
+    "total_shows": 3,
+    "seats": 726,
+    "sold": 23,
+    "reserved": 35,
+    "available": 668,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 14,
+        "reserved": 25,
+        "available": 310,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 2,
+        "reserved": 10,
+        "available": 157,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 1,
@@ -25,11 +45,11 @@
   {
     "movie_id": "VjQVvn9MV4bsUyrf37BzWB",
     "movie_name": "Shivansh:Chapter-1",
-    "total_shows": 1,
-    "seats": 270,
+    "total_shows": 2,
+    "seats": 330,
     "sold": 0,
-    "reserved": 0,
-    "available": 270,
+    "reserved": 6,
+    "available": 324,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -40,6 +60,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 270,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 6,
+        "available": 54,
         "housefull": 0,
         "fastfilling": 0
       }
