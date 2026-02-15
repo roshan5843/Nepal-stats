@@ -1,6 +1,6 @@
 {
   "date": "2026-02-16",
-  "lastUpdated": "05:07 AM, 16 February 2026",
+  "lastUpdated": "05:29 AM, 16 February 2026",
   "shows": [
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -11,11 +11,11 @@
       "date": "2026-02-16T07:45:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 7,
+      "sold": 8,
       "reserved": 0,
-      "available": 201,
-      "gross": 1750,
-      "occupancy_percent": 3.37
+      "available": 200,
+      "gross": 2000,
+      "occupancy_percent": 3.85
     },
     {
       "movie_id": "VjQVvn9MV4bsUyrf37BzWB",
@@ -76,6 +76,51 @@
       "available": 54,
       "gross": 2400,
       "occupancy_percent": 10.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "61590:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 1",
+      "date": "2026-02-16T08:30:00+05:45",
+      "time": "",
+      "seats": 279,
+      "sold": 0,
+      "reserved": 21,
+      "available": 258,
+      "gross": 3885,
+      "occupancy_percent": 7.53
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "25226:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-02-16T08:30:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 0,
+      "reserved": 0,
+      "available": 203,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "VjQVvn9MV4bsUyrf37BzWB",
+      "movie_name": "Shivansh:Chapter-1",
+      "show_id": "702983:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-02-16T08:30:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }

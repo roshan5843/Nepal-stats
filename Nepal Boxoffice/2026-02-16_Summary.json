@@ -4,9 +4,9 @@
     "movie_name": "O Romeo",
     "total_shows": 3,
     "seats": 726,
-    "sold": 23,
+    "sold": 24,
     "reserved": 35,
-    "available": 668,
+    "available": 667,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -34,9 +34,9 @@
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 1,
         "seats": 208,
-        "sold": 7,
+        "sold": 8,
         "reserved": 0,
-        "available": 201,
+        "available": 200,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -45,11 +45,11 @@
   {
     "movie_id": "VjQVvn9MV4bsUyrf37BzWB",
     "movie_name": "Shivansh:Chapter-1",
-    "total_shows": 2,
-    "seats": 330,
+    "total_shows": 3,
+    "seats": 473,
     "sold": 0,
     "reserved": 6,
-    "available": 324,
+    "available": 467,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -70,6 +70,49 @@
         "sold": 0,
         "reserved": 6,
         "available": 54,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 0,
+        "reserved": 0,
+        "available": 143,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+    "movie_name": "Aa Bata Aama",
+    "total_shows": 2,
+    "seats": 482,
+    "sold": 0,
+    "reserved": 21,
+    "available": 461,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 0,
+        "reserved": 21,
+        "available": 258,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 203,
+        "sold": 0,
+        "reserved": 0,
+        "available": 203,
         "housefull": 0,
         "fastfilling": 0
       }
