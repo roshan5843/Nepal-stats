@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "movie_id": "AUydcYx3SExYufvZtmZkUE",
+    "movie_name": "O Romeo",
+    "total_shows": 1,
+    "seats": 169,
+    "sold": 2,
+    "reserved": 10,
+    "available": 157,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 2,
+        "reserved": 10,
+        "available": 157,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "VjQVvn9MV4bsUyrf37BzWB",
+    "movie_name": "Shivansh:Chapter-1",
+    "total_shows": 2,
+    "seats": 203,
+    "sold": 0,
+    "reserved": 13,
+    "available": 190,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 13,
+        "available": 47,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 0,
+        "reserved": 0,
+        "available": 143,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]
