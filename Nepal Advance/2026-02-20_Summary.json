@@ -2,11 +2,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 87,
-    "seats": 19456,
+    "total_shows": 101,
+    "seats": 22337,
     "sold": 121,
-    "reserved": 125,
-    "available": 19210,
+    "reserved": 195,
+    "available": 22021,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -175,8 +175,8 @@
         "total_shows": 3,
         "seats": 630,
         "sold": 0,
-        "reserved": 3,
-        "available": 627,
+        "reserved": 0,
+        "available": 630,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -195,8 +195,8 @@
         "total_shows": 5,
         "seats": 912,
         "sold": 0,
-        "reserved": 0,
-        "available": 912,
+        "reserved": 76,
+        "available": 836,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -205,8 +205,8 @@
         "total_shows": 3,
         "seats": 603,
         "sold": 0,
-        "reserved": 3,
-        "available": 600,
+        "reserved": 0,
+        "available": 603,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -249,17 +249,57 @@
         "available": 876,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 4,
+        "seats": 1140,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1140,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 5,
+        "seats": 960,
+        "sold": 0,
+        "reserved": 0,
+        "available": 960,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 2,
+        "seats": 268,
+        "sold": 0,
+        "reserved": 0,
+        "available": 268,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "oasis-cinema",
+        "total_shows": 3,
+        "seats": 513,
+        "sold": 0,
+        "reserved": 0,
+        "available": 513,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
     "movie_name": "Crime 101",
-    "total_shows": 24,
-    "seats": 4196,
-    "sold": 7,
-    "reserved": 42,
-    "available": 4147,
+    "total_shows": 38,
+    "seats": 5753,
+    "sold": 9,
+    "reserved": 60,
+    "available": 5684,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -277,9 +317,9 @@
         "venue": "qfx-chhaya",
         "total_shows": 2,
         "seats": 222,
-        "sold": 1,
+        "sold": 3,
         "reserved": 0,
-        "available": 221,
+        "available": 219,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -368,8 +408,8 @@
         "total_shows": 1,
         "seats": 207,
         "sold": 0,
-        "reserved": 0,
-        "available": 207,
+        "reserved": 3,
+        "available": 204,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -412,17 +452,117 @@
         "available": 176,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 1,
+        "seats": 240,
+        "sold": 0,
+        "reserved": 0,
+        "available": 240,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 1,
+        "seats": 177,
+        "sold": 0,
+        "reserved": 0,
+        "available": 177,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 0,
+        "reserved": 15,
+        "available": 165,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bishwojyoti-cineplex",
+        "total_shows": 1,
+        "seats": 89,
+        "sold": 0,
+        "reserved": 0,
+        "available": 89,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ksr-movies",
+        "total_shows": 1,
+        "seats": 118,
+        "sold": 0,
+        "reserved": 0,
+        "available": 118,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 4,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 0,
+        "reserved": 0,
+        "available": 101,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 2,
+        "seats": 392,
+        "sold": 0,
+        "reserved": 0,
+        "available": 392,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 1,
+        "seats": 126,
+        "sold": 0,
+        "reserved": 0,
+        "available": 126,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 0,
+        "reserved": 0,
+        "available": 134,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 62,
-    "seats": 10985,
-    "sold": 127,
-    "reserved": 54,
-    "available": 10804,
+    "total_shows": 65,
+    "seats": 11340,
+    "sold": 129,
+    "reserved": 98,
+    "available": 11113,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -440,9 +580,9 @@
         "venue": "qfx-labim",
         "total_shows": 3,
         "seats": 543,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 543,
+        "available": 541,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -601,8 +741,8 @@
         "total_shows": 3,
         "seats": 531,
         "sold": 0,
-        "reserved": 2,
-        "available": 529,
+        "reserved": 0,
+        "available": 531,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -621,8 +761,8 @@
         "total_shows": 3,
         "seats": 576,
         "sold": 0,
-        "reserved": 0,
-        "available": 576,
+        "reserved": 48,
+        "available": 528,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -631,8 +771,8 @@
         "total_shows": 2,
         "seats": 178,
         "sold": 0,
-        "reserved": 2,
-        "available": 176,
+        "reserved": 0,
+        "available": 178,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -665,6 +805,36 @@
         "available": 392,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 0,
+        "reserved": 0,
+        "available": 101,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 0,
+        "reserved": 0,
+        "available": 134,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 1,
+        "seats": 120,
+        "sold": 0,
+        "reserved": 0,
+        "available": 120,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -674,8 +844,8 @@
     "total_shows": 3,
     "seats": 308,
     "sold": 6,
-    "reserved": 1,
-    "available": 301,
+    "reserved": 0,
+    "available": 302,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -704,8 +874,8 @@
         "total_shows": 1,
         "seats": 67,
         "sold": 6,
-        "reserved": 1,
-        "available": 60,
+        "reserved": 0,
+        "available": 61,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -714,11 +884,11 @@
   {
     "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
     "movie_name": "Rammita Koo Pirati",
-    "total_shows": 7,
-    "seats": 938,
+    "total_shows": 8,
+    "seats": 1039,
     "sold": 34,
-    "reserved": 1,
-    "available": 903,
+    "reserved": 0,
+    "available": 1005,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -757,8 +927,8 @@
         "total_shows": 1,
         "seats": 89,
         "sold": 0,
-        "reserved": 1,
-        "available": 88,
+        "reserved": 0,
+        "available": 89,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -779,6 +949,16 @@
         "sold": 10,
         "reserved": 0,
         "available": 57,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 0,
+        "reserved": 0,
+        "available": 101,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -820,11 +1000,11 @@
   {
     "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
     "movie_name": "Kumari",
-    "total_shows": 6,
-    "seats": 1258,
+    "total_shows": 7,
+    "seats": 1359,
     "sold": 17,
     "reserved": 12,
-    "available": 1229,
+    "available": 1330,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -885,6 +1065,16 @@
         "sold": 17,
         "reserved": 0,
         "available": 186,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 0,
+        "reserved": 0,
+        "available": 101,
         "housefull": 0,
         "fastfilling": 0
       }
