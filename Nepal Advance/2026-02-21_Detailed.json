@@ -1,6 +1,6 @@
 {
   "date": "2026-02-21",
-  "lastUpdated": "06:41 AM, 19 February 2026",
+  "lastUpdated": "10:19 AM, 19 February 2026",
   "shows": [
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -266,11 +266,11 @@
       "date": "2026-02-21T08:15:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 7,
+      "sold": 17,
       "reserved": 0,
-      "available": 175,
-      "gross": 1680,
-      "occupancy_percent": 3.85
+      "available": 165,
+      "gross": 4080,
+      "occupancy_percent": 9.34
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -821,11 +821,11 @@
       "date": "2026-02-21T12:00:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 219,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 215,
+      "gross": 1520,
+      "occupancy_percent": 1.83
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -912,10 +912,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 195,
+      "gross": 330,
+      "occupancy_percent": 0.51
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -926,26 +926,28 @@
       "date": "2026-02-21T08:15:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "sold": 4,
+      "reserved": 2,
+      "available": 190,
+      "gross": 990,
+      "occupancy_percent": 3.06
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "62125:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Cinemas QBox - Audi 2",
-      "date": "2026-02-21T11:30:00+05:45",
-      "time": "",
-      "seats": 196,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-21",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 196,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -957,10 +959,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 194,
+      "gross": 660,
+      "occupancy_percent": 1.02
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -987,10 +989,10 @@
       "time": "",
       "seats": 176,
       "sold": 0,
-      "reserved": 0,
-      "available": 176,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 174,
+      "gross": 330,
+      "occupancy_percent": 1.14
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1017,10 +1019,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 194,
+      "gross": 660,
+      "occupancy_percent": 1.02
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2157,10 +2159,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 194,
+      "gross": 660,
+      "occupancy_percent": 1.02
     },
     {
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
@@ -2771,11 +2773,11 @@
       "date": "2026-02-21T15:30:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 182,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 180,
+      "gross": 780,
+      "occupancy_percent": 1.1
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -2921,11 +2923,11 @@
       "date": "2026-02-21T08:00:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 248,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 246,
+      "gross": 440,
+      "occupancy_percent": 0.81
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -2997,10 +2999,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 195,
+      "gross": 330,
+      "occupancy_percent": 0.51
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3042,10 +3044,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 194,
+      "gross": 660,
+      "occupancy_percent": 1.02
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3117,10 +3119,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 195,
+      "gross": 165,
+      "occupancy_percent": 0.51
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3221,11 +3223,11 @@
       "date": "2026-02-21T15:30:00+05:45",
       "time": "",
       "seats": 112,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 112,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 110,
+      "gross": 960,
+      "occupancy_percent": 1.79
     },
     {
       "movie_id": "vk98tTtEdoG2yVbmUsGHTY",
@@ -3387,10 +3389,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 194,
+      "gross": 660,
+      "occupancy_percent": 1.02
     },
     {
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
@@ -3466,6 +3468,246 @@
       "available": 207,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "25333:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-02-21T17:00:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 17,
+      "reserved": 0,
+      "available": 186,
+      "gross": 7650,
+      "occupancy_percent": 8.37
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "25332:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-02-21T14:00:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 17,
+      "reserved": 0,
+      "available": 186,
+      "gross": 7650,
+      "occupancy_percent": 8.37
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "25334:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-02-21T20:00:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 17,
+      "reserved": 0,
+      "available": 186,
+      "gross": 7650,
+      "occupancy_percent": 8.37
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "25330:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-02-21T08:00:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 17,
+      "reserved": 0,
+      "available": 186,
+      "gross": 4250,
+      "occupancy_percent": 8.37
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "25331:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-02-21T11:00:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 17,
+      "reserved": 0,
+      "available": 186,
+      "gross": 7650,
+      "occupancy_percent": 8.37
+    },
+    {
+      "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
+      "movie_name": "Crime 101",
+      "show_id": "25338:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-02-21T17:00:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 4500,
+      "occupancy_percent": 8.96
+    },
+    {
+      "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
+      "movie_name": "Crime 101",
+      "show_id": "25335:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-02-21T09:30:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 2400,
+      "occupancy_percent": 8.96
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "25329:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-02-21T20:45:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 7650,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "25326:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-02-21T11:00:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 7650,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "25328:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-02-21T17:30:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 7650,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "25325:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-02-21T07:45:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 4250,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "25327:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-02-21T14:15:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 7650,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "13616:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 3",
+      "date": "2026-02-21T15:30:00+05:45",
+      "time": "",
+      "seats": 126,
+      "sold": 0,
+      "reserved": 0,
+      "available": 126,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "vk98tTtEdoG2yVbmUsGHTY",
+      "movie_name": "Wuthering Heights",
+      "show_id": "25339:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-02-21T19:30:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 4500,
+      "occupancy_percent": 8.96
+    },
+    {
+      "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
+      "movie_name": "Rammita Koo Pirati",
+      "show_id": "25336:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-02-21T12:15:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 4500,
+      "occupancy_percent": 8.96
+    },
+    {
+      "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
+      "movie_name": "Kumari",
+      "show_id": "25337:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-02-21T14:30:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 4500,
+      "occupancy_percent": 8.96
     }
   ]
 }
