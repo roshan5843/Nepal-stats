@@ -249,10 +249,10 @@
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
     "total_shows": 77,
-    "seats": 15840,
+    "seats": 15401,
     "sold": 106,
     "reserved": 56,
-    "available": 15678,
+    "available": 15239,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -268,11 +268,11 @@
       },
       {
         "venue": "ini-lotse-ktm",
-        "total_shows": 4,
-        "seats": 960,
+        "total_shows": 3,
+        "seats": 720,
         "sold": 0,
         "reserved": 0,
-        "available": 960,
+        "available": 720,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -287,12 +287,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "ksr-movies",
-        "total_shows": 3,
-        "seats": 597,
+        "venue": "Unknown",
+        "total_shows": 5,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 597,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ksr-movies",
+        "total_shows": 2,
+        "seats": 398,
+        "sold": 0,
+        "reserved": 0,
+        "available": 398,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -333,16 +343,6 @@
         "sold": 0,
         "reserved": 0,
         "available": 876,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "Unknown",
-        "total_shows": 3,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
