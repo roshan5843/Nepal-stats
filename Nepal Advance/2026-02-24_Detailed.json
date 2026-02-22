@@ -1,6 +1,6 @@
 {
   "date": "2026-02-24",
-  "lastUpdated": "08:46 PM, 22 February 2026",
+  "lastUpdated": "11:50 PM, 22 February 2026",
   "shows": [
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -41,11 +41,11 @@
       "date": "2026-02-24T15:30:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 0,
+      "sold": 6,
       "reserved": 10,
-      "available": 202,
-      "gross": 2500,
-      "occupancy_percent": 4.72
+      "available": 196,
+      "gross": 4300,
+      "occupancy_percent": 7.55
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -326,11 +326,11 @@
       "date": "2026-02-24T15:45:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 19,
+      "sold": 23,
       "reserved": 28,
-      "available": 200,
-      "gross": 8225,
-      "occupancy_percent": 19.03
+      "available": 196,
+      "gross": 8925,
+      "occupancy_percent": 20.65
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -356,11 +356,11 @@
       "date": "2026-02-24T11:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 53,
+      "sold": 67,
       "reserved": 0,
-      "available": 164,
-      "gross": 10600,
-      "occupancy_percent": 24.42
+      "available": 150,
+      "gross": 13400,
+      "occupancy_percent": 30.88
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -372,10 +372,10 @@
       "time": "",
       "seats": 247,
       "sold": 13,
-      "reserved": 11,
-      "available": 223,
-      "gross": 4200,
-      "occupancy_percent": 9.72
+      "reserved": 13,
+      "available": 221,
+      "gross": 4550,
+      "occupancy_percent": 10.53
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -386,11 +386,11 @@
       "date": "2026-02-24T12:55:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 88,
-      "reserved": 85,
-      "available": 74,
-      "gross": 31082,
-      "occupancy_percent": 70.04
+      "sold": 92,
+      "reserved": 75,
+      "available": 80,
+      "gross": 30032,
+      "occupancy_percent": 67.61
     },
     {
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
@@ -1859,6 +1859,81 @@
       "sold": 0,
       "reserved": 0,
       "available": 110,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "77861:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-02-24T19:45:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "77859:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-02-24T13:55:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "77860:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-02-24T16:50:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "77862:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-02-24T22:36:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "77858:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-02-24T11:00:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
       "gross": 0,
       "occupancy_percent": 0.0
     }
