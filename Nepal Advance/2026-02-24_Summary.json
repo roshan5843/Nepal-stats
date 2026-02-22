@@ -2,11 +2,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 26,
-    "seats": 5362,
-    "sold": 137,
-    "reserved": 180,
-    "available": 5045,
+    "total_shows": 35,
+    "seats": 7652,
+    "sold": 194,
+    "reserved": 243,
+    "available": 7215,
     "housefull": 0,
     "fastfilling": 1,
     "venues": [
@@ -15,8 +15,8 @@
         "total_shows": 4,
         "seats": 832,
         "sold": 0,
-        "reserved": 43,
-        "available": 789,
+        "reserved": 47,
+        "available": 785,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -64,9 +64,9 @@
         "venue": "cineroyale",
         "total_shows": 4,
         "seats": 868,
-        "sold": 3,
+        "sold": 60,
         "reserved": 0,
-        "available": 865,
+        "available": 808,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -75,10 +75,30 @@
         "total_shows": 5,
         "seats": 1235,
         "sold": 134,
-        "reserved": 137,
-        "available": 964,
+        "reserved": 196,
+        "available": 905,
         "housefull": 0,
         "fastfilling": 1
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 7,
+        "seats": 2022,
+        "sold": 0,
+        "reserved": 0,
+        "available": 2022,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 2,
+        "seats": 268,
+        "sold": 0,
+        "reserved": 0,
+        "available": 268,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -148,11 +168,11 @@
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 15,
-    "seats": 2365,
+    "total_shows": 17,
+    "seats": 2789,
     "sold": 0,
-    "reserved": 30,
-    "available": 2335,
+    "reserved": 38,
+    "available": 2751,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -171,8 +191,8 @@
         "total_shows": 3,
         "seats": 632,
         "sold": 0,
-        "reserved": 30,
-        "available": 602,
+        "reserved": 38,
+        "available": 594,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -213,6 +233,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 496,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 0,
+        "reserved": 0,
+        "available": 134,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 1,
+        "seats": 290,
+        "sold": 0,
+        "reserved": 0,
+        "available": 290,
         "housefull": 0,
         "fastfilling": 0
       }
