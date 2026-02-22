@@ -1,6 +1,6 @@
 {
   "date": "2026-02-22",
-  "lastUpdated": "07:17 PM, 22 February 2026",
+  "lastUpdated": "07:44 PM, 22 February 2026",
   "shows": [
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4373,11 +4373,11 @@
       "date": "2026-02-22T20:00:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 31,
-      "reserved": 6,
-      "available": 96,
-      "gross": 10360,
-      "occupancy_percent": 27.82
+      "sold": 38,
+      "reserved": 4,
+      "available": 91,
+      "gross": 11760,
+      "occupancy_percent": 31.58
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4388,11 +4388,11 @@
       "date": "2026-02-22T20:15:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 0,
+      "sold": 10,
       "reserved": 0,
-      "available": 214,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 204,
+      "gross": 3250,
+      "occupancy_percent": 4.67
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -4435,11 +4435,11 @@
       "date": "2026-02-22T20:00:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 0,
-      "reserved": 0,
-      "available": 51,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "sold": 5,
+      "reserved": 3,
+      "available": 43,
+      "gross": 11200,
+      "occupancy_percent": 15.69
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -4460,16 +4460,18 @@
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "94202:sts-cinema",
-      "venue": "sts-cinema",
-      "theatre": "STS Cinema - screen 1",
-      "date": "2026-02-22T20:00:00+05:45",
-      "time": "",
-      "seats": 394,
-      "sold": 13,
-      "reserved": 2,
-      "available": 379,
-      "gross": 5850,
-      "occupancy_percent": 3.81
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-22",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -4495,11 +4497,11 @@
       "date": "2026-02-22T20:15:00+05:45",
       "time": "",
       "seats": 53,
-      "sold": 3,
+      "sold": 6,
       "reserved": 0,
-      "available": 50,
-      "gross": 4200,
-      "occupancy_percent": 5.66
+      "available": 47,
+      "gross": 8400,
+      "occupancy_percent": 11.32
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4557,11 +4559,11 @@
       "date": "2026-02-22T20:30:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 27,
-      "reserved": 5,
-      "available": 176,
-      "gross": 14400,
-      "occupancy_percent": 15.38
+      "sold": 31,
+      "reserved": 0,
+      "available": 177,
+      "gross": 13950,
+      "occupancy_percent": 14.9
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
