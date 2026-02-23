@@ -1,6 +1,6 @@
 {
   "date": "2026-02-24",
-  "lastUpdated": "02:31 PM, 23 February 2026",
+  "lastUpdated": "04:30 PM, 23 February 2026",
   "shows": [
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -12,10 +12,10 @@
       "time": "",
       "seats": 198,
       "sold": 1,
-      "reserved": 23,
-      "available": 174,
-      "gross": 4800,
-      "occupancy_percent": 12.12
+      "reserved": 25,
+      "available": 172,
+      "gross": 5200,
+      "occupancy_percent": 13.13
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -26,11 +26,11 @@
       "date": "2026-02-24T11:15:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 8,
+      "sold": 11,
       "reserved": 13,
-      "available": 189,
-      "gross": 4200,
-      "occupancy_percent": 10.0
+      "available": 186,
+      "gross": 4800,
+      "occupancy_percent": 11.43
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -117,31 +117,35 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "157794:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 2",
-      "date": "2026-02-24T19:00:00+05:45",
-      "time": "",
-      "seats": 165,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 165,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "157789:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 1",
-      "date": "2026-02-24T15:15:00+05:45",
-      "time": "",
-      "seats": 177,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 177,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -177,46 +181,52 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "157740:qfx-bhaktapur",
-      "venue": "qfx-bhaktapur",
-      "theatre": "QFX Bhaktapur - AUDI 3",
-      "date": "2026-02-24T18:00:00+05:45",
-      "time": "",
-      "seats": 247,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 247,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "157796:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 03",
-      "date": "2026-02-24T17:00:00+05:45",
-      "time": "",
-      "seats": 139,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 139,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "157790:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 1",
-      "date": "2026-02-24T12:00:00+05:45",
-      "time": "",
-      "seats": 177,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 177,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -276,11 +286,11 @@
       "date": "2026-02-24T14:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 68,
-      "reserved": 1,
-      "available": 148,
-      "gross": 13800,
-      "occupancy_percent": 31.8
+      "sold": 93,
+      "reserved": 0,
+      "available": 124,
+      "gross": 18600,
+      "occupancy_percent": 42.86
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -321,11 +331,11 @@
       "date": "2026-02-24T18:35:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 137,
+      "sold": 144,
       "reserved": 94,
-      "available": 16,
-      "gross": 42975,
-      "occupancy_percent": 93.52
+      "available": 9,
+      "gross": 44200,
+      "occupancy_percent": 96.36
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -336,11 +346,11 @@
       "date": "2026-02-24T15:45:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 43,
-      "reserved": 49,
-      "available": 155,
-      "gross": 16100,
-      "occupancy_percent": 37.25
+      "sold": 49,
+      "reserved": 51,
+      "available": 147,
+      "gross": 17500,
+      "occupancy_percent": 40.49
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -367,10 +377,10 @@
       "time": "",
       "seats": 217,
       "sold": 192,
-      "reserved": 1,
-      "available": 24,
-      "gross": 38600,
-      "occupancy_percent": 88.94
+      "reserved": 0,
+      "available": 25,
+      "gross": 38400,
+      "occupancy_percent": 88.48
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -381,11 +391,11 @@
       "date": "2026-02-24T10:05:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 35,
-      "reserved": 25,
-      "available": 187,
-      "gross": 10500,
-      "occupancy_percent": 24.29
+      "sold": 37,
+      "reserved": 32,
+      "available": 178,
+      "gross": 12075,
+      "occupancy_percent": 27.94
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -396,11 +406,11 @@
       "date": "2026-02-24T12:55:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 124,
-      "reserved": 84,
-      "available": 39,
-      "gross": 38414,
-      "occupancy_percent": 84.21
+      "sold": 133,
+      "reserved": 78,
+      "available": 36,
+      "gross": 39089,
+      "occupancy_percent": 85.43
     },
     {
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
@@ -451,18 +461,16 @@
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
       "movie_name": "Crime 101",
       "show_id": "157735:qfx-bhaktapur",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-02-24",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 1",
+      "date": "2026-02-24T17:15:00+05:45",
+      "time": "",
+      "seats": 207,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 207,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
@@ -519,10 +527,10 @@
       "time": "",
       "seats": 212,
       "sold": 2,
-      "reserved": 14,
-      "available": 196,
-      "gross": 4000,
-      "occupancy_percent": 7.55
+      "reserved": 16,
+      "available": 194,
+      "gross": 4600,
+      "occupancy_percent": 8.49
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -607,16 +615,18 @@
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "157791:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 1",
-      "date": "2026-02-24T18:30:00+05:45",
-      "time": "",
-      "seats": 177,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 177,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -674,11 +684,11 @@
       "date": "2026-02-24T12:15:00+05:45",
       "time": "",
       "seats": 126,
-      "sold": 4,
+      "sold": 6,
       "reserved": 0,
-      "available": 122,
-      "gross": 1100,
-      "occupancy_percent": 3.17
+      "available": 120,
+      "gross": 1500,
+      "occupancy_percent": 4.76
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -694,7 +704,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -738,11 +748,11 @@
       "date": "2026-02-24T16:15:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 7,
+      "sold": 17,
       "reserved": 0,
-      "available": 175,
-      "gross": 2730,
-      "occupancy_percent": 3.85
+      "available": 165,
+      "gross": 6630,
+      "occupancy_percent": 9.34
     },
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -763,16 +773,18 @@
       "movie_id": "Z6uq2mtBgf9WsiYeW8NdEG",
       "movie_name": "Tu Yaa Main",
       "show_id": "157701:qfx-durbar",
-      "venue": "qfx-durbar",
-      "theatre": "QFX Durbar - AUDI 02",
-      "date": "2026-02-24T14:00:00+05:45",
-      "time": "",
-      "seats": 51,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 1,
-      "available": 50,
-      "gross": 800,
-      "occupancy_percent": 1.96
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1428,11 +1440,11 @@
       "date": "2026-02-24T18:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 56,
+      "sold": 59,
       "reserved": 0,
-      "available": 161,
-      "gross": 11200,
-      "occupancy_percent": 25.81
+      "available": 158,
+      "gross": 11800,
+      "occupancy_percent": 27.19
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1443,11 +1455,11 @@
       "date": "2026-02-24T12:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 121,
-      "reserved": 2,
-      "available": 94,
-      "gross": 24600,
-      "occupancy_percent": 56.68
+      "sold": 142,
+      "reserved": 0,
+      "available": 75,
+      "gross": 28400,
+      "occupancy_percent": 65.44
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1458,11 +1470,11 @@
       "date": "2026-02-24T15:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 31,
+      "sold": 71,
       "reserved": 0,
-      "available": 186,
-      "gross": 6200,
-      "occupancy_percent": 14.29
+      "available": 146,
+      "gross": 14200,
+      "occupancy_percent": 32.72
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1478,7 +1490,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -1684,16 +1696,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "157890:pokhara-cineplex",
-      "venue": "pokhara-cineplex",
-      "theatre": "QFX Cinemas Trade Mall - SCREEN 2",
-      "date": "2026-02-24T19:45:00+05:45",
-      "time": "",
-      "seats": 231,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 231,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1916,10 +1930,10 @@
       "time": "",
       "seats": 165,
       "sold": 35,
-      "reserved": 53,
-      "available": 77,
-      "gross": 16700,
-      "occupancy_percent": 53.33
+      "reserved": 79,
+      "available": 51,
+      "gross": 21250,
+      "occupancy_percent": 69.09
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1930,11 +1944,11 @@
       "date": "2026-02-24T13:55:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 30,
-      "reserved": 101,
-      "available": 34,
-      "gross": 23325,
-      "occupancy_percent": 79.39
+      "sold": 44,
+      "reserved": 97,
+      "available": 24,
+      "gross": 25425,
+      "occupancy_percent": 85.45
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1945,11 +1959,11 @@
       "date": "2026-02-24T16:50:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 15,
-      "reserved": 35,
-      "available": 115,
-      "gross": 8750,
-      "occupancy_percent": 30.3
+      "sold": 26,
+      "reserved": 45,
+      "available": 94,
+      "gross": 12425,
+      "occupancy_percent": 43.03
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1975,11 +1989,11 @@
       "date": "2026-02-24T11:00:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 64,
-      "reserved": 76,
-      "available": 25,
-      "gross": 25400,
-      "occupancy_percent": 84.85
+      "sold": 79,
+      "reserved": 71,
+      "available": 15,
+      "gross": 28150,
+      "occupancy_percent": 90.91
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2137,18 +2151,16 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "157894:qfx-civil",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-02-24",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-civil",
+      "theatre": "QFX Civil - AUDI 01",
+      "date": "2026-02-24T15:00:00+05:45",
+      "time": "",
+      "seats": 519,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 519,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2296,11 +2308,11 @@
       "date": "2026-02-24T15:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 0,
+      "sold": 3,
       "reserved": 20,
-      "available": 176,
-      "gross": 4000,
-      "occupancy_percent": 10.2
+      "available": 173,
+      "gross": 4600,
+      "occupancy_percent": 11.73
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2432,10 +2444,10 @@
       "time": "",
       "seats": 177,
       "sold": 0,
-      "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 4,
+      "available": 173,
+      "gross": 800,
+      "occupancy_percent": 2.26
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -2446,11 +2458,11 @@
       "date": "2026-02-24T12:45:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 257,
-      "gross": 500,
-      "occupancy_percent": 0.77
+      "available": 255,
+      "gross": 1000,
+      "occupancy_percent": 1.54
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -2551,11 +2563,11 @@
       "date": "2026-02-24T15:15:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 0,
+      "sold": 1,
       "reserved": 18,
-      "available": 158,
-      "gross": 3600,
-      "occupancy_percent": 10.23
+      "available": 157,
+      "gross": 3800,
+      "occupancy_percent": 10.8
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -2612,10 +2624,10 @@
       "time": "",
       "seats": 89,
       "sold": 0,
-      "reserved": 1,
-      "available": 88,
-      "gross": 200,
-      "occupancy_percent": 1.12
+      "reserved": 0,
+      "available": 89,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -2656,11 +2668,11 @@
       "date": "2026-02-24T17:30:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 176,
+      "gross": 200,
+      "occupancy_percent": 0.56
     },
     {
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
@@ -2713,31 +2725,35 @@
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
       "movie_name": "Crime 101",
       "show_id": "157900:qfx-butwal",
-      "venue": "qfx-butwal",
-      "theatre": "QFX Butwal - AUDI 1",
-      "date": "2026-02-24T18:45:00+05:45",
-      "time": "",
-      "seats": 176,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 176,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
       "movie_name": "Crime 101",
       "show_id": "62262:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Cinemas QBox - Audi 1",
-      "date": "2026-02-24T11:00:00+05:45",
-      "time": "",
-      "seats": 196,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 196,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
@@ -2794,10 +2810,10 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 80,
-      "available": 160,
-      "gross": 16000,
-      "occupancy_percent": 33.33
+      "reserved": 82,
+      "available": 158,
+      "gross": 16400,
+      "occupancy_percent": 34.17
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2869,10 +2885,10 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 0,
-      "available": 240,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 80,
+      "available": 160,
+      "gross": 16000,
+      "occupancy_percent": 33.33
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3033,11 +3049,11 @@
       "date": "2026-02-24T12:00:00+05:45",
       "time": "",
       "seats": 178,
-      "sold": 0,
+      "sold": 4,
       "reserved": 8,
-      "available": 170,
-      "gross": 1600,
-      "occupancy_percent": 4.49
+      "available": 166,
+      "gross": 2400,
+      "occupancy_percent": 6.74
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3168,11 +3184,11 @@
       "date": "2026-02-24T19:45:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 192,
+      "gross": 800,
+      "occupancy_percent": 2.04
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3243,11 +3259,11 @@
       "date": "2026-02-24T10:00:00+05:45",
       "time": "",
       "seats": 270,
-      "sold": 0,
+      "sold": 2,
       "reserved": 50,
-      "available": 220,
-      "gross": 9250,
-      "occupancy_percent": 18.52
+      "available": 218,
+      "gross": 9620,
+      "occupancy_percent": 19.26
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3348,11 +3364,11 @@
       "date": "2026-02-24T12:30:00+05:45",
       "time": "",
       "seats": 172,
-      "sold": 0,
+      "sold": 4,
       "reserved": 8,
-      "available": 164,
-      "gross": 1600,
-      "occupancy_percent": 4.65
+      "available": 160,
+      "gross": 2400,
+      "occupancy_percent": 6.98
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3378,11 +3394,11 @@
       "date": "2026-02-24T11:15:00+05:45",
       "time": "",
       "seats": 203,
-      "sold": 17,
-      "reserved": 3,
-      "available": 183,
-      "gross": 5000,
-      "occupancy_percent": 9.85
+      "sold": 19,
+      "reserved": 0,
+      "available": 184,
+      "gross": 4750,
+      "occupancy_percent": 9.36
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3483,11 +3499,11 @@
       "date": "2026-02-24T15:10:00+05:45",
       "time": "",
       "seats": 178,
-      "sold": 0,
+      "sold": 3,
       "reserved": 8,
-      "available": 170,
-      "gross": 1600,
-      "occupancy_percent": 4.49
+      "available": 167,
+      "gross": 2200,
+      "occupancy_percent": 6.18
     },
     {
       "movie_id": "vk98tTtEdoG2yVbmUsGHTY",
