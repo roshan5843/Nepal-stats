@@ -1,6 +1,6 @@
 {
   "date": "2026-02-23",
-  "lastUpdated": "05:37 PM, 23 February 2026",
+  "lastUpdated": "07:26 PM, 23 February 2026",
   "shows": [
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4012,11 +4012,11 @@
       "date": "2026-02-23T19:45:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 4,
-      "reserved": 15,
-      "available": 161,
-      "gross": 6650,
-      "occupancy_percent": 10.56
+      "sold": 15,
+      "reserved": 0,
+      "available": 165,
+      "gross": 5250,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4072,11 +4072,11 @@
       "date": "2026-02-23T19:45:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 0,
+      "sold": 11,
       "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 185,
+      "gross": 3630,
+      "occupancy_percent": 5.61
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4135,10 +4135,10 @@
       "time": "",
       "seats": 177,
       "sold": 0,
-      "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 176,
+      "gross": 350,
+      "occupancy_percent": 0.56
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -4149,11 +4149,11 @@
       "date": "2026-02-23T20:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 8,
+      "sold": 26,
       "reserved": 0,
-      "available": 188,
-      "gross": 2640,
-      "occupancy_percent": 4.08
+      "available": 170,
+      "gross": 8580,
+      "occupancy_percent": 13.27
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -4164,11 +4164,11 @@
       "date": "2026-02-23T19:45:00+05:45",
       "time": "",
       "seats": 98,
-      "sold": 4,
-      "reserved": 0,
-      "available": 94,
-      "gross": 1340,
-      "occupancy_percent": 4.08
+      "sold": 8,
+      "reserved": 1,
+      "available": 89,
+      "gross": 2820,
+      "occupancy_percent": 9.18
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -4179,62 +4179,56 @@
       "date": "2026-02-23T20:00:00+05:45",
       "time": "",
       "seats": 394,
-      "sold": 8,
+      "sold": 9,
       "reserved": 0,
-      "available": 386,
-      "gross": 3100,
-      "occupancy_percent": 2.03
+      "available": 385,
+      "gross": 3450,
+      "occupancy_percent": 2.28
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "157694:qfx-durbar",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-02-23",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "venue": "qfx-durbar",
+      "theatre": "QFX Durbar - AUDI 02",
+      "date": "2026-02-23T20:00:00+05:45",
+      "time": "",
+      "seats": 51,
+      "sold": 12,
+      "reserved": 3,
+      "available": 36,
+      "gross": 18000,
+      "occupancy_percent": 29.41
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "62190:bishwojyoti-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-02-23",
-      "time": null,
-      "seats": 0,
+      "venue": "bishwojyoti-cineplex",
+      "theatre": "iNi Cinemas - Bishwojyoti - Audi 2",
+      "date": "2026-02-23T19:45:00+05:45",
+      "time": "",
+      "seats": 89,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 89,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "62203:ini-lotse-ktm",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-02-23",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-lotse-ktm",
+      "theatre": "iNi Cinemas Lotse - Audi 2",
+      "date": "2026-02-23T20:00:00+05:45",
+      "time": "",
+      "seats": 240,
       "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "reserved": 40,
+      "available": 200,
+      "gross": 13200,
+      "occupancy_percent": 16.67
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -4245,11 +4239,11 @@
       "date": "2026-02-23T19:45:00+05:45",
       "time": "",
       "seats": 169,
-      "sold": 0,
-      "reserved": 13,
-      "available": 156,
-      "gross": 2575,
-      "occupancy_percent": 7.69
+      "sold": 10,
+      "reserved": 11,
+      "available": 148,
+      "gross": 4500,
+      "occupancy_percent": 12.43
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -4287,18 +4281,16 @@
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
       "movie_name": "Crime 101",
       "show_id": "157690:qfx-durbar",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-02-23",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-durbar",
+      "theatre": "QFX Durbar - AUDI 1",
+      "date": "2026-02-23T20:15:00+05:45",
+      "time": "",
+      "seats": 53,
+      "sold": 2,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 51,
+      "gross": 2400,
+      "occupancy_percent": 3.77
     },
     {
       "movie_id": "Z6uq2mtBgf9WsiYeW8NdEG",
@@ -4309,11 +4301,11 @@
       "date": "2026-02-23T20:00:00+05:45",
       "time": "",
       "seats": 60,
-      "sold": 2,
+      "sold": 4,
       "reserved": 6,
-      "available": 52,
-      "gross": 4000,
-      "occupancy_percent": 13.33
+      "available": 50,
+      "gross": 5000,
+      "occupancy_percent": 16.67
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4339,11 +4331,11 @@
       "date": "2026-02-23T20:30:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 9,
+      "sold": 15,
       "reserved": 0,
-      "available": 199,
-      "gross": 3150,
-      "occupancy_percent": 4.33
+      "available": 193,
+      "gross": 5250,
+      "occupancy_percent": 7.21
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -4354,11 +4346,26 @@
       "date": "2026-02-23T20:30:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 0,
+      "sold": 5,
       "reserved": 6,
-      "available": 224,
-      "gross": 3000,
-      "occupancy_percent": 2.61
+      "available": 219,
+      "gross": 4350,
+      "occupancy_percent": 4.78
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "77857:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI -1",
+      "date": "2026-02-23T21:00:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 8,
+      "reserved": 9,
+      "available": 230,
+      "gross": 5950,
+      "occupancy_percent": 6.88
     }
   ]
 }
