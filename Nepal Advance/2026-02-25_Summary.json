@@ -2,11 +2,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 42,
-    "seats": 7952,
-    "sold": 12,
-    "reserved": 101,
-    "available": 7839,
+    "total_shows": 52,
+    "seats": 10811,
+    "sold": 17,
+    "reserved": 170,
+    "available": 10624,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -52,21 +52,11 @@
       },
       {
         "venue": "qfx-one-stop-mall",
-        "total_shows": 1,
-        "seats": 138,
-        "sold": 0,
-        "reserved": 0,
-        "available": 138,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "Unknown",
         "total_shows": 2,
-        "seats": 0,
+        "seats": 271,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 271,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -91,12 +81,22 @@
         "fastfilling": 0
       },
       {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "ksr-movies",
         "total_shows": 3,
         "seats": 597,
-        "sold": 12,
+        "sold": 13,
         "reserved": 0,
-        "available": 585,
+        "available": 584,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -104,9 +104,9 @@
         "venue": "ini-qbox-butwal",
         "total_shows": 4,
         "seats": 784,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 784,
+        "available": 782,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -139,17 +139,47 @@
         "available": 648,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 3,
+        "seats": 1297,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1297,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 4,
+        "seats": 949,
+        "sold": 2,
+        "reserved": 69,
+        "available": 878,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 3,
+        "seats": 480,
+        "sold": 0,
+        "reserved": 0,
+        "available": 480,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 26,
-    "seats": 3499,
-    "sold": 2,
-    "reserved": 62,
-    "available": 3435,
+    "total_shows": 34,
+    "seats": 5540,
+    "sold": 6,
+    "reserved": 119,
+    "available": 5415,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -158,8 +188,8 @@
         "total_shows": 3,
         "seats": 632,
         "sold": 0,
-        "reserved": 30,
-        "available": 602,
+        "reserved": 33,
+        "available": 599,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -177,9 +207,9 @@
         "venue": "qfx-one-stop-mall",
         "total_shows": 2,
         "seats": 271,
-        "sold": 2,
+        "sold": 6,
         "reserved": 0,
-        "available": 269,
+        "available": 265,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -224,8 +254,18 @@
         "fastfilling": 0
       },
       {
+        "venue": "qfx-durbar",
+        "total_shows": 3,
+        "seats": 157,
+        "sold": 0,
+        "reserved": 0,
+        "available": 157,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "Unknown",
-        "total_shows": 5,
+        "total_shows": 2,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -272,17 +312,47 @@
         "available": 190,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 3,
+        "seats": 777,
+        "sold": 0,
+        "reserved": 0,
+        "available": 777,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 2,
+        "seats": 364,
+        "sold": 0,
+        "reserved": 0,
+        "available": 364,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 3,
+        "seats": 743,
+        "sold": 0,
+        "reserved": 54,
+        "available": 689,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
     "movie_name": "Crime 101",
-    "total_shows": 12,
-    "seats": 1394,
+    "total_shows": 16,
+    "seats": 2222,
     "sold": 0,
-    "reserved": 27,
-    "available": 1367,
+    "reserved": 42,
+    "available": 2180,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -327,12 +397,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 4,
-        "seats": 0,
+        "venue": "qfx-durbar",
+        "total_shows": 2,
+        "seats": 104,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 104,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -343,6 +413,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 89,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 2,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -365,6 +445,36 @@
         "available": 392,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 2,
+        "seats": 258,
+        "sold": 0,
+        "reserved": 0,
+        "available": 258,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 259,
+        "sold": 0,
+        "reserved": 0,
+        "available": 259,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 207,
+        "sold": 0,
+        "reserved": 15,
+        "available": 192,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -374,8 +484,8 @@
     "total_shows": 3,
     "seats": 636,
     "sold": 2,
-    "reserved": 20,
-    "available": 614,
+    "reserved": 25,
+    "available": 609,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -384,8 +494,8 @@
         "total_shows": 2,
         "seats": 396,
         "sold": 2,
-        "reserved": 20,
-        "available": 374,
+        "reserved": 25,
+        "available": 369,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -404,11 +514,11 @@
   {
     "movie_id": "vk98tTtEdoG2yVbmUsGHTY",
     "movie_name": "Wuthering Heights",
-    "total_shows": 1,
-    "seats": 110,
+    "total_shows": 2,
+    "seats": 239,
     "sold": 0,
     "reserved": 0,
-    "available": 110,
+    "available": 239,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -419,6 +529,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 110,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 129,
+        "sold": 0,
+        "reserved": 0,
+        "available": 129,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -471,20 +591,20 @@
     "movie_id": "Z6uq2mtBgf9WsiYeW8NdEG",
     "movie_name": "Tu Yaa Main",
     "total_shows": 1,
-    "seats": 0,
+    "seats": 51,
     "sold": 0,
     "reserved": 0,
-    "available": 0,
+    "available": 51,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "Unknown",
+        "venue": "qfx-durbar",
         "total_shows": 1,
-        "seats": 0,
+        "seats": 51,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 51,
         "housefull": 0,
         "fastfilling": 0
       }
