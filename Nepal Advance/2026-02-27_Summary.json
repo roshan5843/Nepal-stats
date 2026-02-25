@@ -5,8 +5,8 @@
     "total_shows": 20,
     "seats": 3440,
     "sold": 1,
-    "reserved": 56,
-    "available": 3383,
+    "reserved": 58,
+    "available": 3381,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -45,8 +45,8 @@
         "total_shows": 2,
         "seats": 258,
         "sold": 0,
-        "reserved": 0,
-        "available": 258,
+        "reserved": 2,
+        "available": 256,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -165,11 +165,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 36,
-    "seats": 8403,
+    "total_shows": 57,
+    "seats": 12957,
     "sold": 0,
-    "reserved": 125,
-    "available": 8278,
+    "reserved": 168,
+    "available": 12789,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -302,6 +302,76 @@
         "available": 268,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 3,
+        "seats": 720,
+        "sold": 0,
+        "reserved": 0,
+        "available": 720,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 3,
+        "seats": 630,
+        "sold": 0,
+        "reserved": 0,
+        "available": 630,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 4,
+        "seats": 832,
+        "sold": 0,
+        "reserved": 40,
+        "available": 792,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bishwojyoti-cineplex",
+        "total_shows": 3,
+        "seats": 603,
+        "sold": 0,
+        "reserved": 0,
+        "available": 603,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ksr-movies",
+        "total_shows": 3,
+        "seats": 597,
+        "sold": 0,
+        "reserved": 0,
+        "available": 597,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 3,
+        "seats": 588,
+        "sold": 0,
+        "reserved": 3,
+        "available": 585,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-devchuli",
+        "total_shows": 2,
+        "seats": 584,
+        "sold": 0,
+        "reserved": 0,
+        "available": 584,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -311,8 +381,8 @@
     "total_shows": 11,
     "seats": 2157,
     "sold": 1,
-    "reserved": 34,
-    "available": 2122,
+    "reserved": 33,
+    "available": 2123,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -411,8 +481,8 @@
         "total_shows": 1,
         "seats": 207,
         "sold": 0,
-        "reserved": 16,
-        "available": 191,
+        "reserved": 15,
+        "available": 192,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -431,11 +501,11 @@
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 22,
-    "seats": 3641,
+    "total_shows": 32,
+    "seats": 5408,
     "sold": 0,
-    "reserved": 35,
-    "available": 3606,
+    "reserved": 57,
+    "available": 5351,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -566,6 +636,66 @@
         "sold": 0,
         "reserved": 20,
         "available": 176,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 1,
+        "seats": 177,
+        "sold": 0,
+        "reserved": 0,
+        "available": 177,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 2,
+        "seats": 422,
+        "sold": 0,
+        "reserved": 22,
+        "available": 400,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bishwojyoti-cineplex",
+        "total_shows": 2,
+        "seats": 178,
+        "sold": 0,
+        "reserved": 0,
+        "available": 178,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ksr-movies",
+        "total_shows": 1,
+        "seats": 118,
+        "sold": 0,
+        "reserved": 0,
+        "available": 118,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 2,
+        "seats": 392,
+        "sold": 0,
+        "reserved": 0,
+        "available": 392,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 2,
+        "seats": 480,
+        "sold": 0,
+        "reserved": 0,
+        "available": 480,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -718,6 +848,29 @@
         "sold": 0,
         "reserved": 0,
         "available": 132,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
+    "movie_name": "Kumari",
+    "total_shows": 1,
+    "seats": 210,
+    "sold": 0,
+    "reserved": 10,
+    "available": 200,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 210,
+        "sold": 0,
+        "reserved": 10,
+        "available": 200,
         "housefull": 0,
         "fastfilling": 0
       }
