@@ -2,11 +2,11 @@
   {
     "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
     "movie_name": "Scream 7",
-    "total_shows": 3,
-    "seats": 449,
+    "total_shows": 6,
+    "seats": 926,
     "sold": 0,
     "reserved": 20,
-    "available": 429,
+    "available": 906,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -29,17 +29,37 @@
         "available": 53,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 2,
+        "seats": 360,
+        "sold": 0,
+        "reserved": 0,
+        "available": 360,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-skyline",
+        "total_shows": 1,
+        "seats": 117,
+        "sold": 0,
+        "reserved": 0,
+        "available": 117,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 3,
-    "seats": 634,
+    "total_shows": 8,
+    "seats": 1467,
     "sold": 0,
     "reserved": 30,
-    "available": 604,
+    "available": 1437,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -52,17 +72,47 @@
         "available": 604,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 0,
+        "reserved": 0,
+        "available": 182,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 3,
+        "seats": 651,
+        "sold": 0,
+        "reserved": 0,
+        "available": 651,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 3,
-    "seats": 473,
-    "sold": 0,
+    "total_shows": 9,
+    "seats": 1283,
+    "sold": 2,
     "reserved": 20,
-    "available": 453,
+    "available": 1261,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -70,9 +120,9 @@
         "venue": "fcube",
         "total_shows": 2,
         "seats": 422,
-        "sold": 0,
+        "sold": 2,
         "reserved": 20,
-        "available": 402,
+        "available": 400,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -83,6 +133,36 @@
         "sold": 0,
         "reserved": 0,
         "available": 51,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 0,
+        "reserved": 0,
+        "available": 182,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 3,
+        "seats": 378,
+        "sold": 0,
+        "reserved": 0,
+        "available": 378,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-skyline",
+        "total_shows": 2,
+        "seats": 250,
+        "sold": 0,
+        "reserved": 0,
+        "available": 250,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -129,6 +209,75 @@
         "sold": 0,
         "reserved": 10,
         "available": 200,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
+    "movie_name": "Crime 101",
+    "total_shows": 1,
+    "seats": 183,
+    "sold": 0,
+    "reserved": 0,
+    "available": 183,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 183,
+        "sold": 0,
+        "reserved": 0,
+        "available": 183,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "WWGJ4tTPCuF86KDzmJnd27",
+    "movie_name": "Prawasi Jiwan",
+    "total_shows": 1,
+    "seats": 183,
+    "sold": 0,
+    "reserved": 0,
+    "available": 183,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 183,
+        "sold": 0,
+        "reserved": 0,
+        "available": 183,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
+    "movie_name": "Rammita Koo Pirati",
+    "total_shows": 1,
+    "seats": 180,
+    "sold": 0,
+    "reserved": 0,
+    "available": 180,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 0,
+        "reserved": 0,
+        "available": 180,
         "housefull": 0,
         "fastfilling": 0
       }
