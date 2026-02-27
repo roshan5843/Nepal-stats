@@ -3,10 +3,10 @@
     "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
     "movie_name": "Scream 7",
     "total_shows": 14,
-    "seats": 1007,
-    "sold": 0,
+    "seats": 1455,
+    "sold": 2,
     "reserved": 20,
-    "available": 987,
+    "available": 1433,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -21,8 +21,28 @@
         "fastfilling": 0
       },
       {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 53,
+        "sold": 0,
+        "reserved": 0,
+        "available": 53,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 2,
+        "seats": 360,
+        "sold": 0,
+        "reserved": 0,
+        "available": 360,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "Unknown",
-        "total_shows": 9,
+        "total_shows": 6,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -41,22 +61,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "qs-cinemas",
+        "venue": "qfx-civil",
         "total_shows": 1,
-        "seats": 182,
-        "sold": 0,
+        "seats": 259,
+        "sold": 2,
         "reserved": 0,
-        "available": 182,
+        "available": 257,
         "housefull": 0,
         "fastfilling": 0
       },
       {
-        "venue": "qfx-bageshwori",
+        "venue": "qfx-bhaktapur",
         "total_shows": 1,
-        "seats": 290,
+        "seats": 248,
         "sold": 0,
         "reserved": 0,
-        "available": 290,
+        "available": 248,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -66,10 +86,10 @@
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
     "total_shows": 28,
-    "seats": 2817,
+    "seats": 3479,
     "sold": 2,
     "reserved": 31,
-    "available": 2784,
+    "available": 3446,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -84,12 +104,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 13,
-        "seats": 0,
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 182,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -100,6 +120,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 651,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 10,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -125,11 +155,11 @@
       },
       {
         "venue": "qfx-apex-mall",
-        "total_shows": 1,
-        "seats": 240,
+        "total_shows": 3,
+        "seats": 720,
         "sold": 0,
         "reserved": 0,
-        "available": 240,
+        "available": 720,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -149,10 +179,10 @@
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
     "total_shows": 19,
-    "seats": 2038,
-    "sold": 5,
+    "seats": 1831,
+    "sold": 7,
     "reserved": 22,
-    "available": 2011,
+    "available": 1802,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -168,11 +198,21 @@
       },
       {
         "venue": "Unknown",
-        "total_shows": 7,
+        "total_shows": 9,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
         "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 0,
+        "reserved": 0,
+        "available": 182,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -190,29 +230,9 @@
         "venue": "qfx-square-mall",
         "total_shows": 2,
         "seats": 354,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 354,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "qfx-chhaya",
-        "total_shows": 2,
-        "seats": 260,
-        "sold": 0,
-        "reserved": 0,
-        "available": 260,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "qs-cinemas",
-        "total_shows": 1,
-        "seats": 129,
-        "sold": 0,
-        "reserved": 0,
-        "available": 129,
+        "available": 352,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -278,40 +298,20 @@
     "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
     "movie_name": "Crime 101",
     "total_shows": 3,
-    "seats": 294,
+    "seats": 0,
     "sold": 0,
     "reserved": 0,
-    "available": 294,
+    "available": 0,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
         "venue": "Unknown",
-        "total_shows": 1,
+        "total_shows": 3,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
         "available": 0,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "qs-cinemas",
-        "total_shows": 1,
-        "seats": 182,
-        "sold": 0,
-        "reserved": 0,
-        "available": 182,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "qfx-chhaya",
-        "total_shows": 1,
-        "seats": 112,
-        "sold": 0,
-        "reserved": 0,
-        "available": 112,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -321,20 +321,30 @@
     "movie_id": "WWGJ4tTPCuF86KDzmJnd27",
     "movie_name": "Prawasi Jiwan",
     "total_shows": 7,
-    "seats": 248,
+    "seats": 368,
     "sold": 0,
     "reserved": 0,
-    "available": 248,
+    "available": 368,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
         "venue": "Unknown",
-        "total_shows": 6,
+        "total_shows": 5,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
         "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 1,
+        "seats": 120,
+        "sold": 0,
+        "reserved": 0,
+        "available": 120,
         "housefull": 0,
         "fastfilling": 0
       },
