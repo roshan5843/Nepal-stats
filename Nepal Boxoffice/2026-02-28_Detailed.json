@@ -1,6 +1,6 @@
 {
   "date": "2026-02-28",
-  "lastUpdated": "04:58 PM, 28 February 2026",
+  "lastUpdated": "05:27 PM, 28 February 2026",
   "shows": [
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3829,11 +3829,11 @@
       "date": "2026-02-28T17:45:00+05:45",
       "time": "",
       "seats": 98,
-      "sold": 10,
+      "sold": 12,
       "reserved": 0,
-      "available": 88,
-      "gross": 3300,
-      "occupancy_percent": 10.2
+      "available": 86,
+      "gross": 3960,
+      "occupancy_percent": 12.24
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3920,25 +3920,27 @@
       "time": "",
       "seats": 118,
       "sold": 0,
-      "reserved": 2,
-      "available": 116,
-      "gross": 800,
-      "occupancy_percent": 1.69
+      "reserved": 0,
+      "available": 118,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
       "movie_name": "Scream 7",
       "show_id": "158234:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 2",
-      "date": "2026-02-28T18:15:00+05:45",
-      "time": "",
-      "seats": 265,
-      "sold": 2,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-02-28",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 263,
-      "gross": 760,
-      "occupancy_percent": 0.75
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -3983,11 +3985,11 @@
       "date": "2026-02-28T18:15:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 60,
-      "reserved": 27,
-      "available": 125,
-      "gross": 22050,
-      "occupancy_percent": 41.04
+      "sold": 69,
+      "reserved": 0,
+      "available": 143,
+      "gross": 17650,
+      "occupancy_percent": 32.55
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4014,10 +4016,10 @@
       "time": "",
       "seats": 199,
       "sold": 0,
-      "reserved": 3,
-      "available": 196,
-      "gross": 900,
-      "occupancy_percent": 1.51
+      "reserved": 7,
+      "available": 192,
+      "gross": 2100,
+      "occupancy_percent": 3.52
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4045,11 +4047,11 @@
       "date": "2026-02-28T18:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 3,
-      "reserved": 0,
-      "available": 214,
-      "gross": 1200,
-      "occupancy_percent": 1.38
+      "sold": 6,
+      "reserved": 2,
+      "available": 209,
+      "gross": 3200,
+      "occupancy_percent": 3.69
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4065,7 +4067,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -4092,11 +4094,11 @@
       "date": "2026-02-28T18:00:00+05:45",
       "time": "",
       "seats": 171,
-      "sold": 5,
+      "sold": 9,
       "reserved": 0,
-      "available": 166,
-      "gross": 1250,
-      "occupancy_percent": 2.92
+      "available": 162,
+      "gross": 2250,
+      "occupancy_percent": 5.26
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4122,11 +4124,11 @@
       "date": "2026-02-28T18:00:00+05:45",
       "time": "",
       "seats": 136,
-      "sold": 21,
-      "reserved": 1,
-      "available": 114,
-      "gross": 9680,
-      "occupancy_percent": 16.18
+      "sold": 10,
+      "reserved": 0,
+      "available": 126,
+      "gross": 4400,
+      "occupancy_percent": 7.35
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4154,11 +4156,11 @@
       "date": "2026-02-28T18:00:00+05:45",
       "time": "",
       "seats": 169,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 169,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 164,
+      "gross": 1250,
+      "occupancy_percent": 2.96
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -4186,11 +4188,11 @@
       "date": "2026-02-28T18:15:00+05:45",
       "time": "",
       "seats": 150,
-      "sold": 8,
+      "sold": 10,
       "reserved": 0,
-      "available": 142,
-      "gross": 4480,
-      "occupancy_percent": 5.33
+      "available": 140,
+      "gross": 5600,
+      "occupancy_percent": 6.67
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -4201,11 +4203,11 @@
       "date": "2026-02-28T18:15:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 8,
+      "sold": 16,
       "reserved": 0,
-      "available": 251,
-      "gross": 3520,
-      "occupancy_percent": 3.09
+      "available": 243,
+      "gross": 7150,
+      "occupancy_percent": 6.18
     },
     {
       "movie_id": "Z6uq2mtBgf9WsiYeW8NdEG",
@@ -4248,11 +4250,11 @@
       "date": "2026-02-28T18:30:00+05:45",
       "time": "",
       "seats": 110,
-      "sold": 14,
-      "reserved": 4,
-      "available": 92,
-      "gross": 8640,
-      "occupancy_percent": 16.36
+      "sold": 16,
+      "reserved": 3,
+      "available": 91,
+      "gross": 9120,
+      "occupancy_percent": 17.27
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -4312,11 +4314,11 @@
       "date": "2026-02-28T18:30:00+05:45",
       "time": "",
       "seats": 240,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 240,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 237,
+      "gross": 1200,
+      "occupancy_percent": 1.25
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4327,11 +4329,11 @@
       "date": "2026-02-28T18:30:00+05:45",
       "time": "",
       "seats": 285,
-      "sold": 12,
+      "sold": 19,
       "reserved": 0,
-      "available": 273,
-      "gross": 3600,
-      "occupancy_percent": 4.21
+      "available": 266,
+      "gross": 5700,
+      "occupancy_percent": 6.67
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4343,10 +4345,10 @@
       "time": "",
       "seats": 196,
       "sold": 11,
-      "reserved": 36,
-      "available": 149,
-      "gross": 15510,
-      "occupancy_percent": 23.98
+      "reserved": 38,
+      "available": 147,
+      "gross": 16170,
+      "occupancy_percent": 25.0
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4357,11 +4359,11 @@
       "date": "2026-02-28T18:45:00+05:45",
       "time": "",
       "seats": 204,
-      "sold": 64,
+      "sold": 68,
       "reserved": 0,
-      "available": 140,
-      "gross": 19200,
-      "occupancy_percent": 31.37
+      "available": 136,
+      "gross": 20400,
+      "occupancy_percent": 33.33
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4382,18 +4384,16 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "158279:qfx-square-mall",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-02-28",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 2",
+      "date": "2026-02-28T18:30:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 26,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 139,
+      "gross": 10660,
+      "occupancy_percent": 15.76
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4404,11 +4404,11 @@
       "date": "2026-02-28T18:30:00+05:45",
       "time": "",
       "seats": 292,
-      "sold": 10,
+      "sold": 12,
       "reserved": 0,
-      "available": 282,
-      "gross": 3500,
-      "occupancy_percent": 3.42
+      "available": 280,
+      "gross": 4200,
+      "occupancy_percent": 4.11
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4449,11 +4449,11 @@
       "date": "2026-02-28T18:30:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 21,
-      "reserved": 10,
-      "available": 107,
-      "gross": 8680,
-      "occupancy_percent": 22.46
+      "sold": 26,
+      "reserved": 0,
+      "available": 112,
+      "gross": 7280,
+      "occupancy_percent": 18.84
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4545,11 +4545,11 @@
       "date": "2026-02-28T19:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 0,
+      "sold": 2,
       "reserved": 15,
-      "available": 165,
-      "gross": 3000,
-      "occupancy_percent": 8.33
+      "available": 163,
+      "gross": 3400,
+      "occupancy_percent": 9.44
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4560,11 +4560,11 @@
       "date": "2026-02-28T19:00:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 3,
+      "sold": 6,
       "reserved": 0,
-      "available": 211,
-      "gross": 900,
-      "occupancy_percent": 1.4
+      "available": 208,
+      "gross": 1800,
+      "occupancy_percent": 2.8
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4590,11 +4590,11 @@
       "date": "2026-02-28T19:00:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 46,
-      "reserved": 24,
-      "available": 73,
-      "gross": 17500,
-      "occupancy_percent": 48.95
+      "sold": 52,
+      "reserved": 23,
+      "available": 68,
+      "gross": 18750,
+      "occupancy_percent": 52.45
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4620,11 +4620,11 @@
       "date": "2026-02-28T19:00:00+05:45",
       "time": "",
       "seats": 190,
-      "sold": 5,
+      "sold": 6,
       "reserved": 0,
-      "available": 185,
-      "gross": 1400,
-      "occupancy_percent": 2.63
+      "available": 184,
+      "gross": 1680,
+      "occupancy_percent": 3.16
     },
     {
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
@@ -4680,11 +4680,11 @@
       "date": "2026-02-28T19:00:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 7,
-      "reserved": 21,
-      "available": 251,
-      "gross": 9800,
-      "occupancy_percent": 10.04
+      "sold": 9,
+      "reserved": 0,
+      "available": 270,
+      "gross": 3150,
+      "occupancy_percent": 3.23
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -4725,11 +4725,11 @@
       "date": "2026-02-28T19:30:00+05:45",
       "time": "",
       "seats": 126,
-      "sold": 11,
+      "sold": 13,
       "reserved": 0,
-      "available": 115,
-      "gross": 4400,
-      "occupancy_percent": 8.73
+      "available": 113,
+      "gross": 5200,
+      "occupancy_percent": 10.32
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4849,11 +4849,11 @@
       "date": "2026-02-28T19:30:00+05:45",
       "time": "",
       "seats": 190,
-      "sold": 0,
+      "sold": 6,
       "reserved": 0,
-      "available": 190,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 184,
+      "gross": 1200,
+      "occupancy_percent": 3.16
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4927,10 +4927,10 @@
       "time": "",
       "seats": 240,
       "sold": 2,
-      "reserved": 81,
-      "available": 157,
-      "gross": 33200,
-      "occupancy_percent": 34.58
+      "reserved": 80,
+      "available": 158,
+      "gross": 32800,
+      "occupancy_percent": 34.17
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -4988,11 +4988,11 @@
       "date": "2026-02-28T19:30:00+05:45",
       "time": "",
       "seats": 60,
-      "sold": 0,
+      "sold": 2,
       "reserved": 11,
-      "available": 49,
-      "gross": 7150,
-      "occupancy_percent": 18.33
+      "available": 47,
+      "gross": 8450,
+      "occupancy_percent": 21.67
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -5096,10 +5096,10 @@
       "time": "",
       "seats": 118,
       "sold": 0,
-      "reserved": 0,
-      "available": 118,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 3,
+      "available": 115,
+      "gross": 1200,
+      "occupancy_percent": 2.54
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -5126,10 +5126,10 @@
       "time": "",
       "seats": 394,
       "sold": 0,
-      "reserved": 0,
-      "available": 394,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 393,
+      "gross": 350,
+      "occupancy_percent": 0.25
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -5175,6 +5175,81 @@
       "sold": 0,
       "reserved": 0,
       "available": 181,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
+      "movie_name": "Scream 7",
+      "show_id": "74618:city-cinema",
+      "venue": "city-cinema",
+      "theatre": "City Cinema - HALL B",
+      "date": "2026-02-28T20:30:00+05:45",
+      "time": "",
+      "seats": 98,
+      "sold": 0,
+      "reserved": 0,
+      "available": 98,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "3475:kawaswoti-cinemax",
+      "venue": "kawaswoti-cinemax",
+      "theatre": "Kawaswoti Cinemax - Audi-1",
+      "date": "2026-02-28T20:30:00+05:45",
+      "time": "",
+      "seats": 258,
+      "sold": 2,
+      "reserved": 0,
+      "available": 256,
+      "gross": 500,
+      "occupancy_percent": 0.78
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "74613:city-cinema",
+      "venue": "city-cinema",
+      "theatre": "City Cinema - HALL A",
+      "date": "2026-02-28T20:20:00+05:45",
+      "time": "",
+      "seats": 189,
+      "sold": 0,
+      "reserved": 0,
+      "available": 189,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "WWGJ4tTPCuF86KDzmJnd27",
+      "movie_name": "Prawasi Jiwan",
+      "show_id": "shw_b81bLxI3WG8IZu9Bt9mV69:sk-cinemas",
+      "venue": "sk-cinemas",
+      "theatre": "SK Cinemas - Audi 1",
+      "date": "2026-02-28T20:30:00+05:45",
+      "time": "",
+      "seats": 258,
+      "sold": 0,
+      "reserved": 54,
+      "available": 204,
+      "gross": 16200,
+      "occupancy_percent": 20.93
+    },
+    {
+      "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
+      "movie_name": "Rammita Koo Pirati",
+      "show_id": "39269:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi - 3",
+      "date": "2026-02-28T20:30:00+05:45",
+      "time": "",
+      "seats": 164,
+      "sold": 0,
+      "reserved": 0,
+      "available": 164,
       "gross": 0,
       "occupancy_percent": 0.0
     }
