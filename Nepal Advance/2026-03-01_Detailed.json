@@ -1,6 +1,6 @@
 {
   "date": "2026-03-01",
-  "lastUpdated": "08:04 PM, 28 February 2026",
+  "lastUpdated": "10:09 PM, 28 February 2026",
   "shows": [
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -119,10 +119,10 @@
       "time": "",
       "seats": 212,
       "sold": 2,
-      "reserved": 12,
-      "available": 198,
-      "gross": 3500,
-      "occupancy_percent": 6.6
+      "reserved": 14,
+      "available": 196,
+      "gross": 4100,
+      "occupancy_percent": 7.55
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -145,16 +145,18 @@
       "movie_id": "Z6uq2mtBgf9WsiYeW8NdEG",
       "movie_name": "Tu Yaa Main",
       "show_id": "158380:qfx-durbar",
-      "venue": "qfx-durbar",
-      "theatre": "QFX Durbar - AUDI 1",
-      "date": "2026-03-01T14:00:00+05:45",
-      "time": "",
-      "seats": 53,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 53,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
@@ -180,11 +182,11 @@
       "date": "2026-03-01T15:30:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 178,
-      "gross": 960,
-      "occupancy_percent": 1.11
+      "available": 176,
+      "gross": 1920,
+      "occupancy_percent": 2.22
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -195,11 +197,11 @@
       "date": "2026-03-01T18:15:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 178,
+      "gross": 960,
+      "occupancy_percent": 1.11
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -227,11 +229,11 @@
       "date": "2026-03-01T17:45:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 29,
+      "sold": 34,
       "reserved": 0,
-      "available": 153,
-      "gross": 4350,
-      "occupancy_percent": 15.93
+      "available": 148,
+      "gross": 5100,
+      "occupancy_percent": 18.68
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -243,10 +245,10 @@
       "time": "",
       "seats": 217,
       "sold": 7,
-      "reserved": 4,
-      "available": 206,
-      "gross": 4400,
-      "occupancy_percent": 5.07
+      "reserved": 0,
+      "available": 210,
+      "gross": 2800,
+      "occupancy_percent": 3.23
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -381,11 +383,11 @@
       "date": "2026-03-01T13:30:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 133,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 129,
+      "gross": 600,
+      "occupancy_percent": 3.01
     },
     {
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
@@ -429,10 +431,10 @@
       "time": "",
       "seats": 183,
       "sold": 9,
-      "reserved": 1,
-      "available": 173,
-      "gross": 1500,
-      "occupancy_percent": 5.46
+      "reserved": 0,
+      "available": 174,
+      "gross": 1350,
+      "occupancy_percent": 4.92
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -470,16 +472,18 @@
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
       "movie_name": "Scream 7",
       "show_id": "158326:qs-cinemas",
-      "venue": "qs-cinemas",
-      "theatre": "QFX Rising Mall - Audi 01",
-      "date": "2026-03-01T13:00:00+05:45",
-      "time": "",
-      "seats": 182,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 182,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -490,11 +494,11 @@
       "date": "2026-03-01T12:00:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 6,
+      "sold": 8,
       "reserved": 0,
-      "available": 253,
-      "gross": 2640,
-      "occupancy_percent": 2.32
+      "available": 251,
+      "gross": 3520,
+      "occupancy_percent": 3.09
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -628,16 +632,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "158474:qfx-apex-mall",
-      "venue": "qfx-apex-mall",
-      "theatre": "QFX Apex Mall, Damauli - AUDI 2",
-      "date": "2026-03-01T12:00:00+05:45",
-      "time": "",
-      "seats": 240,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 240,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -768,7 +774,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -792,21 +798,6 @@
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "158329:qs-cinemas",
-      "venue": "qs-cinemas",
-      "theatre": "QFX Rising Mall - Audi 2",
-      "date": "2026-03-01T14:00:00+05:45",
-      "time": "",
-      "seats": 129,
-      "sold": 0,
-      "reserved": 0,
-      "available": 129,
-      "gross": 0,
-      "occupancy_percent": 0.0
-    },
-    {
-      "movie_id": "AUydcYx3SExYufvZtmZkUE",
-      "movie_name": "O Romeo",
-      "show_id": "158459:qfx-chhaya",
       "venue": null,
       "theatre": null,
       "date": "2026-03-01",
@@ -823,17 +814,36 @@
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
-      "show_id": "158330:qs-cinemas",
-      "venue": "qs-cinemas",
-      "theatre": "QFX Rising Mall - Audi 2",
-      "date": "2026-03-01T17:30:00+05:45",
-      "time": "",
-      "seats": 129,
+      "show_id": "158459:qfx-chhaya",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 1,
-      "available": 128,
-      "gross": 330,
-      "occupancy_percent": 0.78
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "158330:qs-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-01",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -854,16 +864,18 @@
       "movie_id": "vk98tTtEdoG2yVbmUsGHTY",
       "movie_name": "Wuthering Heights",
       "show_id": "158327:qs-cinemas",
-      "venue": "qs-cinemas",
-      "theatre": "QFX Rising Mall - Audi 01",
-      "date": "2026-03-01T15:30:00+05:45",
-      "time": "",
-      "seats": 182,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 182,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "vk98tTtEdoG2yVbmUsGHTY",
@@ -886,16 +898,18 @@
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
       "movie_name": "Crime 101",
       "show_id": "158328:qs-cinemas",
-      "venue": "qs-cinemas",
-      "theatre": "QFX Rising Mall - Audi 01",
-      "date": "2026-03-01T18:15:00+05:45",
-      "time": "",
-      "seats": 182,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 182,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
@@ -971,10 +985,10 @@
       "time": "",
       "seats": 259,
       "sold": 0,
-      "reserved": 0,
-      "available": 259,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 258,
+      "gross": 150,
+      "occupancy_percent": 0.39
     },
     {
       "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
@@ -997,18 +1011,16 @@
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
       "movie_name": "Scream 7",
       "show_id": "158421:qfx-bhaktapur",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-03-01",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 3",
+      "date": "2026-03-01T12:00:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 2,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 245,
+      "gross": 880,
+      "occupancy_percent": 0.81
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -1056,7 +1068,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -1147,8 +1159,8 @@
       "date": "2026-03-01T12:00:00+05:45",
       "time": "",
       "seats": 290,
-      "sold": 0,
-      "reserved": 2,
+      "sold": 2,
+      "reserved": 0,
       "available": 288,
       "gross": 300,
       "occupancy_percent": 0.69
@@ -1273,11 +1285,11 @@
       "date": "2026-03-01T12:00:00+05:45",
       "time": "",
       "seats": 203,
-      "sold": 17,
-      "reserved": 0,
-      "available": 186,
-      "gross": 7650,
-      "occupancy_percent": 8.37
+      "sold": 0,
+      "reserved": 3,
+      "available": 200,
+      "gross": 1350,
+      "occupancy_percent": 1.48
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1588,11 +1600,11 @@
       "date": "2026-03-01T11:30:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 17,
+      "sold": 0,
       "reserved": 0,
-      "available": 191,
-      "gross": 7650,
-      "occupancy_percent": 8.17
+      "available": 208,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -1708,11 +1720,11 @@
       "date": "2026-03-01T11:00:00+05:45",
       "time": "",
       "seats": 67,
-      "sold": 11,
+      "sold": 5,
       "reserved": 0,
-      "available": 56,
-      "gross": 7250,
-      "occupancy_percent": 16.42
+      "available": 62,
+      "gross": 2750,
+      "occupancy_percent": 7.46
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -1738,11 +1750,11 @@
       "date": "2026-03-01T10:00:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 4,
+      "sold": 6,
       "reserved": 2,
-      "available": 273,
-      "gross": 1110,
-      "occupancy_percent": 2.15
+      "available": 271,
+      "gross": 1480,
+      "occupancy_percent": 2.87
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -1859,10 +1871,10 @@
       "time": "",
       "seats": 196,
       "sold": 2,
-      "reserved": 0,
-      "available": 194,
-      "gross": 540,
-      "occupancy_percent": 1.02
+      "reserved": 2,
+      "available": 192,
+      "gross": 1080,
+      "occupancy_percent": 2.04
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -1903,11 +1915,11 @@
       "date": "2026-03-01T15:30:00+05:45",
       "time": "",
       "seats": 67,
-      "sold": 8,
+      "sold": 10,
       "reserved": 0,
-      "available": 59,
-      "gross": 5600,
-      "occupancy_percent": 11.94
+      "available": 57,
+      "gross": 6700,
+      "occupancy_percent": 14.93
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -2240,7 +2252,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -2262,16 +2274,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "158482:pokhara-cineplex",
-      "venue": "pokhara-cineplex",
-      "theatre": "QFX Cinemas Trade Mall - SCREEN 1",
-      "date": "2026-03-01T12:00:00+05:45",
-      "time": "",
-      "seats": 342,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 342,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2438,11 +2452,11 @@
       "date": "2026-03-01T13:15:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 349,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 347,
+      "gross": 800,
+      "occupancy_percent": 0.57
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -2453,11 +2467,11 @@
       "date": "2026-03-01T10:00:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 349,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 345,
+      "gross": 740,
+      "occupancy_percent": 1.15
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -2651,10 +2665,10 @@
       "time": "",
       "seats": 196,
       "sold": 2,
-      "reserved": 0,
-      "available": 194,
-      "gross": 540,
-      "occupancy_percent": 1.02
+      "reserved": 3,
+      "available": 191,
+      "gross": 1350,
+      "occupancy_percent": 2.55
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3114,31 +3128,35 @@
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "158508:pokhara-cineplex",
-      "venue": "pokhara-cineplex",
-      "theatre": "QFX Cinemas Trade Mall - SCREEN 2",
-      "date": "2026-03-01T17:00:00+05:45",
-      "time": "",
-      "seats": 231,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 231,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "158507:pokhara-cineplex",
-      "venue": "pokhara-cineplex",
-      "theatre": "QFX Cinemas Trade Mall - SCREEN 2",
-      "date": "2026-03-01T13:15:00+05:45",
-      "time": "",
-      "seats": 231,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 231,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3540,11 +3558,11 @@
       "date": "2026-03-01T14:00:00+05:45",
       "time": "",
       "seats": 169,
-      "sold": 10,
+      "sold": 12,
       "reserved": 10,
-      "available": 149,
-      "gross": 6400,
-      "occupancy_percent": 11.83
+      "available": 147,
+      "gross": 7000,
+      "occupancy_percent": 13.02
     },
     {
       "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
@@ -3706,10 +3724,10 @@
       "time": "",
       "seats": 230,
       "sold": 0,
-      "reserved": 6,
-      "available": 224,
-      "gross": 3300,
-      "occupancy_percent": 2.61
+      "reserved": 7,
+      "available": 223,
+      "gross": 3630,
+      "occupancy_percent": 3.04
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
