@@ -2,11 +2,11 @@
   {
     "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
     "movie_name": "Scream 7",
-    "total_shows": 20,
-    "seats": 3188,
+    "total_shows": 24,
+    "seats": 3542,
     "sold": 6,
-    "reserved": 47,
-    "available": 3135,
+    "reserved": 112,
+    "available": 3424,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -85,8 +85,8 @@
         "total_shows": 1,
         "seats": 177,
         "sold": 0,
-        "reserved": 1,
-        "available": 176,
+        "reserved": 0,
+        "available": 177,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -95,8 +95,8 @@
         "total_shows": 1,
         "seats": 240,
         "sold": 0,
-        "reserved": 0,
-        "available": 240,
+        "reserved": 60,
+        "available": 180,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -179,17 +179,37 @@
         "available": 133,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "city-cinema",
+        "total_shows": 3,
+        "seats": 294,
+        "sold": 0,
+        "reserved": 0,
+        "available": 294,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 6,
+        "available": 54,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 92,
-    "seats": 18940,
-    "sold": 155,
-    "reserved": 165,
-    "available": 18620,
+    "total_shows": 98,
+    "seats": 20215,
+    "sold": 182,
+    "reserved": 280,
+    "available": 19753,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -197,9 +217,9 @@
         "venue": "fcube",
         "total_shows": 3,
         "seats": 634,
-        "sold": 4,
+        "sold": 7,
         "reserved": 34,
-        "available": 596,
+        "available": 593,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -227,9 +247,9 @@
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 3,
         "seats": 478,
-        "sold": 40,
+        "sold": 44,
         "reserved": 0,
-        "available": 438,
+        "available": 434,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -287,9 +307,9 @@
         "venue": "one-cinemas-kalimati",
         "total_shows": 2,
         "seats": 272,
-        "sold": 33,
+        "sold": 36,
         "reserved": 0,
-        "available": 239,
+        "available": 236,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -308,8 +328,8 @@
         "total_shows": 3,
         "seats": 657,
         "sold": 0,
-        "reserved": 6,
-        "available": 651,
+        "reserved": 0,
+        "available": 657,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -328,8 +348,8 @@
         "total_shows": 3,
         "seats": 720,
         "sold": 0,
-        "reserved": 0,
-        "available": 720,
+        "reserved": 120,
+        "available": 600,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -357,9 +377,9 @@
         "venue": "ranjana-cineplex",
         "total_shows": 2,
         "seats": 328,
-        "sold": 0,
+        "sold": 3,
         "reserved": 0,
-        "available": 328,
+        "available": 325,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -398,8 +418,8 @@
         "total_shows": 2,
         "seats": 363,
         "sold": 16,
-        "reserved": 0,
-        "available": 347,
+        "reserved": 1,
+        "available": 346,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -457,9 +477,9 @@
         "venue": "cineroyale",
         "total_shows": 3,
         "seats": 651,
-        "sold": 0,
+        "sold": 3,
         "reserved": 0,
-        "available": 651,
+        "available": 648,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -507,9 +527,9 @@
         "venue": "midtown",
         "total_shows": 3,
         "seats": 522,
-        "sold": 0,
+        "sold": 7,
         "reserved": 24,
-        "available": 498,
+        "available": 491,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -517,9 +537,9 @@
         "venue": "dmax-cinemas",
         "total_shows": 2,
         "seats": 260,
-        "sold": 0,
+        "sold": 4,
         "reserved": 0,
-        "available": 260,
+        "available": 256,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -562,6 +582,26 @@
         "available": 788,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "city-cinema",
+        "total_shows": 2,
+        "seats": 287,
+        "sold": 0,
+        "reserved": 0,
+        "available": 287,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "vfx-cinemas",
+        "total_shows": 4,
+        "seats": 988,
+        "sold": 0,
+        "reserved": 0,
+        "available": 988,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -601,11 +641,11 @@
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 46,
-    "seats": 8117,
-    "sold": 76,
-    "reserved": 77,
-    "available": 7964,
+    "total_shows": 49,
+    "seats": 8555,
+    "sold": 84,
+    "reserved": 81,
+    "available": 8390,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -683,9 +723,9 @@
         "venue": "qs-cinemas",
         "total_shows": 2,
         "seats": 258,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 258,
+        "available": 256,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -733,9 +773,9 @@
         "venue": "qfx-civil",
         "total_shows": 2,
         "seats": 518,
-        "sold": 0,
+        "sold": 3,
         "reserved": 0,
-        "available": 518,
+        "available": 515,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -754,8 +794,8 @@
         "total_shows": 2,
         "seats": 392,
         "sold": 1,
-        "reserved": 1,
-        "available": 390,
+        "reserved": 0,
+        "available": 391,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -763,9 +803,9 @@
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 182,
-        "sold": 5,
-        "reserved": 1,
-        "available": 176,
+        "sold": 8,
+        "reserved": 0,
+        "available": 174,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -916,6 +956,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 394,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "city-cinema",
+        "total_shows": 2,
+        "seats": 378,
+        "sold": 0,
+        "reserved": 0,
+        "available": 378,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 6,
+        "available": 54,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1156,11 +1216,11 @@
   {
     "movie_id": "Z6uq2mtBgf9WsiYeW8NdEG",
     "movie_name": "Tu Yaa Main",
-    "total_shows": 1,
-    "seats": 53,
+    "total_shows": 3,
+    "seats": 391,
     "sold": 0,
-    "reserved": 0,
-    "available": 53,
+    "reserved": 15,
+    "available": 376,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1173,6 +1233,16 @@
         "available": 53,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 2,
+        "seats": 338,
+        "sold": 0,
+        "reserved": 15,
+        "available": 323,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -1182,8 +1252,8 @@
     "total_shows": 1,
     "seats": 143,
     "sold": 0,
-    "reserved": 0,
-    "available": 143,
+    "reserved": 1,
+    "available": 142,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1192,8 +1262,8 @@
         "total_shows": 1,
         "seats": 143,
         "sold": 0,
-        "reserved": 0,
-        "available": 143,
+        "reserved": 1,
+        "available": 142,
         "housefull": 0,
         "fastfilling": 0
       }
