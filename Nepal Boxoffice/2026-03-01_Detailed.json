@@ -1,6 +1,6 @@
 {
   "date": "2026-03-01",
-  "lastUpdated": "07:14 PM, 01 March 2026",
+  "lastUpdated": "07:31 PM, 01 March 2026",
   "shows": [
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -4034,16 +4034,18 @@
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
       "movie_name": "Scream 7",
       "show_id": "74625:city-cinema",
-      "venue": "city-cinema",
-      "theatre": "City Cinema - HALL B",
-      "date": "2026-03-01T19:45:00+05:45",
-      "time": "",
-      "seats": 98,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 98,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -4205,10 +4207,10 @@
       "time": "",
       "seats": 189,
       "sold": 0,
-      "reserved": 0,
-      "available": 189,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 10,
+      "available": 179,
+      "gross": 5940,
+      "occupancy_percent": 5.29
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -4219,11 +4221,11 @@
       "date": "2026-03-01T20:00:00+05:45",
       "time": "",
       "seats": 394,
-      "sold": 3,
+      "sold": 5,
       "reserved": 0,
-      "available": 391,
-      "gross": 1050,
-      "occupancy_percent": 0.76
+      "available": 389,
+      "gross": 1750,
+      "occupancy_percent": 1.27
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
