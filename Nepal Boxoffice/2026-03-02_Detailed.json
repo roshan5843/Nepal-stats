@@ -1,6 +1,6 @@
 {
   "date": "2026-03-02",
-  "lastUpdated": "05:31 PM, 02 March 2026",
+  "lastUpdated": "06:52 PM, 02 March 2026",
   "shows": [
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -2908,11 +2908,11 @@
       "date": "2026-03-02T19:15:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 6,
-      "reserved": 0,
-      "available": 190,
-      "gross": 1980,
-      "occupancy_percent": 3.06
+      "sold": 15,
+      "reserved": 30,
+      "available": 151,
+      "gross": 14850,
+      "occupancy_percent": 22.96
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3058,11 +3058,11 @@
       "date": "2026-03-02T19:15:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
+      "sold": 7,
       "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 170,
+      "gross": 2450,
+      "occupancy_percent": 3.95
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3193,11 +3193,11 @@
       "date": "2026-03-02T19:30:00+05:45",
       "time": "",
       "seats": 89,
-      "sold": 6,
+      "sold": 14,
       "reserved": 0,
-      "available": 83,
-      "gross": 1800,
-      "occupancy_percent": 6.74
+      "available": 75,
+      "gross": 4200,
+      "occupancy_percent": 15.73
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3223,11 +3223,11 @@
       "date": "2026-03-02T19:30:00+05:45",
       "time": "",
       "seats": 240,
-      "sold": 0,
+      "sold": 7,
       "reserved": 60,
-      "available": 180,
-      "gross": 19800,
-      "occupancy_percent": 25.0
+      "available": 173,
+      "gross": 22110,
+      "occupancy_percent": 27.92
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3254,10 +3254,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 43,
+      "available": 153,
+      "gross": 14190,
+      "occupancy_percent": 21.94
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3268,26 +3268,28 @@
       "date": "2026-03-02T20:45:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 0,
+      "sold": 5,
       "reserved": 13,
-      "available": 152,
-      "gross": 4550,
-      "occupancy_percent": 7.88
+      "available": 147,
+      "gross": 6300,
+      "occupancy_percent": 10.91
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "27680:central-multiplex",
-      "venue": "central-multiplex",
-      "theatre": "Central Multiplex - Screen 2",
-      "date": "2026-03-02T20:15:00+05:45",
-      "time": "",
-      "seats": 230,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-02",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 6,
-      "available": 224,
-      "gross": 3000,
-      "occupancy_percent": 2.61
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     }
   ]
 }
