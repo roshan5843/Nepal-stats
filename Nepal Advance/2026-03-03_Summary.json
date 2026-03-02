@@ -4,9 +4,9 @@
     "movie_name": "Scream 7",
     "total_shows": 17,
     "seats": 2861,
-    "sold": 14,
-    "reserved": 33,
-    "available": 2814,
+    "sold": 17,
+    "reserved": 43,
+    "available": 2801,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,8 +15,8 @@
         "total_shows": 1,
         "seats": 198,
         "sold": 0,
-        "reserved": 17,
-        "available": 181,
+        "reserved": 25,
+        "available": 173,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -65,8 +65,8 @@
         "total_shows": 1,
         "seats": 279,
         "sold": 0,
-        "reserved": 0,
-        "available": 279,
+        "reserved": 2,
+        "available": 277,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -94,9 +94,9 @@
         "venue": "qfx-civil",
         "total_shows": 1,
         "seats": 259,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 259,
+        "available": 257,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -134,9 +134,9 @@
         "venue": "midtown",
         "total_shows": 2,
         "seats": 356,
-        "sold": 1,
+        "sold": 2,
         "reserved": 16,
-        "available": 339,
+        "available": 338,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -155,13 +155,13 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 76,
-    "seats": 16223,
-    "sold": 200,
+    "total_shows": 79,
+    "seats": 16715,
+    "sold": 224,
     "reserved": 204,
-    "available": 15819,
+    "available": 16287,
     "housefull": 0,
-    "fastfilling": 0,
+    "fastfilling": 1,
     "venues": [
       {
         "venue": "bsr-movies",
@@ -195,21 +195,31 @@
       },
       {
         "venue": "vfx-cinemas",
-        "total_shows": 5,
-        "seats": 825,
-        "sold": 76,
+        "total_shows": 4,
+        "seats": 660,
+        "sold": 92,
         "reserved": 74,
-        "available": 675,
+        "available": 494,
         "housefull": 0,
-        "fastfilling": 0
+        "fastfilling": 1
       },
       {
         "venue": "qfx-bhaktapur",
         "total_shows": 3,
         "seats": 621,
-        "sold": 7,
+        "sold": 9,
         "reserved": 0,
-        "available": 614,
+        "available": 612,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -407,9 +417,9 @@
         "venue": "midtown",
         "total_shows": 3,
         "seats": 516,
-        "sold": 2,
+        "sold": 8,
         "reserved": 24,
-        "available": 490,
+        "available": 484,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -432,17 +442,27 @@
         "available": 788,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "chitwan-cineplex",
+        "total_shows": 3,
+        "seats": 657,
+        "sold": 0,
+        "reserved": 0,
+        "available": 657,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 45,
-    "seats": 8953,
-    "sold": 97,
-    "reserved": 65,
-    "available": 8791,
+    "total_shows": 47,
+    "seats": 9239,
+    "sold": 99,
+    "reserved": 66,
+    "available": 9074,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -630,9 +650,9 @@
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 182,
-        "sold": 2,
-        "reserved": 0,
-        "available": 180,
+        "sold": 4,
+        "reserved": 1,
+        "available": 177,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -693,6 +713,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 288,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "chitwan-cineplex",
+        "total_shows": 2,
+        "seats": 286,
+        "sold": 0,
+        "reserved": 0,
+        "available": 286,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -776,9 +806,9 @@
     "movie_name": "Rammita Koo Pirati",
     "total_shows": 7,
     "seats": 1053,
-    "sold": 14,
+    "sold": 16,
     "reserved": 0,
-    "available": 1039,
+    "available": 1037,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -836,9 +866,9 @@
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 183,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 183,
+        "available": 181,
         "housefull": 0,
         "fastfilling": 0
       },

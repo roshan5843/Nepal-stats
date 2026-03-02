@@ -1,6 +1,6 @@
 {
   "date": "2026-03-03",
-  "lastUpdated": "12:38 PM, 02 March 2026",
+  "lastUpdated": "02:25 PM, 02 March 2026",
   "shows": [
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -12,10 +12,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 17,
-      "available": 181,
-      "gross": 4080,
-      "occupancy_percent": 8.59
+      "reserved": 25,
+      "available": 173,
+      "gross": 6000,
+      "occupancy_percent": 12.63
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -236,11 +236,11 @@
       "date": "2026-03-03T15:55:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 16,
+      "sold": 30,
       "reserved": 14,
-      "available": 135,
-      "gross": 5250,
-      "occupancy_percent": 18.18
+      "available": 121,
+      "gross": 7700,
+      "occupancy_percent": 26.67
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -251,26 +251,28 @@
       "date": "2026-03-03T14:15:00+05:45",
       "time": "",
       "seats": 207,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 207,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 205,
+      "gross": 300,
+      "occupancy_percent": 0.97
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "77897:vfx-cinemas",
-      "venue": "vfx-cinemas",
-      "theatre": "VFX Cinemas - AUDI-2",
-      "date": "2026-03-03T21:35:00+05:45",
-      "time": "",
-      "seats": 165,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-03",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 165,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -326,11 +328,11 @@
       "date": "2026-03-03T13:05:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 42,
+      "sold": 44,
       "reserved": 40,
-      "available": 83,
-      "gross": 14600,
-      "occupancy_percent": 49.7
+      "available": 81,
+      "gross": 14950,
+      "occupancy_percent": 50.91
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -747,10 +749,10 @@
       "time": "",
       "seats": 279,
       "sold": 0,
-      "reserved": 0,
-      "available": 279,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 277,
+      "gross": 370,
+      "occupancy_percent": 0.72
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1376,11 +1378,11 @@
       "date": "2026-03-03T16:15:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 259,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 257,
+      "gross": 500,
+      "occupancy_percent": 0.77
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -1901,11 +1903,11 @@
       "date": "2026-03-03T13:00:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 2,
-      "reserved": 0,
-      "available": 180,
-      "gross": 300,
-      "occupancy_percent": 1.1
+      "sold": 4,
+      "reserved": 1,
+      "available": 177,
+      "gross": 750,
+      "occupancy_percent": 2.75
     },
     {
       "movie_id": "HgzpGBpkGzmV6kvNxU7RuZ",
@@ -1931,11 +1933,11 @@
       "date": "2026-03-03T13:45:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 183,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 181,
+      "gross": 300,
+      "occupancy_percent": 1.09
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -2126,11 +2128,11 @@
       "date": "2026-03-03T11:45:00+05:45",
       "time": "",
       "seats": 178,
-      "sold": 1,
+      "sold": 2,
       "reserved": 8,
-      "available": 169,
-      "gross": 1800,
-      "occupancy_percent": 5.06
+      "available": 168,
+      "gross": 2000,
+      "occupancy_percent": 5.62
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -2216,11 +2218,11 @@
       "date": "2026-03-03T15:10:00+05:45",
       "time": "",
       "seats": 172,
-      "sold": 0,
+      "sold": 6,
       "reserved": 8,
-      "available": 164,
-      "gross": 1600,
-      "occupancy_percent": 4.65
+      "available": 158,
+      "gross": 2800,
+      "occupancy_percent": 8.14
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -2228,7 +2230,7 @@
       "show_id": "158553:qfx-bageshwori",
       "venue": "qfx-bageshwori",
       "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
-      "date": "2026-03-03T20:00:00+05:45",
+      "date": "2026-03-03T19:30:00+05:45",
       "time": "",
       "seats": 290,
       "sold": 0,
@@ -2243,7 +2245,7 @@
       "show_id": "158552:qfx-bageshwori",
       "venue": "qfx-bageshwori",
       "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
-      "date": "2026-03-03T16:30:00+05:45",
+      "date": "2026-03-03T16:15:00+05:45",
       "time": "",
       "seats": 290,
       "sold": 0,
@@ -2459,6 +2461,81 @@
       "sold": 0,
       "reserved": 0,
       "available": 101,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "158644:chitwan-cineplex",
+      "venue": "chitwan-cineplex",
+      "theatre": "QFX Cinemas CG Mall - SCREEN 1",
+      "date": "2026-03-03T12:00:00+05:45",
+      "time": "",
+      "seats": 219,
+      "sold": 0,
+      "reserved": 0,
+      "available": 219,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "158646:chitwan-cineplex",
+      "venue": "chitwan-cineplex",
+      "theatre": "QFX Cinemas CG Mall - SCREEN 1",
+      "date": "2026-03-03T15:15:00+05:45",
+      "time": "",
+      "seats": 219,
+      "sold": 0,
+      "reserved": 0,
+      "available": 219,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "158645:chitwan-cineplex",
+      "venue": "chitwan-cineplex",
+      "theatre": "QFX Cinemas CG Mall - SCREEN 1",
+      "date": "2026-03-03T18:30:00+05:45",
+      "time": "",
+      "seats": 219,
+      "sold": 0,
+      "reserved": 0,
+      "available": 219,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "158647:chitwan-cineplex",
+      "venue": "chitwan-cineplex",
+      "theatre": "QFX Cinemas CG Mall - SCREEN 2",
+      "date": "2026-03-03T13:15:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "158648:chitwan-cineplex",
+      "venue": "chitwan-cineplex",
+      "theatre": "QFX Cinemas CG Mall - SCREEN 2",
+      "date": "2026-03-03T17:00:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
       "gross": 0,
       "occupancy_percent": 0.0
     }
