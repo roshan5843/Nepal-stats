@@ -35,11 +35,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 37,
-    "seats": 7454,
+    "total_shows": 42,
+    "seats": 8122,
     "sold": 5,
     "reserved": 126,
-    "available": 7323,
+    "available": 7991,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -54,12 +54,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-cinemas-nb-center",
-        "total_shows": 3,
-        "seats": 630,
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 630,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 2,
+        "seats": 420,
+        "sold": 0,
+        "reserved": 0,
+        "available": 420,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -152,17 +162,27 @@
         "available": 983,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 5,
+        "seats": 878,
+        "sold": 0,
+        "reserved": 0,
+        "available": 878,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 24,
-    "seats": 4200,
+    "total_shows": 27,
+    "seats": 4662,
     "sold": 0,
-    "reserved": 84,
-    "available": 4116,
+    "reserved": 83,
+    "available": 4579,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -231,8 +251,8 @@
         "total_shows": 3,
         "seats": 354,
         "sold": 0,
-        "reserved": 1,
-        "available": 353,
+        "reserved": 0,
+        "available": 354,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -253,6 +273,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 292,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 3,
+        "seats": 462,
+        "sold": 0,
+        "reserved": 0,
+        "available": 462,
         "housefull": 0,
         "fastfilling": 0
       }
