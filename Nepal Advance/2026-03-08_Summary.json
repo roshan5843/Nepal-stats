@@ -2,11 +2,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 3,
-    "seats": 400,
+    "total_shows": 8,
+    "seats": 1442,
     "sold": 0,
-    "reserved": 0,
-    "available": 400,
+    "reserved": 50,
+    "available": 1392,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -19,17 +19,27 @@
         "available": 400,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 5,
+        "seats": 1042,
+        "sold": 0,
+        "reserved": 50,
+        "available": 992,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 2,
-    "seats": 282,
+    "total_shows": 4,
+    "seats": 692,
     "sold": 0,
-    "reserved": 0,
-    "available": 282,
+    "reserved": 20,
+    "available": 672,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -40,6 +50,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 282,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 2,
+        "seats": 410,
+        "sold": 0,
+        "reserved": 20,
+        "available": 390,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -63,6 +83,52 @@
         "sold": 0,
         "reserved": 0,
         "available": 164,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
+    "movie_name": "Scream 7",
+    "total_shows": 1,
+    "seats": 198,
+    "sold": 0,
+    "reserved": 10,
+    "available": 188,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 198,
+        "sold": 0,
+        "reserved": 10,
+        "available": 188,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
+    "movie_name": "Kumari",
+    "total_shows": 1,
+    "seats": 210,
+    "sold": 0,
+    "reserved": 10,
+    "available": 200,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 210,
+        "sold": 0,
+        "reserved": 10,
+        "available": 200,
         "housefull": 0,
         "fastfilling": 0
       }
