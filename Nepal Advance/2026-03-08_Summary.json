@@ -2,11 +2,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 8,
-    "seats": 1442,
-    "sold": 0,
-    "reserved": 50,
-    "available": 1392,
+    "total_shows": 10,
+    "seats": 1632,
+    "sold": 8,
+    "reserved": 51,
+    "available": 1573,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,18 +15,28 @@
         "total_shows": 3,
         "seats": 400,
         "sold": 0,
-        "reserved": 0,
-        "available": 400,
+        "reserved": 1,
+        "available": 399,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "fcube",
         "total_shows": 5,
-        "seats": 1042,
-        "sold": 0,
+        "seats": 1030,
+        "sold": 8,
         "reserved": 50,
-        "available": 992,
+        "available": 972,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 2,
+        "seats": 202,
+        "sold": 0,
+        "reserved": 0,
+        "available": 202,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -36,10 +46,10 @@
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
     "total_shows": 4,
-    "seats": 692,
+    "seats": 704,
     "sold": 0,
     "reserved": 20,
-    "available": 672,
+    "available": 684,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -56,10 +66,10 @@
       {
         "venue": "fcube",
         "total_shows": 2,
-        "seats": 410,
+        "seats": 422,
         "sold": 0,
         "reserved": 20,
-        "available": 390,
+        "available": 402,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -68,11 +78,11 @@
   {
     "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
     "movie_name": "Rammita Koo Pirati",
-    "total_shows": 1,
-    "seats": 164,
+    "total_shows": 2,
+    "seats": 265,
     "sold": 0,
     "reserved": 0,
-    "available": 164,
+    "available": 265,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -83,6 +93,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 164,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 0,
+        "reserved": 0,
+        "available": 101,
         "housefull": 0,
         "fastfilling": 0
       }

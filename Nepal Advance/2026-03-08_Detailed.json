@@ -1,6 +1,6 @@
 {
   "date": "2026-03-08",
-  "lastUpdated": "02:57 PM, 06 March 2026",
+  "lastUpdated": "06:00 PM, 06 March 2026",
   "shows": [
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -12,10 +12,10 @@
       "time": "",
       "seats": 164,
       "sold": 0,
-      "reserved": 0,
-      "available": 164,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 163,
+      "gross": 175,
+      "occupancy_percent": 0.61
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -123,12 +123,12 @@
       "occupancy_percent": 5.05
     },
     {
-      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
-      "movie_name": "Aa Bata Aama",
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
       "show_id": "73531:fcube",
       "venue": "fcube",
       "theatre": "FCube Cinemas - Cube 1",
-      "date": "2026-03-08T16:30:00+05:45",
+      "date": "2026-03-08T16:45:00+05:45",
       "time": "",
       "seats": 210,
       "sold": 0,
@@ -146,11 +146,11 @@
       "date": "2026-03-08T11:00:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 0,
+      "sold": 8,
       "reserved": 10,
-      "available": 200,
-      "gross": 2000,
-      "occupancy_percent": 4.76
+      "available": 192,
+      "gross": 3600,
+      "occupancy_percent": 8.57
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -183,8 +183,8 @@
       "occupancy_percent": 4.72
     },
     {
-      "movie_id": "AUydcYx3SExYufvZtmZkUE",
-      "movie_name": "O Romeo",
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
       "show_id": "73532:fcube",
       "venue": "fcube",
       "theatre": "FCube Cinemas - Cube 2",
@@ -226,6 +226,51 @@
       "available": 200,
       "gross": 2000,
       "occupancy_percent": 4.76
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "3577:kirtipur-cineplex",
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-2",
+      "date": "2026-03-08T17:15:00+05:45",
+      "time": "",
+      "seats": 101,
+      "sold": 0,
+      "reserved": 0,
+      "available": 101,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "3575:kirtipur-cineplex",
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-2",
+      "date": "2026-03-08T12:00:00+05:45",
+      "time": "",
+      "seats": 101,
+      "sold": 0,
+      "reserved": 0,
+      "available": 101,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
+      "movie_name": "Rammita Koo Pirati",
+      "show_id": "3576:kirtipur-cineplex",
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-2",
+      "date": "2026-03-08T15:00:00+05:45",
+      "time": "",
+      "seats": 101,
+      "sold": 0,
+      "reserved": 0,
+      "available": 101,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
