@@ -2,11 +2,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 13,
-    "seats": 2139,
+    "total_shows": 15,
+    "seats": 2368,
     "sold": 8,
     "reserved": 50,
-    "available": 2081,
+    "available": 2310,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -49,17 +49,27 @@
         "available": 507,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 2,
+        "seats": 229,
+        "sold": 0,
+        "reserved": 0,
+        "available": 229,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 4,
-    "seats": 704,
+    "total_shows": 7,
+    "seats": 1102,
     "sold": 0,
     "reserved": 20,
-    "available": 684,
+    "available": 1082,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -80,6 +90,16 @@
         "sold": 0,
         "reserved": 20,
         "available": 402,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 3,
+        "seats": 398,
+        "sold": 0,
+        "reserved": 0,
+        "available": 398,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -121,11 +141,11 @@
   {
     "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
     "movie_name": "Scream 7",
-    "total_shows": 1,
-    "seats": 198,
+    "total_shows": 3,
+    "seats": 318,
     "sold": 0,
     "reserved": 10,
-    "available": 188,
+    "available": 308,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -136,6 +156,16 @@
         "sold": 0,
         "reserved": 10,
         "available": 188,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 2,
+        "seats": 120,
+        "sold": 0,
+        "reserved": 0,
+        "available": 120,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -159,6 +189,29 @@
         "sold": 0,
         "reserved": 10,
         "available": 200,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "WWGJ4tTPCuF86KDzmJnd27",
+    "movie_name": "Prawasi Jiwan",
+    "total_shows": 1,
+    "seats": 169,
+    "sold": 0,
+    "reserved": 0,
+    "available": 169,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 0,
+        "available": 169,
         "housefull": 0,
         "fastfilling": 0
       }
