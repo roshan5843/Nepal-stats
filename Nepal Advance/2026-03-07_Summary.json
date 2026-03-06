@@ -2,11 +2,11 @@
   {
     "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
     "movie_name": "Scream 7",
-    "total_shows": 3,
-    "seats": 654,
+    "total_shows": 6,
+    "seats": 827,
     "sold": 3,
-    "reserved": 54,
-    "available": 597,
+    "reserved": 64,
+    "available": 760,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -39,17 +39,37 @@
         "available": 237,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 2,
+        "seats": 120,
+        "sold": 0,
+        "reserved": 10,
+        "available": 110,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 53,
+        "sold": 0,
+        "reserved": 0,
+        "available": 53,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 66,
-    "seats": 12999,
-    "sold": 110,
-    "reserved": 292,
-    "available": 12597,
+    "total_shows": 89,
+    "seats": 17897,
+    "sold": 127,
+    "reserved": 373,
+    "available": 17397,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -58,8 +78,8 @@
         "total_shows": 3,
         "seats": 720,
         "sold": 0,
-        "reserved": 1,
-        "available": 719,
+        "reserved": 0,
+        "available": 720,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -77,9 +97,9 @@
         "venue": "fcube",
         "total_shows": 5,
         "seats": 1042,
-        "sold": 0,
+        "sold": 5,
         "reserved": 54,
-        "available": 988,
+        "available": 983,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -168,8 +188,8 @@
         "total_shows": 5,
         "seats": 878,
         "sold": 0,
-        "reserved": 0,
-        "available": 878,
+        "reserved": 3,
+        "available": 875,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -217,8 +237,8 @@
         "venue": "big-movies",
         "total_shows": 3,
         "seats": 810,
-        "sold": 0,
-        "reserved": 152,
+        "sold": 2,
+        "reserved": 150,
         "available": 658,
         "housefull": 0,
         "fastfilling": 0
@@ -252,17 +272,117 @@
         "available": 1026,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 3,
+        "seats": 534,
+        "sold": 0,
+        "reserved": 24,
+        "available": 510,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 2,
+        "seats": 530,
+        "sold": 0,
+        "reserved": 3,
+        "available": 527,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "chitwan-cineplex",
+        "total_shows": 2,
+        "seats": 438,
+        "sold": 0,
+        "reserved": 0,
+        "available": 438,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 2,
+        "seats": 392,
+        "sold": 3,
+        "reserved": 40,
+        "available": 349,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinema-butwal-royal-cine-hub",
+        "total_shows": 2,
+        "seats": 426,
+        "sold": 0,
+        "reserved": 0,
+        "available": 426,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 2,
+        "seats": 240,
+        "sold": 0,
+        "reserved": 0,
+        "available": 240,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 3,
+        "seats": 651,
+        "sold": 0,
+        "reserved": 0,
+        "available": 651,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 2,
+        "seats": 276,
+        "sold": 0,
+        "reserved": 0,
+        "available": 276,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "sts-cinema",
+        "total_shows": 3,
+        "seats": 1182,
+        "sold": 7,
+        "reserved": 0,
+        "available": 1175,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 2,
+        "seats": 229,
+        "sold": 0,
+        "reserved": 14,
+        "available": 215,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 37,
-    "seats": 7092,
-    "sold": 84,
-    "reserved": 238,
-    "available": 6770,
+    "total_shows": 54,
+    "seats": 10112,
+    "sold": 89,
+    "reserved": 276,
+    "available": 9747,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -320,9 +440,9 @@
         "venue": "bsr-movies",
         "total_shows": 4,
         "seats": 756,
-        "sold": 0,
+        "sold": 2,
         "reserved": 63,
-        "available": 693,
+        "available": 691,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -370,9 +490,9 @@
         "venue": "big-movies",
         "total_shows": 3,
         "seats": 1047,
-        "sold": 0,
-        "reserved": 150,
-        "available": 897,
+        "sold": 1,
+        "reserved": 151,
+        "available": 895,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -380,9 +500,9 @@
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 3,
         "seats": 619,
-        "sold": 51,
+        "sold": 53,
         "reserved": 0,
-        "available": 568,
+        "available": 566,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -405,17 +525,107 @@
         "available": 274,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 2,
+        "seats": 104,
+        "sold": 0,
+        "reserved": 0,
+        "available": 104,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 172,
+        "sold": 0,
+        "reserved": 8,
+        "available": 164,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 2,
+        "seats": 536,
+        "sold": 0,
+        "reserved": 0,
+        "available": 536,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "chitwan-cineplex",
+        "total_shows": 2,
+        "seats": 286,
+        "sold": 0,
+        "reserved": 0,
+        "available": 286,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 3,
+        "seats": 651,
+        "sold": 0,
+        "reserved": 0,
+        "available": 651,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 2,
+        "seats": 266,
+        "sold": 0,
+        "reserved": 0,
+        "available": 266,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 3,
+        "seats": 398,
+        "sold": 0,
+        "reserved": 29,
+        "available": 369,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "sts-cinema",
+        "total_shows": 1,
+        "seats": 394,
+        "sold": 0,
+        "reserved": 0,
+        "available": 394,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinema-butwal-royal-cine-hub",
+        "total_shows": 1,
+        "seats": 213,
+        "sold": 0,
+        "reserved": 0,
+        "available": 213,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
     "movie_name": "Rammita Koo Pirati",
-    "total_shows": 4,
-    "seats": 611,
+    "total_shows": 5,
+    "seats": 731,
     "sold": 6,
     "reserved": 42,
-    "available": 563,
+    "available": 683,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -458,17 +668,27 @@
         "available": 61,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 1,
+        "seats": 120,
+        "sold": 0,
+        "reserved": 0,
+        "available": 120,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
     "movie_name": "Kumari",
-    "total_shows": 2,
-    "seats": 489,
+    "total_shows": 3,
+    "seats": 702,
     "sold": 0,
-    "reserved": 52,
-    "available": 437,
+    "reserved": 54,
+    "available": 648,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -477,8 +697,8 @@
         "total_shows": 1,
         "seats": 210,
         "sold": 0,
-        "reserved": 10,
-        "available": 200,
+        "reserved": 12,
+        "available": 198,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -489,6 +709,16 @@
         "sold": 0,
         "reserved": 42,
         "available": 237,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinema-butwal-royal-cine-hub",
+        "total_shows": 1,
+        "seats": 213,
+        "sold": 0,
+        "reserved": 0,
+        "available": 213,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -520,11 +750,11 @@
   {
     "movie_id": "WWGJ4tTPCuF86KDzmJnd27",
     "movie_name": "Prawasi Jiwan",
-    "total_shows": 1,
-    "seats": 67,
-    "sold": 6,
-    "reserved": 0,
-    "available": 61,
+    "total_shows": 2,
+    "seats": 236,
+    "sold": 7,
+    "reserved": 10,
+    "available": 219,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -532,9 +762,19 @@
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 1,
         "seats": 67,
-        "sold": 6,
+        "sold": 7,
         "reserved": 0,
-        "available": 61,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 10,
+        "available": 159,
         "housefull": 0,
         "fastfilling": 0
       }
