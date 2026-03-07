@@ -95,11 +95,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 63,
-    "seats": 13173,
-    "sold": 0,
-    "reserved": 98,
-    "available": 13075,
+    "total_shows": 70,
+    "seats": 14504,
+    "sold": 2,
+    "reserved": 127,
+    "available": 14375,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -322,17 +322,37 @@
         "available": 795,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "central-multiplex",
+        "total_shows": 4,
+        "seats": 920,
+        "sold": 2,
+        "reserved": 29,
+        "available": 889,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bamel-cinemas",
+        "total_shows": 3,
+        "seats": 411,
+        "sold": 0,
+        "reserved": 0,
+        "available": 411,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 47,
-    "seats": 8273,
-    "sold": 0,
-    "reserved": 58,
-    "available": 8215,
+    "total_shows": 51,
+    "seats": 9193,
+    "sold": 2,
+    "reserved": 84,
+    "available": 9107,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -450,9 +470,9 @@
         "venue": "qs-cinemas",
         "total_shows": 2,
         "seats": 364,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 364,
+        "available": 362,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -533,6 +553,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 804,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "central-multiplex",
+        "total_shows": 4,
+        "seats": 920,
+        "sold": 0,
+        "reserved": 26,
+        "available": 894,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -731,6 +761,29 @@
         "sold": 0,
         "reserved": 0,
         "available": 143,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "WWGJ4tTPCuF86KDzmJnd27",
+    "movie_name": "Prawasi Jiwan",
+    "total_shows": 1,
+    "seats": 137,
+    "sold": 0,
+    "reserved": 0,
+    "available": 137,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "bamel-cinemas",
+        "total_shows": 1,
+        "seats": 137,
+        "sold": 0,
+        "reserved": 0,
+        "available": 137,
         "housefull": 0,
         "fastfilling": 0
       }
