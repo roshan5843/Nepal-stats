@@ -1,6 +1,6 @@
 {
   "date": "2026-03-08",
-  "lastUpdated": "05:25 PM, 08 March 2026",
+  "lastUpdated": "06:24 PM, 08 March 2026",
   "shows": [
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -3320,16 +3320,18 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "1750:pathivara-cine-plaza",
-      "venue": "pathivara-cine-plaza",
-      "theatre": "Pathivara Cineplaza - Birtamode - Hall-B",
-      "date": "2026-03-08T18:45:00+05:45",
-      "time": "",
-      "seats": 190,
-      "sold": 6,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-08",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 184,
-      "gross": 1680,
-      "occupancy_percent": 3.16
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3545,16 +3547,18 @@
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "1751:pathivara-cine-plaza",
-      "venue": "pathivara-cine-plaza",
-      "theatre": "Pathivara Cineplaza - Birtamode - Hall-A",
-      "date": "2026-03-08T18:45:00+05:45",
-      "time": "",
-      "seats": 268,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-08",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 268,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3580,11 +3584,11 @@
       "date": "2026-03-08T18:45:00+05:45",
       "time": "",
       "seats": 126,
-      "sold": 27,
-      "reserved": 2,
-      "available": 97,
-      "gross": 11600,
-      "occupancy_percent": 23.02
+      "sold": 36,
+      "reserved": 0,
+      "available": 90,
+      "gross": 14400,
+      "occupancy_percent": 28.57
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3640,11 +3644,11 @@
       "date": "2026-03-08T18:45:00+05:45",
       "time": "",
       "seats": 112,
-      "sold": 4,
+      "sold": 6,
       "reserved": 0,
-      "available": 108,
-      "gross": 600,
-      "occupancy_percent": 3.57
+      "available": 106,
+      "gross": 900,
+      "occupancy_percent": 5.36
     },
     {
       "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
@@ -3670,11 +3674,11 @@
       "date": "2026-03-08T19:00:00+05:45",
       "time": "",
       "seats": 192,
-      "sold": 8,
+      "sold": 9,
       "reserved": 16,
-      "available": 168,
-      "gross": 4800,
-      "occupancy_percent": 12.5
+      "available": 167,
+      "gross": 5000,
+      "occupancy_percent": 13.02
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3700,11 +3704,11 @@
       "date": "2026-03-08T19:15:00+05:45",
       "time": "",
       "seats": 290,
-      "sold": 10,
-      "reserved": 8,
-      "available": 272,
-      "gross": 2700,
-      "occupancy_percent": 6.21
+      "sold": 12,
+      "reserved": 0,
+      "available": 278,
+      "gross": 1800,
+      "occupancy_percent": 4.14
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3715,8 +3719,8 @@
       "date": "2026-03-08T19:00:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 7,
-      "reserved": 4,
+      "sold": 11,
+      "reserved": 0,
       "available": 132,
       "gross": 3300,
       "occupancy_percent": 7.69
@@ -3776,10 +3780,10 @@
       "time": "",
       "seats": 143,
       "sold": 0,
-      "reserved": 0,
-      "available": 143,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 5,
+      "available": 138,
+      "gross": 750,
+      "occupancy_percent": 3.5
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3867,11 +3871,11 @@
       "date": "2026-03-08T20:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 0,
+      "sold": 3,
       "reserved": 15,
-      "available": 165,
-      "gross": 3000,
-      "occupancy_percent": 8.33
+      "available": 162,
+      "gross": 3600,
+      "occupancy_percent": 10.0
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3882,11 +3886,11 @@
       "date": "2026-03-08T20:00:00+05:45",
       "time": "",
       "seats": 394,
-      "sold": 5,
+      "sold": 7,
       "reserved": 0,
-      "available": 389,
-      "gross": 1750,
-      "occupancy_percent": 1.27
+      "available": 387,
+      "gross": 2750,
+      "occupancy_percent": 1.78
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -3912,11 +3916,11 @@
       "date": "2026-03-08T20:30:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 2,
-      "reserved": 4,
-      "available": 45,
-      "gross": 8400,
-      "occupancy_percent": 11.76
+      "sold": 4,
+      "reserved": 0,
+      "available": 47,
+      "gross": 5600,
+      "occupancy_percent": 7.84
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
