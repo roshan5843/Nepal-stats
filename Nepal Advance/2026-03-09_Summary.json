@@ -2,11 +2,11 @@
   {
     "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
     "movie_name": "Scream 7",
-    "total_shows": 10,
-    "seats": 1573,
+    "total_shows": 11,
+    "seats": 1852,
     "sold": 1,
-    "reserved": 11,
-    "available": 1561,
+    "reserved": 10,
+    "available": 1841,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -45,8 +45,8 @@
         "total_shows": 1,
         "seats": 259,
         "sold": 0,
-        "reserved": 1,
-        "available": 258,
+        "reserved": 0,
+        "available": 259,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -89,17 +89,27 @@
         "available": 129,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 0,
+        "reserved": 0,
+        "available": 279,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 73,
-    "seats": 15530,
-    "sold": 2,
-    "reserved": 132,
-    "available": 15396,
+    "total_shows": 84,
+    "seats": 16836,
+    "sold": 51,
+    "reserved": 130,
+    "available": 16655,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -108,8 +118,8 @@
         "total_shows": 4,
         "seats": 818,
         "sold": 0,
-        "reserved": 40,
-        "available": 778,
+        "reserved": 48,
+        "available": 770,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -324,12 +334,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "central-multiplex",
+        "venue": "Unknown",
         "total_shows": 4,
-        "seats": 920,
-        "sold": 2,
-        "reserved": 34,
-        "available": 884,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -352,17 +362,57 @@
         "available": 1026,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "big-movies",
+        "total_shows": 3,
+        "seats": 810,
+        "sold": 0,
+        "reserved": 0,
+        "available": 810,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 3,
+        "seats": 624,
+        "sold": 51,
+        "reserved": 0,
+        "available": 573,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 3,
+        "seats": 528,
+        "sold": 0,
+        "reserved": 24,
+        "available": 504,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-skyline",
+        "total_shows": 2,
+        "seats": 264,
+        "sold": 0,
+        "reserved": 0,
+        "available": 264,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 53,
-    "seats": 9655,
-    "sold": 4,
-    "reserved": 96,
-    "available": 9555,
+    "total_shows": 66,
+    "seats": 11123,
+    "sold": 45,
+    "reserved": 82,
+    "available": 10996,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -390,9 +440,9 @@
         "venue": "qfx-labim",
         "total_shows": 2,
         "seats": 362,
-        "sold": 0,
+        "sold": 3,
         "reserved": 0,
-        "available": 362,
+        "available": 359,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -567,12 +617,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "central-multiplex",
+        "venue": "Unknown",
         "total_shows": 4,
-        "seats": 920,
-        "sold": 2,
-        "reserved": 38,
-        "available": 880,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -585,17 +635,67 @@
         "available": 462,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "big-movies",
+        "total_shows": 3,
+        "seats": 1047,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1047,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 2,
+        "seats": 134,
+        "sold": 12,
+        "reserved": 0,
+        "available": 122,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 3,
+        "seats": 522,
+        "sold": 0,
+        "reserved": 24,
+        "available": 498,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-kalimati",
+        "total_shows": 2,
+        "seats": 302,
+        "sold": 28,
+        "reserved": 0,
+        "available": 274,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-skyline",
+        "total_shows": 3,
+        "seats": 383,
+        "sold": 0,
+        "reserved": 0,
+        "available": 383,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "V6uM8yUFAE9wdvF5DByzzJ",
     "movie_name": "Kumari",
-    "total_shows": 1,
-    "seats": 210,
+    "total_shows": 2,
+    "seats": 489,
     "sold": 0,
     "reserved": 10,
-    "available": 200,
+    "available": 479,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -608,17 +708,27 @@
         "available": 200,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 0,
+        "reserved": 0,
+        "available": 279,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "vk98tTtEdoG2yVbmUsGHTY",
     "movie_name": "Wuthering Heights",
-    "total_shows": 4,
-    "seats": 533,
+    "total_shows": 5,
+    "seats": 812,
     "sold": 0,
     "reserved": 0,
-    "available": 533,
+    "available": 812,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -641,17 +751,27 @@
         "available": 311,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 0,
+        "reserved": 0,
+        "available": 279,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "xBaaGFMPinfqcTrHZ4zoyg",
     "movie_name": "Rammita Koo Pirati",
-    "total_shows": 6,
-    "seats": 846,
-    "sold": 0,
+    "total_shows": 8,
+    "seats": 1192,
+    "sold": 6,
     "reserved": 0,
-    "available": 846,
+    "available": 1186,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -704,6 +824,26 @@
         "available": 164,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 0,
+        "reserved": 0,
+        "available": 279,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
+        "reserved": 0,
+        "available": 61,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -744,20 +884,20 @@
     "movie_id": "jTvx89x6fTnXCHTnWRcy5G",
     "movie_name": "Jaari 2",
     "total_shows": 2,
-    "seats": 286,
+    "seats": 0,
     "sold": 0,
     "reserved": 0,
-    "available": 286,
+    "available": 0,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "gsf-cinema",
+        "venue": "Unknown",
         "total_shows": 2,
-        "seats": 286,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 286,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -767,20 +907,20 @@
     "movie_id": "7n8A7qT9ZRudxjxdWGnC9g",
     "movie_name": "Maagne Raja",
     "total_shows": 1,
-    "seats": 143,
+    "seats": 0,
     "sold": 0,
     "reserved": 0,
-    "available": 143,
+    "available": 0,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "gsf-cinema",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 143,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 143,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
