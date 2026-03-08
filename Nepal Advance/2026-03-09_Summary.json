@@ -5,8 +5,8 @@
     "total_shows": 10,
     "seats": 1573,
     "sold": 1,
-    "reserved": 10,
-    "available": 1562,
+    "reserved": 11,
+    "available": 1561,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -45,8 +45,8 @@
         "total_shows": 1,
         "seats": 259,
         "sold": 0,
-        "reserved": 0,
-        "available": 259,
+        "reserved": 1,
+        "available": 258,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -95,11 +95,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 70,
-    "seats": 14504,
+    "total_shows": 73,
+    "seats": 15530,
     "sold": 2,
     "reserved": 132,
-    "available": 14370,
+    "available": 15396,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -342,17 +342,27 @@
         "available": 411,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "pokhara-cineplex",
+        "total_shows": 3,
+        "seats": 1026,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1026,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 51,
-    "seats": 9193,
+    "total_shows": 53,
+    "seats": 9655,
     "sold": 4,
-    "reserved": 89,
-    "available": 9100,
+    "reserved": 96,
+    "available": 9555,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -561,8 +571,18 @@
         "total_shows": 4,
         "seats": 920,
         "sold": 2,
-        "reserved": 31,
-        "available": 887,
+        "reserved": 38,
+        "available": 880,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pokhara-cineplex",
+        "total_shows": 2,
+        "seats": 462,
+        "sold": 0,
+        "reserved": 0,
+        "available": 462,
         "housefull": 0,
         "fastfilling": 0
       }
