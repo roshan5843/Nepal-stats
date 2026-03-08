@@ -115,11 +115,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 122,
-    "seats": 24620,
-    "sold": 92,
-    "reserved": 175,
-    "available": 24353,
+    "total_shows": 129,
+    "seats": 25742,
+    "sold": 85,
+    "reserved": 237,
+    "available": 25420,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -138,8 +138,8 @@
         "total_shows": 3,
         "seats": 630,
         "sold": 0,
-        "reserved": 2,
-        "available": 628,
+        "reserved": 0,
+        "available": 630,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -167,8 +167,8 @@
         "venue": "qfx-civil",
         "total_shows": 3,
         "seats": 1297,
-        "sold": 0,
-        "reserved": 2,
+        "sold": 2,
+        "reserved": 0,
         "available": 1295,
         "housefull": 0,
         "fastfilling": 0
@@ -247,9 +247,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 3,
         "seats": 743,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 743,
+        "available": 741,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -288,8 +288,8 @@
         "total_shows": 2,
         "seats": 271,
         "sold": 0,
-        "reserved": 0,
-        "available": 271,
+        "reserved": 3,
+        "available": 268,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -308,8 +308,8 @@
         "total_shows": 3,
         "seats": 402,
         "sold": 0,
-        "reserved": 0,
-        "available": 402,
+        "reserved": 1,
+        "available": 401,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -347,9 +347,9 @@
         "venue": "central-multiplex",
         "total_shows": 4,
         "seats": 920,
-        "sold": 2,
+        "sold": 5,
         "reserved": 24,
-        "available": 894,
+        "available": 891,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -378,8 +378,8 @@
         "total_shows": 3,
         "seats": 810,
         "sold": 2,
-        "reserved": 0,
-        "available": 808,
+        "reserved": 1,
+        "available": 807,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -387,9 +387,9 @@
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 3,
         "seats": 624,
-        "sold": 51,
+        "sold": 34,
         "reserved": 0,
-        "available": 573,
+        "available": 590,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -457,9 +457,9 @@
         "venue": "kawaswoti-cinemax",
         "total_shows": 3,
         "seats": 774,
-        "sold": 4,
+        "sold": 7,
         "reserved": 0,
-        "available": 770,
+        "available": 767,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -542,17 +542,37 @@
         "available": 212,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 4,
+        "seats": 732,
+        "sold": 0,
+        "reserved": 61,
+        "available": 671,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "dmax-cinemas",
+        "total_shows": 3,
+        "seats": 390,
+        "sold": 0,
+        "reserved": 0,
+        "available": 390,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 78,
-    "seats": 13905,
-    "sold": 68,
-    "reserved": 150,
-    "available": 13687,
+    "total_shows": 81,
+    "seats": 14522,
+    "sold": 78,
+    "reserved": 192,
+    "available": 14252,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -581,8 +601,8 @@
         "total_shows": 2,
         "seats": 362,
         "sold": 8,
-        "reserved": 2,
-        "available": 352,
+        "reserved": 0,
+        "available": 354,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -647,12 +667,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 1,
-        "seats": 0,
-        "sold": 0,
+        "venue": "qfx-durbar",
+        "total_shows": 3,
+        "seats": 157,
+        "sold": 2,
         "reserved": 0,
-        "available": 0,
+        "available": 155,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -697,16 +717,6 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-durbar",
-        "total_shows": 2,
-        "seats": 104,
-        "sold": 2,
-        "reserved": 0,
-        "available": 102,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "cineroyale",
         "total_shows": 3,
         "seats": 378,
@@ -720,9 +730,9 @@
         "venue": "qfx-chhaya",
         "total_shows": 2,
         "seats": 300,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 300,
+        "available": 298,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -731,8 +741,8 @@
         "total_shows": 2,
         "seats": 271,
         "sold": 0,
-        "reserved": 0,
-        "available": 271,
+        "reserved": 2,
+        "available": 269,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -770,8 +780,8 @@
         "venue": "central-multiplex",
         "total_shows": 4,
         "seats": 920,
-        "sold": 4,
-        "reserved": 36,
+        "sold": 12,
+        "reserved": 28,
         "available": 880,
         "housefull": 0,
         "fastfilling": 0
@@ -791,8 +801,8 @@
         "total_shows": 3,
         "seats": 1047,
         "sold": 0,
-        "reserved": 0,
-        "available": 1047,
+        "reserved": 3,
+        "available": 1044,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -883,6 +893,16 @@
         "sold": 0,
         "reserved": 30,
         "available": 368,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 3,
+        "seats": 564,
+        "sold": 0,
+        "reserved": 47,
+        "available": 517,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -979,9 +999,9 @@
     "movie_name": "Rammita Koo Pirati",
     "total_shows": 8,
     "seats": 1192,
-    "sold": 6,
+    "sold": 0,
     "reserved": 0,
-    "available": 1186,
+    "available": 1192,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1049,9 +1069,9 @@
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 1,
         "seats": 67,
-        "sold": 6,
+        "sold": 0,
         "reserved": 0,
-        "available": 61,
+        "available": 67,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1063,8 +1083,8 @@
     "total_shows": 2,
     "seats": 294,
     "sold": 0,
-    "reserved": 4,
-    "available": 290,
+    "reserved": 0,
+    "available": 294,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1073,8 +1093,8 @@
         "total_shows": 1,
         "seats": 112,
         "sold": 0,
-        "reserved": 3,
-        "available": 109,
+        "reserved": 0,
+        "available": 112,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1083,8 +1103,8 @@
         "total_shows": 1,
         "seats": 182,
         "sold": 0,
-        "reserved": 1,
-        "available": 181,
+        "reserved": 0,
+        "available": 182,
         "housefull": 0,
         "fastfilling": 0
       }
