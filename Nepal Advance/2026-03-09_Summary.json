@@ -4,9 +4,9 @@
     "movie_name": "Scream 7",
     "total_shows": 11,
     "seats": 1852,
-    "sold": 1,
-    "reserved": 10,
-    "available": 1841,
+    "sold": 3,
+    "reserved": 12,
+    "available": 1837,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,8 +15,8 @@
         "total_shows": 1,
         "seats": 198,
         "sold": 0,
-        "reserved": 10,
-        "available": 188,
+        "reserved": 12,
+        "available": 186,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -94,9 +94,9 @@
         "venue": "big-movies",
         "total_shows": 1,
         "seats": 279,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 279,
+        "available": 277,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -105,11 +105,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 94,
-    "seats": 19336,
-    "sold": 81,
-    "reserved": 170,
-    "available": 19085,
+    "total_shows": 100,
+    "seats": 20404,
+    "sold": 83,
+    "reserved": 171,
+    "available": 20150,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -318,8 +318,8 @@
         "total_shows": 2,
         "seats": 202,
         "sold": 0,
-        "reserved": 0,
-        "available": 202,
+        "reserved": 1,
+        "available": 201,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -367,9 +367,9 @@
         "venue": "big-movies",
         "total_shows": 3,
         "seats": 810,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 810,
+        "available": 808,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -442,17 +442,37 @@
         "available": 225,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "kawaswoti-cinemax",
+        "total_shows": 3,
+        "seats": 774,
+        "sold": 0,
+        "reserved": 0,
+        "available": 774,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "city-cinema",
+        "total_shows": 3,
+        "seats": 294,
+        "sold": 0,
+        "reserved": 0,
+        "available": 294,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 70,
-    "seats": 12403,
-    "sold": 49,
-    "reserved": 124,
-    "available": 12230,
+    "total_shows": 73,
+    "seats": 13252,
+    "sold": 54,
+    "reserved": 125,
+    "available": 13073,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -471,8 +491,8 @@
         "total_shows": 3,
         "seats": 531,
         "sold": 0,
-        "reserved": 1,
-        "available": 530,
+        "reserved": 0,
+        "available": 531,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -480,9 +500,9 @@
         "venue": "qfx-labim",
         "total_shows": 2,
         "seats": 362,
-        "sold": 3,
+        "sold": 6,
         "reserved": 0,
-        "available": 359,
+        "available": 356,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -550,9 +570,9 @@
         "venue": "qfx-durbar",
         "total_shows": 3,
         "seats": 157,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 157,
+        "available": 155,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -637,12 +657,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "ranjana-cineplex",
         "total_shows": 2,
-        "seats": 0,
+        "seats": 282,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 282,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -661,8 +681,8 @@
         "total_shows": 4,
         "seats": 920,
         "sold": 2,
-        "reserved": 41,
-        "available": 877,
+        "reserved": 42,
+        "available": 876,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -681,8 +701,8 @@
         "total_shows": 3,
         "seats": 1047,
         "sold": 0,
-        "reserved": 0,
-        "available": 1047,
+        "reserved": 1,
+        "available": 1046,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -727,6 +747,16 @@
         "fastfilling": 0
       },
       {
+        "venue": "friends-cinema-butwal-royal-cine-hub",
+        "total_shows": 1,
+        "seats": 213,
+        "sold": 0,
+        "reserved": 0,
+        "available": 213,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "chitwan-cineplex",
         "total_shows": 3,
         "seats": 429,
@@ -737,12 +767,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "friends-cinema-butwal-royal-cine-hub",
-        "total_shows": 1,
-        "seats": 213,
+        "venue": "city-cinema",
+        "total_shows": 3,
+        "seats": 567,
         "sold": 0,
         "reserved": 0,
-        "available": 213,
+        "available": 567,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -796,9 +826,9 @@
     "movie_name": "Wuthering Heights",
     "total_shows": 5,
     "seats": 812,
-    "sold": 0,
+    "sold": 1,
     "reserved": 0,
-    "available": 812,
+    "available": 811,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -806,9 +836,9 @@
         "venue": "qfx-chhaya",
         "total_shows": 2,
         "seats": 222,
-        "sold": 0,
+        "sold": 1,
         "reserved": 0,
-        "available": 222,
+        "available": 221,
         "housefull": 0,
         "fastfilling": 0
       },
