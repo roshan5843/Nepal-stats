@@ -25,11 +25,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 3,
-    "seats": 390,
+    "total_shows": 9,
+    "seats": 1363,
     "sold": 0,
     "reserved": 0,
-    "available": 390,
+    "available": 1363,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -42,17 +42,37 @@
         "available": 390,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 4,
+        "seats": 697,
+        "sold": 0,
+        "reserved": 0,
+        "available": 697,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 2,
+        "seats": 276,
+        "sold": 0,
+        "reserved": 0,
+        "available": 276,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 3,
-    "seats": 157,
+    "total_shows": 6,
+    "seats": 598,
     "sold": 0,
     "reserved": 2,
-    "available": 155,
+    "available": 596,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -63,6 +83,26 @@
         "sold": 0,
         "reserved": 2,
         "available": 155,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 2,
+        "seats": 308,
+        "sold": 0,
+        "reserved": 0,
+        "available": 308,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 133,
+        "sold": 0,
+        "reserved": 0,
+        "available": 133,
         "housefull": 0,
         "fastfilling": 0
       }
