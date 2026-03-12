@@ -1,6 +1,6 @@
 {
   "date": "2026-03-12",
-  "lastUpdated": "04:55 PM, 12 March 2026",
+  "lastUpdated": "05:33 PM, 12 March 2026",
   "shows": [
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -3161,7 +3161,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -4205,6 +4205,40 @@
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
       "movie_name": "O Romeo",
       "show_id": "94259:sts-cinema",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-12",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "hiEL5Vei8uzBZugS3P7xLL",
+      "movie_name": "Scream 7",
+      "show_id": "159168:qfx-durbar",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-12",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "AUydcYx3SExYufvZtmZkUE",
+      "movie_name": "O Romeo",
+      "show_id": "74678:city-cinema",
       "venue": null,
       "theatre": null,
       "date": "2026-03-12",
