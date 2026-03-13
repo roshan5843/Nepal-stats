@@ -5,8 +5,8 @@
     "total_shows": 9,
     "seats": 1533,
     "sold": 7,
-    "reserved": 55,
-    "available": 1471,
+    "reserved": 54,
+    "available": 1472,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -65,8 +65,8 @@
         "total_shows": 1,
         "seats": 198,
         "sold": 0,
-        "reserved": 11,
-        "available": 187,
+        "reserved": 10,
+        "available": 188,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -95,11 +95,11 @@
   {
     "movie_id": "H2tbajrvASeefJpeWN3AAY",
     "movie_name": "Laalimaa",
-    "total_shows": 69,
-    "seats": 12453,
-    "sold": 30,
-    "reserved": 151,
-    "available": 12272,
+    "total_shows": 73,
+    "seats": 13295,
+    "sold": 41,
+    "reserved": 157,
+    "available": 13097,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -108,8 +108,8 @@
         "total_shows": 1,
         "seats": 198,
         "sold": 0,
-        "reserved": 12,
-        "available": 186,
+        "reserved": 10,
+        "available": 188,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -117,9 +117,9 @@
         "venue": "bsr-movies",
         "total_shows": 3,
         "seats": 564,
-        "sold": 0,
+        "sold": 1,
         "reserved": 47,
-        "available": 517,
+        "available": 516,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -337,9 +337,9 @@
         "venue": "ini-cinemas-nb-center",
         "total_shows": 2,
         "seats": 387,
-        "sold": 0,
-        "reserved": 0,
-        "available": 387,
+        "sold": 10,
+        "reserved": 7,
+        "available": 370,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -375,11 +375,11 @@
       },
       {
         "venue": "cineroyale",
-        "total_shows": 2,
-        "seats": 252,
+        "total_shows": 1,
+        "seats": 126,
         "sold": 0,
         "reserved": 0,
-        "available": 252,
+        "available": 126,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -388,8 +388,8 @@
         "total_shows": 1,
         "seats": 292,
         "sold": 0,
-        "reserved": 0,
-        "available": 292,
+        "reserved": 1,
+        "available": 291,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -482,17 +482,47 @@
         "available": 170,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "kawaswoti-cinemax",
+        "total_shows": 1,
+        "seats": 258,
+        "sold": 0,
+        "reserved": 0,
+        "available": 258,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 2,
+        "seats": 380,
+        "sold": 0,
+        "reserved": 0,
+        "available": 380,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "vfx-cinemas",
+        "total_shows": 2,
+        "seats": 330,
+        "sold": 0,
+        "reserved": 0,
+        "available": 330,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 93,
-    "seats": 19445,
-    "sold": 108,
-    "reserved": 334,
-    "available": 19003,
+    "total_shows": 102,
+    "seats": 21519,
+    "sold": 125,
+    "reserved": 348,
+    "available": 21046,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -520,9 +550,9 @@
         "venue": "fcube",
         "total_shows": 4,
         "seats": 842,
-        "sold": 2,
-        "reserved": 30,
-        "available": 810,
+        "sold": 7,
+        "reserved": 40,
+        "available": 795,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -630,9 +660,9 @@
         "venue": "qfx-one-stop-mall",
         "total_shows": 2,
         "seats": 271,
-        "sold": 0,
+        "sold": 9,
         "reserved": 0,
-        "available": 271,
+        "available": 262,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -770,9 +800,9 @@
         "venue": "big-movies",
         "total_shows": 3,
         "seats": 810,
-        "sold": 2,
+        "sold": 5,
         "reserved": 150,
-        "available": 658,
+        "available": 655,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -815,17 +845,47 @@
         "available": 98,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "kawaswoti-cinemax",
+        "total_shows": 2,
+        "seats": 516,
+        "sold": 0,
+        "reserved": 0,
+        "available": 516,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "vfx-cinemas",
+        "total_shows": 4,
+        "seats": 988,
+        "sold": 0,
+        "reserved": 4,
+        "available": 984,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 3,
+        "seats": 570,
+        "sold": 0,
+        "reserved": 0,
+        "available": 570,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "AUydcYx3SExYufvZtmZkUE",
     "movie_name": "O Romeo",
-    "total_shows": 57,
-    "seats": 10246,
-    "sold": 81,
-    "reserved": 230,
-    "available": 9935,
+    "total_shows": 60,
+    "seats": 10702,
+    "sold": 92,
+    "reserved": 241,
+    "available": 10369,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -834,8 +894,8 @@
         "total_shows": 2,
         "seats": 424,
         "sold": 2,
-        "reserved": 10,
-        "available": 412,
+        "reserved": 21,
+        "available": 401,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -873,9 +933,9 @@
         "venue": "qfx-labim",
         "total_shows": 2,
         "seats": 362,
-        "sold": 11,
+        "sold": 20,
         "reserved": 0,
-        "available": 351,
+        "available": 342,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -991,11 +1051,11 @@
       },
       {
         "venue": "cineroyale",
-        "total_shows": 3,
-        "seats": 469,
+        "total_shows": 4,
+        "seats": 595,
         "sold": 0,
         "reserved": 0,
-        "available": 469,
+        "available": 595,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1073,9 +1133,9 @@
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 3,
         "seats": 624,
-        "sold": 34,
+        "sold": 36,
         "reserved": 0,
-        "available": 590,
+        "available": 588,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1108,6 +1168,16 @@
         "available": 567,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "vfx-cinemas",
+        "total_shows": 2,
+        "seats": 330,
+        "sold": 0,
+        "reserved": 0,
+        "available": 330,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -1116,9 +1186,9 @@
     "movie_name": "Wuthering Heights",
     "total_shows": 4,
     "seats": 723,
-    "sold": 2,
+    "sold": 4,
     "reserved": 42,
-    "available": 679,
+    "available": 677,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1126,9 +1196,9 @@
         "venue": "qfx-chhaya",
         "total_shows": 2,
         "seats": 262,
-        "sold": 2,
+        "sold": 4,
         "reserved": 0,
-        "available": 260,
+        "available": 258,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1183,8 +1253,8 @@
     "total_shows": 2,
     "seats": 285,
     "sold": 16,
-    "reserved": 0,
-    "available": 269,
+    "reserved": 1,
+    "available": 268,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1203,8 +1273,8 @@
         "total_shows": 1,
         "seats": 285,
         "sold": 16,
-        "reserved": 0,
-        "available": 269,
+        "reserved": 1,
+        "available": 268,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1215,9 +1285,9 @@
     "movie_name": "Rammita Koo Pirati",
     "total_shows": 5,
     "seats": 830,
-    "sold": 6,
+    "sold": 8,
     "reserved": 42,
-    "available": 782,
+    "available": 780,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1235,9 +1305,9 @@
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 180,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 180,
+        "available": 178,
         "housefull": 0,
         "fastfilling": 0
       },
