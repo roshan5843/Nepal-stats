@@ -26,20 +26,30 @@
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
     "total_shows": 3,
-    "seats": 570,
+    "seats": 380,
     "sold": 0,
     "reserved": 0,
-    "available": 570,
+    "available": 380,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "pathivara-cine-plaza",
-        "total_shows": 3,
-        "seats": 570,
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 570,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pathivara-cine-plaza",
+        "total_shows": 2,
+        "seats": 380,
+        "sold": 0,
+        "reserved": 0,
+        "available": 380,
         "housefull": 0,
         "fastfilling": 0
       }
