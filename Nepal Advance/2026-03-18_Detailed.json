@@ -1,6 +1,6 @@
 {
   "date": "2026-03-18",
-  "lastUpdated": "04:11 AM, 17 March 2026",
+  "lastUpdated": "08:07 AM, 17 March 2026",
   "shows": [
     {
       "movie_id": "H2tbajrvASeefJpeWN3AAY",
@@ -477,10 +477,10 @@
       "time": "",
       "seats": 349,
       "sold": 0,
-      "reserved": 50,
-      "available": 299,
-      "gross": 9250,
-      "occupancy_percent": 14.33
+      "reserved": 52,
+      "available": 297,
+      "gross": 9620,
+      "occupancy_percent": 14.9
     },
     {
       "movie_id": "AUydcYx3SExYufvZtmZkUE",
@@ -642,10 +642,10 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 0,
-      "available": 240,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 239,
+      "gross": 200,
+      "occupancy_percent": 0.42
     },
     {
       "movie_id": "H2tbajrvASeefJpeWN3AAY",
@@ -951,35 +951,31 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "62989:bishwojyoti-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-03-18",
-      "time": null,
-      "seats": 0,
+      "venue": "bishwojyoti-cineplex",
+      "theatre": "iNi Cinemas - Bishwojyoti - Audi 1",
+      "date": "2026-03-18T14:30:00+05:45",
+      "time": "",
+      "seats": 201,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 201,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "62990:bishwojyoti-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-03-18",
-      "time": null,
-      "seats": 0,
+      "venue": "bishwojyoti-cineplex",
+      "theatre": "iNi Cinemas - Bishwojyoti - Audi 1",
+      "date": "2026-03-18T18:30:00+05:45",
+      "time": "",
+      "seats": 201,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 201,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1545,11 +1541,11 @@
       "date": "2026-03-18T12:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 247,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 243,
+      "gross": 1000,
+      "occupancy_percent": 1.62
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -1968,6 +1964,51 @@
       "sold": 0,
       "reserved": 0,
       "available": 137,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "H2tbajrvASeefJpeWN3AAY",
+      "movie_name": "Laalimaa",
+      "show_id": "173384:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen B",
+      "date": "2026-03-18T15:00:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 0,
+      "reserved": 0,
+      "available": 133,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "173385:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen B",
+      "date": "2026-03-18T18:00:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 0,
+      "reserved": 0,
+      "available": 133,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "173383:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen B",
+      "date": "2026-03-18T12:00:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 0,
+      "reserved": 0,
+      "available": 133,
       "gross": 0,
       "occupancy_percent": 0.0
     }
