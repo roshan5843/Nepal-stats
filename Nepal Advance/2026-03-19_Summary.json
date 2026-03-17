@@ -25,11 +25,11 @@
   {
     "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
     "movie_name": "Aa Bata Aama",
-    "total_shows": 7,
-    "seats": 1384,
+    "total_shows": 9,
+    "seats": 1866,
     "sold": 0,
-    "reserved": 0,
-    "available": 1384,
+    "reserved": 8,
+    "available": 1858,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -80,6 +80,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 240,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 0,
+        "reserved": 0,
+        "available": 190,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-devchuli",
+        "total_shows": 1,
+        "seats": 292,
+        "sold": 0,
+        "reserved": 8,
+        "available": 284,
         "housefull": 0,
         "fastfilling": 0
       }
