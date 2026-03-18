@@ -1,6 +1,6 @@
 {
   "date": "2026-03-20",
-  "lastUpdated": "03:15 PM, 18 March 2026",
+  "lastUpdated": "06:14 PM, 18 March 2026",
   "shows": [
     {
       "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
@@ -21,16 +21,18 @@
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
       "movie_name": "Dhurandhar - The Revenge",
       "show_id": "63073:ini-lotse-ktm",
-      "venue": "ini-lotse-ktm",
-      "theatre": "iNi Cinemas Lotse - Audi 2",
-      "date": "2026-03-20T20:15:00+05:45",
-      "time": "",
-      "seats": 240,
-      "sold": 14,
-      "reserved": 20,
-      "available": 206,
-      "gross": 6800,
-      "occupancy_percent": 14.17
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-20",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -41,11 +43,11 @@
       "date": "2026-03-20T20:15:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 3,
+      "sold": 5,
       "reserved": 17,
-      "available": 190,
-      "gross": 9000,
-      "occupancy_percent": 9.52
+      "available": 188,
+      "gross": 9900,
+      "occupancy_percent": 10.48
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -56,26 +58,28 @@
       "date": "2026-03-20T18:15:00+05:45",
       "time": "",
       "seats": 240,
-      "sold": 0,
-      "reserved": 20,
-      "available": 220,
-      "gross": 8000,
-      "occupancy_percent": 8.33
+      "sold": 2,
+      "reserved": 21,
+      "available": 217,
+      "gross": 9200,
+      "occupancy_percent": 9.58
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
       "movie_name": "Dhurandhar - The Revenge",
       "show_id": "63070:ini-lotse-ktm",
-      "venue": "ini-lotse-ktm",
-      "theatre": "iNi Cinemas Lotse - Audi 2",
-      "date": "2026-03-20T07:30:00+05:45",
-      "time": "",
-      "seats": 240,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-03-20",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 20,
-      "available": 220,
-      "gross": 8000,
-      "occupancy_percent": 8.33
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -87,10 +91,10 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 20,
-      "available": 220,
-      "gross": 8000,
-      "occupancy_percent": 8.33
+      "reserved": 21,
+      "available": 219,
+      "gross": 8400,
+      "occupancy_percent": 8.75
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -102,10 +106,10 @@
       "time": "",
       "seats": 210,
       "sold": 11,
-      "reserved": 19,
-      "available": 180,
-      "gross": 13500,
-      "occupancy_percent": 14.29
+      "reserved": 17,
+      "available": 182,
+      "gross": 12600,
+      "occupancy_percent": 13.33
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -116,11 +120,11 @@
       "date": "2026-03-20T16:00:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 9,
+      "sold": 11,
       "reserved": 17,
-      "available": 184,
-      "gross": 11700,
-      "occupancy_percent": 12.38
+      "available": 182,
+      "gross": 12600,
+      "occupancy_percent": 13.33
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -132,10 +136,10 @@
       "time": "",
       "seats": 240,
       "sold": 3,
-      "reserved": 20,
-      "available": 217,
-      "gross": 9200,
-      "occupancy_percent": 9.58
+      "reserved": 21,
+      "available": 216,
+      "gross": 9600,
+      "occupancy_percent": 10.0
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -147,10 +151,10 @@
       "time": "",
       "seats": 210,
       "sold": 28,
-      "reserved": 19,
-      "available": 163,
-      "gross": 10575,
-      "occupancy_percent": 22.38
+      "reserved": 29,
+      "available": 153,
+      "gross": 12825,
+      "occupancy_percent": 27.14
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -297,10 +301,10 @@
       "time": "",
       "seats": 201,
       "sold": 5,
-      "reserved": 18,
-      "available": 178,
-      "gross": 4025,
-      "occupancy_percent": 11.44
+      "reserved": 16,
+      "available": 180,
+      "gross": 3675,
+      "occupancy_percent": 10.45
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -312,10 +316,10 @@
       "time": "",
       "seats": 240,
       "sold": 17,
-      "reserved": 20,
-      "available": 203,
-      "gross": 14800,
-      "occupancy_percent": 15.42
+      "reserved": 21,
+      "available": 202,
+      "gross": 15200,
+      "occupancy_percent": 15.83
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -327,10 +331,10 @@
       "time": "",
       "seats": 212,
       "sold": 2,
-      "reserved": 27,
-      "available": 183,
-      "gross": 17060,
-      "occupancy_percent": 13.68
+      "reserved": 25,
+      "available": 185,
+      "gross": 15660,
+      "occupancy_percent": 12.74
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -341,11 +345,11 @@
       "date": "2026-03-20T14:15:00+05:45",
       "time": "",
       "seats": 201,
-      "sold": 0,
+      "sold": 6,
       "reserved": 16,
-      "available": 185,
-      "gross": 5600,
-      "occupancy_percent": 7.96
+      "available": 179,
+      "gross": 7700,
+      "occupancy_percent": 10.95
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -357,10 +361,10 @@
       "time": "",
       "seats": 212,
       "sold": 5,
-      "reserved": 30,
-      "available": 177,
-      "gross": 11900,
-      "occupancy_percent": 16.51
+      "reserved": 26,
+      "available": 181,
+      "gross": 10540,
+      "occupancy_percent": 14.62
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -401,11 +405,11 @@
       "date": "2026-03-20T19:30:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 3,
+      "sold": 9,
       "reserved": 14,
-      "available": 193,
-      "gross": 8160,
-      "occupancy_percent": 8.1
+      "available": 187,
+      "gross": 11040,
+      "occupancy_percent": 10.95
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -417,10 +421,10 @@
       "time": "",
       "seats": 196,
       "sold": 7,
-      "reserved": 26,
-      "available": 163,
-      "gross": 10890,
-      "occupancy_percent": 16.84
+      "reserved": 18,
+      "available": 171,
+      "gross": 8250,
+      "occupancy_percent": 12.76
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -461,11 +465,11 @@
       "date": "2026-03-20T07:45:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 11,
-      "reserved": 1,
-      "available": 184,
-      "gross": 1980,
-      "occupancy_percent": 6.12
+      "sold": 12,
+      "reserved": 5,
+      "available": 179,
+      "gross": 2805,
+      "occupancy_percent": 8.67
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -477,10 +481,10 @@
       "time": "",
       "seats": 196,
       "sold": 8,
-      "reserved": 18,
-      "available": 170,
-      "gross": 8580,
-      "occupancy_percent": 13.27
+      "reserved": 21,
+      "available": 167,
+      "gross": 9570,
+      "occupancy_percent": 14.8
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -491,11 +495,11 @@
       "date": "2026-03-20T15:45:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 7,
+      "sold": 9,
       "reserved": 30,
-      "available": 175,
-      "gross": 21580,
-      "occupancy_percent": 17.45
+      "available": 173,
+      "gross": 22980,
+      "occupancy_percent": 18.4
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -687,10 +691,10 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 0,
-      "available": 240,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 239,
+      "gross": 400,
+      "occupancy_percent": 0.42
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
@@ -711,35 +715,31 @@
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "1798:pathivara-cine-plaza",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-03-20",
-      "time": null,
-      "seats": 0,
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-B",
+      "date": "2026-03-20T12:15:00+05:45",
+      "time": "",
+      "seats": 190,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 190,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
       "movie_name": "Aa Bata Aama",
       "show_id": "1799:pathivara-cine-plaza",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-03-20",
-      "time": null,
-      "seats": 0,
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-B",
+      "date": "2026-03-20T15:10:00+05:45",
+      "time": "",
+      "seats": 190,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 190,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -750,11 +750,11 @@
       "date": "2026-03-20T12:45:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 10,
-      "reserved": 60,
-      "available": 279,
-      "gross": 28000,
-      "occupancy_percent": 20.06
+      "sold": 20,
+      "reserved": 53,
+      "available": 276,
+      "gross": 29200,
+      "occupancy_percent": 20.92
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -765,11 +765,11 @@
       "date": "2026-03-20T08:30:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 16,
-      "reserved": 64,
-      "available": 269,
-      "gross": 14800,
-      "occupancy_percent": 22.92
+      "sold": 70,
+      "reserved": 62,
+      "available": 217,
+      "gross": 24420,
+      "occupancy_percent": 37.82
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -780,11 +780,11 @@
       "date": "2026-03-20T21:15:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 5,
-      "reserved": 64,
-      "available": 280,
-      "gross": 27600,
-      "occupancy_percent": 19.77
+      "sold": 18,
+      "reserved": 50,
+      "available": 281,
+      "gross": 27200,
+      "occupancy_percent": 19.48
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -825,11 +825,11 @@
       "date": "2026-03-20T18:00:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 13,
+      "sold": 39,
       "reserved": 1,
-      "available": 37,
-      "gross": 19600,
-      "occupancy_percent": 27.45
+      "available": 11,
+      "gross": 56000,
+      "occupancy_percent": 78.43
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -975,11 +975,11 @@
       "date": "2026-03-20T16:00:00+05:45",
       "time": "",
       "seats": 164,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 164,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 160,
+      "gross": 1600,
+      "occupancy_percent": 2.44
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -990,11 +990,11 @@
       "date": "2026-03-20T11:45:00+05:45",
       "time": "",
       "seats": 164,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 164,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 162,
+      "gross": 800,
+      "occupancy_percent": 1.22
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1006,10 +1006,10 @@
       "time": "",
       "seats": 164,
       "sold": 6,
-      "reserved": 0,
-      "available": 158,
-      "gross": 1200,
-      "occupancy_percent": 3.66
+      "reserved": 38,
+      "available": 120,
+      "gross": 8800,
+      "occupancy_percent": 26.83
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1020,11 +1020,11 @@
       "date": "2026-03-20T12:45:00+05:45",
       "time": "",
       "seats": 251,
-      "sold": 0,
-      "reserved": 1,
-      "available": 250,
-      "gross": 400,
-      "occupancy_percent": 0.4
+      "sold": 3,
+      "reserved": 39,
+      "available": 209,
+      "gross": 16800,
+      "occupancy_percent": 16.73
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1035,11 +1035,11 @@
       "date": "2026-03-20T20:15:00+05:45",
       "time": "",
       "seats": 164,
-      "sold": 0,
-      "reserved": 1,
-      "available": 163,
-      "gross": 400,
-      "occupancy_percent": 0.61
+      "sold": 3,
+      "reserved": 0,
+      "available": 161,
+      "gross": 1200,
+      "occupancy_percent": 1.83
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1051,10 +1051,10 @@
       "time": "",
       "seats": 251,
       "sold": 0,
-      "reserved": 0,
-      "available": 251,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 4,
+      "available": 247,
+      "gross": 1600,
+      "occupancy_percent": 1.59
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1200,11 +1200,11 @@
       "date": "2026-03-20T15:45:00+05:45",
       "time": "",
       "seats": 136,
-      "sold": 16,
-      "reserved": 0,
-      "available": 120,
-      "gross": 7040,
-      "occupancy_percent": 11.76
+      "sold": 18,
+      "reserved": 5,
+      "available": 113,
+      "gross": 10420,
+      "occupancy_percent": 16.91
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1215,11 +1215,11 @@
       "date": "2026-03-20T08:30:00+05:45",
       "time": "",
       "seats": 251,
-      "sold": 4,
-      "reserved": 3,
-      "available": 244,
-      "gross": 1400,
-      "occupancy_percent": 2.79
+      "sold": 12,
+      "reserved": 39,
+      "available": 200,
+      "gross": 10200,
+      "occupancy_percent": 20.32
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1245,11 +1245,11 @@
       "date": "2026-03-20T11:30:00+05:45",
       "time": "",
       "seats": 136,
-      "sold": 14,
+      "sold": 18,
       "reserved": 0,
-      "available": 122,
-      "gross": 6160,
-      "occupancy_percent": 10.29
+      "available": 118,
+      "gross": 7920,
+      "occupancy_percent": 13.24
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1261,10 +1261,10 @@
       "time": "",
       "seats": 136,
       "sold": 14,
-      "reserved": 1,
-      "available": 121,
-      "gross": 3750,
-      "occupancy_percent": 11.03
+      "reserved": 0,
+      "available": 122,
+      "gross": 3500,
+      "occupancy_percent": 10.29
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1275,11 +1275,11 @@
       "date": "2026-03-20T20:15:00+05:45",
       "time": "",
       "seats": 136,
-      "sold": 27,
-      "reserved": 4,
-      "available": 105,
-      "gross": 14120,
-      "occupancy_percent": 22.79
+      "sold": 29,
+      "reserved": 0,
+      "available": 107,
+      "gross": 13120,
+      "occupancy_percent": 21.32
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1290,11 +1290,11 @@
       "date": "2026-03-20T21:15:00+05:45",
       "time": "",
       "seats": 251,
-      "sold": 0,
-      "reserved": 0,
-      "available": 251,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "sold": 5,
+      "reserved": 8,
+      "available": 238,
+      "gross": 5200,
+      "occupancy_percent": 5.18
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1306,10 +1306,10 @@
       "time": "",
       "seats": 126,
       "sold": 0,
-      "reserved": 1,
-      "available": 125,
-      "gross": 400,
-      "occupancy_percent": 0.79
+      "reserved": 0,
+      "available": 126,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1410,11 +1410,11 @@
       "date": "2026-03-20T19:45:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 30,
+      "sold": 33,
       "reserved": 0,
-      "available": 187,
-      "gross": 12400,
-      "occupancy_percent": 13.82
+      "available": 184,
+      "gross": 13600,
+      "occupancy_percent": 15.21
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1425,11 +1425,11 @@
       "date": "2026-03-20T17:00:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 19,
-      "reserved": 54,
-      "available": 276,
-      "gross": 29200,
-      "occupancy_percent": 20.92
+      "sold": 50,
+      "reserved": 57,
+      "available": 242,
+      "gross": 42800,
+      "occupancy_percent": 30.66
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1441,10 +1441,10 @@
       "time": "",
       "seats": 217,
       "sold": 30,
-      "reserved": 0,
-      "available": 187,
-      "gross": 12000,
-      "occupancy_percent": 13.82
+      "reserved": 1,
+      "available": 186,
+      "gross": 12400,
+      "occupancy_percent": 14.29
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1470,11 +1470,11 @@
       "date": "2026-03-20T16:15:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 0,
-      "reserved": 6,
-      "available": 224,
-      "gross": 3300,
-      "occupancy_percent": 2.61
+      "sold": 10,
+      "reserved": 19,
+      "available": 201,
+      "gross": 10890,
+      "occupancy_percent": 12.61
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1485,11 +1485,11 @@
       "date": "2026-03-20T12:15:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 0,
-      "reserved": 7,
-      "available": 223,
-      "gross": 3570,
-      "occupancy_percent": 3.04
+      "sold": 2,
+      "reserved": 9,
+      "available": 219,
+      "gross": 4890,
+      "occupancy_percent": 4.78
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1501,10 +1501,10 @@
       "time": "",
       "seats": 217,
       "sold": 0,
-      "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 216,
+      "gross": 200,
+      "occupancy_percent": 0.46
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1515,11 +1515,11 @@
       "date": "2026-03-20T07:00:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 0,
+      "sold": 2,
       "reserved": 6,
-      "available": 224,
-      "gross": 1800,
-      "occupancy_percent": 2.61
+      "available": 222,
+      "gross": 2100,
+      "occupancy_percent": 3.48
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1531,10 +1531,10 @@
       "time": "",
       "seats": 230,
       "sold": 0,
-      "reserved": 7,
-      "available": 223,
-      "gross": 3630,
-      "occupancy_percent": 3.04
+      "reserved": 13,
+      "available": 217,
+      "gross": 6490,
+      "occupancy_percent": 5.65
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1545,11 +1545,11 @@
       "date": "2026-03-20T19:15:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 0,
-      "reserved": 11,
-      "available": 219,
-      "gross": 4950,
-      "occupancy_percent": 4.78
+      "sold": 3,
+      "reserved": 22,
+      "available": 205,
+      "gross": 9610,
+      "occupancy_percent": 10.87
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1560,11 +1560,11 @@
       "date": "2026-03-20T15:00:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 0,
-      "reserved": 6,
-      "available": 224,
-      "gross": 3300,
-      "occupancy_percent": 2.61
+      "sold": 4,
+      "reserved": 8,
+      "available": 218,
+      "gross": 5280,
+      "occupancy_percent": 5.22
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1576,10 +1576,10 @@
       "time": "",
       "seats": 230,
       "sold": 0,
-      "reserved": 7,
-      "available": 223,
-      "gross": 3630,
-      "occupancy_percent": 3.04
+      "reserved": 10,
+      "available": 220,
+      "gross": 4620,
+      "occupancy_percent": 4.35
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1790,6 +1790,531 @@
       "available": 126,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25709:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-03-20T07:30:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 25,
+      "reserved": 2,
+      "available": 176,
+      "gross": 6750,
+      "occupancy_percent": 13.3
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25712:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-03-20T20:15:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 24,
+      "reserved": 0,
+      "available": 179,
+      "gross": 10800,
+      "occupancy_percent": 11.82
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25711:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-03-20T16:00:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 27,
+      "reserved": 0,
+      "available": 176,
+      "gross": 12150,
+      "occupancy_percent": 13.3
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25717:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-03-20T21:45:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 4500,
+      "occupancy_percent": 8.96
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25716:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-03-20T17:30:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 12,
+      "reserved": 4,
+      "available": 51,
+      "gross": 10400,
+      "occupancy_percent": 23.88
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25708:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-03-20T21:15:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 7650,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25707:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-03-20T17:00:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 25,
+      "reserved": 0,
+      "available": 183,
+      "gross": 11250,
+      "occupancy_percent": 12.02
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25706:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-03-20T12:45:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 25,
+      "reserved": 0,
+      "available": 183,
+      "gross": 11250,
+      "occupancy_percent": 12.02
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25705:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-03-20T08:30:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 39,
+      "reserved": 6,
+      "available": 163,
+      "gross": 11250,
+      "occupancy_percent": 21.63
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25713:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-03-20T07:00:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 2400,
+      "occupancy_percent": 8.96
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25710:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-03-20T11:45:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 17,
+      "reserved": 0,
+      "available": 186,
+      "gross": 7650,
+      "occupancy_percent": 8.37
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "46814:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 2",
+      "date": "2026-03-20T18:45:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 0,
+      "reserved": 15,
+      "available": 165,
+      "gross": 6000,
+      "occupancy_percent": 8.33
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "46810:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 2",
+      "date": "2026-03-20T14:15:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 0,
+      "reserved": 15,
+      "available": 165,
+      "gross": 6000,
+      "occupancy_percent": 8.33
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "46811:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 1",
+      "date": "2026-03-20T11:30:00+05:45",
+      "time": "",
+      "seats": 192,
+      "sold": 0,
+      "reserved": 16,
+      "available": 176,
+      "gross": 6400,
+      "occupancy_percent": 8.33
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "46813:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 1",
+      "date": "2026-03-20T20:00:00+05:45",
+      "time": "",
+      "seats": 192,
+      "sold": 0,
+      "reserved": 16,
+      "available": 176,
+      "gross": 6400,
+      "occupancy_percent": 8.33
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "46808:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 1",
+      "date": "2026-03-20T07:00:00+05:45",
+      "time": "",
+      "seats": 192,
+      "sold": 0,
+      "reserved": 16,
+      "available": 176,
+      "gross": 3200,
+      "occupancy_percent": 8.33
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "46812:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 1",
+      "date": "2026-03-20T15:45:00+05:45",
+      "time": "",
+      "seats": 192,
+      "sold": 0,
+      "reserved": 16,
+      "available": 176,
+      "gross": 6400,
+      "occupancy_percent": 8.33
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25718:one-cinemas-kalimati",
+      "venue": "one-cinemas-kalimati",
+      "theatre": "One Cinemas Kalimati - Audi 1",
+      "date": "2026-03-20T08:00:00+05:45",
+      "time": "",
+      "seats": 151,
+      "sold": 18,
+      "reserved": 0,
+      "available": 133,
+      "gross": 4500,
+      "occupancy_percent": 11.92
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25721:one-cinemas-kalimati",
+      "venue": "one-cinemas-kalimati",
+      "theatre": "One Cinemas Kalimati - Audi 1",
+      "date": "2026-03-20T19:15:00+05:45",
+      "time": "",
+      "seats": 151,
+      "sold": 14,
+      "reserved": 0,
+      "available": 137,
+      "gross": 6160,
+      "occupancy_percent": 9.27
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "74735:city-cinema",
+      "venue": "city-cinema",
+      "theatre": "City Cinema - HALL A",
+      "date": "2026-03-20T16:15:00+05:45",
+      "time": "",
+      "seats": 189,
+      "sold": 0,
+      "reserved": 0,
+      "available": 189,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "74740:city-cinema",
+      "venue": "city-cinema",
+      "theatre": "City Cinema - HALL B",
+      "date": "2026-03-20T19:30:00+05:45",
+      "time": "",
+      "seats": 98,
+      "sold": 0,
+      "reserved": 0,
+      "available": 98,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "74739:city-cinema",
+      "venue": "city-cinema",
+      "theatre": "City Cinema - HALL B",
+      "date": "2026-03-20T15:15:00+05:45",
+      "time": "",
+      "seats": 98,
+      "sold": 2,
+      "reserved": 0,
+      "available": 96,
+      "gross": 660,
+      "occupancy_percent": 2.04
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "74733:city-cinema",
+      "venue": "city-cinema",
+      "theatre": "City Cinema - HALL A",
+      "date": "2026-03-20T07:45:00+05:45",
+      "time": "",
+      "seats": 189,
+      "sold": 2,
+      "reserved": 0,
+      "available": 187,
+      "gross": 300,
+      "occupancy_percent": 1.06
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "25720:one-cinemas-kalimati",
+      "venue": "one-cinemas-kalimati",
+      "theatre": "One Cinemas Kalimati - Audi 1",
+      "date": "2026-03-20T15:00:00+05:45",
+      "time": "",
+      "seats": 151,
+      "sold": 14,
+      "reserved": 0,
+      "available": 137,
+      "gross": 6160,
+      "occupancy_percent": 9.27
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "74738:city-cinema",
+      "venue": "city-cinema",
+      "theatre": "City Cinema - HALL B",
+      "date": "2026-03-20T11:00:00+05:45",
+      "time": "",
+      "seats": 98,
+      "sold": 0,
+      "reserved": 0,
+      "available": 98,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "74736:city-cinema",
+      "venue": "city-cinema",
+      "theatre": "City Cinema - HALL A",
+      "date": "2026-03-20T20:30:00+05:45",
+      "time": "",
+      "seats": 189,
+      "sold": 0,
+      "reserved": 0,
+      "available": 189,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "74734:city-cinema",
+      "venue": "city-cinema",
+      "theatre": "City Cinema - HALL A",
+      "date": "2026-03-20T12:00:00+05:45",
+      "time": "",
+      "seats": 189,
+      "sold": 0,
+      "reserved": 0,
+      "available": 189,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "77992:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-03-20T20:30:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "77989:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-03-20T08:05:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "77990:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-03-20T12:10:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "77991:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-03-20T16:15:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 4,
+      "available": 161,
+      "gross": 1500,
+      "occupancy_percent": 2.42
+    },
+    {
+      "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
+      "movie_name": "Project Hail Mary (PG)",
+      "show_id": "46815:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 2",
+      "date": "2026-03-20T08:00:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 0,
+      "reserved": 15,
+      "available": 165,
+      "gross": 3000,
+      "occupancy_percent": 8.33
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "46816:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 2",
+      "date": "2026-03-20T11:00:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 0,
+      "reserved": 15,
+      "available": 165,
+      "gross": 6000,
+      "occupancy_percent": 8.33
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "159955:qfx-bhaktapur",
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 1",
+      "date": "2026-03-20T12:30:00+05:45",
+      "time": "",
+      "seats": 207,
+      "sold": 0,
+      "reserved": 0,
+      "available": 207,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "TrAcSfZv4oSLw47hzBudCQ",
+      "movie_name": "Aa Bata Aama",
+      "show_id": "25714:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-03-20T11:30:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 4500,
+      "occupancy_percent": 8.96
     }
   ]
 }
