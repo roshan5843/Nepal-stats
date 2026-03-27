@@ -2,13 +2,13 @@
   {
     "movie_id": "zDquhoHrfUHpyVzquamLCN",
     "movie_name": "Dhurandhar - The Revenge",
-    "total_shows": 1,
-    "seats": 259,
-    "sold": 75,
-    "reserved": 0,
-    "available": 184,
+    "total_shows": 3,
+    "seats": 490,
+    "sold": 224,
+    "reserved": 2,
+    "available": 264,
     "housefull": 0,
-    "fastfilling": 0,
+    "fastfilling": 2,
     "venues": [
       {
         "venue": "qfx-civil",
@@ -17,6 +17,49 @@
         "sold": 75,
         "reserved": 0,
         "available": 184,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 51,
+        "sold": 29,
+        "reserved": 2,
+        "available": 20,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 120,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 1
+      }
+    ]
+  },
+  {
+    "movie_id": "zFrpNumaQ5YugBt2dcB6cQ",
+    "movie_name": "They Will Kill You",
+    "total_shows": 1,
+    "seats": 182,
+    "sold": 0,
+    "reserved": 0,
+    "available": 182,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 0,
+        "reserved": 0,
+        "available": 182,
         "housefull": 0,
         "fastfilling": 0
       }
