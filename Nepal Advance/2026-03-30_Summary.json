@@ -2,11 +2,11 @@
   {
     "movie_id": "zDquhoHrfUHpyVzquamLCN",
     "movie_name": "Dhurandhar - The Revenge",
-    "total_shows": 64,
-    "seats": 11556,
-    "sold": 38,
-    "reserved": 10,
-    "available": 11508,
+    "total_shows": 79,
+    "seats": 14594,
+    "sold": 44,
+    "reserved": 85,
+    "available": 14465,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -24,9 +24,9 @@
         "venue": "qfx-civil",
         "total_shows": 7,
         "seats": 2333,
-        "sold": 7,
+        "sold": 13,
         "reserved": 0,
-        "available": 2326,
+        "available": 2320,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -52,11 +52,21 @@
       },
       {
         "venue": "qs-cinemas",
-        "total_shows": 6,
-        "seats": 933,
+        "total_shows": 4,
+        "seats": 675,
         "sold": 0,
         "reserved": 0,
-        "available": 933,
+        "available": 675,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 6,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -101,16 +111,6 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 4,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "cineroyale",
         "total_shows": 7,
         "seats": 1428,
@@ -119,17 +119,57 @@
         "available": 1428,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 7,
+        "seats": 1452,
+        "sold": 0,
+        "reserved": 75,
+        "available": 1377,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 4,
+        "seats": 1066,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1066,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "birat-cine",
+        "total_shows": 2,
+        "seats": 338,
+        "sold": 0,
+        "reserved": 0,
+        "available": 338,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pashupati-digital-cinema",
+        "total_shows": 2,
+        "seats": 440,
+        "sold": 0,
+        "reserved": 0,
+        "available": 440,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "zFrpNumaQ5YugBt2dcB6cQ",
     "movie_name": "They Will Kill You",
-    "total_shows": 2,
-    "seats": 163,
+    "total_shows": 3,
+    "seats": 361,
     "sold": 0,
-    "reserved": 2,
-    "available": 161,
+    "reserved": 12,
+    "available": 349,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -152,6 +192,16 @@
         "available": 112,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 198,
+        "sold": 0,
+        "reserved": 10,
+        "available": 188,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -159,10 +209,10 @@
     "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
     "movie_name": "Project Hail Mary",
     "total_shows": 11,
-    "seats": 1780,
+    "seats": 1651,
     "sold": 5,
     "reserved": 0,
-    "available": 1775,
+    "available": 1646,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -198,11 +248,11 @@
       },
       {
         "venue": "qs-cinemas",
-        "total_shows": 2,
-        "seats": 311,
+        "total_shows": 1,
+        "seats": 182,
         "sold": 0,
         "reserved": 0,
-        "available": 311,
+        "available": 182,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -213,6 +263,16 @@
         "sold": 2,
         "reserved": 0,
         "available": 441,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -231,11 +291,11 @@
   {
     "movie_id": "pDcmgzWp2kpArw5qa8S5w4",
     "movie_name": "Hami Teen Bhai",
-    "total_shows": 8,
-    "seats": 1173,
+    "total_shows": 13,
+    "seats": 2257,
     "sold": 0,
-    "reserved": 0,
-    "available": 1173,
+    "reserved": 10,
+    "available": 2247,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -306,6 +366,46 @@
         "sold": 0,
         "reserved": 0,
         "available": 126,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 210,
+        "sold": 0,
+        "reserved": 10,
+        "available": 200,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "birat-cine",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 0,
+        "available": 169,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pashupati-digital-cinema",
+        "total_shows": 2,
+        "seats": 440,
+        "sold": 0,
+        "reserved": 0,
+        "available": 440,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 1,
+        "seats": 265,
+        "sold": 0,
+        "reserved": 0,
+        "available": 265,
         "housefull": 0,
         "fastfilling": 0
       }
