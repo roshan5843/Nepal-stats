@@ -2,21 +2,21 @@
   {
     "movie_id": "zDquhoHrfUHpyVzquamLCN",
     "movie_name": "Dhurandhar - The Revenge",
-    "total_shows": 11,
-    "seats": 2222,
-    "sold": 235,
-    "reserved": 68,
-    "available": 1919,
+    "total_shows": 20,
+    "seats": 3864,
+    "sold": 408,
+    "reserved": 126,
+    "available": 3330,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
         "venue": "big-movies",
-        "total_shows": 1,
-        "seats": 270,
-        "sold": 27,
-        "reserved": 50,
-        "available": 193,
+        "total_shows": 2,
+        "seats": 619,
+        "sold": 56,
+        "reserved": 100,
+        "available": 463,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -37,6 +37,16 @@
         "sold": 1,
         "reserved": 18,
         "available": 173,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 0,
+        "reserved": 0,
+        "available": 214,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -71,12 +81,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "one-cinemas-new-baneshwor",
+        "venue": "midtown",
         "total_shows": 1,
-        "seats": 203,
-        "sold": 14,
+        "seats": 178,
+        "sold": 13,
+        "reserved": 8,
+        "available": 157,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 3,
+        "seats": 478,
+        "sold": 31,
         "reserved": 0,
-        "available": 189,
+        "available": 447,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -91,12 +111,42 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-labim",
+        "venue": "qfx-cineflix-itahari",
         "total_shows": 1,
-        "seats": 182,
-        "sold": 32,
+        "seats": 134,
+        "sold": 0,
         "reserved": 0,
-        "available": 150,
+        "available": 134,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 259,
+        "sold": 34,
+        "reserved": 0,
+        "available": 225,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 53,
+        "sold": 6,
+        "reserved": 0,
+        "available": 47,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 2,
+        "seats": 362,
+        "sold": 106,
+        "reserved": 0,
+        "available": 256,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -125,11 +175,11 @@
   {
     "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
     "movie_name": "Project Hail Mary",
-    "total_shows": 3,
-    "seats": 634,
-    "sold": 106,
+    "total_shows": 8,
+    "seats": 1441,
+    "sold": 188,
     "reserved": 50,
-    "available": 478,
+    "available": 1203,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -144,6 +194,26 @@
         "fastfilling": 0
       },
       {
+        "venue": "bishwojyoti-cineplex",
+        "total_shows": 1,
+        "seats": 89,
+        "sold": 1,
+        "reserved": 0,
+        "available": 88,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 1,
+        "seats": 177,
+        "sold": 2,
+        "reserved": 0,
+        "available": 175,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "midtown",
         "total_shows": 1,
         "seats": 172,
@@ -154,12 +224,85 @@
         "fastfilling": 0
       },
       {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 247,
+        "sold": 41,
+        "reserved": 0,
+        "available": 206,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 183,
         "sold": 76,
         "reserved": 0,
         "available": 107,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 165,
+        "sold": 9,
+        "reserved": 0,
+        "available": 156,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 129,
+        "sold": 29,
+        "reserved": 0,
+        "available": 100,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "zFrpNumaQ5YugBt2dcB6cQ",
+    "movie_name": "They Will Kill You",
+    "total_shows": 3,
+    "seats": 616,
+    "sold": 0,
+    "reserved": 15,
+    "available": 601,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 0,
+        "reserved": 15,
+        "available": 165,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 1,
+        "seats": 240,
+        "sold": 0,
+        "reserved": 0,
+        "available": 240,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 0,
+        "reserved": 0,
+        "available": 196,
         "housefull": 0,
         "fastfilling": 0
       }
