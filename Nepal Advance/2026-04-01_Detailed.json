@@ -1,6 +1,6 @@
 {
   "date": "2026-04-01",
-  "lastUpdated": "02:24 AM, 31 March 2026",
+  "lastUpdated": "04:14 AM, 31 March 2026",
   "shows": [
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -981,16 +981,18 @@
       "movie_id": "hH3frLygogeL27uw7G8NvK",
       "movie_name": "The Super Mario Galaxy Movie",
       "show_id": "63564:bishwojyoti-cineplex",
-      "venue": "bishwojyoti-cineplex",
-      "theatre": "iNi Bishwojyoti Mall - Audi 2",
-      "date": "2026-04-01T17:30:00+05:45",
-      "time": "",
-      "seats": 89,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 89,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -2997,10 +2999,10 @@
       "time": "",
       "seats": 182,
       "sold": 2,
-      "reserved": 1,
-      "available": 179,
-      "gross": 2680,
-      "occupancy_percent": 1.65
+      "reserved": 0,
+      "available": 180,
+      "gross": 2160,
+      "occupancy_percent": 1.1
     },
     {
       "movie_id": "hH3frLygogeL27uw7G8NvK",
