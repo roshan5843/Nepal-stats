@@ -2,14 +2,24 @@
   {
     "movie_id": "zDquhoHrfUHpyVzquamLCN",
     "movie_name": "Dhurandhar - The Revenge",
-    "total_shows": 7,
-    "seats": 1243,
-    "sold": 205,
-    "reserved": 0,
-    "available": 1038,
+    "total_shows": 9,
+    "seats": 1659,
+    "sold": 219,
+    "reserved": 25,
+    "available": 1415,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 10,
+        "reserved": 25,
+        "available": 314,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "one-cinemas-kalimati",
         "total_shows": 1,
@@ -22,11 +32,11 @@
       },
       {
         "venue": "one-cinemas-new-baneshwor",
-        "total_shows": 2,
-        "seats": 411,
-        "sold": 44,
+        "total_shows": 3,
+        "seats": 478,
+        "sold": 48,
         "reserved": 0,
-        "available": 367,
+        "available": 430,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -75,11 +85,11 @@
   {
     "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
     "movie_name": "Project Hail Mary",
-    "total_shows": 4,
-    "seats": 778,
-    "sold": 77,
+    "total_shows": 5,
+    "seats": 960,
+    "sold": 130,
     "reserved": 8,
-    "available": 693,
+    "available": 822,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -100,6 +110,16 @@
         "sold": 11,
         "reserved": 0,
         "available": 236,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 53,
+        "reserved": 0,
+        "available": 129,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -143,6 +163,29 @@
         "sold": 0,
         "reserved": 0,
         "available": 270,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "zFrpNumaQ5YugBt2dcB6cQ",
+    "movie_name": "They Will Kill You",
+    "total_shows": 1,
+    "seats": 279,
+    "sold": 0,
+    "reserved": 0,
+    "available": 279,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 0,
+        "reserved": 0,
+        "available": 279,
         "housefull": 0,
         "fastfilling": 0
       }
