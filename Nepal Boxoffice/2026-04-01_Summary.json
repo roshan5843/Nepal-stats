@@ -2,21 +2,31 @@
   {
     "movie_id": "zDquhoHrfUHpyVzquamLCN",
     "movie_name": "Dhurandhar - The Revenge",
-    "total_shows": 4,
-    "seats": 753,
-    "sold": 101,
-    "reserved": 0,
-    "available": 652,
+    "total_shows": 8,
+    "seats": 1656,
+    "sold": 146,
+    "reserved": 24,
+    "available": 1486,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "one-cinemas-new-baneshwor",
+        "venue": "big-movies",
         "total_shows": 1,
-        "seats": 67,
-        "sold": 2,
+        "seats": 349,
+        "sold": 21,
+        "reserved": 22,
+        "available": 306,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 2,
+        "seats": 275,
+        "sold": 10,
         "reserved": 0,
-        "available": 65,
+        "available": 265,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -49,20 +59,70 @@
         "available": 115,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 10,
+        "reserved": 0,
+        "available": 172,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 164,
+        "sold": 6,
+        "reserved": 2,
+        "available": 156,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
     "movie_name": "Project Hail Mary",
-    "total_shows": 1,
-    "seats": 129,
-    "sold": 16,
+    "total_shows": 4,
+    "seats": 657,
+    "sold": 87,
     "reserved": 0,
-    "available": 113,
+    "available": 570,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 207,
+        "sold": 18,
+        "reserved": 0,
+        "available": 189,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 50,
+        "reserved": 0,
+        "available": 132,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 139,
+        "sold": 3,
+        "reserved": 0,
+        "available": 136,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "qs-cinemas",
         "total_shows": 1,
@@ -70,6 +130,39 @@
         "sold": 16,
         "reserved": 0,
         "available": 113,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "hH3frLygogeL27uw7G8NvK",
+    "movie_name": "The Super Mario Galaxy Movie",
+    "total_shows": 2,
+    "seats": 442,
+    "sold": 35,
+    "reserved": 0,
+    "available": 407,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 259,
+        "sold": 2,
+        "reserved": 0,
+        "available": 257,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 183,
+        "sold": 33,
+        "reserved": 0,
+        "available": 150,
         "housefull": 0,
         "fastfilling": 0
       }
