@@ -3,20 +3,20 @@
     "movie_id": "zDquhoHrfUHpyVzquamLCN",
     "movie_name": "Dhurandhar - The Revenge",
     "total_shows": 36,
-    "seats": 6402,
+    "seats": 6740,
     "sold": 17,
     "reserved": 58,
-    "available": 6327,
+    "available": 6665,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "Unknown",
-        "total_shows": 3,
-        "seats": 0,
+        "venue": "birat-cine",
+        "total_shows": 2,
+        "seats": 338,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 338,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -119,20 +119,7 @@
         "available": 402,
         "housefull": 0,
         "fastfilling": 0
-      }
-    ]
-  },
-  {
-    "movie_id": "pDcmgzWp2kpArw5qa8S5w4",
-    "movie_name": "Hami Teen Bhai",
-    "total_shows": 1,
-    "seats": 0,
-    "sold": 0,
-    "reserved": 0,
-    "available": 0,
-    "housefull": 0,
-    "fastfilling": 0,
-    "venues": [
+      },
       {
         "venue": "Unknown",
         "total_shows": 1,
@@ -140,6 +127,29 @@
         "sold": 0,
         "reserved": 0,
         "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "pDcmgzWp2kpArw5qa8S5w4",
+    "movie_name": "Hami Teen Bhai",
+    "total_shows": 1,
+    "seats": 169,
+    "sold": 0,
+    "reserved": 0,
+    "available": 169,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "birat-cine",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 0,
+        "available": 169,
         "housefull": 0,
         "fastfilling": 0
       }
