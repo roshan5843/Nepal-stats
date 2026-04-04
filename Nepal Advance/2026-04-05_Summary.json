@@ -2,11 +2,11 @@
   {
     "movie_id": "zDquhoHrfUHpyVzquamLCN",
     "movie_name": "Dhurandhar - The Revenge",
-    "total_shows": 124,
-    "seats": 23651,
-    "sold": 324,
-    "reserved": 201,
-    "available": 23126,
+    "total_shows": 151,
+    "seats": 29495,
+    "sold": 412,
+    "reserved": 535,
+    "available": 28548,
     "housefull": 1,
     "fastfilling": 0,
     "venues": [
@@ -24,9 +24,9 @@
         "venue": "qfx-durbar",
         "total_shows": 4,
         "seats": 208,
-        "sold": 57,
-        "reserved": 4,
-        "available": 147,
+        "sold": 62,
+        "reserved": 2,
+        "available": 144,
         "housefull": 1,
         "fastfilling": 0
       },
@@ -64,19 +64,19 @@
         "venue": "qs-cinemas",
         "total_shows": 2,
         "seats": 364,
-        "sold": 6,
+        "sold": 8,
         "reserved": 0,
-        "available": 358,
+        "available": 356,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "dmax-cinemas",
-        "total_shows": 3,
-        "seats": 464,
+        "total_shows": 5,
+        "seats": 798,
         "sold": 0,
         "reserved": 0,
-        "available": 464,
+        "available": 798,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -95,8 +95,8 @@
         "total_shows": 3,
         "seats": 548,
         "sold": 3,
-        "reserved": 57,
-        "available": 488,
+        "reserved": 56,
+        "available": 489,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -134,9 +134,9 @@
         "venue": "qfx-chhaya",
         "total_shows": 3,
         "seats": 450,
-        "sold": 2,
+        "sold": 4,
         "reserved": 0,
-        "available": 448,
+        "available": 446,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -144,9 +144,9 @@
         "venue": "qfx-labim",
         "total_shows": 5,
         "seats": 907,
-        "sold": 17,
+        "sold": 22,
         "reserved": 0,
-        "available": 890,
+        "available": 885,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -154,9 +154,9 @@
         "venue": "qfx-civil",
         "total_shows": 3,
         "seats": 1297,
-        "sold": 8,
+        "sold": 10,
         "reserved": 0,
-        "available": 1289,
+        "available": 1287,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -185,8 +185,8 @@
         "total_shows": 9,
         "seats": 1434,
         "sold": 123,
-        "reserved": 2,
-        "available": 1309,
+        "reserved": 0,
+        "available": 1311,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -195,8 +195,8 @@
         "total_shows": 5,
         "seats": 1042,
         "sold": 0,
-        "reserved": 60,
-        "available": 982,
+        "reserved": 64,
+        "available": 978,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -205,8 +205,8 @@
         "total_shows": 6,
         "seats": 1199,
         "sold": 8,
-        "reserved": 0,
-        "available": 1191,
+        "reserved": 2,
+        "available": 1189,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -315,8 +315,8 @@
         "total_shows": 4,
         "seats": 697,
         "sold": 0,
-        "reserved": 0,
-        "available": 697,
+        "reserved": 1,
+        "available": 696,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -327,6 +327,76 @@
         "sold": 0,
         "reserved": 0,
         "available": 868,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "big-movies",
+        "total_shows": 6,
+        "seats": 1857,
+        "sold": 0,
+        "reserved": 300,
+        "available": 1557,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-kalimati",
+        "total_shows": 5,
+        "seats": 710,
+        "sold": 70,
+        "reserved": 0,
+        "available": 640,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 4,
+        "seats": 700,
+        "sold": 0,
+        "reserved": 32,
+        "available": 668,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas-illam",
+        "total_shows": 1,
+        "seats": 188,
+        "sold": 0,
+        "reserved": 0,
+        "available": 188,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kawaswoti-cinemax",
+        "total_shows": 3,
+        "seats": 774,
+        "sold": 0,
+        "reserved": 0,
+        "available": 774,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinema-butwal-royal-cine-hub",
+        "total_shows": 3,
+        "seats": 639,
+        "sold": 0,
+        "reserved": 0,
+        "available": 639,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 3,
+        "seats": 642,
+        "sold": 2,
+        "reserved": 0,
+        "available": 640,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -378,11 +448,11 @@
   {
     "movie_id": "hH3frLygogeL27uw7G8NvK",
     "movie_name": "The Super Mario Galaxy Movie",
-    "total_shows": 31,
-    "seats": 6012,
-    "sold": 66,
-    "reserved": 48,
-    "available": 5898,
+    "total_shows": 33,
+    "seats": 6165,
+    "sold": 85,
+    "reserved": 97,
+    "available": 5983,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -510,9 +580,9 @@
         "venue": "fcube",
         "total_shows": 1,
         "seats": 198,
-        "sold": 0,
+        "sold": 5,
         "reserved": 10,
-        "available": 188,
+        "available": 183,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -521,8 +591,8 @@
         "total_shows": 2,
         "seats": 275,
         "sold": 26,
-        "reserved": 1,
-        "available": 248,
+        "reserved": 0,
+        "available": 249,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -599,10 +669,10 @@
       {
         "venue": "qfx-jalma",
         "total_shows": 2,
-        "seats": 533,
+        "seats": 265,
         "sold": 0,
         "reserved": 0,
-        "available": 533,
+        "available": 265,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -665,17 +735,37 @@
         "available": 126,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 270,
+        "sold": 0,
+        "reserved": 50,
+        "available": 220,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-kalimati",
+        "total_shows": 1,
+        "seats": 151,
+        "sold": 14,
+        "reserved": 0,
+        "available": 137,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
     "movie_name": "Project Hail Mary",
-    "total_shows": 18,
-    "seats": 2824,
-    "sold": 21,
-    "reserved": 20,
-    "available": 2783,
+    "total_shows": 20,
+    "seats": 3351,
+    "sold": 23,
+    "reserved": 78,
+    "available": 3250,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -753,9 +843,9 @@
         "venue": "qfx-labim",
         "total_shows": 2,
         "seats": 365,
-        "sold": 10,
+        "sold": 12,
         "reserved": 0,
-        "available": 355,
+        "available": 353,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -776,6 +866,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 259,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 0,
+        "reserved": 50,
+        "available": 299,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 178,
+        "sold": 0,
+        "reserved": 8,
+        "available": 170,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -832,6 +942,52 @@
         "sold": 0,
         "reserved": 0,
         "available": 126,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "ALiTxpyYTmGtvhXz2eYgn4",
+    "movie_name": "Baristha Balaram",
+    "total_shows": 1,
+    "seats": 188,
+    "sold": 0,
+    "reserved": 0,
+    "available": 188,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "friends-cinemas-illam",
+        "total_shows": 1,
+        "seats": 188,
+        "sold": 0,
+        "reserved": 0,
+        "available": 188,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "GqKfdqKoF8PsqNjiArS2yb",
+    "movie_name": "Anjila",
+    "total_shows": 2,
+    "seats": 376,
+    "sold": 0,
+    "reserved": 0,
+    "available": 376,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "friends-cinemas-illam",
+        "total_shows": 2,
+        "seats": 376,
+        "sold": 0,
+        "reserved": 0,
+        "available": 376,
         "housefull": 0,
         "fastfilling": 0
       }
