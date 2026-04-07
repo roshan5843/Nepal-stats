@@ -1,6 +1,6 @@
 {
   "date": "2026-04-08",
-  "lastUpdated": "04:13 AM, 07 April 2026",
+  "lastUpdated": "08:21 AM, 07 April 2026",
   "shows": [
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -117,10 +117,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 10,
-      "available": 200,
-      "gross": 2400,
-      "occupancy_percent": 4.76
+      "reserved": 12,
+      "available": 198,
+      "gross": 2880,
+      "occupancy_percent": 5.71
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -456,16 +456,18 @@
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
       "movie_name": "Dhurandhar - The Revenge",
       "show_id": "63829:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Butwal - Audi 2",
-      "date": "2026-04-08T13:45:00+05:45",
-      "time": "",
-      "seats": 196,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-08",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 196,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -546,16 +548,18 @@
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
       "movie_name": "Dhurandhar - The Revenge",
       "show_id": "63827:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Butwal - Audi 1",
-      "date": "2026-04-08T16:00:00+05:45",
-      "time": "",
-      "seats": 196,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-08",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 196,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -576,16 +580,18 @@
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
       "movie_name": "Dhurandhar - The Revenge",
       "show_id": "63826:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Butwal - Audi 1",
-      "date": "2026-04-08T11:30:00+05:45",
-      "time": "",
-      "seats": 196,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-08",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 196,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "hH3frLygogeL27uw7G8NvK",
@@ -896,11 +902,11 @@
       "date": "2026-04-08T17:00:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 2,
+      "sold": 7,
       "reserved": 0,
-      "available": 257,
-      "gross": 500,
-      "occupancy_percent": 0.77
+      "available": 252,
+      "gross": 1750,
+      "occupancy_percent": 2.7
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1031,11 +1037,11 @@
       "date": "2026-04-08T18:30:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 129,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 127,
+      "gross": 500,
+      "occupancy_percent": 1.55
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1166,11 +1172,11 @@
       "date": "2026-04-08T14:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 0,
+      "sold": 1,
       "reserved": 18,
-      "available": 229,
-      "gross": 4500,
-      "occupancy_percent": 7.29
+      "available": 228,
+      "gross": 4750,
+      "occupancy_percent": 7.69
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1302,10 +1308,10 @@
       "time": "",
       "seats": 251,
       "sold": 0,
-      "reserved": 0,
-      "available": 251,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 3,
+      "available": 248,
+      "gross": 525,
+      "occupancy_percent": 1.2
     },
     {
       "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
@@ -1316,11 +1322,11 @@
       "date": "2026-04-08T11:45:00+05:45",
       "time": "",
       "seats": 118,
-      "sold": 0,
+      "sold": 2,
       "reserved": 6,
-      "available": 112,
-      "gross": 1050,
-      "occupancy_percent": 5.08
+      "available": 110,
+      "gross": 1400,
+      "occupancy_percent": 6.78
     },
     {
       "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
@@ -2126,11 +2132,11 @@
       "date": "2026-04-08T15:45:00+05:45",
       "time": "",
       "seats": 117,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 117,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 113,
+      "gross": 720,
+      "occupancy_percent": 3.42
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -2624,6 +2630,51 @@
       "sold": 0,
       "reserved": 0,
       "available": 268,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "4843:suvakamna-cinemas",
+      "venue": "suvakamna-cinemas",
+      "theatre": "Shuvakamana Cinema - Hall-A",
+      "date": "2026-04-08T14:30:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "4844:suvakamna-cinemas",
+      "venue": "suvakamna-cinemas",
+      "theatre": "Shuvakamana Cinema - Hall-A",
+      "date": "2026-04-08T19:00:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "pDcmgzWp2kpArw5qa8S5w4",
+      "movie_name": "Hami Teen Bhai",
+      "show_id": "4842:suvakamna-cinemas",
+      "venue": "suvakamna-cinemas",
+      "theatre": "Shuvakamana Cinema - Hall-A",
+      "date": "2026-04-08T11:30:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
       "gross": 0,
       "occupancy_percent": 0.0
     }
