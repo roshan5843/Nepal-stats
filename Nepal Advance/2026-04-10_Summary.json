@@ -5,8 +5,8 @@
     "total_shows": 2,
     "seats": 396,
     "sold": 0,
-    "reserved": 20,
-    "available": 376,
+    "reserved": 22,
+    "available": 374,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,8 +15,8 @@
         "total_shows": 2,
         "seats": 396,
         "sold": 0,
-        "reserved": 20,
-        "available": 376,
+        "reserved": 22,
+        "available": 374,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -27,9 +27,9 @@
     "movie_name": "Ram Naam Satya (PG)",
     "total_shows": 5,
     "seats": 1058,
-    "sold": 9,
-    "reserved": 62,
-    "available": 987,
+    "sold": 10,
+    "reserved": 59,
+    "available": 989,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -37,9 +37,9 @@
         "venue": "fcube",
         "total_shows": 5,
         "seats": 1058,
-        "sold": 9,
-        "reserved": 62,
-        "available": 987,
+        "sold": 10,
+        "reserved": 59,
+        "available": 989,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -50,9 +50,9 @@
     "movie_name": "Dhurandhar - The Revenge",
     "total_shows": 3,
     "seats": 618,
-    "sold": 0,
-    "reserved": 32,
-    "available": 586,
+    "sold": 1,
+    "reserved": 35,
+    "available": 582,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -60,9 +60,9 @@
         "venue": "fcube",
         "total_shows": 3,
         "seats": 618,
-        "sold": 0,
-        "reserved": 32,
-        "available": 586,
+        "sold": 1,
+        "reserved": 35,
+        "available": 582,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -86,6 +86,29 @@
         "sold": 0,
         "reserved": 10,
         "available": 188,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
+    "movie_name": "Project Hail Mary",
+    "total_shows": 1,
+    "seats": 210,
+    "sold": 0,
+    "reserved": 0,
+    "available": 210,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 210,
+        "sold": 0,
+        "reserved": 0,
+        "available": 210,
         "housefull": 0,
         "fastfilling": 0
       }
