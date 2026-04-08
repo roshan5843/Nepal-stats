@@ -1,6 +1,6 @@
 {
   "date": "2026-04-10",
-  "lastUpdated": "02:25 AM, 09 April 2026",
+  "lastUpdated": "04:21 AM, 09 April 2026",
   "shows": [
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -351,16 +351,18 @@
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
       "movie_name": "Dhurandhar - The Revenge",
       "show_id": "63909:bishwojyoti-cineplex",
-      "venue": "bishwojyoti-cineplex",
-      "theatre": "iNi Bishwojyoti Mall - Audi 2",
-      "date": "2026-04-10T11:15:00+05:45",
-      "time": "",
-      "seats": 89,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-10",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 89,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1886,11 +1888,11 @@
       "date": "2026-04-10T15:15:00+05:45",
       "time": "",
       "seats": 199,
-      "sold": 0,
-      "reserved": 7,
-      "available": 192,
-      "gross": 2310,
-      "occupancy_percent": 3.52
+      "sold": 4,
+      "reserved": 0,
+      "available": 195,
+      "gross": 1320,
+      "occupancy_percent": 2.01
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -3081,18 +3083,16 @@
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
       "movie_name": "Dacoit: A Love Story",
       "show_id": "63872:ini-lotse-ktm",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-04-10",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-lotse-ktm",
+      "theatre": "iNi Lotse Mall - Audi 1",
+      "date": "2026-04-10T11:00:00+05:45",
+      "time": "",
+      "seats": 240,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 240,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -3278,18 +3278,16 @@
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
       "movie_name": "Dacoit: A Love Story",
       "show_id": "63911:bishwojyoti-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-04-10",
-      "time": null,
-      "seats": 0,
+      "venue": "bishwojyoti-cineplex",
+      "theatre": "iNi Bishwojyoti Mall - Audi 2",
+      "date": "2026-04-10T19:45:00+05:45",
+      "time": "",
+      "seats": 89,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 89,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
