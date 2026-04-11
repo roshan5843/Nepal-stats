@@ -1,6 +1,6 @@
 {
   "date": "2026-04-12",
-  "lastUpdated": "12:40 PM, 11 April 2026",
+  "lastUpdated": "02:25 PM, 11 April 2026",
   "shows": [
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -71,11 +71,11 @@
       "date": "2026-04-12T08:00:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 210,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 206,
+      "gross": 900,
+      "occupancy_percent": 1.9
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -198,12 +198,12 @@
       "occupancy_percent": 8.37
     },
     {
-      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
-      "movie_name": "Ram Naam Satya",
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
       "show_id": "26143:one-cinemas-new-baneshwor",
       "venue": "one-cinemas-new-baneshwor",
       "theatre": "One Cinemas New Baneshwor - Audi 2",
-      "date": "2026-04-12T17:30:00+05:45",
+      "date": "2026-04-12T14:45:00+05:45",
       "time": "",
       "seats": 203,
       "sold": 17,
@@ -366,31 +366,35 @@
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
       "movie_name": "Ram Naam Satya",
       "show_id": "63991:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Butwal - Audi 1",
-      "date": "2026-04-12T08:00:00+05:45",
-      "time": "",
-      "seats": 196,
-      "sold": 3,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-12",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 193,
-      "gross": 405,
-      "occupancy_percent": 1.53
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
       "movie_name": "Ram Naam Satya",
       "show_id": "63992:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Butwal - Audi 1",
-      "date": "2026-04-12T19:45:00+05:45",
-      "time": "",
-      "seats": 196,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-12",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 196,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -543,12 +547,12 @@
       "occupancy_percent": 0.0
     },
     {
-      "movie_id": "zDquhoHrfUHpyVzquamLCN",
-      "movie_name": "Dhurandhar - The Revenge",
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
       "show_id": "26146:one-cinemas-new-baneshwor",
       "venue": "one-cinemas-new-baneshwor",
       "theatre": "One Cinemas New Baneshwor - Premium",
-      "date": "2026-04-12T15:30:00+05:45",
+      "date": "2026-04-12T14:00:00+05:45",
       "time": "",
       "seats": 67,
       "sold": 6,
@@ -567,18 +571,18 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 0,
-      "available": 240,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 3,
+      "available": 237,
+      "gross": 1200,
+      "occupancy_percent": 1.25
     },
     {
-      "movie_id": "zDquhoHrfUHpyVzquamLCN",
-      "movie_name": "Dhurandhar - The Revenge",
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
       "show_id": "26147:one-cinemas-new-baneshwor",
       "venue": "one-cinemas-new-baneshwor",
       "theatre": "One Cinemas New Baneshwor - Premium",
-      "date": "2026-04-12T19:45:00+05:45",
+      "date": "2026-04-12T17:30:00+05:45",
       "time": "",
       "seats": 67,
       "sold": 6,
@@ -603,12 +607,12 @@
       "occupancy_percent": 8.17
     },
     {
-      "movie_id": "zDquhoHrfUHpyVzquamLCN",
-      "movie_name": "Dhurandhar - The Revenge",
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
       "show_id": "26145:one-cinemas-new-baneshwor",
       "venue": "one-cinemas-new-baneshwor",
       "theatre": "One Cinemas New Baneshwor - Premium",
-      "date": "2026-04-12T11:15:00+05:45",
+      "date": "2026-04-12T11:00:00+05:45",
       "time": "",
       "seats": 67,
       "sold": 6,
@@ -671,11 +675,11 @@
       "date": "2026-04-12T11:15:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 0,
-      "reserved": 6,
-      "available": 190,
-      "gross": 1620,
-      "occupancy_percent": 3.06
+      "sold": 2,
+      "reserved": 0,
+      "available": 194,
+      "gross": 540,
+      "occupancy_percent": 1.02
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -731,11 +735,11 @@
       "date": "2026-04-12T14:30:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 12,
+      "sold": 14,
       "reserved": 0,
-      "available": 117,
-      "gross": 5280,
-      "occupancy_percent": 9.3
+      "available": 115,
+      "gross": 6380,
+      "occupancy_percent": 10.85
     },
     {
       "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
@@ -821,11 +825,11 @@
       "date": "2026-04-12T08:15:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 175,
+      "gross": 450,
+      "occupancy_percent": 1.13
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -867,10 +871,10 @@
       "time": "",
       "seats": 208,
       "sold": 17,
-      "reserved": 0,
-      "available": 191,
-      "gross": 7650,
-      "occupancy_percent": 8.17
+      "reserved": 1,
+      "available": 190,
+      "gross": 8100,
+      "occupancy_percent": 8.65
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -1017,10 +1021,10 @@
       "time": "",
       "seats": 53,
       "sold": 0,
-      "reserved": 0,
-      "available": 53,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 52,
+      "gross": 1400,
+      "occupancy_percent": 1.89
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -1166,11 +1170,11 @@
       "date": "2026-04-12T08:00:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 6,
+      "sold": 12,
       "reserved": 0,
-      "available": 159,
-      "gross": 1230,
-      "occupancy_percent": 3.64
+      "available": 153,
+      "gross": 2460,
+      "occupancy_percent": 7.27
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -1256,11 +1260,11 @@
       "date": "2026-04-12T08:00:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 2,
+      "sold": 6,
       "reserved": 0,
-      "available": 246,
-      "gross": 440,
-      "occupancy_percent": 0.81
+      "available": 242,
+      "gross": 1320,
+      "occupancy_percent": 2.42
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -1467,10 +1471,10 @@
       "time": "",
       "seats": 288,
       "sold": 0,
-      "reserved": 0,
-      "available": 288,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 4,
+      "available": 284,
+      "gross": 800,
+      "occupancy_percent": 1.39
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -1603,11 +1607,11 @@
       "date": "2026-04-12T15:00:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 2,
-      "reserved": 0,
-      "available": 180,
-      "gross": 1120,
-      "occupancy_percent": 1.1
+      "sold": 4,
+      "reserved": 1,
+      "available": 177,
+      "gross": 2800,
+      "occupancy_percent": 2.75
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1618,11 +1622,11 @@
       "date": "2026-04-12T14:45:00+05:45",
       "time": "",
       "seats": 110,
-      "sold": 4,
-      "reserved": 0,
-      "available": 106,
-      "gross": 1920,
-      "occupancy_percent": 3.64
+      "sold": 6,
+      "reserved": 2,
+      "available": 102,
+      "gross": 3840,
+      "occupancy_percent": 7.27
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1633,11 +1637,11 @@
       "date": "2026-04-12T11:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 4,
+      "sold": 6,
       "reserved": 0,
-      "available": 176,
-      "gross": 2240,
-      "occupancy_percent": 2.22
+      "available": 174,
+      "gross": 3360,
+      "occupancy_percent": 3.33
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1828,11 +1832,11 @@
       "date": "2026-04-12T11:15:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 4,
+      "sold": 7,
       "reserved": 18,
-      "available": 154,
-      "gross": 6760,
-      "occupancy_percent": 12.5
+      "available": 151,
+      "gross": 8800,
+      "occupancy_percent": 14.2
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1874,10 +1878,10 @@
       "time": "",
       "seats": 133,
       "sold": 5,
-      "reserved": 1,
-      "available": 127,
-      "gross": 2040,
-      "occupancy_percent": 4.51
+      "reserved": 2,
+      "available": 126,
+      "gross": 2560,
+      "occupancy_percent": 5.26
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1918,11 +1922,11 @@
       "date": "2026-04-12T17:30:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 9,
+      "sold": 11,
       "reserved": 0,
-      "available": 174,
-      "gross": 5040,
-      "occupancy_percent": 4.92
+      "available": 172,
+      "gross": 6160,
+      "occupancy_percent": 6.01
     },
     {
       "movie_id": "hH3frLygogeL27uw7G8NvK",
@@ -1933,11 +1937,11 @@
       "date": "2026-04-12T12:15:00+05:45",
       "time": "",
       "seats": 110,
-      "sold": 2,
+      "sold": 7,
       "reserved": 0,
-      "available": 108,
-      "gross": 1120,
-      "occupancy_percent": 1.82
+      "available": 103,
+      "gross": 3920,
+      "occupancy_percent": 6.36
     },
     {
       "movie_id": "hH3frLygogeL27uw7G8NvK",
@@ -1948,11 +1952,11 @@
       "date": "2026-04-12T12:00:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 183,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 181,
+      "gross": 1120,
+      "occupancy_percent": 1.09
     },
     {
       "movie_id": "hH3frLygogeL27uw7G8NvK",
@@ -2129,10 +2133,10 @@
       "time": "",
       "seats": 183,
       "sold": 0,
-      "reserved": 2,
-      "available": 181,
-      "gross": 960,
-      "occupancy_percent": 1.09
+      "reserved": 0,
+      "available": 183,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -2645,12 +2649,12 @@
       "occupancy_percent": 4.72
     },
     {
-      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
-      "movie_name": "Ram Naam Satya",
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
       "show_id": "39685:ranjana-cineplex",
       "venue": "ranjana-cineplex",
       "theatre": "Ranjana Cineplex - Audi - 3",
-      "date": "2026-04-12T20:15:00+05:45",
+      "date": "2026-04-12T19:45:00+05:45",
       "time": "",
       "seats": 164,
       "sold": 0,
@@ -2665,7 +2669,7 @@
       "show_id": "39684:ranjana-cineplex",
       "venue": "ranjana-cineplex",
       "theatre": "Ranjana Cineplex - Audi - 3",
-      "date": "2026-04-12T17:00:00+05:45",
+      "date": "2026-04-12T16:30:00+05:45",
       "time": "",
       "seats": 164,
       "sold": 0,
@@ -2818,11 +2822,11 @@
       "date": "2026-04-12T11:45:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 0,
+      "sold": 2,
       "reserved": 16,
-      "available": 194,
-      "gross": 7680,
-      "occupancy_percent": 7.62
+      "available": 192,
+      "gross": 8640,
+      "occupancy_percent": 8.57
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -2830,7 +2834,7 @@
       "show_id": "39683:ranjana-cineplex",
       "venue": "ranjana-cineplex",
       "theatre": "Ranjana Cineplex - Audi - 3",
-      "date": "2026-04-12T12:45:00+05:45",
+      "date": "2026-04-12T12:15:00+05:45",
       "time": "",
       "seats": 164,
       "sold": 0,
@@ -2840,12 +2844,12 @@
       "occupancy_percent": 0.0
     },
     {
-      "movie_id": "zDquhoHrfUHpyVzquamLCN",
-      "movie_name": "Dhurandhar - The Revenge",
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
       "show_id": "39681:ranjana-cineplex",
       "venue": "ranjana-cineplex",
       "theatre": "Ranjana Cineplex - Audi - 2",
-      "date": "2026-04-12T19:30:00+05:45",
+      "date": "2026-04-12T20:30:00+05:45",
       "time": "",
       "seats": 118,
       "sold": 0,
@@ -2905,7 +2909,7 @@
       "show_id": "39680:ranjana-cineplex",
       "venue": "ranjana-cineplex",
       "theatre": "Ranjana Cineplex - Audi - 2",
-      "date": "2026-04-12T16:30:00+05:45",
+      "date": "2026-04-12T17:30:00+05:45",
       "time": "",
       "seats": 118,
       "sold": 0,
@@ -2920,7 +2924,7 @@
       "show_id": "39679:ranjana-cineplex",
       "venue": "ranjana-cineplex",
       "theatre": "Ranjana Cineplex - Audi - 2",
-      "date": "2026-04-12T13:30:00+05:45",
+      "date": "2026-04-12T14:30:00+05:45",
       "time": "",
       "seats": 118,
       "sold": 0,
@@ -3284,10 +3288,10 @@
       "time": "",
       "seats": 101,
       "sold": 0,
-      "reserved": 0,
-      "available": 101,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 100,
+      "gross": 350,
+      "occupancy_percent": 0.99
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -3313,11 +3317,11 @@
       "date": "2026-04-12T10:15:00+05:45",
       "time": "",
       "seats": 136,
-      "sold": 16,
+      "sold": 17,
       "reserved": 0,
-      "available": 120,
-      "gross": 4000,
-      "occupancy_percent": 11.76
+      "available": 119,
+      "gross": 4250,
+      "occupancy_percent": 12.5
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -3343,11 +3347,11 @@
       "date": "2026-04-12T08:30:00+05:45",
       "time": "",
       "seats": 101,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 101,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 98,
+      "gross": 525,
+      "occupancy_percent": 2.97
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -3658,11 +3662,11 @@
       "date": "2026-04-12T11:30:00+05:45",
       "time": "",
       "seats": 190,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 190,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 188,
+      "gross": 800,
+      "occupancy_percent": 1.05
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -3674,10 +3678,10 @@
       "time": "",
       "seats": 190,
       "sold": 3,
-      "reserved": 0,
-      "available": 187,
-      "gross": 1200,
-      "occupancy_percent": 1.58
+      "reserved": 6,
+      "available": 181,
+      "gross": 2880,
+      "occupancy_percent": 4.74
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -3899,10 +3903,10 @@
       "time": "",
       "seats": 217,
       "sold": 0,
-      "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 216,
+      "gross": 600,
+      "occupancy_percent": 0.46
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -3943,11 +3947,11 @@
       "date": "2026-04-12T12:30:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 2,
+      "sold": 5,
       "reserved": 0,
-      "available": 212,
-      "gross": 600,
-      "occupancy_percent": 0.93
+      "available": 209,
+      "gross": 1500,
+      "occupancy_percent": 2.34
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -3973,11 +3977,11 @@
       "date": "2026-04-12T09:00:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 0,
-      "reserved": 3,
-      "available": 140,
-      "gross": 450,
-      "occupancy_percent": 2.1
+      "sold": 2,
+      "reserved": 7,
+      "available": 134,
+      "gross": 1550,
+      "occupancy_percent": 6.29
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -4153,11 +4157,11 @@
       "date": "2026-04-12T08:15:00+05:45",
       "time": "",
       "seats": 154,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 154,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 151,
+      "gross": 450,
+      "occupancy_percent": 1.95
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -4168,11 +4172,11 @@
       "date": "2026-04-12T16:30:00+05:45",
       "time": "",
       "seats": 126,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 126,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 123,
+      "gross": 1200,
+      "occupancy_percent": 2.38
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -4214,10 +4218,10 @@
       "time": "",
       "seats": 98,
       "sold": 0,
-      "reserved": 3,
-      "available": 95,
-      "gross": 990,
-      "occupancy_percent": 3.06
+      "reserved": 7,
+      "available": 91,
+      "gross": 2310,
+      "occupancy_percent": 7.14
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -4274,10 +4278,10 @@
       "time": "",
       "seats": 143,
       "sold": 0,
-      "reserved": 1,
-      "available": 142,
-      "gross": 300,
-      "occupancy_percent": 0.7
+      "reserved": 4,
+      "available": 139,
+      "gross": 1200,
+      "occupancy_percent": 2.8
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -4303,11 +4307,11 @@
       "date": "2026-04-12T10:45:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 0,
+      "sold": 5,
       "reserved": 50,
-      "available": 299,
-      "gross": 9250,
-      "occupancy_percent": 14.33
+      "available": 294,
+      "gross": 10175,
+      "occupancy_percent": 15.76
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -4345,7 +4349,7 @@
       "show_id": "39675:ranjana-cineplex",
       "venue": "ranjana-cineplex",
       "theatre": "Ranjana Cineplex - Audi - 1",
-      "date": "2026-04-12T14:30:00+05:45",
+      "date": "2026-04-12T14:15:00+05:45",
       "time": "",
       "seats": 251,
       "sold": 0,
@@ -4543,11 +4547,11 @@
       "date": "2026-04-12T12:05:00+05:45",
       "time": "",
       "seats": 204,
-      "sold": 8,
+      "sold": 10,
       "reserved": 0,
-      "available": 196,
-      "gross": 2400,
-      "occupancy_percent": 3.92
+      "available": 194,
+      "gross": 3000,
+      "occupancy_percent": 4.9
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -4588,11 +4592,11 @@
       "date": "2026-04-12T17:15:00+05:45",
       "time": "",
       "seats": 394,
-      "sold": 6,
+      "sold": 9,
       "reserved": 3,
-      "available": 385,
-      "gross": 3150,
-      "occupancy_percent": 2.28
+      "available": 382,
+      "gross": 4200,
+      "occupancy_percent": 3.05
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -4604,10 +4608,10 @@
       "time": "",
       "seats": 394,
       "sold": 0,
-      "reserved": 6,
-      "available": 388,
-      "gross": 2100,
-      "occupancy_percent": 1.52
+      "reserved": 7,
+      "available": 387,
+      "gross": 2600,
+      "occupancy_percent": 1.78
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -4619,10 +4623,10 @@
       "time": "",
       "seats": 394,
       "sold": 0,
-      "reserved": 0,
-      "available": 394,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 393,
+      "gross": 350,
+      "occupancy_percent": 0.25
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -4634,10 +4638,10 @@
       "time": "",
       "seats": 394,
       "sold": 0,
-      "reserved": 1,
-      "available": 393,
-      "gross": 350,
-      "occupancy_percent": 0.25
+      "reserved": 5,
+      "available": 389,
+      "gross": 1750,
+      "occupancy_percent": 1.27
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -4678,11 +4682,11 @@
       "date": "2026-04-12T10:00:00+05:45",
       "time": "",
       "seats": 270,
-      "sold": 2,
-      "reserved": 53,
-      "available": 215,
-      "gross": 10175,
-      "occupancy_percent": 20.37
+      "sold": 6,
+      "reserved": 50,
+      "available": 214,
+      "gross": 10360,
+      "occupancy_percent": 20.74
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -4709,10 +4713,10 @@
       "time": "",
       "seats": 270,
       "sold": 0,
-      "reserved": 52,
-      "available": 218,
-      "gross": 18200,
-      "occupancy_percent": 19.26
+      "reserved": 50,
+      "available": 220,
+      "gross": 17500,
+      "occupancy_percent": 18.52
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -4891,6 +4895,171 @@
       "sold": 0,
       "reserved": 0,
       "available": 75,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "3607:kawaswoti-cinemax",
+      "venue": "kawaswoti-cinemax",
+      "theatre": "Kawaswoti Cinemax - Audi-1",
+      "date": "2026-04-12T17:40:00+05:45",
+      "time": "",
+      "seats": 258,
+      "sold": 0,
+      "reserved": 0,
+      "available": 258,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "3606:kawaswoti-cinemax",
+      "venue": "kawaswoti-cinemax",
+      "theatre": "Kawaswoti Cinemax - Audi-1",
+      "date": "2026-04-12T14:40:00+05:45",
+      "time": "",
+      "seats": 258,
+      "sold": 0,
+      "reserved": 0,
+      "available": 258,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "3605:kawaswoti-cinemax",
+      "venue": "kawaswoti-cinemax",
+      "theatre": "Kawaswoti Cinemax - Audi-1",
+      "date": "2026-04-12T11:40:00+05:45",
+      "time": "",
+      "seats": 258,
+      "sold": 0,
+      "reserved": 0,
+      "available": 258,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "78138:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI -1",
+      "date": "2026-04-12T18:00:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 0,
+      "reserved": 0,
+      "available": 247,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "78139:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI -1",
+      "date": "2026-04-12T20:50:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 0,
+      "reserved": 0,
+      "available": 247,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "78137:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI -1",
+      "date": "2026-04-12T15:00:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 0,
+      "reserved": 0,
+      "available": 247,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "78136:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI -1",
+      "date": "2026-04-12T12:05:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 0,
+      "reserved": 0,
+      "available": 247,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "3xDwpypxFZnaezEukBtpVG",
+      "movie_name": "Dacoit: A Love Story",
+      "show_id": "3608:kawaswoti-cinemax",
+      "venue": "kawaswoti-cinemax",
+      "theatre": "Kawaswoti Cinemax - Audi-1",
+      "date": "2026-04-12T20:30:00+05:45",
+      "time": "",
+      "seats": 258,
+      "sold": 0,
+      "reserved": 0,
+      "available": 258,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "3xDwpypxFZnaezEukBtpVG",
+      "movie_name": "Dacoit: A Love Story",
+      "show_id": "78140:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-04-12T12:20:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "3xDwpypxFZnaezEukBtpVG",
+      "movie_name": "Dacoit: A Love Story",
+      "show_id": "78141:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-04-12T15:20:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "3xDwpypxFZnaezEukBtpVG",
+      "movie_name": "Dacoit: A Love Story",
+      "show_id": "78142:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-04-12T19:30:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
       "gross": 0,
       "occupancy_percent": 0.0
     }
