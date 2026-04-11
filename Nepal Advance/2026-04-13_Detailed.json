@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "lastUpdated": "06:03 PM, 11 April 2026",
+  "lastUpdated": "08:54 PM, 11 April 2026",
   "shows": [
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -96,16 +96,18 @@
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
       "movie_name": "Ram Naam Satya",
       "show_id": "163265:qfx-durbar",
-      "venue": "qfx-durbar",
-      "theatre": "QFX Durbar - AUDI 1",
-      "date": "2026-04-13T12:30:00+05:45",
-      "time": "",
-      "seats": 53,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 53,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -537,10 +539,10 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 1,
-      "available": 239,
-      "gross": 260,
-      "occupancy_percent": 0.42
+      "reserved": 0,
+      "available": 240,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -687,10 +689,10 @@
       "time": "",
       "seats": 134,
       "sold": 0,
-      "reserved": 1,
-      "available": 133,
-      "gross": 300,
-      "occupancy_percent": 0.75
+      "reserved": 0,
+      "available": 134,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -836,11 +838,11 @@
       "date": "2026-04-13T11:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 178,
+      "gross": 940,
+      "occupancy_percent": 1.11
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -1917,7 +1919,7 @@
       "show_id": "163362:qs-cinemas",
       "venue": "qs-cinemas",
       "theatre": "QFX Rising Mall - Audi 2",
-      "date": "2026-04-13T07:45:00+05:45",
+      "date": "2026-04-13T11:00:00+05:45",
       "time": "",
       "seats": 129,
       "sold": 0,
@@ -2250,11 +2252,11 @@
       "date": "2026-04-13T17:00:00+05:45",
       "time": "",
       "seats": 151,
-      "sold": 14,
+      "sold": 16,
       "reserved": 0,
-      "available": 137,
-      "gross": 2800,
-      "occupancy_percent": 9.27
+      "available": 135,
+      "gross": 3300,
+      "occupancy_percent": 10.6
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -2670,11 +2672,11 @@
       "date": "2026-04-13T19:15:00+05:45",
       "time": "",
       "seats": 136,
-      "sold": 14,
+      "sold": 18,
       "reserved": 0,
-      "available": 122,
-      "gross": 2800,
-      "occupancy_percent": 10.29
+      "available": 118,
+      "gross": 3800,
+      "occupancy_percent": 13.24
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -2755,18 +2757,16 @@
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
       "movie_name": "Dacoit: A Love Story",
       "show_id": "64014:ini-lotse-ktm",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-04-13",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-lotse-ktm",
+      "theatre": "iNi Lotse Mall - Audi 2",
+      "date": "2026-04-13T19:00:00+05:45",
+      "time": "",
+      "seats": 240,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 240,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -2810,6 +2810,51 @@
       "sold": 0,
       "reserved": 0,
       "available": 196,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
+      "movie_name": "Project Hail Mary",
+      "show_id": "163361:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-04-13T20:30:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 0,
+      "reserved": 0,
+      "available": 129,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
+      "movie_name": "Project Hail Mary",
+      "show_id": "163365:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-04-13T14:15:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 0,
+      "reserved": 0,
+      "available": 129,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "3xDwpypxFZnaezEukBtpVG",
+      "movie_name": "Dacoit: A Love Story",
+      "show_id": "163371:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-04-13T17:30:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 0,
+      "reserved": 0,
+      "available": 129,
       "gross": 0,
       "occupancy_percent": 0.0
     }
