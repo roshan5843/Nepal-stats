@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "lastUpdated": "12:18 PM, 11 April 2026",
+  "lastUpdated": "03:01 PM, 11 April 2026",
   "shows": [
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -1092,10 +1092,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 10,
-      "available": 188,
-      "gross": 4300,
-      "occupancy_percent": 5.05
+      "reserved": 12,
+      "available": 186,
+      "gross": 5160,
+      "occupancy_percent": 6.06
     },
     {
       "movie_id": "hH3frLygogeL27uw7G8NvK",
@@ -1151,11 +1151,11 @@
       "date": "2026-04-13T17:30:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 0,
+      "sold": 8,
       "reserved": 0,
-      "available": 183,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 175,
+      "gross": 3760,
+      "occupancy_percent": 4.37
     },
     {
       "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
@@ -1182,10 +1182,10 @@
       "time": "",
       "seats": 182,
       "sold": 0,
-      "reserved": 0,
-      "available": 182,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 181,
+      "gross": 470,
+      "occupancy_percent": 0.55
     },
     {
       "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
@@ -1271,11 +1271,11 @@
       "date": "2026-04-13T18:45:00+05:45",
       "time": "",
       "seats": 101,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 101,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 100,
+      "gross": 225,
+      "occupancy_percent": 0.99
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -1566,31 +1566,35 @@
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
       "movie_name": "Dacoit: A Love Story",
       "show_id": "5413:birat-cine",
-      "venue": "birat-cine",
-      "theatre": "Birat Cine - Audi-2",
-      "date": "2026-04-13T11:00:00+05:45",
-      "time": "",
-      "seats": 169,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 169,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
       "movie_name": "Dacoit: A Love Story",
       "show_id": "5416:birat-cine",
-      "venue": "birat-cine",
-      "theatre": "Birat Cine - Audi-2",
-      "date": "2026-04-13T19:10:00+05:45",
-      "time": "",
-      "seats": 169,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 169,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -1766,11 +1770,11 @@
       "date": "2026-04-13T12:00:00+05:45",
       "time": "",
       "seats": 220,
-      "sold": 2,
+      "sold": 3,
       "reserved": 0,
-      "available": 218,
-      "gross": 500,
-      "occupancy_percent": 0.91
+      "available": 217,
+      "gross": 750,
+      "occupancy_percent": 1.36
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
@@ -1934,6 +1938,81 @@
       "sold": 0,
       "reserved": 0,
       "available": 139,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "64006:ini-cinemas-devchuli",
+      "venue": "ini-cinemas-devchuli",
+      "theatre": "iNi Devchuli - Audi 1 (DTS: X)",
+      "date": "2026-04-13T18:30:00+05:45",
+      "time": "",
+      "seats": 292,
+      "sold": 0,
+      "reserved": 0,
+      "available": 292,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "64007:ini-cinemas-devchuli",
+      "venue": "ini-cinemas-devchuli",
+      "theatre": "iNi Devchuli - Audi 1 (DTS: X)",
+      "date": "2026-04-13T15:15:00+05:45",
+      "time": "",
+      "seats": 292,
+      "sold": 0,
+      "reserved": 0,
+      "available": 292,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "64005:ini-cinemas-devchuli",
+      "venue": "ini-cinemas-devchuli",
+      "theatre": "iNi Devchuli - Audi 1 (DTS: X)",
+      "date": "2026-04-13T12:00:00+05:45",
+      "time": "",
+      "seats": 292,
+      "sold": 0,
+      "reserved": 0,
+      "available": 292,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "163360:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 01",
+      "date": "2026-04-13T15:00:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 0,
+      "reserved": 0,
+      "available": 182,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "163363:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 01",
+      "date": "2026-04-13T19:30:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 0,
+      "reserved": 0,
+      "available": 182,
       "gross": 0,
       "occupancy_percent": 0.0
     }
