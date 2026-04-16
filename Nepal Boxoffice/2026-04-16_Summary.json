@@ -2,11 +2,11 @@
   {
     "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
     "movie_name": "Ram Naam Satya",
-    "total_shows": 3,
-    "seats": 749,
+    "total_shows": 5,
+    "seats": 1023,
     "sold": 25,
-    "reserved": 66,
-    "available": 658,
+    "reserved": 53,
+    "available": 945,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -25,8 +25,28 @@
         "total_shows": 1,
         "seats": 192,
         "sold": 2,
-        "reserved": 16,
-        "available": 174,
+        "reserved": 0,
+        "available": 190,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 0,
+        "reserved": 3,
+        "available": 211,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -45,21 +65,61 @@
   {
     "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
     "movie_name": "Pahaad",
-    "total_shows": 3,
-    "seats": 437,
-    "sold": 4,
-    "reserved": 15,
-    "available": 418,
+    "total_shows": 7,
+    "seats": 1295,
+    "sold": 5,
+    "reserved": 22,
+    "available": 1268,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 0,
+        "reserved": 21,
+        "available": 258,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "bsr-movies",
         "total_shows": 1,
         "seats": 180,
         "sold": 0,
-        "reserved": 15,
-        "available": 165,
+        "reserved": 0,
+        "available": 180,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 0,
+        "reserved": 1,
+        "available": 142,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 1,
+        "seats": 240,
+        "sold": 0,
+        "reserved": 0,
+        "available": 240,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 0,
+        "reserved": 0,
+        "available": 196,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -67,9 +127,9 @@
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 1,
         "seats": 67,
-        "sold": 4,
+        "sold": 5,
         "reserved": 0,
-        "available": 63,
+        "available": 62,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -88,14 +148,24 @@
   {
     "movie_id": "3xDwpypxFZnaezEukBtpVG",
     "movie_name": "Dacoit: A Love Story",
-    "total_shows": 1,
-    "seats": 188,
+    "total_shows": 3,
+    "seats": 605,
     "sold": 0,
-    "reserved": 0,
-    "available": 188,
+    "reserved": 2,
+    "available": 603,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 0,
+        "reserved": 2,
+        "available": 212,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "friends-cinemas-illam",
         "total_shows": 1,
@@ -105,17 +175,27 @@
         "available": 188,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 203,
+        "sold": 0,
+        "reserved": 0,
+        "available": 203,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "zDquhoHrfUHpyVzquamLCN",
     "movie_name": "Dhurandhar - The Revenge",
-    "total_shows": 1,
-    "seats": 270,
+    "total_shows": 2,
+    "seats": 439,
     "sold": 4,
     "reserved": 50,
-    "available": 216,
+    "available": 385,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -126,6 +206,16 @@
         "sold": 4,
         "reserved": 50,
         "available": 216,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 0,
+        "available": 169,
         "housefull": 0,
         "fastfilling": 0
       }

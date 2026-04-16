@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "lastUpdated": "04:59 AM, 16 April 2026",
+  "lastUpdated": "06:42 AM, 16 April 2026",
   "shows": [
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -12,10 +12,10 @@
       "time": "",
       "seats": 192,
       "sold": 2,
-      "reserved": 16,
-      "available": 174,
-      "gross": 3600,
-      "occupancy_percent": 9.38
+      "reserved": 0,
+      "available": 190,
+      "gross": 400,
+      "occupancy_percent": 1.04
     },
     {
       "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
@@ -27,10 +27,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 15,
-      "available": 165,
-      "gross": 3000,
-      "occupancy_percent": 8.33
+      "reserved": 0,
+      "available": 180,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
@@ -41,11 +41,11 @@
       "date": "2026-04-16T08:15:00+05:45",
       "time": "",
       "seats": 67,
-      "sold": 4,
+      "sold": 5,
       "reserved": 0,
-      "available": 63,
-      "gross": 1200,
-      "occupancy_percent": 5.97
+      "available": 62,
+      "gross": 1500,
+      "occupancy_percent": 7.46
     },
     {
       "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
@@ -121,6 +121,141 @@
       "available": 216,
       "gross": 9990,
       "occupancy_percent": 20.0
+    },
+    {
+      "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
+      "movie_name": "Pahaad",
+      "show_id": "64139:ini-qbox-butwal",
+      "venue": "ini-qbox-butwal",
+      "theatre": "iNi Butwal - Audi 2",
+      "date": "2026-04-16T10:00:00+05:45",
+      "time": "",
+      "seats": 196,
+      "sold": 0,
+      "reserved": 0,
+      "available": 196,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
+      "movie_name": "Pahaad",
+      "show_id": "62251:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 1",
+      "date": "2026-04-16T08:30:00+05:45",
+      "time": "",
+      "seats": 279,
+      "sold": 0,
+      "reserved": 21,
+      "available": 258,
+      "gross": 3885,
+      "occupancy_percent": 7.53
+    },
+    {
+      "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
+      "movie_name": "Pahaad",
+      "show_id": "703286:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-04-16T09:00:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 1,
+      "available": 142,
+      "gross": 150,
+      "occupancy_percent": 0.7
+    },
+    {
+      "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
+      "movie_name": "Pahaad",
+      "show_id": "64124:ini-lotse-ktm",
+      "venue": "ini-lotse-ktm",
+      "theatre": "iNi Lotse Mall - Audi 2",
+      "date": "2026-04-16T10:00:00+05:45",
+      "time": "",
+      "seats": 240,
+      "sold": 0,
+      "reserved": 0,
+      "available": 240,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "133020:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-04-16T09:00:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 0,
+      "available": 60,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "1437:friends-cinemas",
+      "venue": "friends-cinemas",
+      "theatre": "Friends Cinemas - Dharan - Audi 1",
+      "date": "2026-04-16T08:30:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 3,
+      "available": 211,
+      "gross": 570,
+      "occupancy_percent": 1.4
+    },
+    {
+      "movie_id": "3xDwpypxFZnaezEukBtpVG",
+      "movie_name": "Dacoit: A Love Story",
+      "show_id": "26224:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-04-16T08:30:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 0,
+      "reserved": 0,
+      "available": 203,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "3xDwpypxFZnaezEukBtpVG",
+      "movie_name": "Dacoit: A Love Story",
+      "show_id": "703285:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-04-16T09:30:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 2,
+      "available": 212,
+      "gross": 300,
+      "occupancy_percent": 0.93
+    },
+    {
+      "movie_id": "zDquhoHrfUHpyVzquamLCN",
+      "movie_name": "Dhurandhar - The Revenge",
+      "show_id": "133025:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Theatre",
+      "date": "2026-04-16T08:30:00+05:45",
+      "time": "",
+      "seats": 169,
+      "sold": 0,
+      "reserved": 0,
+      "available": 169,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
