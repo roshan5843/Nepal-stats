@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "movie_id": "UiB82iFPd63iHcjiGjhcXg",
+    "movie_name": "Bhooth Bangla",
+    "total_shows": 3,
+    "seats": 383,
+    "sold": 174,
+    "reserved": 2,
+    "available": 207,
+    "housefull": 0,
+    "fastfilling": 1,
+    "venues": [
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 1,
+        "seats": 150,
+        "sold": 25,
+        "reserved": 0,
+        "available": 125,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 51,
+        "sold": 17,
+        "reserved": 2,
+        "available": 32,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 132,
+        "reserved": 0,
+        "available": 50,
+        "housefull": 0,
+        "fastfilling": 1
+      }
+    ]
+  }
+]
