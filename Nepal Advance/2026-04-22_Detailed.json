@@ -1,6 +1,6 @@
 {
   "date": "2026-04-22",
-  "lastUpdated": "12:46 AM, 21 April 2026",
+  "lastUpdated": "02:27 AM, 21 April 2026",
   "shows": [
     {
       "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
@@ -51,16 +51,18 @@
       "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
       "movie_name": "Pahaad",
       "show_id": "64343:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Butwal - Audi 1",
-      "date": "2026-04-22T11:00:00+05:45",
-      "time": "",
-      "seats": 196,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-22",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 196,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
@@ -1169,10 +1171,10 @@
       "time": "",
       "seats": 177,
       "sold": 0,
-      "reserved": 2,
-      "available": 175,
-      "gross": 400,
-      "occupancy_percent": 1.13
+      "reserved": 0,
+      "available": 177,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "Hhu6sycBNYKXFtPeSEjvTR",
@@ -2294,10 +2296,10 @@
       "time": "",
       "seats": 117,
       "sold": 0,
-      "reserved": 9,
-      "available": 108,
-      "gross": 1620,
-      "occupancy_percent": 7.69
+      "reserved": 11,
+      "available": 106,
+      "gross": 1980,
+      "occupancy_percent": 9.4
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -3283,11 +3285,11 @@
       "date": "2026-04-22T18:45:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 0,
+      "sold": 2,
       "reserved": 4,
-      "available": 226,
-      "gross": 800,
-      "occupancy_percent": 1.74
+      "available": 224,
+      "gross": 1200,
+      "occupancy_percent": 2.61
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -3314,10 +3316,10 @@
       "time": "",
       "seats": 230,
       "sold": 3,
-      "reserved": 1,
-      "available": 226,
-      "gross": 800,
-      "occupancy_percent": 1.74
+      "reserved": 3,
+      "available": 224,
+      "gross": 1200,
+      "occupancy_percent": 2.61
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -3608,16 +3610,18 @@
       "movie_id": "Hhu6sycBNYKXFtPeSEjvTR",
       "movie_name": "Lee Cronin's The Mummy",
       "show_id": "133090:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Dine",
-      "date": "2026-04-22T11:15:00+05:45",
-      "time": "",
-      "seats": 60,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-22",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 60,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "3xDwpypxFZnaezEukBtpVG",
