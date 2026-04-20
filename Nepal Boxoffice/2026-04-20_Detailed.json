@@ -1,6 +1,6 @@
 {
   "date": "2026-04-20",
-  "lastUpdated": "06:21 PM, 20 April 2026",
+  "lastUpdated": "08:23 PM, 20 April 2026",
   "shows": [
     {
       "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
@@ -4609,11 +4609,11 @@
       "date": "2026-04-20T20:45:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 27,
-      "reserved": 0,
-      "available": 181,
-      "gross": 9450,
-      "occupancy_percent": 12.98
+      "sold": 50,
+      "reserved": 24,
+      "available": 134,
+      "gross": 25900,
+      "occupancy_percent": 35.58
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -4684,11 +4684,11 @@
       "date": "2026-04-20T20:45:00+05:45",
       "time": "",
       "seats": 258,
-      "sold": 5,
+      "sold": 8,
       "reserved": 0,
-      "available": 253,
-      "gross": 1250,
-      "occupancy_percent": 1.94
+      "available": 250,
+      "gross": 2000,
+      "occupancy_percent": 3.1
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -4744,11 +4744,11 @@
       "date": "2026-04-20T21:15:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 0,
-      "reserved": 0,
-      "available": 247,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "sold": 4,
+      "reserved": 1,
+      "available": 242,
+      "gross": 1750,
+      "occupancy_percent": 2.02
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -4759,11 +4759,11 @@
       "date": "2026-04-20T20:45:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 30,
+      "sold": 49,
       "reserved": 6,
-      "available": 102,
-      "gross": 10560,
-      "occupancy_percent": 26.09
+      "available": 83,
+      "gross": 16120,
+      "occupancy_percent": 39.86
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -4814,16 +4814,18 @@
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
       "movie_name": "Ram Naam Satya",
       "show_id": "39783:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi - 3",
-      "date": "2026-04-20T20:45:00+05:45",
-      "time": "",
-      "seats": 164,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-04-20",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 2,
-      "available": 162,
-      "gross": 600,
-      "occupancy_percent": 1.22
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
@@ -4880,10 +4882,10 @@
       "time": "",
       "seats": 165,
       "sold": 0,
-      "reserved": 0,
-      "available": 165,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 163,
+      "gross": 700,
+      "occupancy_percent": 1.21
     },
     {
       "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
