@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "lastUpdated": "12:07 AM, 25 April 2026",
+  "lastUpdated": "03:12 AM, 25 April 2026",
   "shows": [
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -726,18 +726,16 @@
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
       "movie_name": "Michael",
       "show_id": "165325:qfx-bhaktapur",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-04-27",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 1",
+      "date": "2026-04-27T17:45:00+05:45",
+      "time": "",
+      "seats": 207,
       "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "reserved": 15,
+      "available": 192,
+      "gross": 5250,
+      "occupancy_percent": 7.25
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -1049,10 +1047,10 @@
       "time": "",
       "seats": 265,
       "sold": 0,
-      "reserved": 1,
-      "available": 264,
-      "gross": 380,
-      "occupancy_percent": 0.38
+      "reserved": 0,
+      "available": 265,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
