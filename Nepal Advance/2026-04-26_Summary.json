@@ -2,11 +2,11 @@
   {
     "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
     "movie_name": "Paralko Aago",
-    "total_shows": 4,
-    "seats": 1032,
+    "total_shows": 5,
+    "seats": 1252,
     "sold": 10,
     "reserved": 0,
-    "available": 1022,
+    "available": 1242,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -17,6 +17,62 @@
         "sold": 10,
         "reserved": 0,
         "available": 1022,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pashupati-digital-cinema",
+        "total_shows": 1,
+        "seats": 220,
+        "sold": 0,
+        "reserved": 0,
+        "available": 220,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
+    "movie_name": "Michael",
+    "total_shows": 1,
+    "seats": 258,
+    "sold": 0,
+    "reserved": 0,
+    "available": 258,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "kawaswoti-cinemax",
+        "total_shows": 1,
+        "seats": 258,
+        "sold": 0,
+        "reserved": 0,
+        "available": 258,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "UiB82iFPd63iHcjiGjhcXg",
+    "movie_name": "Bhooth Bangla",
+    "total_shows": 3,
+    "seats": 660,
+    "sold": 0,
+    "reserved": 0,
+    "available": 660,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "pashupati-digital-cinema",
+        "total_shows": 3,
+        "seats": 660,
+        "sold": 0,
+        "reserved": 0,
+        "available": 660,
         "housefull": 0,
         "fastfilling": 0
       }
