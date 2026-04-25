@@ -3,10 +3,10 @@
     "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
     "movie_name": "Paralko Aago",
     "total_shows": 88,
-    "seats": 17716,
+    "seats": 17606,
     "sold": 170,
     "reserved": 213,
-    "available": 17333,
+    "available": 17223,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -171,12 +171,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-chhaya",
-        "total_shows": 2,
-        "seats": 222,
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 222,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -187,6 +187,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 366,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 1,
+        "seats": 112,
+        "sold": 0,
+        "reserved": 0,
+        "available": 112,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -782,10 +792,10 @@
     "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
     "movie_name": "Michael",
     "total_shows": 36,
-    "seats": 6240,
-    "sold": 57,
+    "seats": 6090,
+    "sold": 55,
     "reserved": 71,
-    "available": 6112,
+    "available": 5964,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -951,11 +961,21 @@
       },
       {
         "venue": "qfx-chhaya",
-        "total_shows": 3,
-        "seats": 450,
-        "sold": 2,
+        "total_shows": 2,
+        "seats": 300,
+        "sold": 0,
         "reserved": 0,
-        "available": 448,
+        "available": 300,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
