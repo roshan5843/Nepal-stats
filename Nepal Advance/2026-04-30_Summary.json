@@ -2,21 +2,21 @@
   {
     "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
     "movie_name": "Paralko Aago",
-    "total_shows": 23,
-    "seats": 4911,
-    "sold": 9,
-    "reserved": 60,
-    "available": 4842,
+    "total_shows": 27,
+    "seats": 5669,
+    "sold": 17,
+    "reserved": 72,
+    "available": 5580,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
         "venue": "fcube",
-        "total_shows": 4,
-        "seats": 820,
-        "sold": 9,
-        "reserved": 60,
-        "available": 751,
+        "total_shows": 5,
+        "seats": 1030,
+        "sold": 13,
+        "reserved": 72,
+        "available": 945,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -44,9 +44,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 4,
         "seats": 950,
-        "sold": 0,
+        "sold": 4,
         "reserved": 0,
-        "available": 950,
+        "available": 946,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -79,17 +79,27 @@
         "available": 402,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 3,
+        "seats": 548,
+        "sold": 0,
+        "reserved": 0,
+        "available": 548,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
     "movie_name": "Michael",
-    "total_shows": 8,
-    "seats": 1196,
+    "total_shows": 9,
+    "seats": 1392,
     "sold": 2,
-    "reserved": 31,
-    "available": 1163,
+    "reserved": 33,
+    "available": 1357,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -98,8 +108,8 @@
         "total_shows": 2,
         "seats": 410,
         "sold": 2,
-        "reserved": 31,
-        "available": 377,
+        "reserved": 33,
+        "available": 375,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -142,27 +152,14 @@
         "available": 134,
         "housefull": 0,
         "fastfilling": 0
-      }
-    ]
-  },
-  {
-    "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
-    "movie_name": "Pahaad",
-    "total_shows": 1,
-    "seats": 210,
-    "sold": 0,
-    "reserved": 10,
-    "available": 200,
-    "housefull": 0,
-    "fastfilling": 0,
-    "venues": [
+      },
       {
-        "venue": "fcube",
+        "venue": "qfx-butwal",
         "total_shows": 1,
-        "seats": 210,
+        "seats": 196,
         "sold": 0,
-        "reserved": 10,
-        "available": 200,
+        "reserved": 0,
+        "available": 196,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -171,11 +168,11 @@
   {
     "movie_id": "UiB82iFPd63iHcjiGjhcXg",
     "movie_name": "Bhooth Bangla",
-    "total_shows": 17,
-    "seats": 2803,
+    "total_shows": 19,
+    "seats": 3175,
     "sold": 4,
     "reserved": 39,
-    "available": 2760,
+    "available": 3132,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -258,6 +255,16 @@
         "available": 268,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 2,
+        "seats": 372,
+        "sold": 0,
+        "reserved": 0,
+        "available": 372,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -310,8 +317,8 @@
     "total_shows": 1,
     "seats": 198,
     "sold": 0,
-    "reserved": 10,
-    "available": 188,
+    "reserved": 11,
+    "available": 187,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -320,8 +327,8 @@
         "total_shows": 1,
         "seats": 198,
         "sold": 0,
-        "reserved": 10,
-        "available": 188,
+        "reserved": 11,
+        "available": 187,
         "housefull": 0,
         "fastfilling": 0
       }

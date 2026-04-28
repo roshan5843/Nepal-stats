@@ -1,6 +1,6 @@
 {
   "date": "2026-04-30",
-  "lastUpdated": "07:18 AM, 28 April 2026",
+  "lastUpdated": "11:19 AM, 28 April 2026",
   "shows": [
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -12,10 +12,10 @@
       "time": "",
       "seats": 198,
       "sold": 4,
-      "reserved": 21,
-      "available": 173,
-      "gross": 4375,
-      "occupancy_percent": 12.63
+      "reserved": 23,
+      "available": 171,
+      "gross": 4725,
+      "occupancy_percent": 13.64
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -176,11 +176,11 @@
       "date": "2026-04-30T18:00:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 248,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 244,
+      "gross": 1000,
+      "occupancy_percent": 1.61
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -357,10 +357,10 @@
       "time": "",
       "seats": 198,
       "sold": 2,
-      "reserved": 18,
-      "available": 178,
-      "gross": 3500,
-      "occupancy_percent": 10.1
+      "reserved": 20,
+      "available": 176,
+      "gross": 3850,
+      "occupancy_percent": 11.11
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -468,19 +468,19 @@
       "occupancy_percent": 0.0
     },
     {
-      "movie_id": "eGqxMXE2hQJSvpvu9NGfUM",
-      "movie_name": "Pahaad",
+      "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
+      "movie_name": "Paralko Aago",
       "show_id": "74216:fcube",
       "venue": "fcube",
       "theatre": "FCube Cinemas - Cube 1",
       "date": "2026-04-30T15:30:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 0,
+      "sold": 4,
       "reserved": 10,
-      "available": 200,
-      "gross": 1750,
-      "occupancy_percent": 4.76
+      "available": 196,
+      "gross": 2450,
+      "occupancy_percent": 6.67
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -792,10 +792,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 10,
-      "available": 188,
-      "gross": 1750,
-      "occupancy_percent": 5.05
+      "reserved": 11,
+      "available": 187,
+      "gross": 1925,
+      "occupancy_percent": 5.56
     },
     {
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
@@ -809,6 +809,96 @@
       "sold": 0,
       "reserved": 0,
       "available": 53,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
+      "movie_name": "Paralko Aago",
+      "show_id": "165714:qfx-butwal",
+      "venue": "qfx-butwal",
+      "theatre": "QFX Butwal - AUDI 1",
+      "date": "2026-04-30T15:30:00+05:45",
+      "time": "",
+      "seats": 176,
+      "sold": 0,
+      "reserved": 0,
+      "available": 176,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
+      "movie_name": "Paralko Aago",
+      "show_id": "165716:qfx-butwal",
+      "venue": "qfx-butwal",
+      "theatre": "QFX Butwal - AUDI 2",
+      "date": "2026-04-30T18:00:00+05:45",
+      "time": "",
+      "seats": 196,
+      "sold": 0,
+      "reserved": 0,
+      "available": 196,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
+      "movie_name": "Paralko Aago",
+      "show_id": "165712:qfx-butwal",
+      "venue": "qfx-butwal",
+      "theatre": "QFX Butwal - AUDI 1",
+      "date": "2026-04-30T12:30:00+05:45",
+      "time": "",
+      "seats": 176,
+      "sold": 0,
+      "reserved": 0,
+      "available": 176,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
+      "movie_name": "Michael",
+      "show_id": "165717:qfx-butwal",
+      "venue": "qfx-butwal",
+      "theatre": "QFX Butwal - AUDI 2",
+      "date": "2026-04-30T15:15:00+05:45",
+      "time": "",
+      "seats": 196,
+      "sold": 0,
+      "reserved": 0,
+      "available": 196,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "UiB82iFPd63iHcjiGjhcXg",
+      "movie_name": "Bhooth Bangla",
+      "show_id": "165713:qfx-butwal",
+      "venue": "qfx-butwal",
+      "theatre": "QFX Butwal - AUDI 1",
+      "date": "2026-04-30T18:15:00+05:45",
+      "time": "",
+      "seats": 176,
+      "sold": 0,
+      "reserved": 0,
+      "available": 176,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "UiB82iFPd63iHcjiGjhcXg",
+      "movie_name": "Bhooth Bangla",
+      "show_id": "165715:qfx-butwal",
+      "venue": "qfx-butwal",
+      "theatre": "QFX Butwal - AUDI 2",
+      "date": "2026-04-30T12:00:00+05:45",
+      "time": "",
+      "seats": 196,
+      "sold": 0,
+      "reserved": 0,
+      "available": 196,
       "gross": 0,
       "occupancy_percent": 0.0
     }
