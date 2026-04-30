@@ -1,6 +1,6 @@
 {
   "date": "2026-04-30",
-  "lastUpdated": "05:07 AM, 30 April 2026",
+  "lastUpdated": "06:53 AM, 30 April 2026",
   "shows": [
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -11,11 +11,11 @@
       "date": "2026-04-30T08:15:00+05:45",
       "time": "",
       "seats": 270,
-      "sold": 5,
+      "sold": 7,
       "reserved": 0,
-      "available": 265,
-      "gross": 925,
-      "occupancy_percent": 1.85
+      "available": 263,
+      "gross": 1295,
+      "occupancy_percent": 2.59
     },
     {
       "movie_id": "Hhu6sycBNYKXFtPeSEjvTR",
@@ -31,6 +31,81 @@
       "available": 53,
       "gross": 2800,
       "occupancy_percent": 11.67
+    },
+    {
+      "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
+      "movie_name": "Michael",
+      "show_id": "62454:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 1",
+      "date": "2026-04-30T08:45:00+05:45",
+      "time": "",
+      "seats": 279,
+      "sold": 23,
+      "reserved": 0,
+      "available": 256,
+      "gross": 4255,
+      "occupancy_percent": 8.24
+    },
+    {
+      "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
+      "movie_name": "Michael",
+      "show_id": "1642:friends-cinemas",
+      "venue": "friends-cinemas",
+      "theatre": "Friends Cinemas - Dharan - Audi 1",
+      "date": "2026-04-30T09:15:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "UiB82iFPd63iHcjiGjhcXg",
+      "movie_name": "Bhooth Bangla",
+      "show_id": "135153:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Theatre",
+      "date": "2026-04-30T08:30:00+05:45",
+      "time": "",
+      "seats": 169,
+      "sold": 2,
+      "reserved": 0,
+      "available": 167,
+      "gross": 500,
+      "occupancy_percent": 1.18
+    },
+    {
+      "movie_id": "UiB82iFPd63iHcjiGjhcXg",
+      "movie_name": "Bhooth Bangla",
+      "show_id": "62464:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 3",
+      "date": "2026-04-30T08:30:00+05:45",
+      "time": "",
+      "seats": 349,
+      "sold": 8,
+      "reserved": 3,
+      "available": 338,
+      "gross": 2035,
+      "occupancy_percent": 3.15
+    },
+    {
+      "movie_id": "KJRSxh8dZuWyF63CaWdPPg",
+      "movie_name": "Ram Naam Satya",
+      "show_id": "4943:suvakamna-cinemas",
+      "venue": "suvakamna-cinemas",
+      "theatre": "Shuvakamana Cinema - Hall-A",
+      "date": "2026-04-30T08:30:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
