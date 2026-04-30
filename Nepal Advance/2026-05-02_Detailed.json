@@ -1,6 +1,6 @@
 {
   "date": "2026-05-02",
-  "lastUpdated": "01:13 AM, 01 May 2026",
+  "lastUpdated": "02:38 AM, 01 May 2026",
   "shows": [
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -731,11 +731,11 @@
       "date": "2026-05-02T11:45:00+05:45",
       "time": "",
       "seats": 288,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 288,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 283,
+      "gross": 1000,
+      "occupancy_percent": 1.74
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -1242,10 +1242,10 @@
       "time": "",
       "seats": 182,
       "sold": 0,
-      "reserved": 0,
-      "available": 182,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 180,
+      "gross": 880,
+      "occupancy_percent": 1.1
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -2496,18 +2496,16 @@
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
       "movie_name": "Raja Shivaji",
       "show_id": "64749:bishwojyoti-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-02",
-      "time": null,
-      "seats": 0,
+      "venue": "bishwojyoti-cineplex",
+      "theatre": "iNi Bishwojyoti Mall - Audi 1",
+      "date": "2026-05-02T19:45:00+05:45",
+      "time": "",
+      "seats": 201,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 201,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -3203,16 +3201,18 @@
       "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
       "movie_name": "The Devil Wears Prada 2",
       "show_id": "64764:ini-cinemas-nb-center",
-      "venue": "ini-cinemas-nb-center",
-      "theatre": "iNi NB Center - Audi -1 (DTS: X)",
-      "date": "2026-05-02T11:00:00+05:45",
-      "time": "",
-      "seats": 177,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-02",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 177,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
