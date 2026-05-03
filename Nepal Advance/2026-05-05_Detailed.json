@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "lastUpdated": "12:38 AM, 04 May 2026",
+  "lastUpdated": "02:24 AM, 04 May 2026",
   "shows": [
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -1001,11 +1001,11 @@
       "date": "2026-05-05T11:30:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 247,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 245,
+      "gross": 700,
+      "occupancy_percent": 0.81
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -1086,18 +1086,16 @@
       "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
       "movie_name": "Project Hail Mary",
       "show_id": "166417:qs-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-05-05T13:45:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 2,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 127,
+      "gross": 500,
+      "occupancy_percent": 1.55
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -2288,18 +2286,16 @@
       "movie_id": "zDquhoHrfUHpyVzquamLCN",
       "movie_name": "Dhurandhar - The Revenge",
       "show_id": "166535:qfx-durbar",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-05",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-durbar",
+      "theatre": "QFX Durbar - AUDI 1",
+      "date": "2026-05-05T12:45:00+05:45",
+      "time": "",
+      "seats": 53,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 53,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -2581,10 +2577,10 @@
       "time": "",
       "seats": 60,
       "sold": 0,
-      "reserved": 14,
-      "available": 46,
-      "gross": 7000,
-      "occupancy_percent": 23.33
+      "reserved": 12,
+      "available": 48,
+      "gross": 6000,
+      "occupancy_percent": 20.0
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
