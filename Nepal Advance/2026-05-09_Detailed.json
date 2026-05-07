@@ -1,6 +1,6 @@
 {
   "date": "2026-05-09",
-  "lastUpdated": "10:16 PM, 07 May 2026",
+  "lastUpdated": "01:21 AM, 08 May 2026",
   "shows": [
     {
       "movie_id": "6MXNMUqLfH29PBjfmBYswh",
@@ -161,8 +161,8 @@
       "date": "2026-05-09T11:15:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 11,
-      "reserved": 2,
+      "sold": 13,
+      "reserved": 0,
       "available": 235,
       "gross": 5720,
       "occupancy_percent": 5.24
@@ -221,11 +221,11 @@
       "date": "2026-05-09T08:15:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 0,
+      "sold": 8,
       "reserved": 0,
-      "available": 259,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 251,
+      "gross": 1760,
+      "occupancy_percent": 3.09
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -282,10 +282,10 @@
       "time": "",
       "seats": 212,
       "sold": 4,
-      "reserved": 17,
-      "available": 191,
-      "gross": 12540,
-      "occupancy_percent": 9.91
+      "reserved": 21,
+      "available": 187,
+      "gross": 14860,
+      "occupancy_percent": 11.79
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -342,10 +342,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 14,
-      "available": 198,
-      "gross": 4830,
-      "occupancy_percent": 6.6
+      "reserved": 18,
+      "available": 194,
+      "gross": 6190,
+      "occupancy_percent": 8.49
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -387,10 +387,10 @@
       "time": "",
       "seats": 251,
       "sold": 0,
-      "reserved": 2,
-      "available": 249,
-      "gross": 800,
-      "occupancy_percent": 0.8
+      "reserved": 4,
+      "available": 247,
+      "gross": 1600,
+      "occupancy_percent": 1.59
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -671,11 +671,11 @@
       "date": "2026-05-09T13:45:00+05:45",
       "time": "",
       "seats": 134,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 134,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 132,
+      "gross": 700,
+      "occupancy_percent": 1.49
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -866,11 +866,11 @@
       "date": "2026-05-09T20:45:00+05:45",
       "time": "",
       "seats": 265,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 265,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 264,
+      "gross": 380,
+      "occupancy_percent": 0.38
     },
     {
       "movie_id": "aqDu6NBWYyN8KWnPNt3Jh3",
@@ -986,11 +986,11 @@
       "date": "2026-05-09T08:30:00+05:45",
       "time": "",
       "seats": 134,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 134,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 133,
+      "gross": 175,
+      "occupancy_percent": 0.75
     },
     {
       "movie_id": "aqDu6NBWYyN8KWnPNt3Jh3",
@@ -1107,10 +1107,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 11,
-      "available": 187,
-      "gross": 5280,
-      "occupancy_percent": 5.56
+      "reserved": 18,
+      "available": 180,
+      "gross": 8640,
+      "occupancy_percent": 9.09
     },
     {
       "movie_id": "sXcRvU5SWKdVk9e9ZZJTCC",
@@ -1166,8 +1166,8 @@
       "date": "2026-05-09T12:15:00+05:45",
       "time": "",
       "seats": 110,
-      "sold": 5,
-      "reserved": 1,
+      "sold": 6,
+      "reserved": 0,
       "available": 104,
       "gross": 2880,
       "occupancy_percent": 5.45
@@ -1356,16 +1356,18 @@
       "movie_id": "sXcRvU5SWKdVk9e9ZZJTCC",
       "movie_name": "Krishnavataram",
       "show_id": "167074:qfx-apex-mall",
-      "venue": "qfx-apex-mall",
-      "theatre": "QFX Apex Mall, Damauli - AUDI 1",
-      "date": "2026-05-09T18:15:00+05:45",
-      "time": "",
-      "seats": 120,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-09",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 120,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -2126,11 +2128,11 @@
       "date": "2026-05-09T08:30:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 165,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 160,
+      "gross": 1025,
+      "occupancy_percent": 3.03
     },
     {
       "movie_id": "6MXNMUqLfH29PBjfmBYswh",
@@ -2156,11 +2158,11 @@
       "date": "2026-05-09T12:00:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
+      "sold": 7,
       "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 170,
+      "gross": 2870,
+      "occupancy_percent": 3.95
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2277,10 +2279,10 @@
       "time": "",
       "seats": 101,
       "sold": 4,
-      "reserved": 4,
-      "available": 93,
-      "gross": 2800,
-      "occupancy_percent": 7.92
+      "reserved": 0,
+      "available": 97,
+      "gross": 1400,
+      "occupancy_percent": 3.96
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2832,10 +2834,10 @@
       "time": "",
       "seats": 51,
       "sold": 0,
-      "reserved": 0,
-      "available": 51,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 49,
+      "gross": 2800,
+      "occupancy_percent": 3.92
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -3261,18 +3263,16 @@
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
       "movie_name": "Paralko Aago",
       "show_id": "65021:ini-lotse-ktm",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-09",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-lotse-ktm",
+      "theatre": "iNi Lotse Mall - Audi 1",
+      "date": "2026-05-09T16:45:00+05:45",
+      "time": "",
+      "seats": 240,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 240,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -3479,10 +3479,10 @@
       "time": "",
       "seats": 51,
       "sold": 0,
-      "reserved": 0,
-      "available": 51,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 49,
+      "gross": 2800,
+      "occupancy_percent": 3.92
     },
     {
       "movie_id": "sXcRvU5SWKdVk9e9ZZJTCC",
@@ -3618,10 +3618,10 @@
       "time": "",
       "seats": 51,
       "sold": 0,
-      "reserved": 0,
-      "available": 51,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 49,
+      "gross": 2800,
+      "occupancy_percent": 3.92
     },
     {
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
@@ -3702,31 +3702,35 @@
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
       "movie_name": "Malati Mangale",
       "show_id": "65056:bishwojyoti-cineplex",
-      "venue": "bishwojyoti-cineplex",
-      "theatre": "iNi Bishwojyoti Mall - Audi 1",
-      "date": "2026-05-09T08:30:00+05:45",
-      "time": "",
-      "seats": 201,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-09",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 201,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
       "movie_name": "Malati Mangale",
       "show_id": "65059:bishwojyoti-cineplex",
-      "venue": "bishwojyoti-cineplex",
-      "theatre": "iNi Bishwojyoti Mall - Audi 1",
-      "date": "2026-05-09T16:45:00+05:45",
-      "time": "",
-      "seats": 201,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-09",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 201,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
@@ -3977,8 +3981,8 @@
       "date": "2026-05-09T14:00:00+05:45",
       "time": "",
       "seats": 150,
-      "sold": 8,
-      "reserved": 8,
+      "sold": 10,
+      "reserved": 6,
       "available": 134,
       "gross": 8960,
       "occupancy_percent": 10.67
@@ -4113,10 +4117,10 @@
       "time": "",
       "seats": 51,
       "sold": 0,
-      "reserved": 0,
-      "available": 51,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 49,
+      "gross": 2800,
+      "occupancy_percent": 3.92
     },
     {
       "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
@@ -4277,11 +4281,11 @@
       "date": "2026-05-09T14:30:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 17,
+      "sold": 19,
       "reserved": 0,
-      "available": 191,
-      "gross": 7650,
-      "occupancy_percent": 8.17
+      "available": 189,
+      "gross": 8550,
+      "occupancy_percent": 9.13
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -4337,8 +4341,8 @@
       "date": "2026-05-09T09:00:00+05:45",
       "time": "",
       "seats": 151,
-      "sold": 14,
-      "reserved": 2,
+      "sold": 16,
+      "reserved": 0,
       "available": 135,
       "gross": 4000,
       "occupancy_percent": 10.6
@@ -4577,11 +4581,11 @@
       "date": "2026-05-09T11:00:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 0,
+      "sold": 9,
       "reserved": 0,
-      "available": 259,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 250,
+      "gross": 3960,
+      "occupancy_percent": 3.47
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -4593,10 +4597,10 @@
       "time": "",
       "seats": 259,
       "sold": 0,
-      "reserved": 1,
-      "available": 258,
-      "gross": 550,
-      "occupancy_percent": 0.39
+      "reserved": 0,
+      "available": 259,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "6MXNMUqLfH29PBjfmBYswh",
@@ -4850,6 +4854,81 @@
       "sold": 0,
       "reserved": 0,
       "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "6MXNMUqLfH29PBjfmBYswh",
+      "movie_name": "Guru Aama",
+      "show_id": "2103:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-B",
+      "date": "2026-05-09T12:30:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "6MXNMUqLfH29PBjfmBYswh",
+      "movie_name": "Guru Aama",
+      "show_id": "2101:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-A",
+      "date": "2026-05-09T17:10:00+05:45",
+      "time": "",
+      "seats": 268,
+      "sold": 0,
+      "reserved": 0,
+      "available": 268,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "sXcRvU5SWKdVk9e9ZZJTCC",
+      "movie_name": "Krishnavataram",
+      "show_id": "2102:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-A",
+      "date": "2026-05-09T19:30:00+05:45",
+      "time": "",
+      "seats": 268,
+      "sold": 0,
+      "reserved": 0,
+      "available": 268,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "U4zoKohWHiitMu75sAxbFF",
+      "movie_name": "Malati Mangale",
+      "show_id": "2100:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-A",
+      "date": "2026-05-09T14:10:00+05:45",
+      "time": "",
+      "seats": 268,
+      "sold": 0,
+      "reserved": 0,
+      "available": 268,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "U4zoKohWHiitMu75sAxbFF",
+      "movie_name": "Malati Mangale",
+      "show_id": "2105:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-B",
+      "date": "2026-05-09T18:45:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
       "gross": 0,
       "occupancy_percent": 0.0
     }
