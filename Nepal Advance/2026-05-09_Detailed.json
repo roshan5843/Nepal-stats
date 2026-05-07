@@ -1,6 +1,6 @@
 {
   "date": "2026-05-09",
-  "lastUpdated": "02:42 AM, 08 May 2026",
+  "lastUpdated": "04:36 AM, 08 May 2026",
   "shows": [
     {
       "movie_id": "6MXNMUqLfH29PBjfmBYswh",
@@ -342,10 +342,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 18,
-      "available": 194,
-      "gross": 6190,
-      "occupancy_percent": 8.49
+      "reserved": 28,
+      "available": 184,
+      "gross": 9765,
+      "occupancy_percent": 13.21
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -762,10 +762,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 10,
-      "available": 202,
-      "gross": 5800,
-      "occupancy_percent": 4.72
+      "reserved": 20,
+      "available": 192,
+      "gross": 11600,
+      "occupancy_percent": 9.43
     },
     {
       "movie_id": "aqDu6NBWYyN8KWnPNt3Jh3",
@@ -1392,10 +1392,10 @@
       "time": "",
       "seats": 198,
       "sold": 6,
-      "reserved": 10,
-      "available": 182,
-      "gross": 7680,
-      "occupancy_percent": 8.08
+      "reserved": 25,
+      "available": 167,
+      "gross": 14880,
+      "occupancy_percent": 15.66
     },
     {
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
@@ -1512,10 +1512,10 @@
       "time": "",
       "seats": 198,
       "sold": 8,
-      "reserved": 15,
-      "available": 175,
-      "gross": 5520,
-      "occupancy_percent": 11.62
+      "reserved": 25,
+      "available": 165,
+      "gross": 7920,
+      "occupancy_percent": 16.67
     },
     {
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
@@ -1542,10 +1542,10 @@
       "time": "",
       "seats": 210,
       "sold": 12,
-      "reserved": 13,
-      "available": 185,
-      "gross": 12000,
-      "occupancy_percent": 11.9
+      "reserved": 23,
+      "available": 175,
+      "gross": 16800,
+      "occupancy_percent": 16.67
     },
     {
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
@@ -2961,52 +2961,46 @@
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "65043:ini-qbox-butwal",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-09",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-qbox-butwal",
+      "theatre": "iNi Butwal - Audi 2",
+      "date": "2026-05-09T08:00:00+05:45",
+      "time": "",
+      "seats": 196,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 196,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "65047:ini-qbox-butwal",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-09",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-qbox-butwal",
+      "theatre": "iNi Butwal - Audi 2",
+      "date": "2026-05-09T19:45:00+05:45",
+      "time": "",
+      "seats": 196,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 196,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "65040:ini-qbox-butwal",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-09",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-qbox-butwal",
+      "theatre": "iNi Butwal - Audi 1",
+      "date": "2026-05-09T14:00:00+05:45",
+      "time": "",
+      "seats": 196,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 196,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -3027,18 +3021,16 @@
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "65048:ini-simara",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-09",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-simara",
+      "theatre": "iNi Simara - Audi 1",
+      "date": "2026-05-09T08:30:00+05:45",
+      "time": "",
+      "seats": 118,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 118,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -3828,16 +3820,18 @@
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
       "movie_name": "Malati Mangale",
       "show_id": "65045:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Butwal - Audi 2",
-      "date": "2026-05-09T13:45:00+05:45",
-      "time": "",
-      "seats": 196,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-09",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 196,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
