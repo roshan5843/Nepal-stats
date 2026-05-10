@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "lastUpdated": "07:20 AM, 10 May 2026",
+  "lastUpdated": "11:25 AM, 10 May 2026",
   "shows": [
     {
       "movie_id": "6MXNMUqLfH29PBjfmBYswh",
@@ -41,11 +41,11 @@
       "date": "2026-05-12T17:15:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 2,
-      "reserved": 22,
-      "available": 186,
-      "gross": 5760,
-      "occupancy_percent": 11.43
+      "sold": 9,
+      "reserved": 27,
+      "available": 174,
+      "gross": 8640,
+      "occupancy_percent": 17.14
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -71,11 +71,11 @@
       "date": "2026-05-12T13:30:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 5,
+      "sold": 7,
       "reserved": 25,
-      "available": 182,
-      "gross": 10550,
-      "occupancy_percent": 14.15
+      "available": 180,
+      "gross": 11230,
+      "occupancy_percent": 15.09
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -116,11 +116,11 @@
       "date": "2026-05-12T15:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 0,
+      "sold": 2,
       "reserved": 18,
-      "available": 229,
-      "gross": 6300,
-      "occupancy_percent": 7.29
+      "available": 227,
+      "gross": 7000,
+      "occupancy_percent": 8.1
     },
     {
       "movie_id": "aqDu6NBWYyN8KWnPNt3Jh3",
@@ -176,11 +176,11 @@
       "date": "2026-05-12T11:00:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 0,
+      "sold": 3,
       "reserved": 14,
-      "available": 198,
-      "gross": 4760,
-      "occupancy_percent": 6.6
+      "available": 195,
+      "gross": 5885,
+      "occupancy_percent": 8.02
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -311,11 +311,11 @@
       "date": "2026-05-12T11:45:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 33,
-      "reserved": 10,
-      "available": 167,
-      "gross": 10320,
-      "occupancy_percent": 20.48
+      "sold": 37,
+      "reserved": 13,
+      "available": 160,
+      "gross": 12000,
+      "occupancy_percent": 23.81
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -396,18 +396,16 @@
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
       "movie_name": "Bhooth Bangla",
       "show_id": "167385:qfx-bhaktapur",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-12",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 3",
+      "date": "2026-05-12T18:00:00+05:45",
+      "time": "",
+      "seats": 247,
       "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "reserved": 18,
+      "available": 229,
+      "gross": 6300,
+      "occupancy_percent": 7.29
     }
   ]
 }
