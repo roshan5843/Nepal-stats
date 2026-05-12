@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "lastUpdated": "03:28 AM, 12 May 2026",
+  "lastUpdated": "07:24 AM, 12 May 2026",
   "shows": [
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -252,10 +252,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 10,
-      "available": 202,
-      "gross": 2750,
-      "occupancy_percent": 4.72
+      "reserved": 14,
+      "available": 198,
+      "gross": 3850,
+      "occupancy_percent": 6.6
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -642,10 +642,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 22,
-      "available": 174,
-      "gross": 5940,
-      "occupancy_percent": 11.22
+      "reserved": 20,
+      "available": 176,
+      "gross": 5400,
+      "occupancy_percent": 10.2
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -831,18 +831,16 @@
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "167799:qfx-cineflix-itahari",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-14",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 1",
+      "date": "2026-05-14T18:30:00+05:45",
+      "time": "",
+      "seats": 134,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 134,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
