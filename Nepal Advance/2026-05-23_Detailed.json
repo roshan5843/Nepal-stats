@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "lastUpdated": "07:36 AM, 21 May 2026",
+  "lastUpdated": "12:12 PM, 21 May 2026",
   "shows": [
     {
       "movie_id": "YWLFS6YetivU9b5wvrbxs6",
@@ -431,11 +431,11 @@
       "date": "2026-05-23T08:15:00+05:45",
       "time": "",
       "seats": 231,
-      "sold": 2,
+      "sold": 3,
       "reserved": 0,
-      "available": 229,
-      "gross": 390,
-      "occupancy_percent": 0.87
+      "available": 228,
+      "gross": 585,
+      "occupancy_percent": 1.3
     },
     {
       "movie_id": "YWLFS6YetivU9b5wvrbxs6",
@@ -507,10 +507,10 @@
       "time": "",
       "seats": 342,
       "sold": 0,
-      "reserved": 0,
-      "available": 342,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 17,
+      "available": 325,
+      "gross": 6630,
+      "occupancy_percent": 4.97
     },
     {
       "movie_id": "YWLFS6YetivU9b5wvrbxs6",
@@ -806,11 +806,11 @@
       "date": "2026-05-23T10:30:00+05:45",
       "time": "",
       "seats": 101,
-      "sold": 4,
+      "sold": 6,
       "reserved": 0,
-      "available": 97,
-      "gross": 700,
-      "occupancy_percent": 3.96
+      "available": 95,
+      "gross": 1050,
+      "occupancy_percent": 5.94
     },
     {
       "movie_id": "trUCKctzSGWZY9iLmEX5SY",
@@ -911,11 +911,11 @@
       "date": "2026-05-23T08:15:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 4,
-      "reserved": 0,
-      "available": 255,
-      "gross": 880,
-      "occupancy_percent": 1.54
+      "sold": 12,
+      "reserved": 5,
+      "available": 242,
+      "gross": 3740,
+      "occupancy_percent": 6.56
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -923,7 +923,7 @@
       "show_id": "169250:qfx-chhaya",
       "venue": "qfx-chhaya",
       "theatre": "QFX Chhaya - AUDI 1",
-      "date": "2026-05-23T16:45:00+05:45",
+      "date": "2026-05-23T17:00:00+05:45",
       "time": "",
       "seats": 112,
       "sold": 0,
@@ -971,11 +971,11 @@
       "date": "2026-05-23T08:00:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 17,
+      "sold": 23,
       "reserved": 0,
-      "available": 165,
-      "gross": 4080,
-      "occupancy_percent": 9.34
+      "available": 159,
+      "gross": 5520,
+      "occupancy_percent": 12.64
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1017,10 +1017,10 @@
       "time": "",
       "seats": 118,
       "sold": 7,
-      "reserved": 0,
-      "available": 111,
-      "gross": 1400,
-      "occupancy_percent": 5.93
+      "reserved": 2,
+      "available": 109,
+      "gross": 1800,
+      "occupancy_percent": 7.63
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1196,11 +1196,11 @@
       "date": "2026-05-23T08:00:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 4,
+      "sold": 9,
       "reserved": 0,
-      "available": 244,
-      "gross": 880,
-      "occupancy_percent": 1.61
+      "available": 239,
+      "gross": 1980,
+      "occupancy_percent": 3.63
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1236,18 +1236,16 @@
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "169148:qfx-bhaktapur",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-23",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 2",
+      "date": "2026-05-23T20:00:00+05:45",
+      "time": "",
+      "seats": 248,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 248,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1345,14 +1343,14 @@
       "show_id": "169327:qfx-butwal",
       "venue": "qfx-butwal",
       "theatre": "QFX Butwal - AUDI 1",
-      "date": "2026-05-23T08:15:00+05:45",
+      "date": "2026-05-23T08:00:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 176,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 173,
+      "gross": 525,
+      "occupancy_percent": 1.7
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1373,20 +1371,22 @@
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "15591:cineroyale",
-      "venue": "cineroyale",
-      "theatre": "Cineroyale - Audi 3",
-      "date": "2026-05-23T20:15:00+05:45",
-      "time": "",
-      "seats": 126,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-23",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 126,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
-      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
-      "movie_name": "Lalibazar",
+      "movie_id": "p6ERyMjcHrydTy2n2XN5CM",
+      "movie_name": "Pati Patni Aur Woh Do",
       "show_id": "15589:cineroyale",
       "venue": "cineroyale",
       "theatre": "Cineroyale - Audi 3",
@@ -1468,11 +1468,11 @@
       "date": "2026-05-23T11:00:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 136,
-      "gross": 560,
-      "occupancy_percent": 1.45
+      "available": 134,
+      "gross": 1360,
+      "occupancy_percent": 2.9
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1600,7 +1600,7 @@
       "show_id": "169248:qfx-chhaya",
       "venue": "qfx-chhaya",
       "theatre": "QFX Chhaya - AUDI 1",
-      "date": "2026-05-23T19:45:00+05:45",
+      "date": "2026-05-23T20:00:00+05:45",
       "time": "",
       "seats": 112,
       "sold": 0,
@@ -1660,7 +1660,7 @@
       "show_id": "169282:qfx-labim",
       "venue": "qfx-labim",
       "theatre": "QFX Labim - AUDI 2",
-      "date": "2026-05-23T14:30:00+05:45",
+      "date": "2026-05-23T14:15:00+05:45",
       "time": "",
       "seats": 180,
       "sold": 0,
@@ -1723,11 +1723,11 @@
       "date": "2026-05-23T16:30:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 0,
+      "sold": 2,
       "reserved": 12,
-      "available": 200,
-      "gross": 6960,
-      "occupancy_percent": 5.66
+      "available": 198,
+      "gross": 8360,
+      "occupancy_percent": 6.6
     },
     {
       "movie_id": "KAiCisCSky5xvKVfJZRqbP",
@@ -2005,7 +2005,7 @@
       "show_id": "169330:qfx-butwal",
       "venue": "qfx-butwal",
       "theatre": "QFX Butwal - AUDI 1",
-      "date": "2026-05-23T11:30:00+05:45",
+      "date": "2026-05-23T11:00:00+05:45",
       "time": "",
       "seats": 176,
       "sold": 0,
@@ -2185,7 +2185,7 @@
       "show_id": "169254:qfx-chhaya",
       "venue": "qfx-chhaya",
       "theatre": "QFX Chhaya - AUDI 2",
-      "date": "2026-05-23T20:45:00+05:45",
+      "date": "2026-05-23T21:00:00+05:45",
       "time": "",
       "seats": 150,
       "sold": 0,
@@ -2203,11 +2203,11 @@
       "date": "2026-05-23T17:30:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 18,
+      "sold": 21,
       "reserved": 0,
-      "available": 162,
-      "gross": 11520,
-      "occupancy_percent": 10.0
+      "available": 159,
+      "gross": 13440,
+      "occupancy_percent": 11.67
     },
     {
       "movie_id": "qBPPMjaSpccSUpSa6kEL2j",
@@ -2263,11 +2263,11 @@
       "date": "2026-05-23T14:45:00+05:45",
       "time": "",
       "seats": 150,
-      "sold": 11,
+      "sold": 13,
       "reserved": 0,
-      "available": 139,
-      "gross": 7040,
-      "occupancy_percent": 7.33
+      "available": 137,
+      "gross": 8320,
+      "occupancy_percent": 8.67
     },
     {
       "movie_id": "qBPPMjaSpccSUpSa6kEL2j",
@@ -2293,11 +2293,11 @@
       "date": "2026-05-23T08:30:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 1,
+      "sold": 2,
       "reserved": 0,
-      "available": 179,
-      "gross": 320,
-      "occupancy_percent": 0.56
+      "available": 178,
+      "gross": 640,
+      "occupancy_percent": 1.11
     },
     {
       "movie_id": "qBPPMjaSpccSUpSa6kEL2j",
@@ -2308,11 +2308,11 @@
       "date": "2026-05-23T08:00:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 259,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 258,
+      "gross": 260,
+      "occupancy_percent": 0.39
     },
     {
       "movie_id": "qBPPMjaSpccSUpSa6kEL2j",
@@ -2410,7 +2410,7 @@
       "show_id": "169333:qfx-butwal",
       "venue": "qfx-butwal",
       "theatre": "QFX Butwal - AUDI 2",
-      "date": "2026-05-23T08:00:00+05:45",
+      "date": "2026-05-23T08:15:00+05:45",
       "time": "",
       "seats": 196,
       "sold": 0,
@@ -2620,7 +2620,7 @@
       "show_id": "169249:qfx-chhaya",
       "venue": "qfx-chhaya",
       "theatre": "QFX Chhaya - AUDI 1",
-      "date": "2026-05-23T13:45:00+05:45",
+      "date": "2026-05-23T14:00:00+05:45",
       "time": "",
       "seats": 112,
       "sold": 0,
@@ -3029,10 +3029,10 @@
       "time": "",
       "seats": 342,
       "sold": 0,
-      "reserved": 0,
-      "available": 342,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 17,
+      "available": 325,
+      "gross": 6630,
+      "occupancy_percent": 4.97
     },
     {
       "movie_id": "JiKNN5HP6MNhM83DH8fNef",
@@ -3044,10 +3044,10 @@
       "time": "",
       "seats": 342,
       "sold": 3,
-      "reserved": 0,
-      "available": 339,
-      "gross": 1170,
-      "occupancy_percent": 0.88
+      "reserved": 17,
+      "available": 322,
+      "gross": 7800,
+      "occupancy_percent": 5.85
     },
     {
       "movie_id": "JiKNN5HP6MNhM83DH8fNef",
@@ -3058,8 +3058,8 @@
       "date": "2026-05-23T08:15:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 0,
-      "reserved": 4,
+      "sold": 4,
+      "reserved": 0,
       "available": 243,
       "gross": 880,
       "occupancy_percent": 1.62
@@ -3119,10 +3119,10 @@
       "time": "",
       "seats": 342,
       "sold": 0,
-      "reserved": 0,
-      "available": 342,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 17,
+      "available": 325,
+      "gross": 6630,
+      "occupancy_percent": 4.97
     },
     {
       "movie_id": "JiKNN5HP6MNhM83DH8fNef",
@@ -3134,10 +3134,10 @@
       "time": "",
       "seats": 342,
       "sold": 0,
-      "reserved": 0,
-      "available": 342,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 17,
+      "available": 325,
+      "gross": 3315,
+      "occupancy_percent": 4.97
     },
     {
       "movie_id": "JiKNN5HP6MNhM83DH8fNef",
@@ -3568,11 +3568,11 @@
       "date": "2026-05-23T08:30:00+05:45",
       "time": "",
       "seats": 134,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 134,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 132,
+      "gross": 500,
+      "occupancy_percent": 1.49
     },
     {
       "movie_id": "JiKNN5HP6MNhM83DH8fNef",
@@ -3700,7 +3700,7 @@
       "show_id": "169247:qfx-chhaya",
       "venue": "qfx-chhaya",
       "theatre": "QFX Chhaya - AUDI 1",
-      "date": "2026-05-23T11:00:00+05:45",
+      "date": "2026-05-23T11:15:00+05:45",
       "time": "",
       "seats": 112,
       "sold": 0,
@@ -3775,7 +3775,7 @@
       "show_id": "169258:qfx-chhaya",
       "venue": "qfx-chhaya",
       "theatre": "QFX Chhaya - AUDI 03",
-      "date": "2026-05-23T20:30:00+05:45",
+      "date": "2026-05-23T20:45:00+05:45",
       "time": "",
       "seats": 110,
       "sold": 0,
@@ -3808,11 +3808,11 @@
       "date": "2026-05-23T17:00:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 7,
+      "sold": 9,
       "reserved": 0,
-      "available": 175,
-      "gross": 3920,
-      "occupancy_percent": 3.85
+      "available": 173,
+      "gross": 5040,
+      "occupancy_percent": 4.95
     },
     {
       "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
