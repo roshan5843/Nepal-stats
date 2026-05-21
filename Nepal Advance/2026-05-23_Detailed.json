@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "lastUpdated": "03:18 AM, 22 May 2026",
+  "lastUpdated": "04:40 AM, 22 May 2026",
   "shows": [
     {
       "movie_id": "YWLFS6YetivU9b5wvrbxs6",
@@ -1541,11 +1541,11 @@
       "date": "2026-05-23T08:00:00+05:45",
       "time": "",
       "seats": 112,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 110,
-      "gross": 480,
-      "occupancy_percent": 1.79
+      "available": 108,
+      "gross": 960,
+      "occupancy_percent": 3.57
     },
     {
       "movie_id": "KAiCisCSky5xvKVfJZRqbP",
@@ -1866,16 +1866,18 @@
       "movie_id": "KAiCisCSky5xvKVfJZRqbP",
       "movie_name": "Chand Mera Dil",
       "show_id": "169305:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 2",
-      "date": "2026-05-23T20:45:00+05:45",
-      "time": "",
-      "seats": 265,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-23",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 265,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "KAiCisCSky5xvKVfJZRqbP",
