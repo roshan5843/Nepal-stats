@@ -290,8 +290,8 @@
     "movie_name": "Lalibazar",
     "total_shows": 58,
     "seats": 12708,
-    "sold": 49,
-    "reserved": 193,
+    "sold": 50,
+    "reserved": 192,
     "available": 12466,
     "housefull": 0,
     "fastfilling": 0,
@@ -300,8 +300,8 @@
         "venue": "fcube",
         "total_shows": 5,
         "seats": 1032,
-        "sold": 10,
-        "reserved": 79,
+        "sold": 11,
+        "reserved": 78,
         "available": 943,
         "housefull": 0,
         "fastfilling": 0
@@ -575,10 +575,10 @@
     "movie_id": "JiKNN5HP6MNhM83DH8fNef",
     "movie_name": "Mitajyu",
     "total_shows": 47,
-    "seats": 9290,
+    "seats": 9368,
     "sold": 44,
     "reserved": 99,
-    "available": 9147,
+    "available": 9225,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -703,12 +703,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-simara",
+        "venue": "Unknown",
         "total_shows": 2,
-        "seats": 236,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 236,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-simara",
+        "total_shows": 1,
+        "seats": 118,
+        "sold": 0,
+        "reserved": 0,
+        "available": 118,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -723,16 +733,6 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 2,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "qfx-apex-mall",
         "total_shows": 2,
         "seats": 360,
@@ -743,22 +743,22 @@
         "fastfilling": 0
       },
       {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 2,
+        "seats": 392,
+        "sold": 0,
+        "reserved": 0,
+        "available": 392,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "ini-cinemas-devchuli",
         "total_shows": 1,
         "seats": 292,
         "sold": 0,
         "reserved": 0,
         "available": 292,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "ini-qbox-butwal",
-        "total_shows": 1,
-        "seats": 196,
-        "sold": 0,
-        "reserved": 0,
-        "available": 196,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -808,10 +808,10 @@
     "movie_id": "KAiCisCSky5xvKVfJZRqbP",
     "movie_name": "Chand Mera Dil",
     "total_shows": 19,
-    "seats": 3329,
+    "seats": 3089,
     "sold": 4,
     "reserved": 34,
-    "available": 3291,
+    "available": 3051,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -916,12 +916,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-lotse-ktm",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 240,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 240,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
