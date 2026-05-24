@@ -2,11 +2,11 @@
   {
     "movie_id": "YWLFS6YetivU9b5wvrbxs6",
     "movie_name": "Kaji",
-    "total_shows": 10,
-    "seats": 2090,
-    "sold": 1,
-    "reserved": 20,
-    "available": 2069,
+    "total_shows": 12,
+    "seats": 2420,
+    "sold": 36,
+    "reserved": 21,
+    "available": 2363,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,8 +15,8 @@
         "total_shows": 2,
         "seats": 408,
         "sold": 1,
-        "reserved": 20,
-        "available": 387,
+        "reserved": 21,
+        "available": 386,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -44,9 +44,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 3,
         "seats": 621,
-        "sold": 0,
+        "sold": 8,
         "reserved": 0,
-        "available": 621,
+        "available": 613,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -54,9 +54,9 @@
         "venue": "qfx-civil",
         "total_shows": 1,
         "seats": 259,
-        "sold": 0,
+        "sold": 19,
         "reserved": 0,
-        "available": 259,
+        "available": 240,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -67,6 +67,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 354,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 0,
+        "reserved": 0,
+        "available": 134,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 8,
+        "reserved": 0,
+        "available": 188,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -118,11 +138,11 @@
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 21,
-    "seats": 5204,
-    "sold": 2,
-    "reserved": 61,
-    "available": 5141,
+    "total_shows": 26,
+    "seats": 6000,
+    "sold": 9,
+    "reserved": 72,
+    "available": 5919,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -130,9 +150,9 @@
         "venue": "fcube",
         "total_shows": 5,
         "seats": 1032,
-        "sold": 2,
-        "reserved": 61,
-        "available": 969,
+        "sold": 4,
+        "reserved": 72,
+        "available": 956,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -160,9 +180,9 @@
         "venue": "qfx-civil",
         "total_shows": 3,
         "seats": 1557,
-        "sold": 0,
+        "sold": 3,
         "reserved": 0,
-        "available": 1557,
+        "available": 1554,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -193,6 +213,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 744,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 3,
+        "seats": 528,
+        "sold": 2,
+        "reserved": 0,
+        "available": 526,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 2,
+        "seats": 268,
+        "sold": 0,
+        "reserved": 0,
+        "available": 268,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -244,11 +284,11 @@
   {
     "movie_id": "JiKNN5HP6MNhM83DH8fNef",
     "movie_name": "Mitajyu",
-    "total_shows": 15,
-    "seats": 3305,
+    "total_shows": 19,
+    "seats": 3965,
     "sold": 0,
-    "reserved": 44,
-    "available": 3261,
+    "reserved": 48,
+    "available": 3917,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -267,8 +307,8 @@
         "total_shows": 4,
         "seats": 842,
         "sold": 0,
-        "reserved": 44,
-        "available": 798,
+        "reserved": 48,
+        "available": 794,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -311,17 +351,37 @@
         "available": 494,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 2,
+        "seats": 268,
+        "sold": 0,
+        "reserved": 0,
+        "available": 268,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 2,
+        "seats": 392,
+        "sold": 0,
+        "reserved": 0,
+        "available": 392,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "KAiCisCSky5xvKVfJZRqbP",
     "movie_name": "Chand Mera Dil",
-    "total_shows": 8,
-    "seats": 1536,
+    "total_shows": 9,
+    "seats": 1670,
     "sold": 2,
-    "reserved": 12,
-    "available": 1522,
+    "reserved": 16,
+    "available": 1652,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -330,8 +390,8 @@
         "total_shows": 1,
         "seats": 51,
         "sold": 0,
-        "reserved": 0,
-        "available": 51,
+        "reserved": 2,
+        "available": 49,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -350,8 +410,8 @@
         "total_shows": 1,
         "seats": 198,
         "sold": 0,
-        "reserved": 12,
-        "available": 186,
+        "reserved": 14,
+        "available": 184,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -404,6 +464,16 @@
         "available": 247,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 0,
+        "reserved": 0,
+        "available": 134,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -413,8 +483,8 @@
     "total_shows": 2,
     "seats": 104,
     "sold": 0,
-    "reserved": 0,
-    "available": 104,
+    "reserved": 2,
+    "available": 102,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -423,8 +493,8 @@
         "total_shows": 2,
         "seats": 104,
         "sold": 0,
-        "reserved": 0,
-        "available": 104,
+        "reserved": 2,
+        "available": 102,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -469,8 +539,8 @@
     "total_shows": 3,
     "seats": 372,
     "sold": 0,
-    "reserved": 0,
-    "available": 372,
+    "reserved": 2,
+    "available": 370,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -479,8 +549,8 @@
         "total_shows": 1,
         "seats": 51,
         "sold": 0,
-        "reserved": 0,
-        "available": 51,
+        "reserved": 2,
+        "available": 49,
         "housefull": 0,
         "fastfilling": 0
       },
