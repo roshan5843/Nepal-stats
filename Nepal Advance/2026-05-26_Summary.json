@@ -3,10 +3,10 @@
     "movie_id": "YWLFS6YetivU9b5wvrbxs6",
     "movie_name": "Kaji",
     "total_shows": 31,
-    "seats": 6253,
+    "seats": 6013,
     "sold": 119,
     "reserved": 38,
-    "available": 6096,
+    "available": 5856,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -102,11 +102,21 @@
       },
       {
         "venue": "ini-lotse-ktm",
-        "total_shows": 2,
-        "seats": 480,
+        "total_shows": 1,
+        "seats": 240,
         "sold": 0,
         "reserved": 0,
-        "available": 480,
+        "available": 240,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -575,10 +585,10 @@
     "movie_id": "JiKNN5HP6MNhM83DH8fNef",
     "movie_name": "Mitajyu",
     "total_shows": 47,
-    "seats": 9368,
+    "seats": 9486,
     "sold": 44,
     "reserved": 99,
-    "available": 9225,
+    "available": 9343,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -703,22 +713,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 2,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "ini-simara",
-        "total_shows": 1,
-        "seats": 118,
+        "total_shows": 2,
+        "seats": 236,
         "sold": 0,
         "reserved": 0,
-        "available": 118,
+        "available": 236,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -729,6 +729,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 132,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -808,10 +818,10 @@
     "movie_id": "KAiCisCSky5xvKVfJZRqbP",
     "movie_name": "Chand Mera Dil",
     "total_shows": 19,
-    "seats": 3089,
+    "seats": 3329,
     "sold": 4,
     "reserved": 34,
-    "available": 3051,
+    "available": 3291,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -916,12 +926,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "ini-lotse-ktm",
         "total_shows": 1,
-        "seats": 0,
+        "seats": 240,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 240,
         "housefull": 0,
         "fastfilling": 0
       },
