@@ -1,6 +1,6 @@
 {
   "date": "2026-05-27",
-  "lastUpdated": "02:47 AM, 26 May 2026",
+  "lastUpdated": "04:43 AM, 26 May 2026",
   "shows": [
     {
       "movie_id": "YWLFS6YetivU9b5wvrbxs6",
@@ -276,16 +276,18 @@
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "40259:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi - 3",
-      "date": "2026-05-27T14:15:00+05:45",
-      "time": "",
-      "seats": 164,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 7,
-      "available": 157,
-      "gross": 1225,
-      "occupancy_percent": 4.27
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2151,18 +2153,16 @@
       "movie_id": "trUCKctzSGWZY9iLmEX5SY",
       "movie_name": "Life Dyamage",
       "show_id": "27167:one-cinemas-new-baneshwor",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-05-27T17:45:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 61,
+      "gross": 2400,
+      "occupancy_percent": 8.96
     },
     {
       "movie_id": "qBPPMjaSpccSUpSa6kEL2j",
