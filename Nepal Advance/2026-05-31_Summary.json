@@ -2,11 +2,11 @@
   {
     "movie_id": "YWLFS6YetivU9b5wvrbxs6",
     "movie_name": "Kaji",
-    "total_shows": 1,
-    "seats": 89,
+    "total_shows": 2,
+    "seats": 299,
     "sold": 0,
-    "reserved": 0,
-    "available": 89,
+    "reserved": 10,
+    "available": 289,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -19,17 +19,27 @@
         "available": 89,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 210,
+        "sold": 0,
+        "reserved": 10,
+        "available": 200,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 19,
-    "seats": 4107,
-    "sold": 0,
-    "reserved": 0,
-    "available": 4107,
+    "total_shows": 36,
+    "seats": 7885,
+    "sold": 7,
+    "reserved": 30,
+    "available": 7848,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -97,9 +107,69 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 1,
         "seats": 247,
+        "sold": 3,
+        "reserved": 0,
+        "available": 244,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 3,
+        "seats": 636,
+        "sold": 2,
+        "reserved": 30,
+        "available": 604,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
         "sold": 0,
         "reserved": 0,
-        "available": 247,
+        "available": 182,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 519,
+        "sold": 0,
+        "reserved": 0,
+        "available": 519,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 4,
+        "seats": 744,
+        "sold": 0,
+        "reserved": 0,
+        "available": 744,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "dmax-cinemas",
+        "total_shows": 3,
+        "seats": 612,
+        "sold": 0,
+        "reserved": 0,
+        "available": 612,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 5,
+        "seats": 1085,
+        "sold": 2,
+        "reserved": 0,
+        "available": 1083,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -108,11 +178,11 @@
   {
     "movie_id": "bTtVY5HH2MGxfTuqshRt4G",
     "movie_name": "Passenger",
-    "total_shows": 5,
-    "seats": 950,
-    "sold": 0,
-    "reserved": 0,
-    "available": 950,
+    "total_shows": 9,
+    "seats": 1599,
+    "sold": 2,
+    "reserved": 10,
+    "available": 1587,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -160,9 +230,49 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 1,
         "seats": 248,
+        "sold": 2,
+        "reserved": 0,
+        "available": 246,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 198,
+        "sold": 0,
+        "reserved": 10,
+        "available": 188,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 1,
+        "seats": 126,
         "sold": 0,
         "reserved": 0,
-        "available": 248,
+        "available": 126,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 129,
+        "sold": 0,
+        "reserved": 0,
+        "available": 129,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 0,
+        "reserved": 0,
+        "available": 196,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -171,11 +281,11 @@
   {
     "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
     "movie_name": "Roll No 1",
-    "total_shows": 18,
-    "seats": 3533,
-    "sold": 5,
-    "reserved": 0,
-    "available": 3528,
+    "total_shows": 29,
+    "seats": 5735,
+    "sold": 11,
+    "reserved": 26,
+    "available": 5698,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -243,19 +353,69 @@
         "venue": "suvakamna-cinemas",
         "total_shows": 1,
         "seats": 190,
-        "sold": 5,
+        "sold": 9,
         "reserved": 0,
-        "available": 185,
+        "available": 181,
         "housefull": 0,
         "fastfilling": 0
       },
       {
-        "venue": "qfx-bhaktapur",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 207,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 207,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 2,
+        "seats": 408,
+        "sold": 2,
+        "reserved": 20,
+        "available": 386,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 3,
+        "seats": 1037,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1037,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "dmax-cinemas",
+        "total_shows": 3,
+        "seats": 390,
+        "sold": 0,
+        "reserved": 6,
+        "available": 384,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 0,
+        "reserved": 0,
+        "available": 182,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 2,
+        "seats": 392,
+        "sold": 0,
+        "reserved": 0,
+        "available": 392,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -264,11 +424,11 @@
   {
     "movie_id": "CHVosr9qWALLCSPt2Boq9T",
     "movie_name": "Shape of Momo",
-    "total_shows": 1,
-    "seats": 177,
+    "total_shows": 2,
+    "seats": 306,
     "sold": 0,
     "reserved": 0,
-    "available": 177,
+    "available": 306,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -281,17 +441,27 @@
         "available": 177,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 129,
+        "sold": 0,
+        "reserved": 0,
+        "available": 129,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "JiKNN5HP6MNhM83DH8fNef",
     "movie_name": "Mitajyu",
-    "total_shows": 9,
-    "seats": 1811,
+    "total_shows": 15,
+    "seats": 2830,
     "sold": 0,
-    "reserved": 0,
-    "available": 1811,
+    "reserved": 10,
+    "available": 2820,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -354,6 +524,36 @@
         "available": 236,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 198,
+        "sold": 0,
+        "reserved": 10,
+        "available": 188,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 2,
+        "seats": 352,
+        "sold": 0,
+        "reserved": 0,
+        "available": 352,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 3,
+        "seats": 469,
+        "sold": 0,
+        "reserved": 0,
+        "available": 469,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -385,6 +585,108 @@
         "sold": 0,
         "reserved": 0,
         "available": 118,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
+    "movie_name": "Paralko Aago",
+    "total_shows": 2,
+    "seats": 252,
+    "sold": 0,
+    "reserved": 0,
+    "available": 252,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cineroyale",
+        "total_shows": 2,
+        "seats": 252,
+        "sold": 0,
+        "reserved": 0,
+        "available": 252,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
+    "movie_name": "Michael",
+    "total_shows": 2,
+    "seats": 364,
+    "sold": 0,
+    "reserved": 0,
+    "available": 364,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 2,
+        "seats": 364,
+        "sold": 0,
+        "reserved": 0,
+        "available": 364,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "KAiCisCSky5xvKVfJZRqbP",
+    "movie_name": "Chand Mera Dil",
+    "total_shows": 2,
+    "seats": 339,
+    "sold": 0,
+    "reserved": 10,
+    "available": 329,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 210,
+        "sold": 0,
+        "reserved": 10,
+        "available": 200,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 129,
+        "sold": 0,
+        "reserved": 0,
+        "available": 129,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "p6ERyMjcHrydTy2n2XN5CM",
+    "movie_name": "Pati Patni Aur Woh Do",
+    "total_shows": 1,
+    "seats": 217,
+    "sold": 0,
+    "reserved": 0,
+    "available": 217,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cineroyale",
+        "total_shows": 1,
+        "seats": 217,
+        "sold": 0,
+        "reserved": 0,
+        "available": 217,
         "housefull": 0,
         "fastfilling": 0
       }
