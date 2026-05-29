@@ -360,9 +360,9 @@
     "movie_name": "Passenger",
     "total_shows": 22,
     "seats": 3880,
-    "sold": 4,
+    "sold": 6,
     "reserved": 10,
-    "available": 3866,
+    "available": 3864,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -460,9 +460,9 @@
         "venue": "qfx-labim",
         "total_shows": 3,
         "seats": 540,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 540,
+        "available": 538,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -552,10 +552,10 @@
     "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
     "movie_name": "Roll No 1",
     "total_shows": 62,
-    "seats": 11686,
-    "sold": 16,
+    "seats": 11490,
+    "sold": 19,
     "reserved": 20,
-    "available": 11650,
+    "available": 11451,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -600,12 +600,22 @@
         "fastfilling": 0
       },
       {
+        "venue": "Unknown",
+        "total_shows": 2,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "ini-qbox-butwal",
-        "total_shows": 3,
-        "seats": 588,
+        "total_shows": 2,
+        "seats": 392,
         "sold": 1,
         "reserved": 0,
-        "available": 587,
+        "available": 391,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -626,16 +636,6 @@
         "sold": 9,
         "reserved": 0,
         "available": 181,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "Unknown",
-        "total_shows": 1,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -793,9 +793,9 @@
         "venue": "qfx-one-stop-mall",
         "total_shows": 2,
         "seats": 276,
-        "sold": 0,
+        "sold": 3,
         "reserved": 0,
-        "available": 276,
+        "available": 273,
         "housefull": 0,
         "fastfilling": 0
       },

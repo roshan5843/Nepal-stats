@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "lastUpdated": "12:10 AM, 30 May 2026",
+  "lastUpdated": "03:29 AM, 30 May 2026",
   "shows": [
     {
       "movie_id": "YWLFS6YetivU9b5wvrbxs6",
@@ -516,16 +516,18 @@
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
       "movie_name": "Roll No 1",
       "show_id": "66092:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Butwal - Audi 2",
-      "date": "2026-05-31T13:45:00+05:45",
-      "time": "",
-      "seats": 196,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-31",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 196,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -2158,11 +2160,11 @@
       "date": "2026-05-31T08:45:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 178,
+      "gross": 560,
+      "occupancy_percent": 1.11
     },
     {
       "movie_id": "bTtVY5HH2MGxfTuqshRt4G",
@@ -2578,11 +2580,11 @@
       "date": "2026-05-31T14:00:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 138,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 135,
+      "gross": 840,
+      "occupancy_percent": 2.17
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
