@@ -5,8 +5,8 @@
     "total_shows": 7,
     "seats": 1526,
     "sold": 37,
-    "reserved": 10,
-    "available": 1479,
+    "reserved": 18,
+    "available": 1471,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,8 +15,8 @@
         "total_shows": 1,
         "seats": 210,
         "sold": 0,
-        "reserved": 10,
-        "available": 200,
+        "reserved": 18,
+        "available": 192,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -85,11 +85,11 @@
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 63,
-    "seats": 13141,
+    "total_shows": 67,
+    "seats": 14509,
     "sold": 156,
-    "reserved": 94,
-    "available": 12891,
+    "reserved": 92,
+    "available": 14261,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -108,8 +108,8 @@
         "total_shows": 4,
         "seats": 696,
         "sold": 12,
-        "reserved": 2,
-        "available": 682,
+        "reserved": 0,
+        "available": 684,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -148,8 +148,8 @@
         "total_shows": 3,
         "seats": 571,
         "sold": 0,
-        "reserved": 0,
-        "available": 571,
+        "reserved": 1,
+        "available": 570,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -298,8 +298,18 @@
         "total_shows": 4,
         "seats": 574,
         "sold": 56,
-        "reserved": 1,
-        "available": 517,
+        "reserved": 0,
+        "available": 518,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pokhara-cineplex",
+        "total_shows": 4,
+        "seats": 1368,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1368,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -308,11 +318,11 @@
   {
     "movie_id": "bTtVY5HH2MGxfTuqshRt4G",
     "movie_name": "Passenger",
-    "total_shows": 18,
-    "seats": 3048,
+    "total_shows": 19,
+    "seats": 3279,
     "sold": 22,
-    "reserved": 25,
-    "available": 3001,
+    "reserved": 27,
+    "available": 3230,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -381,8 +391,8 @@
         "total_shows": 1,
         "seats": 110,
         "sold": 0,
-        "reserved": 0,
-        "available": 110,
+        "reserved": 2,
+        "available": 108,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -465,17 +475,27 @@
         "available": 117,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "pokhara-cineplex",
+        "total_shows": 1,
+        "seats": 231,
+        "sold": 0,
+        "reserved": 0,
+        "available": 231,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
     "movie_name": "Roll No 1",
-    "total_shows": 47,
-    "seats": 8266,
-    "sold": 167,
+    "total_shows": 49,
+    "seats": 9030,
+    "sold": 205,
     "reserved": 54,
-    "available": 8045,
+    "available": 8771,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -523,9 +543,9 @@
         "venue": "qfx-civil",
         "total_shows": 2,
         "seats": 518,
-        "sold": 5,
+        "sold": 10,
         "reserved": 0,
-        "available": 513,
+        "available": 508,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -563,9 +583,9 @@
         "venue": "qfx-chhaya",
         "total_shows": 1,
         "seats": 110,
-        "sold": 0,
+        "sold": 5,
         "reserved": 0,
-        "available": 110,
+        "available": 105,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -700,12 +720,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "one-cinemas-kalimati",
         "total_shows": 2,
-        "seats": 0,
+        "seats": 302,
+        "sold": 28,
+        "reserved": 0,
+        "available": 274,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pokhara-cineplex",
+        "total_shows": 2,
+        "seats": 462,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 462,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -716,9 +746,9 @@
     "movie_name": "Shape of Momo",
     "total_shows": 9,
     "seats": 1331,
-    "sold": 26,
+    "sold": 28,
     "reserved": 0,
-    "available": 1305,
+    "available": 1303,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -776,9 +806,9 @@
         "venue": "qfx-chhaya",
         "total_shows": 1,
         "seats": 110,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 110,
+        "available": 108,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -817,11 +847,11 @@
   {
     "movie_id": "JiKNN5HP6MNhM83DH8fNef",
     "movie_name": "Mitajyu",
-    "total_shows": 23,
-    "seats": 4240,
-    "sold": 28,
+    "total_shows": 24,
+    "seats": 4471,
+    "sold": 30,
     "reserved": 53,
-    "available": 4159,
+    "available": 4388,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -979,9 +1009,19 @@
         "venue": "ini-qbox-butwal",
         "total_shows": 2,
         "seats": 392,
+        "sold": 2,
+        "reserved": 0,
+        "available": 390,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pokhara-cineplex",
+        "total_shows": 1,
+        "seats": 231,
         "sold": 0,
         "reserved": 0,
-        "available": 392,
+        "available": 231,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1092,8 +1132,8 @@
     "total_shows": 9,
     "seats": 1398,
     "sold": 6,
-    "reserved": 15,
-    "available": 1377,
+    "reserved": 17,
+    "available": 1375,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1102,8 +1142,8 @@
         "total_shows": 1,
         "seats": 198,
         "sold": 0,
-        "reserved": 13,
-        "available": 185,
+        "reserved": 15,
+        "available": 183,
         "housefull": 0,
         "fastfilling": 0
       },
