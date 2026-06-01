@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "lastUpdated": "03:10 AM, 02 June 2026",
+  "lastUpdated": "05:10 AM, 02 June 2026",
   "shows": [
     {
       "movie_id": "YWLFS6YetivU9b5wvrbxs6",
@@ -201,18 +201,16 @@
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "66216:ini-lotse-ktm",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-06-03",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-lotse-ktm",
+      "theatre": "iNi Lotse Mall - Audi 1",
+      "date": "2026-06-03T12:00:00+05:45",
+      "time": "",
+      "seats": 240,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 240,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -908,16 +906,18 @@
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
       "movie_name": "Roll No 1",
       "show_id": "66225:ini-cinemas-nb-center",
-      "venue": "ini-cinemas-nb-center",
-      "theatre": "iNi NB Center - Audi -1 (DTS: X)",
-      "date": "2026-06-03T13:00:00+05:45",
-      "time": "",
-      "seats": 177,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-03",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 177,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
