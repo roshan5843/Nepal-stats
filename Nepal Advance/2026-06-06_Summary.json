@@ -3,10 +3,10 @@
     "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
     "movie_name": "Roll No 1",
     "total_shows": 16,
-    "seats": 2817,
+    "seats": 2695,
     "sold": 140,
     "reserved": 29,
-    "available": 2648,
+    "available": 2526,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -141,12 +141,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "birat-cine",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 122,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 122,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -155,11 +155,11 @@
   {
     "movie_id": "5UVEbmut9MMEGVFj3krnS7",
     "movie_name": "Peddi",
-    "total_shows": 103,
-    "seats": 21005,
-    "sold": 500,
-    "reserved": 262,
-    "available": 20243,
+    "total_shows": 107,
+    "seats": 21125,
+    "sold": 503,
+    "reserved": 309,
+    "available": 20313,
     "housefull": 0,
     "fastfilling": 1,
     "venues": [
@@ -187,9 +187,9 @@
         "venue": "fcube",
         "total_shows": 4,
         "seats": 848,
-        "sold": 4,
-        "reserved": 75,
-        "available": 769,
+        "sold": 5,
+        "reserved": 76,
+        "available": 767,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -207,9 +207,9 @@
         "venue": "qfx-civil",
         "total_shows": 4,
         "seats": 1556,
-        "sold": 32,
+        "sold": 34,
         "reserved": 0,
-        "available": 1524,
+        "available": 1522,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -434,12 +434,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "birat-cine",
+        "venue": "Unknown",
         "total_shows": 2,
-        "seats": 338,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 338,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 4,
+        "seats": 458,
+        "sold": 0,
+        "reserved": 46,
+        "available": 412,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -448,11 +458,11 @@
   {
     "movie_id": "cwNQGULj5g3xx9R3AvfbrX",
     "movie_name": "Masters of the Universe",
-    "total_shows": 31,
-    "seats": 5315,
+    "total_shows": 32,
+    "seats": 5375,
     "sold": 53,
-    "reserved": 44,
-    "available": 5218,
+    "reserved": 54,
+    "available": 5268,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -685,17 +695,27 @@
         "available": 122,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 10,
+        "available": 50,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 41,
-    "seats": 8008,
-    "sold": 61,
+    "total_shows": 43,
+    "seats": 7642,
+    "sold": 64,
     "reserved": 73,
-    "available": 7874,
+    "available": 7505,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -733,9 +753,9 @@
         "venue": "qfx-labim",
         "total_shows": 2,
         "seats": 366,
-        "sold": 5,
+        "sold": 8,
         "reserved": 0,
-        "available": 361,
+        "available": 358,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -930,12 +950,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "birat-cine",
-        "total_shows": 3,
-        "seats": 366,
+        "venue": "Unknown",
+        "total_shows": 5,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 366,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -944,11 +964,11 @@
   {
     "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
     "movie_name": "Hai Jawani Toh Ishq Hona Hai",
-    "total_shows": 72,
-    "seats": 13485,
-    "sold": 143,
-    "reserved": 126,
-    "available": 13216,
+    "total_shows": 75,
+    "seats": 13545,
+    "sold": 146,
+    "reserved": 157,
+    "available": 13242,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1116,8 +1136,8 @@
         "venue": "qfx-one-stop-mall",
         "total_shows": 2,
         "seats": 276,
-        "sold": 9,
-        "reserved": 3,
+        "sold": 12,
+        "reserved": 0,
         "available": 264,
         "housefull": 0,
         "fastfilling": 0
@@ -1213,12 +1233,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "birat-cine",
+        "venue": "Unknown",
         "total_shows": 2,
-        "seats": 338,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 338,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 3,
+        "seats": 398,
+        "sold": 0,
+        "reserved": 34,
+        "available": 364,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1274,10 +1304,10 @@
     "movie_id": "JiKNN5HP6MNhM83DH8fNef",
     "movie_name": "Mitajyu",
     "total_shows": 4,
-    "seats": 806,
+    "seats": 514,
     "sold": 0,
     "reserved": 16,
-    "available": 790,
+    "available": 498,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1302,12 +1332,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-cinemas-devchuli",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 292,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 292,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1328,9 +1358,9 @@
     "movie_name": "Life Dyamage",
     "total_shows": 1,
     "seats": 164,
-    "sold": 5,
+    "sold": 7,
     "reserved": 4,
-    "available": 155,
+    "available": 153,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1338,9 +1368,9 @@
         "venue": "ranjana-cineplex",
         "total_shows": 1,
         "seats": 164,
-        "sold": 5,
+        "sold": 7,
         "reserved": 4,
-        "available": 155,
+        "available": 153,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1414,9 +1444,9 @@
     "movie_name": "Michael",
     "total_shows": 3,
     "seats": 474,
-    "sold": 10,
+    "sold": 11,
     "reserved": 0,
-    "available": 464,
+    "available": 463,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1434,9 +1464,9 @@
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 180,
-        "sold": 6,
+        "sold": 7,
         "reserved": 0,
-        "available": 174,
+        "available": 173,
         "housefull": 0,
         "fastfilling": 0
       },
