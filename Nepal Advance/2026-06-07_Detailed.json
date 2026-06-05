@@ -1,6 +1,6 @@
 {
   "date": "2026-06-07",
-  "lastUpdated": "10:39 PM, 05 June 2026",
+  "lastUpdated": "01:33 AM, 06 June 2026",
   "shows": [
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -642,10 +642,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 1,
-      "available": 209,
-      "gross": 450,
-      "occupancy_percent": 0.48
+      "reserved": 0,
+      "available": 210,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -1301,11 +1301,11 @@
       "date": "2026-06-07T08:00:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 182,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 180,
+      "gross": 440,
+      "occupancy_percent": 1.1
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -1392,10 +1392,10 @@
       "time": "",
       "seats": 132,
       "sold": 4,
-      "reserved": 2,
-      "available": 126,
-      "gross": 1800,
-      "occupancy_percent": 4.55
+      "reserved": 0,
+      "available": 128,
+      "gross": 1200,
+      "occupancy_percent": 3.03
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -1481,11 +1481,11 @@
       "date": "2026-06-07T14:00:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 7,
+      "sold": 9,
       "reserved": 0,
-      "available": 169,
-      "gross": 2450,
-      "occupancy_percent": 3.98
+      "available": 167,
+      "gross": 3150,
+      "occupancy_percent": 5.11
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -1601,8 +1601,8 @@
       "date": "2026-06-07T14:00:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 0,
-      "reserved": 1,
+      "sold": 1,
+      "reserved": 0,
       "available": 137,
       "gross": 400,
       "occupancy_percent": 0.72
@@ -2381,8 +2381,8 @@
       "date": "2026-06-07T12:45:00+05:45",
       "time": "",
       "seats": 117,
-      "sold": 0,
-      "reserved": 4,
+      "sold": 4,
+      "reserved": 0,
       "available": 113,
       "gross": 1200,
       "occupancy_percent": 3.42
@@ -2546,11 +2546,11 @@
       "date": "2026-06-07T13:00:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 7,
+      "sold": 11,
       "reserved": 0,
-      "available": 175,
-      "gross": 3360,
-      "occupancy_percent": 3.85
+      "available": 171,
+      "gross": 5280,
+      "occupancy_percent": 6.04
     },
     {
       "movie_id": "CHVosr9qWALLCSPt2Boq9T",
@@ -3404,6 +3404,96 @@
       "sold": 0,
       "reserved": 0,
       "available": 192,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "2313:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-B",
+      "date": "2026-06-07T14:30:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5UVEbmut9MMEGVFj3krnS7",
+      "movie_name": "Peddi",
+      "show_id": "2309:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-A",
+      "date": "2026-06-07T11:30:00+05:45",
+      "time": "",
+      "seats": 268,
+      "sold": 0,
+      "reserved": 0,
+      "available": 268,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5UVEbmut9MMEGVFj3krnS7",
+      "movie_name": "Peddi",
+      "show_id": "2311:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-A",
+      "date": "2026-06-07T19:00:00+05:45",
+      "time": "",
+      "seats": 268,
+      "sold": 0,
+      "reserved": 0,
+      "available": 268,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
+      "movie_name": "Hai Jawani Toh Ishq Hona Hai",
+      "show_id": "2314:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-B",
+      "date": "2026-06-07T19:00:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
+      "movie_name": "Hai Jawani Toh Ishq Hona Hai",
+      "show_id": "2310:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-A",
+      "date": "2026-06-07T15:00:00+05:45",
+      "time": "",
+      "seats": 268,
+      "sold": 0,
+      "reserved": 0,
+      "available": 268,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "trUCKctzSGWZY9iLmEX5SY",
+      "movie_name": "Life Dyamage",
+      "show_id": "2312:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-B",
+      "date": "2026-06-07T12:00:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
       "gross": 0,
       "occupancy_percent": 0.0
     }
