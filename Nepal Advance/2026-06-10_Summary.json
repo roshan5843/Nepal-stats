@@ -2,11 +2,11 @@
   {
     "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
     "movie_name": "Roll No 1",
-    "total_shows": 4,
-    "seats": 737,
-    "sold": 14,
+    "total_shows": 5,
+    "seats": 855,
+    "sold": 43,
     "reserved": 21,
-    "available": 702,
+    "available": 791,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -14,9 +14,9 @@
         "venue": "fcube",
         "total_shows": 2,
         "seats": 408,
-        "sold": 14,
+        "sold": 23,
         "reserved": 21,
-        "available": 373,
+        "available": 364,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -24,9 +24,9 @@
         "venue": "bishwojyoti-cineplex",
         "total_shows": 1,
         "seats": 89,
-        "sold": 0,
+        "sold": 10,
         "reserved": 0,
-        "available": 89,
+        "available": 79,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -34,9 +34,19 @@
         "venue": "ini-lotse-ktm",
         "total_shows": 1,
         "seats": 240,
+        "sold": 10,
+        "reserved": 0,
+        "available": 230,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 118,
         "sold": 0,
         "reserved": 0,
-        "available": 240,
+        "available": 118,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -45,11 +55,11 @@
   {
     "movie_id": "5UVEbmut9MMEGVFj3krnS7",
     "movie_name": "Peddi",
-    "total_shows": 26,
-    "seats": 5212,
+    "total_shows": 30,
+    "seats": 6282,
     "sold": 4,
-    "reserved": 85,
-    "available": 5123,
+    "reserved": 86,
+    "available": 6192,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -84,22 +94,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 1,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "ini-lotse-ktm",
-        "total_shows": 3,
-        "seats": 720,
+        "total_shows": 4,
+        "seats": 960,
         "sold": 0,
         "reserved": 0,
-        "available": 720,
+        "available": 960,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -152,6 +152,16 @@
         "available": 292,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 4,
+        "seats": 830,
+        "sold": 0,
+        "reserved": 1,
+        "available": 829,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -201,11 +211,11 @@
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 13,
-    "seats": 2420,
+    "total_shows": 15,
+    "seats": 2702,
     "sold": 18,
-    "reserved": 60,
-    "available": 2342,
+    "reserved": 62,
+    "available": 2622,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -214,8 +224,8 @@
         "total_shows": 3,
         "seats": 618,
         "sold": 18,
-        "reserved": 30,
-        "available": 570,
+        "reserved": 32,
+        "available": 568,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -288,17 +298,27 @@
         "available": 252,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 2,
+        "seats": 282,
+        "sold": 0,
+        "reserved": 0,
+        "available": 282,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
     "movie_name": "Hai Jawani Toh Ishq Hona Hai",
-    "total_shows": 15,
-    "seats": 2927,
+    "total_shows": 17,
+    "seats": 3429,
     "sold": 2,
     "reserved": 39,
-    "available": 2886,
+    "available": 3388,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -389,6 +409,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 292,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 2,
+        "seats": 502,
+        "sold": 0,
+        "reserved": 0,
+        "available": 502,
         "housefull": 0,
         "fastfilling": 0
       }
