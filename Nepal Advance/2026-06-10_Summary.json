@@ -4,9 +4,9 @@
     "movie_name": "Roll No 1",
     "total_shows": 4,
     "seats": 737,
-    "sold": 11,
+    "sold": 14,
     "reserved": 21,
-    "available": 705,
+    "available": 702,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -14,9 +14,9 @@
         "venue": "fcube",
         "total_shows": 2,
         "seats": 408,
-        "sold": 11,
+        "sold": 14,
         "reserved": 21,
-        "available": 376,
+        "available": 373,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -46,10 +46,10 @@
     "movie_id": "5UVEbmut9MMEGVFj3krnS7",
     "movie_name": "Peddi",
     "total_shows": 26,
-    "seats": 5452,
+    "seats": 5212,
     "sold": 4,
     "reserved": 85,
-    "available": 5363,
+    "available": 5123,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -84,12 +84,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-lotse-ktm",
-        "total_shows": 4,
-        "seats": 960,
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 960,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 3,
+        "seats": 720,
+        "sold": 0,
+        "reserved": 0,
+        "available": 720,
         "housefull": 0,
         "fastfilling": 0
       },
