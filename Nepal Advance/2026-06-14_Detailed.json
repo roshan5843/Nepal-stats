@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "lastUpdated": "03:27 AM, 13 June 2026",
+  "lastUpdated": "04:56 AM, 13 June 2026",
   "shows": [
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -221,11 +221,11 @@
       "date": "2026-06-14T08:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 3,
+      "sold": 5,
       "reserved": 0,
-      "available": 193,
-      "gross": 405,
-      "occupancy_percent": 1.53
+      "available": 191,
+      "gross": 675,
+      "occupancy_percent": 2.55
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -952,16 +952,18 @@
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "66720:bishwojyoti-cineplex",
-      "venue": "bishwojyoti-cineplex",
-      "theatre": "iNi Bishwojyoti Mall - Audi 2",
-      "date": "2026-06-14T14:15:00+05:45",
-      "time": "",
-      "seats": 89,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-14",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 89,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
