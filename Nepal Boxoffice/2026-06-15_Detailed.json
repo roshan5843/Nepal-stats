@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "lastUpdated": "02:12 PM, 15 June 2026",
+  "lastUpdated": "08:19 PM, 15 June 2026",
   "shows": [
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -1822,6 +1822,23 @@
       "available": 100,
       "gross": 3900,
       "occupancy_percent": 9.09
+    },
+    {
+      "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
+      "movie_name": "Hai Jawani Toh Ishq Hona Hai",
+      "show_id": "40528:ranjana-cineplex",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-15",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     }
   ]
 }
