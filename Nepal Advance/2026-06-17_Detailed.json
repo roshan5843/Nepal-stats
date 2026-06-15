@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "lastUpdated": "12:15 AM, 16 June 2026",
+  "lastUpdated": "03:55 AM, 16 June 2026",
   "shows": [
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -27,10 +27,10 @@
       "time": "",
       "seats": 51,
       "sold": 18,
-      "reserved": 4,
-      "available": 29,
-      "gross": 30800,
-      "occupancy_percent": 43.14
+      "reserved": 1,
+      "available": 32,
+      "gross": 26600,
+      "occupancy_percent": 37.25
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -42,10 +42,10 @@
       "time": "",
       "seats": 349,
       "sold": 14,
-      "reserved": 54,
-      "available": 281,
-      "gross": 30600,
-      "occupancy_percent": 19.48
+      "reserved": 52,
+      "available": 283,
+      "gross": 29700,
+      "occupancy_percent": 18.91
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -177,10 +177,10 @@
       "time": "",
       "seats": 349,
       "sold": 39,
-      "reserved": 51,
-      "available": 259,
-      "gross": 18000,
-      "occupancy_percent": 25.79
+      "reserved": 50,
+      "available": 260,
+      "gross": 17800,
+      "occupancy_percent": 25.5
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -237,10 +237,10 @@
       "time": "",
       "seats": 519,
       "sold": 80,
-      "reserved": 0,
-      "available": 439,
-      "gross": 19030,
-      "occupancy_percent": 15.41
+      "reserved": 2,
+      "available": 437,
+      "gross": 19470,
+      "occupancy_percent": 15.8
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -342,10 +342,10 @@
       "time": "",
       "seats": 143,
       "sold": 42,
-      "reserved": 1,
-      "available": 100,
-      "gross": 16340,
-      "occupancy_percent": 30.07
+      "reserved": 0,
+      "available": 101,
+      "gross": 15960,
+      "occupancy_percent": 29.37
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -1521,18 +1521,16 @@
       "movie_id": "YWLFS6YetivU9b5wvrbxs6",
       "movie_name": "Kaji",
       "show_id": "40559:ranjana-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-06-17",
-      "time": null,
-      "seats": 0,
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi - 2",
+      "date": "2026-06-17T20:15:00+05:45",
+      "time": "",
+      "seats": 118,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 118,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "trUCKctzSGWZY9iLmEX5SY",
@@ -1553,18 +1551,16 @@
       "movie_id": "3sLzjWvFEpbTyJ8oP67Yvm",
       "movie_name": "Kumbh",
       "show_id": "40558:ranjana-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-06-17",
-      "time": null,
-      "seats": 0,
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi - 2",
+      "date": "2026-06-17T18:00:00+05:45",
+      "time": "",
+      "seats": 118,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 118,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -3782,11 +3778,11 @@
       "date": "2026-06-17T17:45:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 27,
+      "sold": 30,
       "reserved": 0,
-      "available": 181,
-      "gross": 12150,
-      "occupancy_percent": 12.98
+      "available": 178,
+      "gross": 13500,
+      "occupancy_percent": 14.42
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
