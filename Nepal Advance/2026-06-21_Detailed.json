@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "lastUpdated": "10:42 PM, 19 June 2026",
+  "lastUpdated": "02:47 AM, 20 June 2026",
   "shows": [
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -116,11 +116,11 @@
       "date": "2026-06-21T09:00:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 40,
-      "reserved": 2,
-      "available": 87,
-      "gross": 10560,
-      "occupancy_percent": 32.56
+      "sold": 46,
+      "reserved": 0,
+      "available": 83,
+      "gross": 11660,
+      "occupancy_percent": 35.66
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -1121,11 +1121,11 @@
       "date": "2026-06-21T09:15:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 10,
-      "reserved": 44,
-      "available": 225,
-      "gross": 10800,
-      "occupancy_percent": 19.35
+      "sold": 14,
+      "reserved": 42,
+      "available": 223,
+      "gross": 11200,
+      "occupancy_percent": 20.07
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -1137,10 +1137,10 @@
       "time": "",
       "seats": 279,
       "sold": 7,
-      "reserved": 44,
-      "available": 228,
-      "gross": 22950,
-      "occupancy_percent": 18.28
+      "reserved": 42,
+      "available": 230,
+      "gross": 22050,
+      "occupancy_percent": 17.56
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -1167,10 +1167,10 @@
       "time": "",
       "seats": 112,
       "sold": 8,
-      "reserved": 2,
-      "available": 102,
-      "gross": 4800,
-      "occupancy_percent": 8.93
+      "reserved": 0,
+      "available": 104,
+      "gross": 3840,
+      "occupancy_percent": 7.14
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -1196,11 +1196,11 @@
       "date": "2026-06-21T19:15:00+05:45",
       "time": "",
       "seats": 112,
-      "sold": 4,
+      "sold": 6,
       "reserved": 0,
-      "available": 108,
-      "gross": 1920,
-      "occupancy_percent": 3.57
+      "available": 106,
+      "gross": 2880,
+      "occupancy_percent": 5.36
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -1437,10 +1437,10 @@
       "time": "",
       "seats": 248,
       "sold": 7,
-      "reserved": 2,
-      "available": 239,
-      "gross": 3960,
-      "occupancy_percent": 3.63
+      "reserved": 0,
+      "available": 241,
+      "gross": 3080,
+      "occupancy_percent": 2.82
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -1521,16 +1521,18 @@
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
       "movie_name": "OBSESSION",
       "show_id": "173717:qfx-one-stop-mall",
-      "venue": "qfx-one-stop-mall",
-      "theatre": "QFX One Stop, Birtamod - AUDI 1",
-      "date": "2026-06-21T12:15:00+05:45",
-      "time": "",
-      "seats": 138,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-21",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 138,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -1811,8 +1813,8 @@
       "date": "2026-06-21T15:30:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 0,
-      "reserved": 1,
+      "sold": 1,
+      "reserved": 0,
       "available": 518,
       "gross": 550,
       "occupancy_percent": 0.19
@@ -2216,11 +2218,11 @@
       "date": "2026-06-21T13:00:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 133,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 131,
+      "gross": 560,
+      "occupancy_percent": 1.5
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -2232,10 +2234,10 @@
       "time": "",
       "seats": 217,
       "sold": 0,
-      "reserved": 1,
-      "available": 216,
-      "gross": 200,
-      "occupancy_percent": 0.46
+      "reserved": 0,
+      "available": 217,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -2486,11 +2488,11 @@
       "date": "2026-06-21T09:45:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 7,
+      "sold": 14,
       "reserved": 0,
-      "available": 158,
-      "gross": 1715,
-      "occupancy_percent": 4.24
+      "available": 151,
+      "gross": 3430,
+      "occupancy_percent": 8.48
     },
     {
       "movie_id": "jnNDFUXs4UZv2W2oF2CWVj",
@@ -2697,10 +2699,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 10,
-      "available": 202,
-      "gross": 5800,
-      "occupancy_percent": 4.72
+      "reserved": 13,
+      "available": 199,
+      "gross": 7900,
+      "occupancy_percent": 6.13
     },
     {
       "movie_id": "2xzU5oXd3N5urfFfabDAKo",
@@ -2961,16 +2963,18 @@
       "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
       "movie_name": "I am Jit Bahadur",
       "show_id": "173610:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 03",
-      "date": "2026-06-21T14:00:00+05:45",
-      "time": "",
-      "seats": 139,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-21",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 139,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
@@ -3551,11 +3555,11 @@
       "date": "2026-06-21T15:00:00+05:45",
       "time": "",
       "seats": 136,
-      "sold": 14,
+      "sold": 16,
       "reserved": 0,
-      "available": 122,
-      "gross": 6160,
-      "occupancy_percent": 10.29
+      "available": 120,
+      "gross": 7040,
+      "occupancy_percent": 11.76
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -3916,6 +3920,192 @@
       "available": 97,
       "gross": 1400,
       "occupancy_percent": 3.96
+    },
+    {
+      "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
+      "movie_name": "OBSESSION",
+      "show_id": "146651:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Theatre",
+      "date": "2026-06-21T21:00:00+05:45",
+      "time": "",
+      "seats": 169,
+      "sold": 0,
+      "reserved": 13,
+      "available": 156,
+      "gross": 6550,
+      "occupancy_percent": 7.69
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "146649:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Theatre",
+      "date": "2026-06-21T15:40:00+05:45",
+      "time": "",
+      "seats": 169,
+      "sold": 0,
+      "reserved": 12,
+      "available": 157,
+      "gross": 6000,
+      "occupancy_percent": 7.1
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "146647:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Theatre",
+      "date": "2026-06-21T10:30:00+05:45",
+      "time": "",
+      "seats": 169,
+      "sold": 0,
+      "reserved": 9,
+      "available": 160,
+      "gross": 1800,
+      "occupancy_percent": 5.33
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "146640:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-06-21T08:00:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 8,
+      "available": 52,
+      "gross": 3200,
+      "occupancy_percent": 13.33
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "146644:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-06-21T17:30:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 12,
+      "available": 48,
+      "gross": 7800,
+      "occupancy_percent": 20.0
+    },
+    {
+      "movie_id": "jnNDFUXs4UZv2W2oF2CWVj",
+      "movie_name": "Toy Story 5",
+      "show_id": "146642:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-06-21T13:15:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 7,
+      "available": 53,
+      "gross": 4550,
+      "occupancy_percent": 11.67
+    },
+    {
+      "movie_id": "2xzU5oXd3N5urfFfabDAKo",
+      "movie_name": "Colony",
+      "show_id": "146643:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-06-21T15:15:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 8,
+      "available": 52,
+      "gross": 5200,
+      "occupancy_percent": 13.33
+    },
+    {
+      "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
+      "movie_name": "I am Jit Bahadur",
+      "show_id": "146641:cdc-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-21",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
+      "movie_name": "I am Jit Bahadur",
+      "show_id": "146646:cdc-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-21",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
+      "movie_name": "I am Jit Bahadur",
+      "show_id": "146650:cdc-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-21",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
+      "movie_name": "Hai Jawani Toh Ishq Hona Hai",
+      "show_id": "146645:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-06-21T20:15:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 6,
+      "available": 54,
+      "gross": 3900,
+      "occupancy_percent": 10.0
+    },
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "146648:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Theatre",
+      "date": "2026-06-21T13:15:00+05:45",
+      "time": "",
+      "seats": 169,
+      "sold": 0,
+      "reserved": 14,
+      "available": 155,
+      "gross": 6650,
+      "occupancy_percent": 8.28
     }
   ]
 }
