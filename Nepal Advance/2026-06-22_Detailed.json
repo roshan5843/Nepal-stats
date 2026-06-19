@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "lastUpdated": "12:54 AM, 20 June 2026",
+  "lastUpdated": "03:27 AM, 20 June 2026",
   "shows": [
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -522,10 +522,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 1,
-      "available": 195,
-      "gross": 280,
-      "occupancy_percent": 0.51
+      "reserved": 0,
+      "available": 196,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -1056,18 +1056,16 @@
       "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
       "movie_name": "I am Jit Bahadur",
       "show_id": "67217:ini-simara",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-06-22",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-simara",
+      "theatre": "iNi Simara - Audi 2",
+      "date": "2026-06-22T11:15:00+05:45",
+      "time": "",
+      "seats": 199,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 199,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
