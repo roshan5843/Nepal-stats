@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "lastUpdated": "08:18 AM, 19 June 2026",
+  "lastUpdated": "01:54 PM, 19 June 2026",
   "shows": [
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -21,16 +21,18 @@
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
       "movie_name": "OBSESSION",
       "show_id": "67124:ini-simara",
-      "venue": "ini-simara",
-      "theatre": "iNi Simara - Audi 2",
-      "date": "2026-06-21T17:00:00+05:45",
-      "time": "",
-      "seats": 199,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-21",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 199,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -42,10 +44,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 0,
-      "available": 198,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 10,
+      "available": 188,
+      "gross": 2000,
+      "occupancy_percent": 5.05
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -116,11 +118,11 @@
       "date": "2026-06-21T09:00:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 11,
+      "sold": 18,
       "reserved": 0,
-      "available": 118,
-      "gross": 2640,
-      "occupancy_percent": 8.53
+      "available": 111,
+      "gross": 4290,
+      "occupancy_percent": 13.95
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -476,11 +478,11 @@
       "date": "2026-06-21T08:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 247,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 245,
+      "gross": 440,
+      "occupancy_percent": 0.81
     },
     {
       "movie_id": "jnNDFUXs4UZv2W2oF2CWVj",
@@ -761,11 +763,11 @@
       "date": "2026-06-21T08:30:00+05:45",
       "time": "",
       "seats": 89,
-      "sold": 0,
+      "sold": 7,
       "reserved": 0,
-      "available": 89,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 82,
+      "gross": 1225,
+      "occupancy_percent": 7.87
     },
     {
       "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
@@ -1011,16 +1013,18 @@
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "67118:ini-cinemas-nb-center",
-      "venue": "ini-cinemas-nb-center",
-      "theatre": "iNi NB Center - Audi -2 (DTS: X)",
-      "date": "2026-06-21T10:45:00+05:45",
-      "time": "",
-      "seats": 210,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-21",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 210,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1034,6 +1038,81 @@
       "sold": 0,
       "reserved": 0,
       "available": 89,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
+      "movie_name": "OBSESSION",
+      "show_id": "173618:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 2",
+      "date": "2026-06-21T07:15:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "173607:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 1",
+      "date": "2026-06-21T08:00:00+05:45",
+      "time": "",
+      "seats": 177,
+      "sold": 0,
+      "reserved": 0,
+      "available": 177,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "173570:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 01",
+      "date": "2026-06-21T09:45:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 0,
+      "reserved": 0,
+      "available": 182,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "2xzU5oXd3N5urfFfabDAKo",
+      "movie_name": "Colony",
+      "show_id": "173605:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 01",
+      "date": "2026-06-21T07:00:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 2,
+      "reserved": 0,
+      "available": 180,
+      "gross": 440,
+      "occupancy_percent": 1.1
+    },
+    {
+      "movie_id": "2xzU5oXd3N5urfFfabDAKo",
+      "movie_name": "Colony",
+      "show_id": "173608:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 03",
+      "date": "2026-06-21T08:15:00+05:45",
+      "time": "",
+      "seats": 139,
+      "sold": 0,
+      "reserved": 0,
+      "available": 139,
       "gross": 0,
       "occupancy_percent": 0.0
     }
