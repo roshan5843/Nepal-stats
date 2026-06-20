@@ -4,9 +4,9 @@
     "movie_name": "OBSESSION",
     "total_shows": 11,
     "seats": 2140,
-    "sold": 16,
-    "reserved": 26,
-    "available": 2098,
+    "sold": 20,
+    "reserved": 30,
+    "available": 2090,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,8 +15,8 @@
         "total_shows": 2,
         "seats": 422,
         "sold": 0,
-        "reserved": 26,
-        "available": 396,
+        "reserved": 30,
+        "available": 392,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -84,9 +84,9 @@
         "venue": "ini-cinemas-nb-center",
         "total_shows": 1,
         "seats": 177,
-        "sold": 0,
+        "sold": 4,
         "reserved": 0,
-        "available": 177,
+        "available": 173,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -118,8 +118,8 @@
     "total_shows": 34,
     "seats": 6711,
     "sold": 27,
-    "reserved": 31,
-    "available": 6653,
+    "reserved": 33,
+    "available": 6651,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -138,8 +138,8 @@
         "total_shows": 3,
         "seats": 622,
         "sold": 0,
-        "reserved": 30,
-        "available": 592,
+        "reserved": 32,
+        "available": 590,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -148,8 +148,8 @@
         "total_shows": 4,
         "seats": 840,
         "sold": 3,
-        "reserved": 0,
-        "available": 837,
+        "reserved": 1,
+        "available": 836,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -218,8 +218,8 @@
         "total_shows": 4,
         "seats": 792,
         "sold": 0,
-        "reserved": 1,
-        "available": 791,
+        "reserved": 0,
+        "available": 792,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -261,11 +261,11 @@
   {
     "movie_id": "2xzU5oXd3N5urfFfabDAKo",
     "movie_name": "Colony",
-    "total_shows": 10,
-    "seats": 1813,
+    "total_shows": 11,
+    "seats": 2078,
     "sold": 0,
     "reserved": 20,
-    "available": 1793,
+    "available": 2058,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -348,17 +348,27 @@
         "available": 196,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 1,
+        "seats": 265,
+        "sold": 0,
+        "reserved": 0,
+        "available": 265,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
     "movie_name": "I am Jit Bahadur",
-    "total_shows": 15,
-    "seats": 2899,
+    "total_shows": 16,
+    "seats": 3164,
     "sold": 20,
     "reserved": 20,
-    "available": 2859,
+    "available": 3124,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -469,6 +479,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 199,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 1,
+        "seats": 265,
+        "sold": 0,
+        "reserved": 0,
+        "available": 265,
         "housefull": 0,
         "fastfilling": 0
       }
