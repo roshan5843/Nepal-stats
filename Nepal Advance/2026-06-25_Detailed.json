@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "lastUpdated": "04:01 AM, 23 June 2026",
+  "lastUpdated": "07:33 AM, 23 June 2026",
   "shows": [
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -282,10 +282,10 @@
       "time": "",
       "seats": 212,
       "sold": 2,
-      "reserved": 11,
-      "available": 199,
-      "gross": 3625,
-      "occupancy_percent": 6.13
+      "reserved": 17,
+      "available": 193,
+      "gross": 5275,
+      "occupancy_percent": 8.96
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -356,11 +356,11 @@
       "date": "2026-06-25T12:00:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 519,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 517,
+      "gross": 700,
+      "occupancy_percent": 0.39
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -807,10 +807,10 @@
       "time": "",
       "seats": 198,
       "sold": 4,
-      "reserved": 17,
-      "available": 177,
-      "gross": 3675,
-      "occupancy_percent": 10.61
+      "reserved": 20,
+      "available": 174,
+      "gross": 4200,
+      "occupancy_percent": 12.12
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -836,8 +836,8 @@
       "date": "2026-06-25T11:30:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 2,
-      "reserved": 16,
+      "sold": 3,
+      "reserved": 15,
       "available": 192,
       "gross": 3150,
       "occupancy_percent": 8.57
@@ -876,16 +876,18 @@
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
       "movie_name": "OBSESSION",
       "show_id": "174112:qfx-labim",
-      "venue": "qfx-labim",
-      "theatre": "QFX Labim - AUDI 2",
-      "date": "2026-06-25T16:30:00+05:45",
-      "time": "",
-      "seats": 180,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-25",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 180,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -1512,10 +1514,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 10,
-      "available": 188,
-      "gross": 1750,
-      "occupancy_percent": 5.05
+      "reserved": 16,
+      "available": 182,
+      "gross": 2800,
+      "occupancy_percent": 8.08
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
