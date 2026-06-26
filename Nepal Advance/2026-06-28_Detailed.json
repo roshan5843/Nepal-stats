@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "lastUpdated": "10:27 PM, 26 June 2026",
+  "lastUpdated": "01:29 AM, 27 June 2026",
   "shows": [
     {
       "movie_id": "4pwUdEXKwQx4Uc5JMWsBAe",
@@ -12,10 +12,10 @@
       "time": "",
       "seats": 126,
       "sold": 0,
-      "reserved": 0,
-      "available": 126,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 125,
+      "gross": 500,
+      "occupancy_percent": 0.79
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -1001,11 +1001,11 @@
       "date": "2026-06-28T10:45:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 0,
+      "sold": 2,
       "reserved": 55,
-      "available": 224,
-      "gross": 13750,
-      "occupancy_percent": 19.71
+      "available": 222,
+      "gross": 14250,
+      "occupancy_percent": 20.43
     },
     {
       "movie_id": "4pwUdEXKwQx4Uc5JMWsBAe",
@@ -1076,11 +1076,11 @@
       "date": "2026-06-28T16:45:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 6,
+      "sold": 8,
       "reserved": 0,
-      "available": 174,
-      "gross": 3840,
-      "occupancy_percent": 3.33
+      "available": 172,
+      "gross": 5120,
+      "occupancy_percent": 4.44
     },
     {
       "movie_id": "4pwUdEXKwQx4Uc5JMWsBAe",
@@ -1316,11 +1316,11 @@
       "date": "2026-06-28T08:15:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 248,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 246,
+      "gross": 520,
+      "occupancy_percent": 0.81
     },
     {
       "movie_id": "4pwUdEXKwQx4Uc5JMWsBAe",
@@ -1451,11 +1451,11 @@
       "date": "2026-06-28T08:15:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 0,
+      "sold": 2,
       "reserved": 50,
-      "available": 299,
-      "gross": 10000,
-      "occupancy_percent": 14.33
+      "available": 297,
+      "gross": 10400,
+      "occupancy_percent": 14.9
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -1497,10 +1497,10 @@
       "time": "",
       "seats": 349,
       "sold": 0,
-      "reserved": 51,
-      "available": 298,
-      "gross": 22950,
-      "occupancy_percent": 14.61
+      "reserved": 50,
+      "available": 299,
+      "gross": 22500,
+      "occupancy_percent": 14.33
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -1661,11 +1661,11 @@
       "date": "2026-06-28T18:45:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 519,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 518,
+      "gross": 550,
+      "occupancy_percent": 0.19
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -1686,16 +1686,18 @@
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
       "movie_name": "Welcome to the Jungle",
       "show_id": "67452:ini-lotse-ktm",
-      "venue": "ini-lotse-ktm",
-      "theatre": "iNi Lotse Mall - Audi 1",
-      "date": "2026-06-28T19:45:00+05:45",
-      "time": "",
-      "seats": 240,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-28",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 240,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -1791,16 +1793,18 @@
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
       "movie_name": "Welcome to the Jungle",
       "show_id": "67450:ini-lotse-ktm",
-      "venue": "ini-lotse-ktm",
-      "theatre": "iNi Lotse Mall - Audi 1",
-      "date": "2026-06-28T13:00:00+05:45",
-      "time": "",
-      "seats": 240,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-28",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 240,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -2231,11 +2235,11 @@
       "date": "2026-06-28T08:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 2,
+      "sold": 5,
       "reserved": 0,
-      "available": 245,
-      "gross": 520,
-      "occupancy_percent": 0.81
+      "available": 242,
+      "gross": 1300,
+      "occupancy_percent": 2.02
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -2727,10 +2731,10 @@
       "time": "",
       "seats": 207,
       "sold": 0,
-      "reserved": 1,
-      "available": 206,
-      "gross": 220,
-      "occupancy_percent": 0.48
+      "reserved": 0,
+      "available": 207,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -2876,11 +2880,11 @@
       "date": "2026-06-28T14:15:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 2,
+      "sold": 7,
       "reserved": 0,
-      "available": 181,
-      "gross": 960,
-      "occupancy_percent": 1.09
+      "available": 176,
+      "gross": 3360,
+      "occupancy_percent": 3.83
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -3462,10 +3466,10 @@
       "time": "",
       "seats": 112,
       "sold": 4,
-      "reserved": 3,
-      "available": 105,
-      "gross": 3920,
-      "occupancy_percent": 6.25
+      "reserved": 0,
+      "available": 108,
+      "gross": 2240,
+      "occupancy_percent": 3.57
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3854,6 +3858,171 @@
       "sold": 0,
       "reserved": 0,
       "available": 101,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "174725:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 03",
+      "date": "2026-06-28T16:45:00+05:45",
+      "time": "",
+      "seats": 139,
+      "sold": 0,
+      "reserved": 0,
+      "available": 139,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "174714:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 2",
+      "date": "2026-06-28T12:00:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "4pwUdEXKwQx4Uc5JMWsBAe",
+      "movie_name": "Supergirl",
+      "show_id": "174717:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 2",
+      "date": "2026-06-28T18:00:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
+      "movie_name": "Welcome to the Jungle",
+      "show_id": "174715:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 1",
+      "date": "2026-06-28T12:30:00+05:45",
+      "time": "",
+      "seats": 177,
+      "sold": 0,
+      "reserved": 0,
+      "available": 177,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
+      "movie_name": "Welcome to the Jungle",
+      "show_id": "174719:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 1",
+      "date": "2026-06-28T19:30:00+05:45",
+      "time": "",
+      "seats": 177,
+      "sold": 0,
+      "reserved": 0,
+      "available": 177,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
+      "movie_name": "Welcome to the Jungle",
+      "show_id": "174716:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 1",
+      "date": "2026-06-28T16:00:00+05:45",
+      "time": "",
+      "seats": 177,
+      "sold": 0,
+      "reserved": 0,
+      "available": 177,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
+      "movie_name": "I am Jit Bahadur",
+      "show_id": "174722:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 03",
+      "date": "2026-06-28T20:00:00+05:45",
+      "time": "",
+      "seats": 139,
+      "sold": 0,
+      "reserved": 0,
+      "available": 139,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
+      "movie_name": "OBSESSION",
+      "show_id": "174727:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 2",
+      "date": "2026-06-28T20:30:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
+      "movie_name": "OBSESSION",
+      "show_id": "174718:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 2",
+      "date": "2026-06-28T15:15:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 0,
+      "reserved": 0,
+      "available": 165,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "2xzU5oXd3N5urfFfabDAKo",
+      "movie_name": "Colony",
+      "show_id": "174724:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 03",
+      "date": "2026-06-28T14:00:00+05:45",
+      "time": "",
+      "seats": 139,
+      "sold": 0,
+      "reserved": 0,
+      "available": 139,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "174721:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 03",
+      "date": "2026-06-28T11:00:00+05:45",
+      "time": "",
+      "seats": 139,
+      "sold": 0,
+      "reserved": 0,
+      "available": 139,
       "gross": 0,
       "occupancy_percent": 0.0
     }
