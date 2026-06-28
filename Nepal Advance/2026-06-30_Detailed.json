@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "lastUpdated": "04:28 PM, 28 June 2026",
+  "lastUpdated": "06:42 PM, 28 June 2026",
   "shows": [
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -402,10 +402,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 29,
-      "available": 183,
-      "gross": 10035,
-      "occupancy_percent": 13.68
+      "reserved": 31,
+      "available": 181,
+      "gross": 10715,
+      "occupancy_percent": 14.62
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -477,10 +477,10 @@
       "time": "",
       "seats": 212,
       "sold": 5,
-      "reserved": 16,
-      "available": 191,
-      "gross": 7280,
-      "occupancy_percent": 9.91
+      "reserved": 17,
+      "available": 190,
+      "gross": 7620,
+      "occupancy_percent": 10.38
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -731,11 +731,11 @@
       "date": "2026-06-30T20:00:00+05:45",
       "time": "",
       "seats": 139,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 139,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 137,
+      "gross": 500,
+      "occupancy_percent": 1.44
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -911,11 +911,11 @@
       "date": "2026-06-30T17:00:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 0,
+      "sold": 2,
       "reserved": 15,
-      "available": 183,
-      "gross": 3600,
-      "occupancy_percent": 7.58
+      "available": 181,
+      "gross": 4080,
+      "occupancy_percent": 8.59
     },
     {
       "movie_id": "2xzU5oXd3N5urfFfabDAKo",
@@ -956,11 +956,11 @@
       "date": "2026-06-30T18:15:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 257,
-      "gross": 500,
-      "occupancy_percent": 0.77
+      "available": 255,
+      "gross": 1000,
+      "occupancy_percent": 1.54
     },
     {
       "movie_id": "jnNDFUXs4UZv2W2oF2CWVj",
@@ -1137,10 +1137,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 1,
-      "available": 197,
-      "gross": 250,
-      "occupancy_percent": 0.51
+      "reserved": 0,
+      "available": 198,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -1776,16 +1776,18 @@
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
       "movie_name": "Cocktail 2",
       "show_id": "67552:ini-bhairahawa-bhatbhateni",
-      "venue": "ini-bhairahawa-bhatbhateni",
-      "theatre": "iNi Bhairahawa Bhatbhateni - Audi - 1 ( DTS:X )",
-      "date": "2026-06-30T13:30:00+05:45",
-      "time": "",
-      "seats": 198,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-30",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 198,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -1857,10 +1859,10 @@
       "time": "",
       "seats": 126,
       "sold": 0,
-      "reserved": 1,
-      "available": 125,
-      "gross": 300,
-      "occupancy_percent": 0.79
+      "reserved": 0,
+      "available": 126,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -2051,11 +2053,11 @@
       "date": "2026-06-30T21:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
+      "sold": 9,
       "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 208,
+      "gross": 1800,
+      "occupancy_percent": 4.15
     },
     {
       "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
