@@ -2,11 +2,11 @@
   {
     "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
     "movie_name": "Cocktail 2",
-    "total_shows": 41,
-    "seats": 7034,
-    "sold": 34,
-    "reserved": 39,
-    "available": 6961,
+    "total_shows": 43,
+    "seats": 7273,
+    "sold": 40,
+    "reserved": 42,
+    "available": 7191,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -14,9 +14,9 @@
         "venue": "fcube",
         "total_shows": 3,
         "seats": 630,
-        "sold": 2,
-        "reserved": 39,
-        "available": 589,
+        "sold": 4,
+        "reserved": 42,
+        "available": 584,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -34,9 +34,9 @@
         "venue": "qfx-labim",
         "total_shows": 2,
         "seats": 362,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 362,
+        "available": 360,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -122,11 +122,21 @@
       },
       {
         "venue": "bishwojyoti-cineplex",
-        "total_shows": 2,
-        "seats": 178,
+        "total_shows": 1,
+        "seats": 89,
+        "sold": 2,
+        "reserved": 0,
+        "available": 87,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 178,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -229,17 +239,37 @@
         "available": 268,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pathivara-cine-plaza",
+        "total_shows": 1,
+        "seats": 268,
+        "sold": 0,
+        "reserved": 0,
+        "available": 268,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "4pwUdEXKwQx4Uc5JMWsBAe",
     "movie_name": "Supergirl",
-    "total_shows": 23,
-    "seats": 3829,
-    "sold": 45,
+    "total_shows": 25,
+    "seats": 4058,
+    "sold": 47,
     "reserved": 19,
-    "available": 3765,
+    "available": 3992,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -267,9 +297,9 @@
         "venue": "qfx-labim",
         "total_shows": 2,
         "seats": 360,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 360,
+        "available": 358,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -402,17 +432,27 @@
         "available": 366,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 2,
+        "seats": 229,
+        "sold": 0,
+        "reserved": 0,
+        "available": 229,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
     "movie_name": "Welcome to the Jungle",
-    "total_shows": 73,
-    "seats": 14720,
-    "sold": 143,
-    "reserved": 94,
-    "available": 14483,
+    "total_shows": 83,
+    "seats": 16302,
+    "sold": 155,
+    "reserved": 96,
+    "available": 16051,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -420,9 +460,9 @@
         "venue": "fcube",
         "total_shows": 4,
         "seats": 848,
-        "sold": 5,
-        "reserved": 94,
-        "available": 749,
+        "sold": 8,
+        "reserved": 96,
+        "available": 744,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -450,9 +490,9 @@
         "venue": "qfx-civil",
         "total_shows": 4,
         "seats": 1816,
-        "sold": 5,
+        "sold": 8,
         "reserved": 0,
-        "available": 1811,
+        "available": 1808,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -460,9 +500,9 @@
         "venue": "qfx-square-mall",
         "total_shows": 3,
         "seats": 531,
-        "sold": 0,
+        "sold": 4,
         "reserved": 0,
-        "available": 531,
+        "available": 527,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -510,9 +550,9 @@
         "venue": "ini-cinemas-nb-center",
         "total_shows": 3,
         "seats": 597,
-        "sold": 5,
+        "sold": 7,
         "reserved": 0,
-        "available": 592,
+        "available": 590,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -635,6 +675,26 @@
         "available": 402,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "pathivara-cine-plaza",
+        "total_shows": 3,
+        "seats": 726,
+        "sold": 0,
+        "reserved": 0,
+        "available": 726,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 7,
+        "seats": 856,
+        "sold": 0,
+        "reserved": 0,
+        "available": 856,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -724,11 +784,11 @@
   {
     "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
     "movie_name": "OBSESSION",
-    "total_shows": 16,
-    "seats": 3094,
-    "sold": 35,
+    "total_shows": 17,
+    "seats": 2944,
+    "sold": 41,
     "reserved": 20,
-    "available": 3039,
+    "available": 2883,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -746,9 +806,9 @@
         "venue": "fcube",
         "total_shows": 1,
         "seats": 198,
-        "sold": 0,
+        "sold": 2,
         "reserved": 20,
-        "available": 178,
+        "available": 176,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -776,9 +836,9 @@
         "venue": "qs-cinemas",
         "total_shows": 2,
         "seats": 311,
-        "sold": 0,
+        "sold": 4,
         "reserved": 0,
-        "available": 311,
+        "available": 307,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -813,12 +873,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-cinemas-nb-center",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 210,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 210,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -839,6 +899,16 @@
         "sold": 16,
         "reserved": 0,
         "available": 269,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -903,8 +973,8 @@
     "total_shows": 7,
     "seats": 1178,
     "sold": 16,
-    "reserved": 15,
-    "available": 1147,
+    "reserved": 17,
+    "available": 1145,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -913,8 +983,8 @@
         "total_shows": 1,
         "seats": 198,
         "sold": 12,
-        "reserved": 15,
-        "available": 171,
+        "reserved": 17,
+        "available": 169,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1016,11 +1086,11 @@
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 2,
-    "seats": 346,
+    "total_shows": 3,
+    "seats": 515,
     "sold": 0,
     "reserved": 0,
-    "available": 346,
+    "available": 515,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1041,6 +1111,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 207,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 0,
+        "available": 169,
         "housefull": 0,
         "fastfilling": 0
       }
