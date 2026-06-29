@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "lastUpdated": "10:59 PM, 29 June 2026",
+  "lastUpdated": "03:11 AM, 30 June 2026",
   "shows": [
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -12,10 +12,10 @@
       "time": "",
       "seats": 210,
       "sold": 9,
-      "reserved": 10,
-      "available": 191,
-      "gross": 4560,
-      "occupancy_percent": 9.05
+      "reserved": 11,
+      "available": 190,
+      "gross": 4800,
+      "occupancy_percent": 9.52
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -222,10 +222,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 28,
-      "available": 184,
-      "gross": 9695,
-      "occupancy_percent": 13.21
+      "reserved": 26,
+      "available": 186,
+      "gross": 9015,
+      "occupancy_percent": 12.26
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -237,10 +237,10 @@
       "time": "",
       "seats": 210,
       "sold": 5,
-      "reserved": 23,
-      "available": 182,
-      "gross": 6720,
-      "occupancy_percent": 13.33
+      "reserved": 27,
+      "available": 178,
+      "gross": 7680,
+      "occupancy_percent": 15.24
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -597,10 +597,10 @@
       "time": "",
       "seats": 349,
       "sold": 13,
-      "reserved": 52,
-      "available": 284,
-      "gross": 13000,
-      "occupancy_percent": 18.62
+      "reserved": 50,
+      "available": 286,
+      "gross": 12600,
+      "occupancy_percent": 18.05
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -612,10 +612,10 @@
       "time": "",
       "seats": 349,
       "sold": 6,
-      "reserved": 52,
-      "available": 291,
-      "gross": 11600,
-      "occupancy_percent": 16.62
+      "reserved": 50,
+      "available": 293,
+      "gross": 11200,
+      "occupancy_percent": 16.05
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -642,10 +642,10 @@
       "time": "",
       "seats": 349,
       "sold": 0,
-      "reserved": 52,
-      "available": 297,
-      "gross": 10400,
-      "occupancy_percent": 14.9
+      "reserved": 50,
+      "available": 299,
+      "gross": 10000,
+      "occupancy_percent": 14.33
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -746,8 +746,8 @@
       "date": "2026-07-01T18:45:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 4,
-      "reserved": 5,
+      "sold": 9,
+      "reserved": 0,
       "available": 510,
       "gross": 2950,
       "occupancy_percent": 1.73
@@ -1106,11 +1106,11 @@
       "date": "2026-07-01T20:15:00+05:45",
       "time": "",
       "seats": 270,
-      "sold": 0,
+      "sold": 2,
       "reserved": 50,
-      "available": 220,
-      "gross": 10000,
-      "occupancy_percent": 18.52
+      "available": 218,
+      "gross": 10400,
+      "occupancy_percent": 19.26
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -1287,10 +1287,10 @@
       "time": "",
       "seats": 270,
       "sold": 0,
-      "reserved": 53,
-      "available": 217,
-      "gross": 26500,
-      "occupancy_percent": 19.63
+      "reserved": 50,
+      "available": 220,
+      "gross": 25000,
+      "occupancy_percent": 18.52
     },
     {
       "movie_id": "RaQGMX24uSiXsJSVgBYrqK",
@@ -1721,11 +1721,11 @@
       "date": "2026-07-01T18:00:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 3,
+      "sold": 5,
       "reserved": 0,
-      "available": 135,
-      "gross": 1080,
-      "occupancy_percent": 2.17
+      "available": 133,
+      "gross": 1800,
+      "occupancy_percent": 3.62
     },
     {
       "movie_id": "RaQGMX24uSiXsJSVgBYrqK",
@@ -1736,11 +1736,11 @@
       "date": "2026-07-01T17:15:00+05:45",
       "time": "",
       "seats": 231,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 231,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 230,
+      "gross": 390,
+      "occupancy_percent": 0.43
     },
     {
       "movie_id": "RaQGMX24uSiXsJSVgBYrqK",
@@ -2901,18 +2901,16 @@
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
       "movie_name": "Cocktail 2",
       "show_id": "4528:kirtipur-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-01",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-2",
+      "date": "2026-07-01T19:30:00+05:45",
+      "time": "",
+      "seats": 101,
+      "sold": 4,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 97,
+      "gross": 700,
+      "occupancy_percent": 3.96
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3736,6 +3734,66 @@
       "sold": 0,
       "reserved": 0,
       "available": 183,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
+      "movie_name": "Welcome to the Jungle",
+      "show_id": "2437:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-A",
+      "date": "2026-07-01T14:45:00+05:45",
+      "time": "",
+      "seats": 268,
+      "sold": 3,
+      "reserved": 0,
+      "available": 265,
+      "gross": 840,
+      "occupancy_percent": 1.12
+    },
+    {
+      "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
+      "movie_name": "Welcome to the Jungle",
+      "show_id": "2439:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-B",
+      "date": "2026-07-01T19:00:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
+      "movie_name": "Welcome to the Jungle",
+      "show_id": "2436:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-A",
+      "date": "2026-07-01T11:30:00+05:45",
+      "time": "",
+      "seats": 268,
+      "sold": 4,
+      "reserved": 0,
+      "available": 264,
+      "gross": 1120,
+      "occupancy_percent": 1.49
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "2438:pathivara-cine-plaza",
+      "venue": "pathivara-cine-plaza",
+      "theatre": "Pathivara Cineplaza - Birtamode - Hall-A",
+      "date": "2026-07-01T18:45:00+05:45",
+      "time": "",
+      "seats": 268,
+      "sold": 0,
+      "reserved": 0,
+      "available": 268,
       "gross": 0,
       "occupancy_percent": 0.0
     }
