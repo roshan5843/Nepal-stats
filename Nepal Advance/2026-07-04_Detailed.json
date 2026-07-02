@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "lastUpdated": "02:46 AM, 03 July 2026",
+  "lastUpdated": "04:45 AM, 03 July 2026",
   "shows": [
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -147,10 +147,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 10,
-      "available": 200,
-      "gross": 4800,
-      "occupancy_percent": 4.76
+      "reserved": 11,
+      "available": 199,
+      "gross": 5280,
+      "occupancy_percent": 5.24
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -2322,10 +2322,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 2,
-      "available": 194,
-      "gross": 660,
-      "occupancy_percent": 1.02
+      "reserved": 0,
+      "available": 196,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "5dQ3HuQDoeHtCbLKrNVxZ9",
@@ -2616,16 +2616,18 @@
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
       "movie_name": "Alpha",
       "show_id": "67772:ini-bhairahawa-bhatbhateni",
-      "venue": "ini-bhairahawa-bhatbhateni",
-      "theatre": "iNi Bhairahawa Bhatbhateni - Audi - 1 ( DTS:X )",
-      "date": "2026-07-04T14:15:00+05:45",
-      "time": "",
-      "seats": 198,
-      "sold": 4,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-04",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 194,
-      "gross": 1600,
-      "occupancy_percent": 2.02
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -2772,10 +2774,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 12,
-      "available": 200,
-      "gross": 6960,
-      "occupancy_percent": 5.66
+      "reserved": 14,
+      "available": 198,
+      "gross": 8120,
+      "occupancy_percent": 6.6
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3132,10 +3134,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 21,
-      "available": 189,
-      "gross": 11130,
-      "occupancy_percent": 10.0
+      "reserved": 23,
+      "available": 187,
+      "gross": 12190,
+      "occupancy_percent": 10.95
     },
     {
       "movie_id": "RaQGMX24uSiXsJSVgBYrqK",
