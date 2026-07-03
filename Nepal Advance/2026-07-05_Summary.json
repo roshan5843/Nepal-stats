@@ -459,10 +459,10 @@
     "movie_id": "yakpqPfo6j8XEooh9ndzy8",
     "movie_name": "Alpha",
     "total_shows": 80,
-    "seats": 17334,
+    "seats": 16844,
     "sold": 38,
-    "reserved": 30,
-    "available": 17266,
+    "reserved": 34,
+    "available": 16772,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -481,8 +481,8 @@
         "total_shows": 5,
         "seats": 909,
         "sold": 2,
-        "reserved": 0,
-        "available": 907,
+        "reserved": 4,
+        "available": 903,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -567,12 +567,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-cinemas-devchuli",
+        "venue": "Unknown",
         "total_shows": 2,
-        "seats": 584,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 584,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -587,12 +587,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-bhairahawa-bhatbhateni",
-        "total_shows": 5,
-        "seats": 990,
+        "venue": "ini-cinemas-devchuli",
+        "total_shows": 1,
+        "seats": 292,
         "sold": 0,
         "reserved": 0,
-        "available": 990,
+        "available": 292,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-bhairahawa-bhatbhateni",
+        "total_shows": 4,
+        "seats": 792,
+        "sold": 0,
+        "reserved": 0,
+        "available": 792,
         "housefull": 0,
         "fastfilling": 0
       },
