@@ -5,8 +5,8 @@
     "total_shows": 65,
     "seats": 11648,
     "sold": 301,
-    "reserved": 281,
-    "available": 11066,
+    "reserved": 283,
+    "available": 11064,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -125,8 +125,8 @@
         "total_shows": 2,
         "seats": 392,
         "sold": 8,
-        "reserved": 0,
-        "available": 384,
+        "reserved": 2,
+        "available": 382,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -692,10 +692,10 @@
     "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
     "movie_name": "Welcome to the Jungle",
     "total_shows": 37,
-    "seats": 6660,
+    "seats": 6491,
     "sold": 55,
-    "reserved": 159,
-    "available": 6446,
+    "reserved": 126,
+    "available": 6310,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -801,7 +801,7 @@
       },
       {
         "venue": "Unknown",
-        "total_shows": 2,
+        "total_shows": 3,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -956,16 +956,6 @@
         "sold": 0,
         "reserved": 0,
         "available": 154,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "cdc-cinemas",
-        "total_shows": 1,
-        "seats": 169,
-        "sold": 0,
-        "reserved": 33,
-        "available": 136,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1457,10 +1447,10 @@
     "movie_id": "fWv8Bfws6tPzPFLFgTK2yW",
     "movie_name": "Baghdaudh",
     "total_shows": 10,
-    "seats": 1470,
+    "seats": 1410,
     "sold": 10,
-    "reserved": 80,
-    "available": 1380,
+    "reserved": 73,
+    "available": 1327,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1555,12 +1545,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "cdc-cinemas",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 60,
+        "seats": 0,
         "sold": 0,
-        "reserved": 7,
-        "available": 53,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1633,10 +1623,10 @@
     "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
     "movie_name": "Dhamaal 4",
     "total_shows": 129,
-    "seats": 27660,
-    "sold": 415,
-    "reserved": 589,
-    "available": 26656,
+    "seats": 25882,
+    "sold": 400,
+    "reserved": 495,
+    "available": 24987,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1901,12 +1891,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "cineroyale",
-        "total_shows": 6,
-        "seats": 1211,
-        "sold": 12,
+        "venue": "Unknown",
+        "total_shows": 10,
+        "seats": 0,
+        "sold": 0,
         "reserved": 0,
-        "available": 1199,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1921,22 +1911,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "cdc-cinemas",
-        "total_shows": 5,
-        "seats": 736,
-        "sold": 3,
-        "reserved": 127,
-        "available": 606,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "pathivara-cine-plaza",
         "total_shows": 4,
         "seats": 916,
         "sold": 0,
         "reserved": 0,
         "available": 916,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 33,
+        "available": 136,
         "housefull": 0,
         "fastfilling": 0
       }
