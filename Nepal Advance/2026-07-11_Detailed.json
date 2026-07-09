@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "lastUpdated": "01:33 AM, 10 July 2026",
+  "lastUpdated": "03:12 AM, 10 July 2026",
   "shows": [
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -71,11 +71,11 @@
       "date": "2026-07-11T07:45:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 126,
+      "sold": 129,
       "reserved": 0,
-      "available": 54,
-      "gross": 35280,
-      "occupancy_percent": 70.0
+      "available": 51,
+      "gross": 36120,
+      "occupancy_percent": 71.67
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -2631,16 +2631,18 @@
       "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
       "movie_name": "Moana",
       "show_id": "16292:cineroyale",
-      "venue": "cineroyale",
-      "theatre": "Cineroyale - Audi 3",
-      "date": "2026-07-11T17:45:00+05:45",
-      "time": "",
-      "seats": 126,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-11",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 126,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
@@ -4332,10 +4334,10 @@
       "time": "",
       "seats": 117,
       "sold": 60,
-      "reserved": 2,
-      "available": 55,
-      "gross": 9800,
-      "occupancy_percent": 52.99
+      "reserved": 0,
+      "available": 57,
+      "gross": 9500,
+      "occupancy_percent": 51.28
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
