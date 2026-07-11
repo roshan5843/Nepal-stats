@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "lastUpdated": "06:21 PM, 11 July 2026",
+  "lastUpdated": "09:14 PM, 11 July 2026",
   "shows": [
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -476,11 +476,11 @@
       "date": "2026-07-13T15:15:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 259,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 255,
+      "gross": 1400,
+      "occupancy_percent": 1.54
     },
     {
       "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
@@ -942,10 +942,10 @@
       "time": "",
       "seats": 67,
       "sold": 6,
-      "reserved": 2,
-      "available": 59,
-      "gross": 3000,
-      "occupancy_percent": 11.94
+      "reserved": 0,
+      "available": 61,
+      "gross": 2400,
+      "occupancy_percent": 8.96
     },
     {
       "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
@@ -1151,11 +1151,11 @@
       "date": "2026-07-13T15:30:00+05:45",
       "time": "",
       "seats": 134,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 134,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 132,
+      "gross": 500,
+      "occupancy_percent": 1.49
     },
     {
       "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
@@ -1227,10 +1227,10 @@
       "time": "",
       "seats": 203,
       "sold": 17,
-      "reserved": 0,
-      "available": 186,
-      "gross": 5950,
-      "occupancy_percent": 8.37
+      "reserved": 1,
+      "available": 185,
+      "gross": 6300,
+      "occupancy_percent": 8.87
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -1376,11 +1376,11 @@
       "date": "2026-07-13T20:00:00+05:45",
       "time": "",
       "seats": 151,
-      "sold": 14,
+      "sold": 18,
       "reserved": 0,
-      "available": 137,
-      "gross": 2800,
-      "occupancy_percent": 9.27
+      "available": 133,
+      "gross": 3600,
+      "occupancy_percent": 11.92
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -1857,10 +1857,10 @@
       "time": "",
       "seats": 203,
       "sold": 17,
-      "reserved": 1,
-      "available": 185,
-      "gross": 6300,
-      "occupancy_percent": 8.87
+      "reserved": 0,
+      "available": 186,
+      "gross": 5950,
+      "occupancy_percent": 8.37
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -1976,11 +1976,11 @@
       "date": "2026-07-13T14:15:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 182,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 180,
+      "gross": 1100,
+      "occupancy_percent": 1.1
     },
     {
       "movie_id": "RaQGMX24uSiXsJSVgBYrqK",
@@ -2039,6 +2039,156 @@
       "sold": 0,
       "reserved": 0,
       "available": 129,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "yakpqPfo6j8XEooh9ndzy8",
+      "movie_name": "Alpha",
+      "show_id": "16316:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 2",
+      "date": "2026-07-13T15:30:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 0,
+      "reserved": 0,
+      "available": 217,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
+      "movie_name": "Evil Dead Burn",
+      "show_id": "16320:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 3",
+      "date": "2026-07-13T19:30:00+05:45",
+      "time": "",
+      "seats": 126,
+      "sold": 0,
+      "reserved": 0,
+      "available": 126,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+      "movie_name": "Dhamaal 4",
+      "show_id": "16314:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 1",
+      "date": "2026-07-13T20:30:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 0,
+      "reserved": 0,
+      "available": 217,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+      "movie_name": "Dhamaal 4",
+      "show_id": "16313:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 1",
+      "date": "2026-07-13T17:45:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 0,
+      "reserved": 0,
+      "available": 217,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+      "movie_name": "Dhamaal 4",
+      "show_id": "16317:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 2",
+      "date": "2026-07-13T19:00:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 0,
+      "reserved": 0,
+      "available": 217,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+      "movie_name": "Dhamaal 4",
+      "show_id": "16312:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 1",
+      "date": "2026-07-13T15:00:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 0,
+      "reserved": 0,
+      "available": 217,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+      "movie_name": "Dhamaal 4",
+      "show_id": "16311:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 1",
+      "date": "2026-07-13T12:00:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 0,
+      "reserved": 0,
+      "available": 217,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "UmvcdW6TPxabGYNL2jgMye",
+      "movie_name": "Nagabandham - The Secret Treasure",
+      "show_id": "16319:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 3",
+      "date": "2026-07-13T15:15:00+05:45",
+      "time": "",
+      "seats": 126,
+      "sold": 0,
+      "reserved": 0,
+      "available": 126,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
+      "movie_name": "Welcome to the Jungle",
+      "show_id": "16315:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 2",
+      "date": "2026-07-13T12:15:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 0,
+      "reserved": 0,
+      "available": 217,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "16318:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 3",
+      "date": "2026-07-13T12:30:00+05:45",
+      "time": "",
+      "seats": 126,
+      "sold": 0,
+      "reserved": 0,
+      "available": 126,
       "gross": 0,
       "occupancy_percent": 0.0
     }
