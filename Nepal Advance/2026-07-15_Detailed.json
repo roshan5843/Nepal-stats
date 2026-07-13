@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "lastUpdated": "02:33 AM, 14 July 2026",
+  "lastUpdated": "04:31 AM, 14 July 2026",
   "shows": [
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -171,18 +171,16 @@
       "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
       "movie_name": "Evil Dead Burn",
       "show_id": "68365:bishwojyoti-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-15",
-      "time": null,
-      "seats": 0,
+      "venue": "bishwojyoti-cineplex",
+      "theatre": "iNi Bishwojyoti Mall - Audi 2",
+      "date": "2026-07-15T17:15:00+05:45",
+      "time": "",
+      "seats": 89,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 89,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
@@ -1327,7 +1325,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
