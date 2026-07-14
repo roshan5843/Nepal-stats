@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "lastUpdated": "04:31 AM, 14 July 2026",
+  "lastUpdated": "08:22 AM, 14 July 2026",
   "shows": [
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -491,11 +491,11 @@
       "date": "2026-07-15T14:00:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 182,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 180,
+      "gross": 500,
+      "occupancy_percent": 1.1
     },
     {
       "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
@@ -762,10 +762,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 10,
-      "available": 202,
-      "gross": 3400,
-      "occupancy_percent": 4.72
+      "reserved": 12,
+      "available": 200,
+      "gross": 4080,
+      "occupancy_percent": 5.66
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -1291,7 +1291,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -1308,7 +1308,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -1342,7 +1342,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -1474,11 +1474,11 @@
       "date": "2026-07-15T12:00:00+05:45",
       "time": "",
       "seats": 126,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 126,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 125,
+      "gross": 200,
+      "occupancy_percent": 0.79
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -1505,10 +1505,10 @@
       "time": "",
       "seats": 164,
       "sold": 4,
-      "reserved": 6,
-      "available": 154,
-      "gross": 1750,
-      "occupancy_percent": 6.1
+      "reserved": 8,
+      "available": 152,
+      "gross": 2100,
+      "occupancy_percent": 7.32
     },
     {
       "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
@@ -1775,10 +1775,10 @@
       "time": "",
       "seats": 176,
       "sold": 0,
-      "reserved": 0,
-      "available": 176,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 174,
+      "gross": 400,
+      "occupancy_percent": 1.14
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -2179,11 +2179,11 @@
       "date": "2026-07-15T10:45:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 0,
+      "sold": 1,
       "reserved": 47,
-      "available": 232,
-      "gross": 11750,
-      "occupancy_percent": 16.85
+      "available": 231,
+      "gross": 12000,
+      "occupancy_percent": 17.2
     },
     {
       "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
@@ -2254,11 +2254,11 @@
       "date": "2026-07-15T13:00:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 4,
+      "sold": 5,
       "reserved": 42,
-      "available": 233,
-      "gross": 9200,
-      "occupancy_percent": 16.49
+      "available": 232,
+      "gross": 9400,
+      "occupancy_percent": 16.85
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -2284,11 +2284,11 @@
       "date": "2026-07-15T20:15:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 8,
+      "sold": 10,
       "reserved": 50,
-      "available": 291,
-      "gross": 11600,
-      "occupancy_percent": 16.62
+      "available": 289,
+      "gross": 12000,
+      "occupancy_percent": 17.19
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -2464,11 +2464,11 @@
       "date": "2026-07-15T12:30:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 0,
+      "sold": 2,
       "reserved": 18,
-      "available": 230,
-      "gross": 4500,
-      "occupancy_percent": 7.26
+      "available": 228,
+      "gross": 5000,
+      "occupancy_percent": 8.06
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -2524,11 +2524,11 @@
       "date": "2026-07-15T14:15:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 10,
+      "sold": 12,
       "reserved": 18,
-      "available": 219,
-      "gross": 8200,
-      "occupancy_percent": 11.34
+      "available": 217,
+      "gross": 8700,
+      "occupancy_percent": 12.15
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -3124,11 +3124,11 @@
       "date": "2026-07-15T15:30:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 519,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 517,
+      "gross": 500,
+      "occupancy_percent": 0.39
     },
     {
       "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
@@ -3514,11 +3514,11 @@
       "date": "2026-07-15T18:00:00+05:45",
       "time": "",
       "seats": 132,
-      "sold": 8,
+      "sold": 13,
       "reserved": 0,
-      "available": 124,
-      "gross": 1440,
-      "occupancy_percent": 6.06
+      "available": 119,
+      "gross": 2340,
+      "occupancy_percent": 9.85
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -3530,10 +3530,10 @@
       "time": "",
       "seats": 133,
       "sold": 0,
-      "reserved": 0,
-      "available": 133,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 5,
+      "available": 128,
+      "gross": 1300,
+      "occupancy_percent": 3.76
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -3560,10 +3560,10 @@
       "time": "",
       "seats": 133,
       "sold": 4,
-      "reserved": 0,
-      "available": 129,
-      "gross": 1040,
-      "occupancy_percent": 3.01
+      "reserved": 5,
+      "available": 124,
+      "gross": 2340,
+      "occupancy_percent": 6.77
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -3680,10 +3680,10 @@
       "time": "",
       "seats": 137,
       "sold": 0,
-      "reserved": 0,
-      "available": 137,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 3,
+      "available": 134,
+      "gross": 525,
+      "occupancy_percent": 2.19
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -3800,10 +3800,10 @@
       "time": "",
       "seats": 190,
       "sold": 12,
-      "reserved": 0,
-      "available": 178,
-      "gross": 1680,
-      "occupancy_percent": 6.32
+      "reserved": 4,
+      "available": 174,
+      "gross": 2225,
+      "occupancy_percent": 8.42
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
