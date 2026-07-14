@@ -2,11 +2,11 @@
   {
     "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
     "movie_name": "Evil Dead Burn",
-    "total_shows": 1,
-    "seats": 270,
-    "sold": 9,
-    "reserved": 0,
-    "available": 261,
+    "total_shows": 2,
+    "seats": 484,
+    "sold": 15,
+    "reserved": 3,
+    "available": 466,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -15,8 +15,18 @@
         "total_shows": 1,
         "seats": 270,
         "sold": 9,
+        "reserved": 3,
+        "available": 258,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 6,
         "reserved": 0,
-        "available": 261,
+        "available": 208,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -25,11 +35,11 @@
   {
     "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
     "movie_name": "Dhamaal 4",
-    "total_shows": 1,
-    "seats": 349,
-    "sold": 12,
+    "total_shows": 2,
+    "seats": 557,
+    "sold": 19,
     "reserved": 0,
-    "available": 337,
+    "available": 538,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -40,6 +50,85 @@
         "sold": 12,
         "reserved": 0,
         "available": 337,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 208,
+        "sold": 7,
+        "reserved": 0,
+        "available": 201,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "yakpqPfo6j8XEooh9ndzy8",
+    "movie_name": "Alpha",
+    "total_shows": 1,
+    "seats": 279,
+    "sold": 4,
+    "reserved": 0,
+    "available": 275,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 4,
+        "reserved": 0,
+        "available": 275,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "fWv8Bfws6tPzPFLFgTK2yW",
+    "movie_name": "Baghdaudh",
+    "total_shows": 1,
+    "seats": 75,
+    "sold": 0,
+    "reserved": 0,
+    "available": 75,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "kamal-binayak-cinemas",
+        "total_shows": 1,
+        "seats": 75,
+        "sold": 0,
+        "reserved": 0,
+        "available": 75,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+    "movie_name": "Roll No 1",
+    "total_shows": 1,
+    "seats": 190,
+    "sold": 0,
+    "reserved": 0,
+    "available": 190,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 0,
+        "reserved": 0,
+        "available": 190,
         "housefull": 0,
         "fastfilling": 0
       }
