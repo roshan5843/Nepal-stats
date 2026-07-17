@@ -21,5 +21,61 @@
         "fastfilling": 0
       }
     ]
+  },
+  {
+    "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+    "movie_name": "Dhamaal 4",
+    "total_shows": 1,
+    "seats": 180,
+    "sold": 109,
+    "reserved": 0,
+    "available": 71,
+    "housefull": 0,
+    "fastfilling": 1,
+    "venues": [
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 109,
+        "reserved": 0,
+        "available": 71,
+        "housefull": 0,
+        "fastfilling": 1
+      }
+    ]
+  },
+  {
+    "movie_id": "DybU857d77sjBuHiWzheJm",
+    "movie_name": "The Odyssey",
+    "total_shows": 2,
+    "seats": 347,
+    "sold": 232,
+    "reserved": 0,
+    "available": 115,
+    "housefull": 0,
+    "fastfilling": 2,
+    "venues": [
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 165,
+        "sold": 105,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 127,
+        "reserved": 0,
+        "available": 55,
+        "housefull": 0,
+        "fastfilling": 1
+      }
+    ]
   }
 ]
