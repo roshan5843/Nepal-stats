@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "lastUpdated": "04:29 AM, 19 July 2026",
+  "lastUpdated": "08:54 AM, 19 July 2026",
   "shows": [
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -193,16 +193,18 @@
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
       "movie_name": "Dhamaal 4",
       "show_id": "178266:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 03",
-      "date": "2026-07-20T17:30:00+05:45",
-      "time": "",
-      "seats": 139,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-20",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 139,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
