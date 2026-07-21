@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "lastUpdated": "05:42 PM, 21 July 2026",
+  "lastUpdated": "08:18 PM, 21 July 2026",
   "shows": [
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4501,11 +4501,11 @@
       "date": "2026-07-21T20:45:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 206,
+      "sold": 216,
       "reserved": 1,
-      "available": 10,
-      "gross": 45250,
-      "occupancy_percent": 95.39
+      "available": 0,
+      "gross": 48600,
+      "occupancy_percent": 100.0
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4546,11 +4546,11 @@
       "date": "2026-07-21T20:45:00+05:45",
       "time": "",
       "seats": 288,
-      "sold": 165,
-      "reserved": 7,
-      "available": 116,
-      "gross": 25800,
-      "occupancy_percent": 59.72
+      "sold": 254,
+      "reserved": 0,
+      "available": 34,
+      "gross": 38100,
+      "occupancy_percent": 88.19
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4741,11 +4741,11 @@
       "date": "2026-07-21T21:00:00+05:45",
       "time": "",
       "seats": 126,
-      "sold": 113,
+      "sold": 126,
       "reserved": 0,
-      "available": 13,
-      "gross": 23800,
-      "occupancy_percent": 89.68
+      "available": 0,
+      "gross": 26400,
+      "occupancy_percent": 100.0
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -4846,11 +4846,11 @@
       "date": "2026-07-21T21:00:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 1,
+      "sold": 11,
       "reserved": 0,
-      "available": 176,
-      "gross": 250,
-      "occupancy_percent": 0.56
+      "available": 166,
+      "gross": 2950,
+      "occupancy_percent": 6.21
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -4861,11 +4861,11 @@
       "date": "2026-07-21T20:45:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 43,
-      "reserved": 1,
-      "available": 164,
-      "gross": 11000,
-      "occupancy_percent": 21.15
+      "sold": 94,
+      "reserved": 0,
+      "available": 114,
+      "gross": 23500,
+      "occupancy_percent": 45.19
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -4906,11 +4906,11 @@
       "date": "2026-07-21T21:00:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 25,
-      "reserved": 2,
-      "available": 24,
-      "gross": 32400,
-      "occupancy_percent": 52.94
+      "sold": 41,
+      "reserved": 4,
+      "available": 6,
+      "gross": 54000,
+      "occupancy_percent": 88.24
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -5056,11 +5056,11 @@
       "date": "2026-07-21T21:00:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 9,
-      "reserved": 0,
-      "available": 129,
-      "gross": 2520,
-      "occupancy_percent": 6.52
+      "sold": 26,
+      "reserved": 8,
+      "available": 104,
+      "gross": 10000,
+      "occupancy_percent": 24.64
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -5136,6 +5136,51 @@
       "available": 83,
       "gross": 4500,
       "occupancy_percent": 15.31
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "78975:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI -1",
+      "date": "2026-07-21T21:30:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 113,
+      "reserved": 132,
+      "available": 2,
+      "gross": 45575,
+      "occupancy_percent": 99.19
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "178827:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
+      "date": "2026-07-21T21:30:00+05:45",
+      "time": "",
+      "seats": 290,
+      "sold": 155,
+      "reserved": 14,
+      "available": 121,
+      "gross": 25350,
+      "occupancy_percent": 58.28
+    },
+    {
+      "movie_id": "DybU857d77sjBuHiWzheJm",
+      "movie_name": "The Odyssey",
+      "show_id": "2838:friends-cinemas",
+      "venue": "friends-cinemas",
+      "theatre": "Friends Cinemas - Dharan - Audi 1",
+      "date": "2026-07-21T21:30:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 108,
+      "reserved": 17,
+      "available": 89,
+      "gross": 23750,
+      "occupancy_percent": 58.41
     }
   ]
 }
