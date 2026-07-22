@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "lastUpdated": "12:26 AM, 23 July 2026",
+  "lastUpdated": "03:27 AM, 23 July 2026",
   "shows": [
     {
       "movie_id": "egGndXLFqaWE4mRLDdCyoi",
@@ -931,7 +931,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -2373,10 +2373,10 @@
       "time": "",
       "seats": 259,
       "sold": 0,
-      "reserved": 20,
-      "available": 239,
-      "gross": 8800,
-      "occupancy_percent": 7.72
+      "reserved": 19,
+      "available": 240,
+      "gross": 8360,
+      "occupancy_percent": 7.34
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
