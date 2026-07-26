@@ -78,8 +78,8 @@
     "total_shows": 6,
     "seats": 744,
     "sold": 0,
-    "reserved": 0,
-    "available": 744,
+    "reserved": 2,
+    "available": 742,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -118,8 +118,8 @@
         "total_shows": 3,
         "seats": 383,
         "sold": 0,
-        "reserved": 0,
-        "available": 383,
+        "reserved": 2,
+        "available": 381,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -184,8 +184,8 @@
     "total_shows": 2,
     "seats": 405,
     "sold": 2,
-    "reserved": 21,
-    "available": 382,
+    "reserved": 22,
+    "available": 381,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -204,8 +204,8 @@
         "total_shows": 1,
         "seats": 207,
         "sold": 2,
-        "reserved": 0,
-        "available": 205,
+        "reserved": 1,
+        "available": 204,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -249,6 +249,29 @@
         "sold": 0,
         "reserved": 0,
         "available": 117,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
+    "movie_name": "Evil Dead Burn",
+    "total_shows": 1,
+    "seats": 0,
+    "sold": 0,
+    "reserved": 0,
+    "available": 0,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
