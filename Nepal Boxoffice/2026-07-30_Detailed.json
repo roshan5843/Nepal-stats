@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "lastUpdated": "08:25 PM, 30 July 2026",
+  "lastUpdated": "10:00 PM, 30 July 2026",
   "shows": [
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -6333,11 +6333,11 @@
       "date": "2026-07-30T22:15:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 118,
-      "reserved": 16,
-      "available": 145,
-      "gross": 67000,
-      "occupancy_percent": 48.03
+      "sold": 162,
+      "reserved": 0,
+      "available": 117,
+      "gross": 81000,
+      "occupancy_percent": 58.06
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -6363,26 +6363,28 @@
       "date": "2026-07-30T23:15:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 131,
-      "reserved": 0,
-      "available": 49,
-      "gross": 83840,
-      "occupancy_percent": 72.78
+      "sold": 150,
+      "reserved": 2,
+      "available": 28,
+      "gross": 97280,
+      "occupancy_percent": 84.44
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "179529:qfx-civil",
-      "venue": "qfx-civil",
-      "theatre": "QFX Civil - AUDI 02",
-      "date": "2026-07-30T23:00:00+05:45",
-      "time": "",
-      "seats": 259,
-      "sold": 123,
-      "reserved": 10,
-      "available": 126,
-      "gross": 77020,
-      "occupancy_percent": 51.35
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-30",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -6513,11 +6515,11 @@
       "date": "2026-07-30T23:00:00+05:45",
       "time": "",
       "seats": 134,
-      "sold": 44,
-      "reserved": 7,
-      "available": 83,
-      "gross": 20180,
-      "occupancy_percent": 38.06
+      "sold": 69,
+      "reserved": 0,
+      "available": 65,
+      "gross": 27020,
+      "occupancy_percent": 51.49
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -6570,16 +6572,18 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "180618:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 03",
-      "date": "2026-07-30T22:15:00+05:45",
-      "time": "",
-      "seats": 139,
-      "sold": 20,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-30",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 119,
-      "gross": 7000,
-      "occupancy_percent": 14.39
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
