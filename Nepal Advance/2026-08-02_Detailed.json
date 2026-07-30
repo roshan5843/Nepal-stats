@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "lastUpdated": "12:39 AM, 31 July 2026",
+  "lastUpdated": "03:30 AM, 31 July 2026",
   "shows": [
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -26,11 +26,11 @@
       "date": "2026-08-02T18:15:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 25,
+      "sold": 27,
       "reserved": 14,
-      "available": 143,
-      "gross": 24960,
-      "occupancy_percent": 21.43
+      "available": 141,
+      "gross": 26240,
+      "occupancy_percent": 22.53
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -191,11 +191,11 @@
       "date": "2026-08-02T13:30:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 70,
+      "sold": 72,
       "reserved": 25,
-      "available": 254,
-      "gross": 47500,
-      "occupancy_percent": 27.22
+      "available": 252,
+      "gross": 48500,
+      "occupancy_percent": 27.79
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -207,10 +207,10 @@
       "time": "",
       "seats": 349,
       "sold": 17,
-      "reserved": 33,
-      "available": 299,
-      "gross": 25000,
-      "occupancy_percent": 14.33
+      "reserved": 31,
+      "available": 301,
+      "gross": 24000,
+      "occupancy_percent": 13.75
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -431,11 +431,11 @@
       "date": "2026-08-02T08:00:00+05:45",
       "time": "",
       "seats": 110,
-      "sold": 53,
+      "sold": 55,
       "reserved": 0,
-      "available": 57,
-      "gross": 14840,
-      "occupancy_percent": 48.18
+      "available": 55,
+      "gross": 15400,
+      "occupancy_percent": 50.0
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -581,11 +581,11 @@
       "date": "2026-08-02T17:15:00+05:45",
       "time": "",
       "seats": 150,
-      "sold": 65,
+      "sold": 73,
       "reserved": 15,
-      "available": 70,
-      "gross": 51200,
-      "occupancy_percent": 53.33
+      "available": 62,
+      "gross": 56320,
+      "occupancy_percent": 58.67
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -776,11 +776,11 @@
       "date": "2026-08-02T12:30:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 16,
+      "sold": 19,
       "reserved": 10,
-      "available": 186,
-      "gross": 16380,
-      "occupancy_percent": 12.26
+      "available": 183,
+      "gross": 18270,
+      "occupancy_percent": 13.68
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1121,11 +1121,11 @@
       "date": "2026-08-02T08:15:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 28,
+      "sold": 30,
       "reserved": 0,
-      "available": 155,
-      "gross": 6720,
-      "occupancy_percent": 15.3
+      "available": 153,
+      "gross": 7200,
+      "occupancy_percent": 16.39
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1916,11 +1916,11 @@
       "date": "2026-08-02T08:30:00+05:45",
       "time": "",
       "seats": 178,
-      "sold": 40,
+      "sold": 42,
       "reserved": 8,
-      "available": 130,
-      "gross": 13440,
-      "occupancy_percent": 26.97
+      "available": 128,
+      "gross": 14000,
+      "occupancy_percent": 28.09
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2096,11 +2096,11 @@
       "date": "2026-08-02T14:30:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 89,
+      "sold": 90,
       "reserved": 13,
-      "available": 31,
-      "gross": 38400,
-      "occupancy_percent": 76.69
+      "available": 30,
+      "gross": 38760,
+      "occupancy_percent": 77.44
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2186,11 +2186,11 @@
       "date": "2026-08-02T15:00:00+05:45",
       "time": "",
       "seats": 134,
-      "sold": 56,
+      "sold": 58,
       "reserved": 0,
-      "available": 78,
-      "gross": 22080,
-      "occupancy_percent": 41.79
+      "available": 76,
+      "gross": 22840,
+      "occupancy_percent": 43.28
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -3712,16 +3712,18 @@
       "movie_id": "DybU857d77sjBuHiWzheJm",
       "movie_name": "The Odyssey",
       "show_id": "149109:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Dine",
-      "date": "2026-08-02T11:30:00+05:45",
-      "time": "",
-      "seats": 60,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-02",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 60,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -3807,11 +3809,11 @@
       "date": "2026-08-02T16:00:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 5,
+      "sold": 8,
       "reserved": 0,
-      "available": 214,
-      "gross": 2300,
-      "occupancy_percent": 2.28
+      "available": 211,
+      "gross": 3680,
+      "occupancy_percent": 3.65
     },
     {
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
@@ -3837,11 +3839,11 @@
       "date": "2026-08-02T09:00:00+05:45",
       "time": "",
       "seats": 251,
-      "sold": 61,
+      "sold": 62,
       "reserved": 25,
-      "available": 165,
-      "gross": 21500,
-      "occupancy_percent": 34.26
+      "available": 164,
+      "gross": 21750,
+      "occupancy_percent": 34.66
     },
     {
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
@@ -4082,7 +4084,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -4099,7 +4101,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -4133,7 +4135,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -4165,6 +4167,23 @@
       "available": 85,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+      "movie_name": "Dhamaal 4",
+      "show_id": "149108:cdc-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-02",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     }
   ]
 }
