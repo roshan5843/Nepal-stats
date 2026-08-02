@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "lastUpdated": "03:14 AM, 02 August 2026",
+  "lastUpdated": "07:01 AM, 02 August 2026",
   "shows": [
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -56,11 +56,11 @@
       "date": "2026-08-04T14:15:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 75,
+      "sold": 77,
       "reserved": 0,
-      "available": 444,
-      "gross": 32350,
-      "occupancy_percent": 14.45
+      "available": 442,
+      "gross": 33170,
+      "occupancy_percent": 14.84
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -101,11 +101,11 @@
       "date": "2026-08-04T07:30:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 50,
+      "sold": 51,
       "reserved": 0,
-      "available": 469,
-      "gross": 17200,
-      "occupancy_percent": 9.63
+      "available": 468,
+      "gross": 17530,
+      "occupancy_percent": 9.83
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1197,10 +1197,10 @@
       "time": "",
       "seats": 214,
       "sold": 18,
-      "reserved": 15,
-      "available": 181,
-      "gross": 7920,
-      "occupancy_percent": 15.42
+      "reserved": 12,
+      "available": 184,
+      "gross": 7200,
+      "occupancy_percent": 14.02
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1316,11 +1316,11 @@
       "date": "2026-08-04T08:15:00+05:45",
       "time": "",
       "seats": 207,
-      "sold": 57,
+      "sold": 59,
       "reserved": 15,
-      "available": 135,
-      "gross": 18360,
-      "occupancy_percent": 34.78
+      "available": 133,
+      "gross": 18870,
+      "occupancy_percent": 35.75
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1796,11 +1796,11 @@
       "date": "2026-08-04T11:45:00+05:45",
       "time": "",
       "seats": 265,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 265,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 263,
+      "gross": 640,
+      "occupancy_percent": 0.75
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -2256,16 +2256,18 @@
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
       "movie_name": "Spider-Man: Brand New Day - Hindi",
       "show_id": "4848:kirtipur-cineplex",
-      "venue": "kirtipur-cineplex",
-      "theatre": "Kirtipur Cineplex - Audi-1",
-      "date": "2026-08-04T16:45:00+05:45",
-      "time": "",
-      "seats": 285,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-04",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 285,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
@@ -2655,6 +2657,51 @@
       "occupancy_percent": 0,
       "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "149129:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-08-04T18:30:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 0,
+      "available": 60,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "149128:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-08-04T16:00:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 0,
+      "available": 60,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "149127:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-08-04T13:30:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 0,
+      "available": 60,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
