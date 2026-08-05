@@ -2,13 +2,13 @@
   {
     "movie_id": "6enk5qWsdoPanAuwdnoKdA",
     "movie_name": "Spider-Man: Brand New Day",
-    "total_shows": 4,
-    "seats": 909,
-    "sold": 220,
-    "reserved": 0,
-    "available": 689,
+    "total_shows": 13,
+    "seats": 2606,
+    "sold": 525,
+    "reserved": 32,
+    "available": 2049,
     "housefull": 0,
-    "fastfilling": 1,
+    "fastfilling": 2,
     "venues": [
       {
         "venue": "big-movies-updated",
@@ -17,6 +17,26 @@
         "sold": 45,
         "reserved": 0,
         "available": 225,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 1,
+        "reserved": 15,
+        "available": 164,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 6,
+        "reserved": 17,
+        "available": 191,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -31,14 +51,64 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-labim",
-        "total_shows": 1,
-        "seats": 180,
-        "sold": 100,
+        "venue": "qfx-bhaktapur",
+        "total_shows": 2,
+        "seats": 495,
+        "sold": 37,
         "reserved": 0,
-        "available": 80,
+        "available": 458,
         "housefull": 0,
-        "fastfilling": 1
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 15,
+        "reserved": 0,
+        "available": 119,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 2,
+        "seats": 362,
+        "sold": 198,
+        "reserved": 0,
+        "available": 164,
+        "housefull": 0,
+        "fastfilling": 2
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 133,
+        "sold": 56,
+        "reserved": 0,
+        "available": 77,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 177,
+        "sold": 35,
+        "reserved": 0,
+        "available": 142,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 57,
+        "reserved": 0,
+        "available": 125,
+        "housefull": 0,
+        "fastfilling": 0
       },
       {
         "venue": "ranjana-cineplex",
@@ -70,6 +140,49 @@
         "sold": 6,
         "reserved": 0,
         "available": 112,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+    "movie_name": "Gauthali",
+    "total_shows": 3,
+    "seats": 739,
+    "sold": 177,
+    "reserved": 4,
+    "available": 558,
+    "housefull": 0,
+    "fastfilling": 1,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 14,
+        "reserved": 4,
+        "available": 331,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 207,
+        "sold": 129,
+        "reserved": 0,
+        "available": 78,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 183,
+        "sold": 34,
+        "reserved": 0,
+        "available": 149,
         "housefull": 0,
         "fastfilling": 0
       }
