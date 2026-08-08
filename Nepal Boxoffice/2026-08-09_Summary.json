@@ -2,14 +2,54 @@
   {
     "movie_id": "6enk5qWsdoPanAuwdnoKdA",
     "movie_name": "Spider-Man: Brand New Day",
-    "total_shows": 1,
-    "seats": 133,
-    "sold": 92,
-    "reserved": 4,
-    "available": 37,
+    "total_shows": 5,
+    "seats": 1089,
+    "sold": 611,
+    "reserved": 5,
+    "available": 473,
     "housefull": 0,
-    "fastfilling": 1,
+    "fastfilling": 3,
     "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 65,
+        "reserved": 0,
+        "available": 284,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "chitwan-cineplex",
+        "total_shows": 1,
+        "seats": 219,
+        "sold": 212,
+        "reserved": 1,
+        "available": 6,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 208,
+        "sold": 100,
+        "reserved": 0,
+        "available": 108,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 142,
+        "reserved": 0,
+        "available": 38,
+        "housefull": 0,
+        "fastfilling": 1
+      },
       {
         "venue": "qfx-one-stop-mall",
         "total_shows": 1,
@@ -19,6 +59,39 @@
         "available": 37,
         "housefull": 0,
         "fastfilling": 1
+      }
+    ]
+  },
+  {
+    "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+    "movie_name": "Gauthali",
+    "total_shows": 2,
+    "seats": 320,
+    "sold": 224,
+    "reserved": 0,
+    "available": 96,
+    "housefull": 1,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "chitwan-cineplex",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 143,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 1,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 177,
+        "sold": 81,
+        "reserved": 0,
+        "available": 96,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   }
