@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "lastUpdated": "12:39 AM, 12 August 2026",
+  "lastUpdated": "02:23 AM, 12 August 2026",
   "shows": [
     {
       "movie_id": "iWqVqEC9b3Dha7WD893w58",
@@ -342,10 +342,10 @@
       "time": "",
       "seats": 248,
       "sold": 9,
-      "reserved": 19,
-      "available": 220,
-      "gross": 7000,
-      "occupancy_percent": 11.29
+      "reserved": 18,
+      "available": 221,
+      "gross": 6750,
+      "occupancy_percent": 10.89
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -821,11 +821,11 @@
       "date": "2026-08-13T16:15:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 11,
+      "sold": 13,
       "reserved": 0,
-      "available": 171,
-      "gross": 6050,
-      "occupancy_percent": 6.04
+      "available": 169,
+      "gross": 7150,
+      "occupancy_percent": 7.14
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1446,31 +1446,35 @@
       "movie_id": "iWqVqEC9b3Dha7WD893w58",
       "movie_name": "Halee",
       "show_id": "149226:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Dine",
-      "date": "2026-08-13T12:15:00+05:45",
-      "time": "",
-      "seats": 60,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 8,
-      "available": 52,
-      "gross": 5200,
-      "occupancy_percent": 13.33
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "CNCqUVseyiCX3k4gP9LFX4",
       "movie_name": "Kamala Miss",
       "show_id": "149224:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Dine",
-      "date": "2026-08-13T08:00:00+05:45",
-      "time": "",
-      "seats": 60,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 12,
-      "available": 48,
-      "gross": 4800,
-      "occupancy_percent": 20.0
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -1493,16 +1497,18 @@
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
       "movie_name": "Dhamaal 4",
       "show_id": "149229:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Dine",
-      "date": "2026-08-13T20:00:00+05:45",
-      "time": "",
-      "seats": 60,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 8,
-      "available": 52,
-      "gross": 5200,
-      "occupancy_percent": 13.33
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1663,11 +1669,11 @@
       "date": "2026-08-13T11:45:00+05:45",
       "time": "",
       "seats": 203,
-      "sold": 17,
+      "sold": 19,
       "reserved": 0,
-      "available": 186,
-      "gross": 5950,
-      "occupancy_percent": 8.37
+      "available": 184,
+      "gross": 6650,
+      "occupancy_percent": 9.36
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1799,10 +1805,10 @@
       "time": "",
       "seats": 198,
       "sold": 6,
-      "reserved": 19,
-      "available": 173,
-      "gross": 6000,
-      "occupancy_percent": 12.63
+      "reserved": 21,
+      "available": 171,
+      "gross": 6480,
+      "occupancy_percent": 13.64
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1913,18 +1919,16 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "shw_mdrgymAa11252GjbCzrwu9:cineroyale",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-13",
-      "time": null,
-      "seats": 0,
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 2",
+      "date": "2026-08-13T20:30:00+05:45",
+      "time": "",
+      "seats": 217,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 217,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1981,10 +1985,10 @@
       "time": "",
       "seats": 208,
       "sold": 21,
-      "reserved": 2,
-      "available": 185,
-      "gross": 9200,
-      "occupancy_percent": 11.06
+      "reserved": 0,
+      "available": 187,
+      "gross": 8400,
+      "occupancy_percent": 10.1
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2931,7 +2935,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
