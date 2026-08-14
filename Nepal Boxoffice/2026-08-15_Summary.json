@@ -2,14 +2,24 @@
   {
     "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
     "movie_name": "Awarapan 2",
-    "total_shows": 1,
-    "seats": 129,
-    "sold": 18,
-    "reserved": 0,
-    "available": 111,
+    "total_shows": 2,
+    "seats": 478,
+    "sold": 139,
+    "reserved": 23,
+    "available": 316,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 121,
+        "reserved": 23,
+        "available": 205,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "qs-cinemas",
         "total_shows": 1,
@@ -25,14 +35,34 @@
   {
     "movie_id": "diPsEnKcCSEkEbks8v4kxU",
     "movie_name": "Gauthali",
-    "total_shows": 1,
-    "seats": 177,
-    "sold": 128,
+    "total_shows": 3,
+    "seats": 830,
+    "sold": 397,
     "reserved": 0,
-    "available": 49,
+    "available": 433,
     "housefull": 0,
     "fastfilling": 1,
     "venues": [
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 45,
+        "reserved": 0,
+        "available": 89,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 519,
+        "sold": 224,
+        "reserved": 0,
+        "available": 295,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "qfx-square-mall",
         "total_shows": 1,
@@ -48,14 +78,34 @@
   {
     "movie_id": "6enk5qWsdoPanAuwdnoKdA",
     "movie_name": "Spider-Man: Brand New Day",
-    "total_shows": 2,
-    "seats": 330,
-    "sold": 159,
-    "reserved": 0,
-    "available": 171,
+    "total_shows": 8,
+    "seats": 1447,
+    "sold": 579,
+    "reserved": 7,
+    "available": 861,
     "housefull": 0,
-    "fastfilling": 1,
+    "fastfilling": 3,
     "venues": [
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 1,
+        "seats": 177,
+        "sold": 27,
+        "reserved": 2,
+        "available": 148,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 84,
+        "reserved": 0,
+        "available": 112,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "qfx-chhaya",
         "total_shows": 1,
@@ -67,6 +117,16 @@
         "fastfilling": 0
       },
       {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 259,
+        "sold": 170,
+        "reserved": 0,
+        "available": 89,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 180,
@@ -75,6 +135,59 @@
         "available": 43,
         "housefull": 0,
         "fastfilling": 1
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 138,
+        "sold": 31,
+        "reserved": 3,
+        "available": 104,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 165,
+        "sold": 85,
+        "reserved": 0,
+        "available": 80,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 23,
+        "reserved": 2,
+        "available": 157,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "Sx6PD9T78GpBfxE6ZffkAf",
+    "movie_name": "The End Of Oak Street",
+    "total_shows": 1,
+    "seats": 133,
+    "sold": 23,
+    "reserved": 0,
+    "available": 110,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 133,
+        "sold": 23,
+        "reserved": 0,
+        "available": 110,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   }
