@@ -25,14 +25,24 @@
   {
     "movie_id": "diPsEnKcCSEkEbks8v4kxU",
     "movie_name": "Gauthali",
-    "total_shows": 1,
-    "seats": 139,
-    "sold": 42,
+    "total_shows": 2,
+    "seats": 342,
+    "sold": 107,
     "reserved": 0,
-    "available": 97,
+    "available": 235,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 203,
+        "sold": 65,
+        "reserved": 0,
+        "available": 138,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "qfx-square-mall",
         "total_shows": 1,
@@ -40,6 +50,82 @@
         "sold": 42,
         "reserved": 0,
         "available": 97,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "Sx6PD9T78GpBfxE6ZffkAf",
+    "movie_name": "The End Of Oak Street",
+    "total_shows": 1,
+    "seats": 133,
+    "sold": 5,
+    "reserved": 0,
+    "available": 128,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 133,
+        "sold": 5,
+        "reserved": 0,
+        "available": 128,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+    "movie_name": "Spider-Man: Brand New Day",
+    "total_shows": 4,
+    "seats": 693,
+    "sold": 222,
+    "reserved": 3,
+    "available": 468,
+    "housefull": 0,
+    "fastfilling": 1,
+    "venues": [
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 1,
+        "seats": 177,
+        "sold": 20,
+        "reserved": 0,
+        "available": 157,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 61,
+        "reserved": 0,
+        "available": 135,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 101,
+        "reserved": 0,
+        "available": 81,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 138,
+        "sold": 40,
+        "reserved": 3,
+        "available": 95,
         "housefull": 0,
         "fastfilling": 0
       }
