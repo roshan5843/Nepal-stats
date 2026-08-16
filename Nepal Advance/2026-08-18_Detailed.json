@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "lastUpdated": "06:05 AM, 16 August 2026",
+  "lastUpdated": "09:09 AM, 16 August 2026",
   "shows": [
     {
       "movie_id": "Sx6PD9T78GpBfxE6ZffkAf",
@@ -102,10 +102,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 17,
-      "available": 193,
-      "gross": 4080,
-      "occupancy_percent": 8.1
+      "reserved": 19,
+      "available": 191,
+      "gross": 4560,
+      "occupancy_percent": 9.05
     },
     {
       "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
@@ -486,16 +486,18 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "149286:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Dine",
-      "date": "2026-08-18T12:15:00+05:45",
-      "time": "",
-      "seats": 60,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-18",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 11,
-      "available": 49,
-      "gross": 5500,
-      "occupancy_percent": 18.33
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -561,16 +563,18 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "149290:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Theatre",
-      "date": "2026-08-18T08:15:00+05:45",
-      "time": "",
-      "seats": 169,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-18",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 14,
-      "available": 155,
-      "gross": 2450,
-      "occupancy_percent": 8.28
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -597,10 +601,10 @@
       "time": "",
       "seats": 248,
       "sold": 0,
-      "reserved": 0,
-      "available": 248,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 18,
+      "available": 230,
+      "gross": 6300,
+      "occupancy_percent": 7.26
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -791,11 +795,11 @@
       "date": "2026-08-18T09:00:00+05:45",
       "time": "",
       "seats": 207,
-      "sold": 2,
+      "sold": 5,
       "reserved": 0,
-      "available": 205,
-      "gross": 510,
-      "occupancy_percent": 0.97
+      "available": 202,
+      "gross": 1275,
+      "occupancy_percent": 2.42
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
