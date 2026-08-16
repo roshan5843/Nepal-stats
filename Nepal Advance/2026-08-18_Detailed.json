@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "lastUpdated": "09:09 AM, 16 August 2026",
+  "lastUpdated": "11:50 AM, 16 August 2026",
   "shows": [
     {
       "movie_id": "Sx6PD9T78GpBfxE6ZffkAf",
@@ -72,10 +72,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 15,
-      "available": 183,
-      "gross": 3600,
-      "occupancy_percent": 7.58
+      "reserved": 17,
+      "available": 181,
+      "gross": 4080,
+      "occupancy_percent": 8.59
     },
     {
       "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
@@ -102,10 +102,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 19,
-      "available": 191,
-      "gross": 4560,
-      "occupancy_percent": 9.05
+      "reserved": 21,
+      "available": 189,
+      "gross": 5040,
+      "occupancy_percent": 10.0
     },
     {
       "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
@@ -116,11 +116,11 @@
       "date": "2026-08-18T20:15:00+05:45",
       "time": "",
       "seats": 53,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 53,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 51,
+      "gross": 2400,
+      "occupancy_percent": 3.77
     },
     {
       "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
@@ -386,11 +386,11 @@
       "date": "2026-08-18T19:30:00+05:45",
       "time": "",
       "seats": 285,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 285,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 281,
+      "gross": 700,
+      "occupancy_percent": 1.4
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -538,11 +538,11 @@
       "date": "2026-08-18T15:00:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 175,
+      "gross": 500,
+      "occupancy_percent": 1.13
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -691,10 +691,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 10,
-      "available": 188,
-      "gross": 2900,
-      "occupancy_percent": 5.05
+      "reserved": 15,
+      "available": 183,
+      "gross": 4350,
+      "occupancy_percent": 7.58
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -721,10 +721,10 @@
       "time": "",
       "seats": 212,
       "sold": 2,
-      "reserved": 10,
-      "available": 200,
-      "gross": 4680,
-      "occupancy_percent": 5.66
+      "reserved": 14,
+      "available": 196,
+      "gross": 6240,
+      "occupancy_percent": 7.55
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -845,6 +845,141 @@
       "sold": 0,
       "reserved": 0,
       "available": 129,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "Sx6PD9T78GpBfxE6ZffkAf",
+      "movie_name": "The End Of Oak Street",
+      "show_id": "184089:qfx-skyline",
+      "venue": "qfx-skyline",
+      "theatre": "QFX Skyline - Audi 1",
+      "date": "2026-08-18T17:45:00+05:45",
+      "time": "",
+      "seats": 132,
+      "sold": 0,
+      "reserved": 0,
+      "available": 132,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
+      "movie_name": "Awarapan 2",
+      "show_id": "184093:qfx-skyline",
+      "venue": "qfx-skyline",
+      "theatre": "QFX Skyline - Audi 2",
+      "date": "2026-08-18T15:30:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 0,
+      "reserved": 0,
+      "available": 133,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
+      "movie_name": "Awarapan 2",
+      "show_id": "184092:qfx-skyline",
+      "venue": "qfx-skyline",
+      "theatre": "QFX Skyline - Audi 2",
+      "date": "2026-08-18T18:45:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 0,
+      "reserved": 0,
+      "available": 133,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
+      "movie_name": "Awarapan 2",
+      "show_id": "184091:qfx-skyline",
+      "venue": "qfx-skyline",
+      "theatre": "QFX Skyline - Audi 2",
+      "date": "2026-08-18T12:15:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 0,
+      "reserved": 0,
+      "available": 133,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "6CFpRajDNs6ufNqmpeeoXM",
+      "movie_name": "Batwara 1947",
+      "show_id": "184095:qfx-skyline",
+      "venue": "qfx-skyline",
+      "theatre": "QFX Skyline - Audi 3",
+      "date": "2026-08-18T15:15:00+05:45",
+      "time": "",
+      "seats": 117,
+      "sold": 0,
+      "reserved": 0,
+      "available": 117,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "6CFpRajDNs6ufNqmpeeoXM",
+      "movie_name": "Batwara 1947",
+      "show_id": "184094:qfx-skyline",
+      "venue": "qfx-skyline",
+      "theatre": "QFX Skyline - Audi 3",
+      "date": "2026-08-18T18:30:00+05:45",
+      "time": "",
+      "seats": 117,
+      "sold": 0,
+      "reserved": 0,
+      "available": 117,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "6CFpRajDNs6ufNqmpeeoXM",
+      "movie_name": "Batwara 1947",
+      "show_id": "184096:qfx-skyline",
+      "venue": "qfx-skyline",
+      "theatre": "QFX Skyline - Audi 3",
+      "date": "2026-08-18T12:00:00+05:45",
+      "time": "",
+      "seats": 117,
+      "sold": 0,
+      "reserved": 0,
+      "available": 117,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "184088:qfx-skyline",
+      "venue": "qfx-skyline",
+      "theatre": "QFX Skyline - Audi 1",
+      "date": "2026-08-18T14:45:00+05:45",
+      "time": "",
+      "seats": 132,
+      "sold": 0,
+      "reserved": 0,
+      "available": 132,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
+      "movie_name": "Spider-Man: Brand New Day - Hindi",
+      "show_id": "184090:qfx-skyline",
+      "venue": "qfx-skyline",
+      "theatre": "QFX Skyline - Audi 1",
+      "date": "2026-08-18T11:45:00+05:45",
+      "time": "",
+      "seats": 132,
+      "sold": 0,
+      "reserved": 0,
+      "available": 132,
       "gross": 0,
       "occupancy_percent": 0.0
     }
