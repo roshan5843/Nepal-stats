@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "lastUpdated": "06:07 AM, 23 August 2026",
+  "lastUpdated": "09:11 AM, 23 August 2026",
   "shows": [
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
@@ -87,10 +87,10 @@
       "time": "",
       "seats": 89,
       "sold": 0,
-      "reserved": 1,
-      "available": 88,
-      "gross": 200,
-      "occupancy_percent": 1.12
+      "reserved": 0,
+      "available": 89,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
@@ -491,11 +491,11 @@
       "date": "2026-08-25T15:30:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 4,
+      "sold": 5,
       "reserved": 0,
-      "available": 125,
-      "gross": 1400,
-      "occupancy_percent": 3.1
+      "available": 124,
+      "gross": 1650,
+      "occupancy_percent": 3.88
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -2081,11 +2081,116 @@
       "date": "2026-08-25T12:00:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 3,
+      "sold": 5,
       "reserved": 0,
-      "available": 126,
-      "gross": 750,
-      "occupancy_percent": 2.33
+      "available": 124,
+      "gross": 1450,
+      "occupancy_percent": 3.88
+    },
+    {
+      "movie_id": "iPcoxptpNj3a22WpQ6vSum",
+      "movie_name": "Masterni",
+      "show_id": "185725:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 1",
+      "date": "2026-08-25T12:15:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 0,
+      "reserved": 0,
+      "available": 134,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "du5AFfE9RMeqsrRpegN72D",
+      "movie_name": "Insidious: Out of the Further",
+      "show_id": "185729:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 2",
+      "date": "2026-08-25T16:30:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 0,
+      "reserved": 0,
+      "available": 134,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "du5AFfE9RMeqsrRpegN72D",
+      "movie_name": "Insidious: Out of the Further",
+      "show_id": "185728:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 2",
+      "date": "2026-08-25T11:15:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 0,
+      "reserved": 0,
+      "available": 134,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
+      "movie_name": "Awarapan 2",
+      "show_id": "185730:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 2",
+      "date": "2026-08-25T13:30:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 0,
+      "reserved": 0,
+      "available": 134,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
+      "movie_name": "Awarapan 2",
+      "show_id": "185727:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 2",
+      "date": "2026-08-25T19:00:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 0,
+      "reserved": 0,
+      "available": 134,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "185726:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 1",
+      "date": "2026-08-25T15:00:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 0,
+      "reserved": 0,
+      "available": 134,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "185724:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 1",
+      "date": "2026-08-25T18:00:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 0,
+      "reserved": 0,
+      "available": 134,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
