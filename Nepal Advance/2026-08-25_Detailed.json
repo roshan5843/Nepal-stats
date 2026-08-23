@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "lastUpdated": "09:11 AM, 23 August 2026",
+  "lastUpdated": "11:51 AM, 23 August 2026",
   "shows": [
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
@@ -42,10 +42,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 14,
-      "available": 196,
-      "gross": 3360,
-      "occupancy_percent": 6.67
+      "reserved": 16,
+      "available": 194,
+      "gross": 3840,
+      "occupancy_percent": 7.62
     },
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
@@ -297,10 +297,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 0,
-      "available": 198,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 10,
+      "available": 188,
+      "gross": 2400,
+      "occupancy_percent": 5.05
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -476,11 +476,11 @@
       "date": "2026-08-25T16:30:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 0,
+      "sold": 6,
       "reserved": 0,
-      "available": 165,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 159,
+      "gross": 1980,
+      "occupancy_percent": 3.64
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -713,7 +713,7 @@
       "show_id": "185712:qfx-one-stop-mall",
       "venue": "qfx-one-stop-mall",
       "theatre": "QFX One Stop, Birtamod - AUDI 1",
-      "date": "2026-08-25T12:15:00+05:45",
+      "date": "2026-08-25T15:00:00+05:45",
       "time": "",
       "seats": 138,
       "sold": 0,
@@ -1672,13 +1672,13 @@
       "movie_name": "Gauthali",
       "show_id": "185714:qfx-one-stop-mall",
       "venue": "qfx-one-stop-mall",
-      "theatre": "QFX One Stop, Birtamod - AUDI 2",
+      "theatre": "QFX One Stop, Birtamod - AUDI 1",
       "date": "2026-08-25T12:00:00+05:45",
       "time": "",
-      "seats": 133,
+      "seats": 138,
       "sold": 0,
       "reserved": 0,
-      "available": 133,
+      "available": 138,
       "gross": 0,
       "occupancy_percent": 0.0
     },
@@ -1988,7 +1988,7 @@
       "show_id": "185715:qfx-one-stop-mall",
       "venue": "qfx-one-stop-mall",
       "theatre": "QFX One Stop, Birtamod - AUDI 2",
-      "date": "2026-08-25T15:15:00+05:45",
+      "date": "2026-08-25T14:45:00+05:45",
       "time": "",
       "seats": 133,
       "sold": 0,
@@ -2096,11 +2096,11 @@
       "date": "2026-08-25T12:15:00+05:45",
       "time": "",
       "seats": 134,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 134,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 132,
+      "gross": 300,
+      "occupancy_percent": 1.49
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -2191,6 +2191,51 @@
       "available": 134,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "29358:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-08-25T14:30:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 4250,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "29357:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-08-25T11:45:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 4250,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "29363:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-08-25T17:30:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 17,
+      "reserved": 0,
+      "available": 186,
+      "gross": 4250,
+      "occupancy_percent": 8.37
     }
   ]
 }
