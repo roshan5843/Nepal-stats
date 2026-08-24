@@ -2,11 +2,11 @@
   {
     "movie_id": "iPcoxptpNj3a22WpQ6vSum",
     "movie_name": "Masterni",
-    "total_shows": 3,
-    "seats": 474,
+    "total_shows": 4,
+    "seats": 664,
     "sold": 3,
     "reserved": 129,
-    "available": 342,
+    "available": 532,
     "housefull": 1,
     "fastfilling": 0,
     "venues": [
@@ -39,17 +39,27 @@
         "available": 0,
         "housefull": 1,
         "fastfilling": 0
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 0,
+        "reserved": 0,
+        "available": 190,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "diPsEnKcCSEkEbks8v4kxU",
     "movie_name": "Gauthali",
-    "total_shows": 1,
-    "seats": 192,
-    "sold": 0,
-    "reserved": 16,
-    "available": 176,
+    "total_shows": 3,
+    "seats": 518,
+    "sold": 15,
+    "reserved": 18,
+    "available": 485,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -60,6 +70,155 @@
         "sold": 0,
         "reserved": 16,
         "available": 176,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 2,
+        "reserved": 2,
+        "available": 139,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 183,
+        "sold": 13,
+        "reserved": 0,
+        "available": 170,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "du5AFfE9RMeqsrRpegN72D",
+    "movie_name": "Insidious: Out of the Further",
+    "total_shows": 7,
+    "seats": 1523,
+    "sold": 46,
+    "reserved": 3,
+    "available": 1474,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 16,
+        "reserved": 0,
+        "available": 333,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 0,
+        "reserved": 3,
+        "available": 211,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinema-butwal-royal-cine-hub",
+        "total_shows": 1,
+        "seats": 213,
+        "sold": 0,
+        "reserved": 0,
+        "available": 213,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 9,
+        "reserved": 0,
+        "available": 205,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 0,
+        "reserved": 0,
+        "available": 101,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 250,
+        "sold": 10,
+        "reserved": 0,
+        "available": 240,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 11,
+        "reserved": 0,
+        "available": 171,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
+    "movie_name": "Awarapan 2",
+    "total_shows": 1,
+    "seats": 85,
+    "sold": 6,
+    "reserved": 0,
+    "available": 79,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 85,
+        "sold": 6,
+        "reserved": 0,
+        "available": 79,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+    "movie_name": "Spider-Man: Brand New Day",
+    "total_shows": 1,
+    "seats": 279,
+    "sold": 2,
+    "reserved": 0,
+    "available": 277,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 2,
+        "reserved": 0,
+        "available": 277,
         "housefull": 0,
         "fastfilling": 0
       }
