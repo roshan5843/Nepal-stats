@@ -2,14 +2,24 @@
   {
     "movie_id": "diPsEnKcCSEkEbks8v4kxU",
     "movie_name": "Gauthali",
-    "total_shows": 2,
-    "seats": 349,
-    "sold": 3,
-    "reserved": 28,
-    "available": 318,
+    "total_shows": 5,
+    "seats": 1044,
+    "sold": 8,
+    "reserved": 35,
+    "available": 1001,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 270,
+        "sold": 4,
+        "reserved": 0,
+        "available": 266,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "bsr-movies",
         "total_shows": 1,
@@ -22,11 +32,173 @@
       },
       {
         "venue": "cdc-cinemas",
+        "total_shows": 2,
+        "seats": 338,
+        "sold": 4,
+        "reserved": 18,
+        "available": 316,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
         "total_shows": 1,
-        "seats": 169,
-        "sold": 3,
-        "reserved": 11,
-        "available": 155,
+        "seats": 256,
+        "sold": 0,
+        "reserved": 0,
+        "available": 256,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "iPcoxptpNj3a22WpQ6vSum",
+    "movie_name": "Masterni",
+    "total_shows": 3,
+    "seats": 501,
+    "sold": 7,
+    "reserved": 4,
+    "available": 490,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "friends-cinema-butwal-royal-cine-hub",
+        "total_shows": 1,
+        "seats": 213,
+        "sold": 0,
+        "reserved": 0,
+        "available": 213,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 98,
+        "sold": 7,
+        "reserved": 4,
+        "available": 87,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 0,
+        "reserved": 0,
+        "available": 190,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "du5AFfE9RMeqsrRpegN72D",
+    "movie_name": "Insidious: Out of the Further",
+    "total_shows": 4,
+    "seats": 920,
+    "sold": 6,
+    "reserved": 0,
+    "available": 914,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 0,
+        "reserved": 0,
+        "available": 349,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 2,
+        "reserved": 0,
+        "available": 212,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 2,
+        "reserved": 0,
+        "available": 99,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 256,
+        "sold": 2,
+        "reserved": 0,
+        "available": 254,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
+    "movie_name": "Awarapan 2",
+    "total_shows": 1,
+    "seats": 222,
+    "sold": 0,
+    "reserved": 0,
+    "available": 222,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 222,
+        "sold": 0,
+        "reserved": 0,
+        "available": 222,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+    "movie_name": "Spider-Man: Brand New Day",
+    "total_shows": 2,
+    "seats": 339,
+    "sold": 9,
+    "reserved": 5,
+    "available": 325,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 9,
+        "reserved": 0,
+        "available": 270,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 5,
+        "available": 55,
         "housefull": 0,
         "fastfilling": 0
       }
