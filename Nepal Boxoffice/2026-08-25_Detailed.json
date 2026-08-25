@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "lastUpdated": "07:06 PM, 25 August 2026",
+  "lastUpdated": "07:58 PM, 25 August 2026",
   "shows": [
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -5247,26 +5247,28 @@
       "date": "2026-08-25T20:15:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 7,
-      "reserved": 22,
-      "available": 114,
-      "gross": 8700,
-      "occupancy_percent": 20.28
+      "sold": 10,
+      "reserved": 23,
+      "available": 110,
+      "gross": 9950,
+      "occupancy_percent": 23.08
     },
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
       "movie_name": "Masterni",
       "show_id": "shw_7uiVT2J3anBiXPTEk4aSa3:sk-cinemas",
-      "venue": "sk-cinemas",
-      "theatre": "SK Cinemas - Audi 1",
-      "date": "2026-08-25T20:30:00+05:45",
-      "time": "",
-      "seats": 258,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-25",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 258,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -5307,11 +5309,11 @@
       "date": "2026-08-25T20:15:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 18,
-      "reserved": 7,
-      "available": 189,
-      "gross": 4750,
-      "occupancy_percent": 11.68
+      "sold": 30,
+      "reserved": 0,
+      "available": 184,
+      "gross": 5700,
+      "occupancy_percent": 14.02
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -5352,11 +5354,11 @@
       "date": "2026-08-25T20:45:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 8,
+      "sold": 13,
       "reserved": 0,
-      "available": 209,
-      "gross": 1600,
-      "occupancy_percent": 3.69
+      "available": 204,
+      "gross": 2600,
+      "occupancy_percent": 5.99
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -5367,8 +5369,8 @@
       "date": "2026-08-25T20:30:00+05:45",
       "time": "",
       "seats": 164,
-      "sold": 8,
-      "reserved": 1,
+      "sold": 9,
+      "reserved": 0,
       "available": 155,
       "gross": 2700,
       "occupancy_percent": 5.49
@@ -5382,11 +5384,11 @@
       "date": "2026-08-25T20:15:00+05:45",
       "time": "",
       "seats": 53,
-      "sold": 14,
+      "sold": 17,
       "reserved": 0,
-      "available": 39,
-      "gross": 16800,
-      "occupancy_percent": 26.42
+      "available": 36,
+      "gross": 20400,
+      "occupancy_percent": 32.08
     },
     {
       "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
@@ -5397,11 +5399,11 @@
       "date": "2026-08-25T20:15:00+05:45",
       "time": "",
       "seats": 118,
-      "sold": 2,
+      "sold": 10,
       "reserved": 0,
-      "available": 116,
-      "gross": 600,
-      "occupancy_percent": 1.69
+      "available": 108,
+      "gross": 3000,
+      "occupancy_percent": 8.47
     },
     {
       "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
@@ -5422,16 +5424,18 @@
       "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
       "movie_name": "Awarapan 2",
       "show_id": "shw_BnzwVYb7P2ScOAcP1Wr0fG:central-multiplex",
-      "venue": "central-multiplex",
-      "theatre": "Central Multiplex - Screen 1",
-      "date": "2026-08-25T20:15:00+05:45",
-      "time": "",
-      "seats": 230,
-      "sold": 2,
-      "reserved": 6,
-      "available": 222,
-      "gross": 3720,
-      "occupancy_percent": 3.48
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-25",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "6CFpRajDNs6ufNqmpeeoXM",
@@ -5487,11 +5491,11 @@
       "date": "2026-08-25T21:00:00+05:45",
       "time": "",
       "seats": 126,
-      "sold": 34,
+      "sold": 47,
       "reserved": 0,
-      "available": 92,
-      "gross": 7850,
-      "occupancy_percent": 26.98
+      "available": 79,
+      "gross": 10450,
+      "occupancy_percent": 37.3
     }
   ]
 }
