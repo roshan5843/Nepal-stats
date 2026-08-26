@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "lastUpdated": "12:50 PM, 26 August 2026",
+  "lastUpdated": "02:46 PM, 26 August 2026",
   "shows": [
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
@@ -72,25 +72,27 @@
       "time": "",
       "seats": 270,
       "sold": 40,
-      "reserved": 2,
-      "available": 228,
-      "gross": 8400,
-      "occupancy_percent": 15.56
+      "reserved": 0,
+      "available": 230,
+      "gross": 8000,
+      "occupancy_percent": 14.81
     },
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
       "movie_name": "Masterni",
       "show_id": "186185:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 03",
-      "date": "2026-08-27T15:30:00+05:45",
-      "time": "",
-      "seats": 139,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 139,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
@@ -111,16 +113,18 @@
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
       "movie_name": "Masterni",
       "show_id": "185748:qfx-civil",
-      "venue": "qfx-civil",
-      "theatre": "QFX Civil - AUDI 03",
-      "date": "2026-08-27T17:15:00+05:45",
-      "time": "",
-      "seats": 259,
-      "sold": 7,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 252,
-      "gross": 2450,
-      "occupancy_percent": 2.7
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
@@ -141,69 +145,61 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185453:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-08-27T19:00:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 27,
+      "reserved": 5,
+      "available": 148,
+      "gross": 17920,
+      "occupancy_percent": 17.78
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185449:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-08-27T11:00:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 20,
+      "reserved": 14,
+      "available": 146,
+      "gross": 19040,
+      "occupancy_percent": 18.89
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185450:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-08-27T07:00:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 77,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 103,
+      "gross": 21560,
+      "occupancy_percent": 42.78
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185456:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 1",
+      "date": "2026-08-27T16:30:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 20,
+      "reserved": 14,
+      "available": 148,
+      "gross": 19040,
+      "occupancy_percent": 18.68
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -214,96 +210,86 @@
       "date": "2026-08-27T07:15:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 77,
-      "reserved": 22,
-      "available": 250,
-      "gross": 19800,
-      "occupancy_percent": 28.37
+      "sold": 100,
+      "reserved": 13,
+      "available": 236,
+      "gross": 22600,
+      "occupancy_percent": 32.38
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185452:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-08-27T15:00:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 2,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 178,
+      "gross": 1120,
+      "occupancy_percent": 1.11
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185458:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 3",
+      "date": "2026-08-27T22:30:00+05:45",
+      "time": "",
+      "seats": 183,
+      "sold": 2,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 181,
+      "gross": 960,
+      "occupancy_percent": 1.09
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185448:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 1",
+      "date": "2026-08-27T06:00:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 70,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 112,
+      "gross": 19600,
+      "occupancy_percent": 38.46
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185457:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 1",
+      "date": "2026-08-27T20:30:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 46,
+      "reserved": 14,
+      "available": 122,
+      "gross": 33600,
+      "occupancy_percent": 32.97
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185455:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 1",
+      "date": "2026-08-27T12:30:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 4,
+      "reserved": 14,
+      "available": 164,
+      "gross": 10080,
+      "occupancy_percent": 9.89
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -315,10 +301,10 @@
       "time": "",
       "seats": 270,
       "sold": 2,
-      "reserved": 25,
-      "available": 243,
-      "gross": 12150,
-      "occupancy_percent": 10.0
+      "reserved": 13,
+      "available": 255,
+      "gross": 6750,
+      "occupancy_percent": 5.56
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -329,11 +315,11 @@
       "date": "2026-08-27T21:15:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 22,
+      "sold": 24,
       "reserved": 25,
-      "available": 302,
-      "gross": 21150,
-      "occupancy_percent": 13.47
+      "available": 300,
+      "gross": 22050,
+      "occupancy_percent": 14.04
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -345,10 +331,10 @@
       "time": "",
       "seats": 349,
       "sold": 7,
-      "reserved": 25,
-      "available": 317,
-      "gross": 14400,
-      "occupancy_percent": 9.17
+      "reserved": 13,
+      "available": 329,
+      "gross": 9000,
+      "occupancy_percent": 5.73
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -359,11 +345,11 @@
       "date": "2026-08-27T17:30:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 15,
-      "reserved": 25,
-      "available": 309,
-      "gross": 18000,
-      "occupancy_percent": 11.46
+      "sold": 23,
+      "reserved": 13,
+      "available": 313,
+      "gross": 16200,
+      "occupancy_percent": 10.32
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -374,11 +360,11 @@
       "date": "2026-08-27T20:15:00+05:45",
       "time": "",
       "seats": 270,
-      "sold": 11,
+      "sold": 13,
       "reserved": 25,
-      "available": 234,
-      "gross": 16200,
-      "occupancy_percent": 13.33
+      "available": 232,
+      "gross": 17100,
+      "occupancy_percent": 14.07
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -390,10 +376,10 @@
       "time": "",
       "seats": 270,
       "sold": 4,
-      "reserved": 26,
-      "available": 240,
-      "gross": 13500,
-      "occupancy_percent": 11.11
+      "reserved": 13,
+      "available": 253,
+      "gross": 7650,
+      "occupancy_percent": 6.3
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -420,10 +406,10 @@
       "time": "",
       "seats": 279,
       "sold": 31,
-      "reserved": 34,
-      "available": 214,
-      "gross": 29250,
-      "occupancy_percent": 23.3
+      "reserved": 13,
+      "available": 235,
+      "gross": 19800,
+      "occupancy_percent": 15.77
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -435,10 +421,10 @@
       "time": "",
       "seats": 279,
       "sold": 8,
-      "reserved": 28,
-      "available": 243,
-      "gross": 16200,
-      "occupancy_percent": 12.9
+      "reserved": 13,
+      "available": 258,
+      "gross": 9450,
+      "occupancy_percent": 7.53
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -449,11 +435,11 @@
       "date": "2026-08-27T08:00:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 141,
-      "reserved": 28,
-      "available": 110,
-      "gross": 33800,
-      "occupancy_percent": 60.57
+      "sold": 150,
+      "reserved": 15,
+      "available": 114,
+      "gross": 33000,
+      "occupancy_percent": 59.14
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -464,11 +450,11 @@
       "date": "2026-08-27T19:15:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 36,
+      "sold": 38,
       "reserved": 34,
-      "available": 209,
-      "gross": 31500,
-      "occupancy_percent": 25.09
+      "available": 207,
+      "gross": 32400,
+      "occupancy_percent": 25.81
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -479,45 +465,41 @@
       "date": "2026-08-27T06:30:00+05:45",
       "time": "",
       "seats": 270,
-      "sold": 107,
-      "reserved": 18,
-      "available": 145,
-      "gross": 25000,
-      "occupancy_percent": 46.3
+      "sold": 121,
+      "reserved": 16,
+      "available": 133,
+      "gross": 27400,
+      "occupancy_percent": 50.74
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "186181:qfx-chhaya",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 1",
+      "date": "2026-08-27T11:45:00+05:45",
+      "time": "",
+      "seats": 112,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 112,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "186182:qfx-chhaya",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 1",
+      "date": "2026-08-27T15:45:00+05:45",
+      "time": "",
+      "seats": 112,
+      "sold": 4,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 108,
+      "gross": 1920,
+      "occupancy_percent": 3.57
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -550,7 +532,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -591,35 +573,31 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185735:qfx-civil",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-civil",
+      "theatre": "QFX Civil - AUDI 02",
+      "date": "2026-08-27T07:15:00+05:45",
+      "time": "",
+      "seats": 259,
+      "sold": 76,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 183,
+      "gross": 19225,
+      "occupancy_percent": 29.34
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185431:qfx-chhaya",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 2",
+      "date": "2026-08-27T11:15:00+05:45",
+      "time": "",
+      "seats": 150,
       "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "reserved": 15,
+      "available": 135,
+      "gross": 8400,
+      "occupancy_percent": 10.0
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -635,25 +613,23 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "186183:qfx-chhaya",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 1",
+      "date": "2026-08-27T19:45:00+05:45",
+      "time": "",
+      "seats": 112,
+      "sold": 11,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 101,
+      "gross": 5280,
+      "occupancy_percent": 9.82
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -676,52 +652,46 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185831:qfx-chhaya",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 1",
+      "date": "2026-08-27T07:45:00+05:45",
+      "time": "",
+      "seats": 112,
+      "sold": 15,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 97,
+      "gross": 3600,
+      "occupancy_percent": 13.39
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185430:qfx-chhaya",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 2",
+      "date": "2026-08-27T07:15:00+05:45",
+      "time": "",
+      "seats": 150,
+      "sold": 4,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 146,
+      "gross": 1120,
+      "occupancy_percent": 2.67
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185433:qfx-chhaya",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 2",
+      "date": "2026-08-27T19:15:00+05:45",
+      "time": "",
+      "seats": 150,
+      "sold": 4,
+      "reserved": 15,
+      "available": 131,
+      "gross": 10640,
+      "occupancy_percent": 12.67
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -744,103 +714,91 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185432:qfx-chhaya",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 2",
+      "date": "2026-08-27T15:15:00+05:45",
+      "time": "",
+      "seats": 150,
+      "sold": 15,
+      "reserved": 15,
+      "available": 120,
+      "gross": 16800,
+      "occupancy_percent": 20.0
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185301:qfx-durbar",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-durbar",
+      "theatre": "QFX Durbar - AUDI 1",
+      "date": "2026-08-27T17:00:00+05:45",
+      "time": "",
+      "seats": 53,
+      "sold": 9,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 44,
+      "gross": 12600,
+      "occupancy_percent": 16.98
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185350:qfx-durbar",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-durbar",
+      "theatre": "QFX Durbar - AUDI 02",
+      "date": "2026-08-27T21:15:00+05:45",
+      "time": "",
+      "seats": 51,
+      "sold": 12,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 39,
+      "gross": 16800,
+      "occupancy_percent": 23.53
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185335:qfx-durbar",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-durbar",
+      "theatre": "QFX Durbar - AUDI 02",
+      "date": "2026-08-27T10:30:00+05:45",
+      "time": "",
+      "seats": 51,
+      "sold": 7,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 44,
+      "gross": 9800,
+      "occupancy_percent": 13.73
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185300:qfx-durbar",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-durbar",
+      "theatre": "QFX Durbar - AUDI 1",
+      "date": "2026-08-27T20:45:00+05:45",
+      "time": "",
+      "seats": 53,
+      "sold": 2,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 51,
+      "gross": 2800,
+      "occupancy_percent": 3.77
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185340:qfx-durbar",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-durbar",
+      "theatre": "QFX Durbar - AUDI 02",
+      "date": "2026-08-27T14:30:00+05:45",
+      "time": "",
+      "seats": 51,
+      "sold": 6,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 45,
+      "gross": 8400,
+      "occupancy_percent": 11.76
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -861,18 +819,16 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185319:qfx-durbar",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-durbar",
+      "theatre": "QFX Durbar - AUDI 1",
+      "date": "2026-08-27T07:15:00+05:45",
+      "time": "",
+      "seats": 53,
+      "sold": 4,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 49,
+      "gross": 2800,
+      "occupancy_percent": 7.55
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -958,11 +914,11 @@
       "date": "2026-08-27T13:45:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
+      "sold": 1,
       "reserved": 17,
-      "available": 160,
-      "gross": 7650,
-      "occupancy_percent": 9.6
+      "available": 159,
+      "gross": 8100,
+      "occupancy_percent": 10.17
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1003,11 +959,11 @@
       "date": "2026-08-27T07:30:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 67,
+      "sold": 71,
       "reserved": 17,
-      "available": 126,
-      "gross": 18900,
-      "occupancy_percent": 40.0
+      "available": 122,
+      "gross": 19800,
+      "occupancy_percent": 41.9
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1019,10 +975,10 @@
       "time": "",
       "seats": 210,
       "sold": 7,
-      "reserved": 18,
-      "available": 185,
-      "gross": 11250,
-      "occupancy_percent": 11.9
+      "reserved": 17,
+      "available": 186,
+      "gross": 10800,
+      "occupancy_percent": 11.43
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1063,11 +1019,11 @@
       "date": "2026-08-27T07:15:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 36,
+      "sold": 48,
       "reserved": 17,
-      "available": 124,
-      "gross": 11925,
-      "occupancy_percent": 29.94
+      "available": 112,
+      "gross": 14625,
+      "occupancy_percent": 36.72
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1078,11 +1034,11 @@
       "date": "2026-08-27T11:15:00+05:45",
       "time": "",
       "seats": 203,
-      "sold": 17,
-      "reserved": 0,
-      "available": 186,
-      "gross": 8075,
-      "occupancy_percent": 8.37
+      "sold": 21,
+      "reserved": 1,
+      "available": 181,
+      "gross": 10450,
+      "occupancy_percent": 10.84
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1093,11 +1049,11 @@
       "date": "2026-08-27T17:45:00+05:45",
       "time": "",
       "seats": 67,
-      "sold": 21,
-      "reserved": 1,
-      "available": 45,
-      "gross": 13700,
-      "occupancy_percent": 32.84
+      "sold": 19,
+      "reserved": 0,
+      "available": 48,
+      "gross": 12050,
+      "occupancy_percent": 28.36
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1108,11 +1064,11 @@
       "date": "2026-08-27T08:45:00+05:45",
       "time": "",
       "seats": 67,
-      "sold": 28,
+      "sold": 34,
       "reserved": 0,
-      "available": 39,
-      "gross": 9400,
-      "occupancy_percent": 41.79
+      "available": 33,
+      "gross": 11200,
+      "occupancy_percent": 50.75
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1123,11 +1079,11 @@
       "date": "2026-08-27T18:45:00+05:45",
       "time": "",
       "seats": 203,
-      "sold": 70,
+      "sold": 81,
       "reserved": 0,
-      "available": 133,
-      "gross": 33250,
-      "occupancy_percent": 34.48
+      "available": 122,
+      "gross": 38475,
+      "occupancy_percent": 39.9
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1138,11 +1094,11 @@
       "date": "2026-08-27T07:30:00+05:45",
       "time": "",
       "seats": 203,
-      "sold": 97,
+      "sold": 99,
       "reserved": 0,
-      "available": 106,
-      "gross": 24250,
-      "occupancy_percent": 47.78
+      "available": 104,
+      "gross": 24750,
+      "occupancy_percent": 48.77
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1153,11 +1109,11 @@
       "date": "2026-08-27T15:00:00+05:45",
       "time": "",
       "seats": 203,
-      "sold": 31,
+      "sold": 36,
       "reserved": 0,
-      "available": 172,
-      "gross": 14725,
-      "occupancy_percent": 15.27
+      "available": 167,
+      "gross": 17100,
+      "occupancy_percent": 17.73
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1168,11 +1124,11 @@
       "date": "2026-08-27T06:00:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 102,
+      "sold": 106,
       "reserved": 0,
-      "available": 106,
-      "gross": 25500,
-      "occupancy_percent": 49.04
+      "available": 102,
+      "gross": 26500,
+      "occupancy_percent": 50.96
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1228,11 +1184,11 @@
       "date": "2026-08-27T09:45:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 134,
+      "sold": 139,
       "reserved": 0,
-      "available": 74,
-      "gross": 33500,
-      "occupancy_percent": 64.42
+      "available": 69,
+      "gross": 34750,
+      "occupancy_percent": 66.83
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1243,11 +1199,11 @@
       "date": "2026-08-27T21:00:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 44,
+      "sold": 45,
       "reserved": 0,
-      "available": 164,
-      "gross": 20900,
-      "occupancy_percent": 21.15
+      "available": 163,
+      "gross": 21375,
+      "occupancy_percent": 21.63
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1258,8 +1214,8 @@
       "date": "2026-08-27T08:15:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 25,
-      "reserved": 21,
+      "sold": 27,
+      "reserved": 19,
       "available": 164,
       "gross": 11040,
       "occupancy_percent": 21.9
@@ -1288,11 +1244,11 @@
       "date": "2026-08-27T17:15:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 62,
+      "sold": 64,
       "reserved": 0,
-      "available": 146,
-      "gross": 29450,
-      "occupancy_percent": 29.81
+      "available": 144,
+      "gross": 30400,
+      "occupancy_percent": 30.77
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1378,11 +1334,11 @@
       "date": "2026-08-27T17:15:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 11,
+      "sold": 13,
       "reserved": 14,
-      "available": 173,
-      "gross": 12000,
-      "occupancy_percent": 12.63
+      "available": 171,
+      "gross": 12960,
+      "occupancy_percent": 13.64
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1393,11 +1349,11 @@
       "date": "2026-08-27T18:30:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 59,
+      "sold": 64,
       "reserved": 14,
-      "available": 139,
-      "gross": 42820,
-      "occupancy_percent": 34.43
+      "available": 134,
+      "gross": 45840,
+      "occupancy_percent": 36.79
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1423,11 +1379,11 @@
       "date": "2026-08-27T11:00:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 13,
+      "sold": 17,
       "reserved": 18,
-      "available": 181,
-      "gross": 18100,
-      "occupancy_percent": 14.62
+      "available": 177,
+      "gross": 20660,
+      "occupancy_percent": 16.51
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1438,11 +1394,11 @@
       "date": "2026-08-27T09:45:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 48,
+      "sold": 50,
       "reserved": 10,
-      "available": 140,
-      "gross": 13920,
-      "occupancy_percent": 29.29
+      "available": 138,
+      "gross": 14400,
+      "occupancy_percent": 30.3
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1468,11 +1424,11 @@
       "date": "2026-08-27T06:00:00+05:45",
       "time": "",
       "seats": 251,
-      "sold": 22,
-      "reserved": 0,
-      "available": 229,
-      "gross": 4400,
-      "occupancy_percent": 8.76
+      "sold": 27,
+      "reserved": 4,
+      "available": 220,
+      "gross": 6200,
+      "occupancy_percent": 12.35
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1483,11 +1439,11 @@
       "date": "2026-08-27T09:45:00+05:45",
       "time": "",
       "seats": 251,
-      "sold": 62,
+      "sold": 65,
       "reserved": 5,
-      "available": 184,
-      "gross": 13400,
-      "occupancy_percent": 26.69
+      "available": 181,
+      "gross": 14000,
+      "occupancy_percent": 27.89
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1543,11 +1499,11 @@
       "date": "2026-08-27T07:15:00+05:45",
       "time": "",
       "seats": 101,
-      "sold": 9,
+      "sold": 12,
       "reserved": 0,
-      "available": 92,
-      "gross": 1575,
-      "occupancy_percent": 8.91
+      "available": 89,
+      "gross": 2100,
+      "occupancy_percent": 11.88
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1558,11 +1514,11 @@
       "date": "2026-08-27T19:45:00+05:45",
       "time": "",
       "seats": 285,
-      "sold": 18,
+      "sold": 21,
       "reserved": 0,
-      "available": 267,
-      "gross": 6300,
-      "occupancy_percent": 6.32
+      "available": 264,
+      "gross": 7350,
+      "occupancy_percent": 7.37
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1574,10 +1530,10 @@
       "time": "",
       "seats": 285,
       "sold": 3,
-      "reserved": 2,
-      "available": 280,
-      "gross": 1750,
-      "occupancy_percent": 1.75
+      "reserved": 0,
+      "available": 282,
+      "gross": 1050,
+      "occupancy_percent": 1.05
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1604,10 +1560,10 @@
       "time": "",
       "seats": 101,
       "sold": 2,
-      "reserved": 2,
-      "available": 97,
-      "gross": 1400,
-      "occupancy_percent": 3.96
+      "reserved": 3,
+      "available": 96,
+      "gross": 1750,
+      "occupancy_percent": 4.95
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1618,11 +1574,11 @@
       "date": "2026-08-27T07:00:00+05:45",
       "time": "",
       "seats": 285,
-      "sold": 36,
+      "sold": 42,
       "reserved": 0,
-      "available": 249,
-      "gross": 6300,
-      "occupancy_percent": 12.63
+      "available": 243,
+      "gross": 7350,
+      "occupancy_percent": 14.74
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1633,11 +1589,11 @@
       "date": "2026-08-27T10:45:00+05:45",
       "time": "",
       "seats": 285,
-      "sold": 70,
+      "sold": 71,
       "reserved": 20,
-      "available": 195,
-      "gross": 15750,
-      "occupancy_percent": 31.58
+      "available": 194,
+      "gross": 15925,
+      "occupancy_percent": 31.93
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1653,7 +1609,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -1721,7 +1677,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -1823,7 +1779,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -1840,7 +1796,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -1874,7 +1830,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -1908,7 +1864,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -1993,7 +1949,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -2027,7 +1983,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -2061,7 +2017,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -2078,7 +2034,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -2225,10 +2181,10 @@
       "time": "",
       "seats": 201,
       "sold": 2,
-      "reserved": 19,
-      "available": 180,
-      "gross": 7350,
-      "occupancy_percent": 10.45
+      "reserved": 16,
+      "available": 183,
+      "gross": 6300,
+      "occupancy_percent": 8.96
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2272,10 +2228,10 @@
       "time": "",
       "seats": 89,
       "sold": 0,
-      "reserved": 12,
-      "available": 77,
-      "gross": 2100,
-      "occupancy_percent": 13.48
+      "reserved": 13,
+      "available": 76,
+      "gross": 2275,
+      "occupancy_percent": 14.61
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2333,11 +2289,11 @@
       "date": "2026-08-27T17:15:00+05:45",
       "time": "",
       "seats": 136,
-      "sold": 18,
+      "sold": 22,
       "reserved": 0,
-      "available": 118,
-      "gross": 8160,
-      "occupancy_percent": 13.24
+      "available": 114,
+      "gross": 9920,
+      "occupancy_percent": 16.18
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2412,11 +2368,11 @@
       "date": "2026-08-27T07:45:00+05:45",
       "time": "",
       "seats": 136,
-      "sold": 16,
+      "sold": 17,
       "reserved": 0,
-      "available": 120,
-      "gross": 4000,
-      "occupancy_percent": 11.76
+      "available": 119,
+      "gross": 4250,
+      "occupancy_percent": 12.5
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2473,10 +2429,10 @@
       "time": "",
       "seats": 151,
       "sold": 17,
-      "reserved": 0,
-      "available": 134,
-      "gross": 7660,
-      "occupancy_percent": 11.26
+      "reserved": 1,
+      "available": 133,
+      "gross": 8100,
+      "occupancy_percent": 11.92
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2507,7 +2463,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -2541,7 +2497,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -2588,7 +2544,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -2639,7 +2595,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -2656,7 +2612,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -2698,11 +2654,11 @@
       "date": "2026-08-27T07:00:00+05:45",
       "time": "",
       "seats": 154,
-      "sold": 1,
+      "sold": 3,
       "reserved": 0,
-      "available": 153,
-      "gross": 150,
-      "occupancy_percent": 0.65
+      "available": 151,
+      "gross": 450,
+      "occupancy_percent": 1.95
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2713,11 +2669,11 @@
       "date": "2026-08-27T08:00:00+05:45",
       "time": "",
       "seats": 181,
-      "sold": 6,
+      "sold": 10,
       "reserved": 0,
-      "available": 175,
-      "gross": 900,
-      "occupancy_percent": 3.31
+      "available": 171,
+      "gross": 1500,
+      "occupancy_percent": 5.52
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2822,11 +2778,11 @@
       "date": "2026-08-27T16:40:00+05:45",
       "time": "",
       "seats": 172,
-      "sold": 5,
+      "sold": 10,
       "reserved": 8,
-      "available": 159,
-      "gross": 5070,
-      "occupancy_percent": 7.56
+      "available": 154,
+      "gross": 7020,
+      "occupancy_percent": 10.47
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2852,11 +2808,11 @@
       "date": "2026-08-27T11:45:00+05:45",
       "time": "",
       "seats": 178,
-      "sold": 11,
+      "sold": 15,
       "reserved": 8,
-      "available": 159,
-      "gross": 7410,
-      "occupancy_percent": 10.67
+      "available": 155,
+      "gross": 8970,
+      "occupancy_percent": 12.92
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2882,11 +2838,11 @@
       "date": "2026-08-27T19:15:00+05:45",
       "time": "",
       "seats": 178,
-      "sold": 66,
+      "sold": 75,
       "reserved": 8,
-      "available": 104,
-      "gross": 28860,
-      "occupancy_percent": 41.57
+      "available": 95,
+      "gross": 32370,
+      "occupancy_percent": 46.63
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2897,11 +2853,11 @@
       "date": "2026-08-27T15:30:00+05:45",
       "time": "",
       "seats": 178,
-      "sold": 7,
+      "sold": 9,
       "reserved": 8,
-      "available": 163,
-      "gross": 5850,
-      "occupancy_percent": 8.43
+      "available": 161,
+      "gross": 6630,
+      "occupancy_percent": 9.55
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2968,7 +2924,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -3036,7 +2992,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -3172,7 +3128,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -3196,16 +3152,18 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185369:chitwan-cineplex",
-      "venue": "chitwan-cineplex",
-      "theatre": "QFX Cinemas CG Mall - SCREEN 1",
-      "date": "2026-08-27T18:30:00+05:45",
-      "time": "",
-      "seats": 219,
-      "sold": 32,
-      "reserved": 10,
-      "available": 177,
-      "gross": 15960,
-      "occupancy_percent": 19.18
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3255,7 +3213,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -3285,10 +3243,10 @@
       "time": "",
       "seats": 309,
       "sold": 20,
-      "reserved": 7,
-      "available": 282,
-      "gross": 8100,
-      "occupancy_percent": 8.74
+      "reserved": 8,
+      "available": 281,
+      "gross": 8400,
+      "occupancy_percent": 9.06
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3315,10 +3273,10 @@
       "time": "",
       "seats": 309,
       "sold": 0,
-      "reserved": 0,
-      "available": 309,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 5,
+      "available": 304,
+      "gross": 1500,
+      "occupancy_percent": 1.62
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3334,7 +3292,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -3395,11 +3353,11 @@
       "date": "2026-08-27T19:30:00+05:45",
       "time": "",
       "seats": 226,
-      "sold": 3,
+      "sold": 8,
       "reserved": 0,
-      "available": 223,
-      "gross": 750,
-      "occupancy_percent": 1.33
+      "available": 218,
+      "gross": 2000,
+      "occupancy_percent": 3.54
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3425,11 +3383,11 @@
       "date": "2026-08-27T07:00:00+05:45",
       "time": "",
       "seats": 309,
-      "sold": 0,
+      "sold": 2,
       "reserved": 2,
-      "available": 307,
-      "gross": 300,
-      "occupancy_percent": 0.65
+      "available": 305,
+      "gross": 600,
+      "occupancy_percent": 1.29
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3450,31 +3408,35 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185263:qfx-skyline",
-      "venue": "qfx-skyline",
-      "theatre": "QFX Skyline - Audi 1",
-      "date": "2026-08-27T17:00:00+05:45",
-      "time": "",
-      "seats": 132,
-      "sold": 100,
-      "reserved": 1,
-      "available": 31,
-      "gross": 30300,
-      "occupancy_percent": 76.52
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185265:qfx-skyline",
-      "venue": "qfx-skyline",
-      "theatre": "QFX Skyline - Audi 1",
-      "date": "2026-08-27T13:00:00+05:45",
-      "time": "",
-      "seats": 132,
-      "sold": 93,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 39,
-      "gross": 27900,
-      "occupancy_percent": 70.45
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3558,7 +3520,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -3575,7 +3537,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -3602,11 +3564,11 @@
       "date": "2026-08-27T19:30:00+05:45",
       "time": "",
       "seats": 199,
-      "sold": 15,
+      "sold": 27,
       "reserved": 17,
-      "available": 167,
-      "gross": 10560,
-      "occupancy_percent": 16.08
+      "available": 155,
+      "gross": 14520,
+      "occupancy_percent": 22.11
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3657,31 +3619,35 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185264:qfx-skyline",
-      "venue": "qfx-skyline",
-      "theatre": "QFX Skyline - Audi 1",
-      "date": "2026-08-27T09:00:00+05:45",
-      "time": "",
-      "seats": 132,
-      "sold": 131,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 1,
-      "gross": 19650,
-      "occupancy_percent": 99.24
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185262:qfx-skyline",
-      "venue": "qfx-skyline",
-      "theatre": "QFX Skyline - Audi 1",
-      "date": "2026-08-27T21:00:00+05:45",
-      "time": "",
-      "seats": 132,
-      "sold": 104,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 28,
-      "gross": 31200,
-      "occupancy_percent": 78.79
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3707,11 +3673,11 @@
       "date": "2026-08-27T19:45:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 84,
+      "sold": 85,
       "reserved": 19,
-      "available": 93,
-      "gross": 33990,
-      "occupancy_percent": 52.55
+      "available": 92,
+      "gross": 34320,
+      "occupancy_percent": 53.06
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3739,11 +3705,11 @@
       "date": "2026-08-27T07:30:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 105,
-      "reserved": 20,
-      "available": 71,
-      "gross": 20625,
-      "occupancy_percent": 63.78
+      "sold": 107,
+      "reserved": 19,
+      "available": 70,
+      "gross": 20790,
+      "occupancy_percent": 64.29
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3754,11 +3720,11 @@
       "date": "2026-08-27T11:15:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 15,
+      "sold": 19,
       "reserved": 19,
-      "available": 162,
-      "gross": 11220,
-      "occupancy_percent": 17.35
+      "available": 158,
+      "gross": 12540,
+      "occupancy_percent": 19.39
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3779,16 +3745,18 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185582:qfx-butwal",
-      "venue": "qfx-butwal",
-      "theatre": "QFX Butwal - AUDI 1",
-      "date": "2026-08-27T19:45:00+05:45",
-      "time": "",
-      "seats": 176,
-      "sold": 62,
-      "reserved": 18,
-      "available": 96,
-      "gross": 37400,
-      "occupancy_percent": 45.45
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3814,11 +3782,11 @@
       "date": "2026-08-27T08:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 66,
+      "sold": 71,
       "reserved": 19,
-      "available": 111,
-      "gross": 14025,
-      "occupancy_percent": 43.37
+      "available": 106,
+      "gross": 14850,
+      "occupancy_percent": 45.92
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3829,11 +3797,11 @@
       "date": "2026-08-27T22:15:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 3,
-      "reserved": 3,
-      "available": 208,
-      "gross": 2100,
-      "occupancy_percent": 2.8
+      "sold": 21,
+      "reserved": 5,
+      "available": 188,
+      "gross": 9100,
+      "occupancy_percent": 12.15
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3844,11 +3812,11 @@
       "date": "2026-08-27T15:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 16,
+      "sold": 18,
       "reserved": 19,
-      "available": 161,
-      "gross": 11550,
-      "occupancy_percent": 17.86
+      "available": 159,
+      "gross": 12210,
+      "occupancy_percent": 18.88
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3864,7 +3832,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -3877,10 +3845,10 @@
       "time": "",
       "seats": 214,
       "sold": 6,
-      "reserved": 2,
-      "available": 206,
-      "gross": 2800,
-      "occupancy_percent": 3.74
+      "reserved": 6,
+      "available": 202,
+      "gross": 4200,
+      "occupancy_percent": 5.61
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3891,11 +3859,11 @@
       "date": "2026-08-27T18:30:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 25,
-      "reserved": 28,
-      "available": 161,
-      "gross": 18550,
-      "occupancy_percent": 24.77
+      "sold": 45,
+      "reserved": 30,
+      "available": 139,
+      "gross": 26250,
+      "occupancy_percent": 35.05
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3906,11 +3874,11 @@
       "date": "2026-08-27T07:30:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 65,
+      "sold": 67,
       "reserved": 8,
-      "available": 141,
-      "gross": 13870,
-      "occupancy_percent": 34.11
+      "available": 139,
+      "gross": 14250,
+      "occupancy_percent": 35.05
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3978,16 +3946,18 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185285:qfx-bageshwori",
-      "venue": "qfx-bageshwori",
-      "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
-      "date": "2026-08-27T18:00:00+05:45",
-      "time": "",
-      "seats": 290,
-      "sold": 6,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 284,
-      "gross": 1800,
-      "occupancy_percent": 2.07
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4003,7 +3973,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -4032,11 +4002,11 @@
       "date": "2026-08-27T20:15:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 117,
-      "reserved": 38,
-      "available": 62,
-      "gross": 66700,
-      "occupancy_percent": 71.43
+      "sold": 132,
+      "reserved": 26,
+      "available": 59,
+      "gross": 69800,
+      "occupancy_percent": 72.81
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4047,11 +4017,11 @@
       "date": "2026-08-27T12:45:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 5,
-      "reserved": 14,
-      "available": 198,
-      "gross": 7600,
-      "occupancy_percent": 8.76
+      "sold": 9,
+      "reserved": 13,
+      "available": 195,
+      "gross": 8800,
+      "occupancy_percent": 10.14
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4062,11 +4032,11 @@
       "date": "2026-08-27T16:15:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 12,
+      "sold": 19,
       "reserved": 13,
-      "available": 192,
-      "gross": 10600,
-      "occupancy_percent": 11.52
+      "available": 185,
+      "gross": 13400,
+      "occupancy_percent": 14.75
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4077,11 +4047,11 @@
       "date": "2026-08-27T15:15:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 8,
+      "sold": 10,
       "reserved": 13,
-      "available": 196,
-      "gross": 8400,
-      "occupancy_percent": 9.68
+      "available": 194,
+      "gross": 9200,
+      "occupancy_percent": 10.6
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4102,46 +4072,52 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185257:qfx-bageshwori",
-      "venue": "qfx-bageshwori",
-      "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
-      "date": "2026-08-27T11:00:00+05:45",
-      "time": "",
-      "seats": 290,
-      "sold": 16,
-      "reserved": 1,
-      "available": 273,
-      "gross": 3400,
-      "occupancy_percent": 5.86
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185249:qfx-bageshwori",
-      "venue": "qfx-bageshwori",
-      "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
-      "date": "2026-08-27T07:00:00+05:45",
-      "time": "",
-      "seats": 290,
-      "sold": 18,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 272,
-      "gross": 2700,
-      "occupancy_percent": 6.21
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185289:qfx-bageshwori",
-      "venue": "qfx-bageshwori",
-      "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
-      "date": "2026-08-27T22:00:00+05:45",
-      "time": "",
-      "seats": 290,
-      "sold": 6,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 284,
-      "gross": 1800,
-      "occupancy_percent": 2.07
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4186,11 +4162,11 @@
       "date": "2026-08-27T06:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 51,
+      "sold": 53,
       "reserved": 1,
-      "available": 165,
-      "gross": 10400,
-      "occupancy_percent": 23.96
+      "available": 163,
+      "gross": 10800,
+      "occupancy_percent": 24.88
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4201,11 +4177,11 @@
       "date": "2026-08-27T22:30:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 65,
-      "reserved": 0,
-      "available": 152,
-      "gross": 26000,
-      "occupancy_percent": 29.95
+      "sold": 73,
+      "reserved": 1,
+      "available": 143,
+      "gross": 30100,
+      "occupancy_percent": 34.1
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4216,11 +4192,11 @@
       "date": "2026-08-27T11:30:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 2,
-      "reserved": 13,
-      "available": 202,
-      "gross": 6000,
-      "occupancy_percent": 6.91
+      "sold": 4,
+      "reserved": 0,
+      "available": 213,
+      "gross": 1600,
+      "occupancy_percent": 1.84
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4246,11 +4222,11 @@
       "date": "2026-08-27T09:30:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 83,
+      "sold": 84,
       "reserved": 1,
-      "available": 133,
-      "gross": 16800,
-      "occupancy_percent": 38.71
+      "available": 132,
+      "gross": 17400,
+      "occupancy_percent": 39.17
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4276,11 +4252,11 @@
       "date": "2026-08-27T17:30:00+05:45",
       "time": "",
       "seats": 189,
-      "sold": 11,
-      "reserved": 0,
-      "available": 178,
-      "gross": 4330,
-      "occupancy_percent": 5.82
+      "sold": 16,
+      "reserved": 2,
+      "available": 171,
+      "gross": 8280,
+      "occupancy_percent": 9.52
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4291,11 +4267,11 @@
       "date": "2026-08-27T14:00:00+05:45",
       "time": "",
       "seats": 189,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 189,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 187,
+      "gross": 700,
+      "occupancy_percent": 1.06
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4336,11 +4312,11 @@
       "date": "2026-08-27T21:00:00+05:45",
       "time": "",
       "seats": 189,
-      "sold": 11,
-      "reserved": 8,
-      "available": 170,
-      "gross": 7610,
-      "occupancy_percent": 10.05
+      "sold": 25,
+      "reserved": 5,
+      "available": 159,
+      "gross": 13140,
+      "occupancy_percent": 15.87
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4351,11 +4327,11 @@
       "date": "2026-08-27T16:00:00+05:45",
       "time": "",
       "seats": 98,
-      "sold": 1,
+      "sold": 6,
       "reserved": 0,
-      "available": 97,
-      "gross": 350,
-      "occupancy_percent": 1.02
+      "available": 92,
+      "gross": 2820,
+      "occupancy_percent": 6.12
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4381,11 +4357,11 @@
       "date": "2026-08-27T10:30:00+05:45",
       "time": "",
       "seats": 189,
-      "sold": 2,
-      "reserved": 1,
-      "available": 186,
-      "gross": 1090,
-      "occupancy_percent": 1.59
+      "sold": 4,
+      "reserved": 0,
+      "available": 185,
+      "gross": 1000,
+      "occupancy_percent": 2.12
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4412,10 +4388,10 @@
       "time": "",
       "seats": 230,
       "sold": 2,
-      "reserved": 8,
-      "available": 220,
-      "gross": 4850,
-      "occupancy_percent": 4.35
+      "reserved": 6,
+      "available": 222,
+      "gross": 4150,
+      "occupancy_percent": 3.48
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4426,11 +4402,11 @@
       "date": "2026-08-27T20:30:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 62,
-      "reserved": 12,
-      "available": 156,
-      "gross": 27250,
-      "occupancy_percent": 32.17
+      "sold": 75,
+      "reserved": 8,
+      "available": 147,
+      "gross": 30400,
+      "occupancy_percent": 36.09
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4441,11 +4417,11 @@
       "date": "2026-08-27T09:45:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 44,
+      "sold": 64,
       "reserved": 6,
-      "available": 180,
-      "gross": 9940,
-      "occupancy_percent": 21.74
+      "available": 160,
+      "gross": 13640,
+      "occupancy_percent": 30.43
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4456,11 +4432,11 @@
       "date": "2026-08-27T15:30:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 15,
+      "sold": 25,
       "reserved": 6,
-      "available": 209,
-      "gross": 9150,
-      "occupancy_percent": 9.13
+      "available": 199,
+      "gross": 12650,
+      "occupancy_percent": 13.48
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4471,11 +4447,11 @@
       "date": "2026-08-27T13:30:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 3,
-      "reserved": 12,
-      "available": 215,
-      "gross": 7275,
-      "occupancy_percent": 6.52
+      "sold": 13,
+      "reserved": 6,
+      "available": 211,
+      "gross": 8675,
+      "occupancy_percent": 8.26
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4486,11 +4462,11 @@
       "date": "2026-08-27T08:30:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 65,
-      "reserved": 8,
-      "available": 157,
-      "gross": 14195,
-      "occupancy_percent": 31.74
+      "sold": 69,
+      "reserved": 6,
+      "available": 155,
+      "gross": 14565,
+      "occupancy_percent": 32.61
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4501,11 +4477,11 @@
       "date": "2026-08-27T17:00:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 43,
-      "reserved": 6,
-      "available": 181,
-      "gross": 19850,
-      "occupancy_percent": 21.3
+      "sold": 51,
+      "reserved": 8,
+      "available": 171,
+      "gross": 23350,
+      "occupancy_percent": 25.65
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4550,8 +4526,8 @@
       "date": "2026-08-27T19:15:00+05:45",
       "time": "",
       "seats": 268,
-      "sold": 102,
-      "reserved": 54,
+      "sold": 104,
+      "reserved": 52,
       "available": 112,
       "gross": 47720,
       "occupancy_percent": 58.21
@@ -4575,16 +4551,18 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "2834:pathivara-cine-plaza",
-      "venue": "pathivara-cine-plaza",
-      "theatre": "Pathivara Cineplaza - Birtamode - Hall-A",
-      "date": "2026-08-27T08:00:00+05:45",
-      "time": "",
-      "seats": 268,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 268,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4595,11 +4573,11 @@
       "date": "2026-08-27T11:45:00+05:45",
       "time": "",
       "seats": 268,
-      "sold": 4,
-      "reserved": 2,
-      "available": 262,
-      "gross": 1800,
-      "occupancy_percent": 2.24
+      "sold": 5,
+      "reserved": 4,
+      "available": 259,
+      "gross": 2700,
+      "occupancy_percent": 3.36
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4622,16 +4600,18 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185396:qfx-one-stop-mall",
-      "venue": "qfx-one-stop-mall",
-      "theatre": "QFX One Stop, Birtamod - AUDI 1",
-      "date": "2026-08-27T22:30:00+05:45",
-      "time": "",
-      "seats": 138,
-      "sold": 77,
-      "reserved": 10,
-      "available": 51,
-      "gross": 28050,
-      "occupancy_percent": 63.04
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4671,76 +4651,86 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185305:qfx-cineflix-itahari",
-      "venue": "qfx-cineflix-itahari",
-      "theatre": "QFX Cineflix, Itahari - Audi 2",
-      "date": "2026-08-27T23:45:00+05:45",
-      "time": "",
-      "seats": 134,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 134,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185290:qfx-cineflix-itahari",
-      "venue": "qfx-cineflix-itahari",
-      "theatre": "QFX Cineflix, Itahari - Audi 1",
-      "date": "2026-08-27T06:30:00+05:45",
-      "time": "",
-      "seats": 134,
-      "sold": 14,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 120,
-      "gross": 2100,
-      "occupancy_percent": 10.45
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185302:qfx-cineflix-itahari",
-      "venue": "qfx-cineflix-itahari",
-      "theatre": "QFX Cineflix, Itahari - Audi 1",
-      "date": "2026-08-27T23:00:00+05:45",
-      "time": "",
-      "seats": 134,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 134,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185298:qfx-cineflix-itahari",
-      "venue": "qfx-cineflix-itahari",
-      "theatre": "QFX Cineflix, Itahari - Audi 1",
-      "date": "2026-08-27T19:30:00+05:45",
-      "time": "",
-      "seats": 134,
-      "sold": 44,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 90,
-      "gross": 13600,
-      "occupancy_percent": 32.84
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185296:qfx-cineflix-itahari",
-      "venue": "qfx-cineflix-itahari",
-      "theatre": "QFX Cineflix, Itahari - Audi 1",
-      "date": "2026-08-27T15:45:00+05:45",
-      "time": "",
-      "seats": 134,
-      "sold": 2,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 132,
-      "gross": 600,
-      "occupancy_percent": 1.49
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4761,16 +4751,18 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185297:qfx-cineflix-itahari",
-      "venue": "qfx-cineflix-itahari",
-      "theatre": "QFX Cineflix, Itahari - Audi 2",
-      "date": "2026-08-27T16:30:00+05:45",
-      "time": "",
-      "seats": 134,
-      "sold": 32,
-      "reserved": 14,
-      "available": 88,
-      "gross": 15200,
-      "occupancy_percent": 34.33
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4791,16 +4783,18 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185299:qfx-cineflix-itahari",
-      "venue": "qfx-cineflix-itahari",
-      "theatre": "QFX Cineflix, Itahari - Audi 2",
-      "date": "2026-08-27T20:00:00+05:45",
-      "time": "",
-      "seats": 134,
-      "sold": 31,
-      "reserved": 14,
-      "available": 89,
-      "gross": 14900,
-      "occupancy_percent": 33.58
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4811,26 +4805,28 @@
       "date": "2026-08-27T08:30:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 14,
-      "reserved": 19,
-      "available": 181,
-      "gross": 5150,
-      "occupancy_percent": 15.42
+      "sold": 17,
+      "reserved": 22,
+      "available": 175,
+      "gross": 6100,
+      "occupancy_percent": 18.22
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185291:qfx-cineflix-itahari",
-      "venue": "qfx-cineflix-itahari",
-      "theatre": "QFX Cineflix, Itahari - Audi 2",
-      "date": "2026-08-27T07:00:00+05:45",
-      "time": "",
-      "seats": 134,
-      "sold": 38,
-      "reserved": 1,
-      "available": 95,
-      "gross": 6550,
-      "occupancy_percent": 29.1
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4841,11 +4837,11 @@
       "date": "2026-08-27T15:45:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 5,
-      "reserved": 17,
-      "available": 192,
-      "gross": 6600,
-      "occupancy_percent": 10.28
+      "sold": 7,
+      "reserved": 18,
+      "available": 189,
+      "gross": 7500,
+      "occupancy_percent": 11.68
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4856,11 +4852,11 @@
       "date": "2026-08-27T19:30:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 50,
-      "reserved": 28,
-      "available": 136,
-      "gross": 23700,
-      "occupancy_percent": 36.45
+      "sold": 52,
+      "reserved": 40,
+      "available": 122,
+      "gross": 27900,
+      "occupancy_percent": 42.99
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4872,10 +4868,10 @@
       "time": "",
       "seats": 214,
       "sold": 3,
-      "reserved": 17,
-      "available": 194,
-      "gross": 6000,
-      "occupancy_percent": 9.35
+      "reserved": 23,
+      "available": 188,
+      "gross": 7800,
+      "occupancy_percent": 12.15
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4886,11 +4882,11 @@
       "date": "2026-08-27T21:40:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 8,
+      "sold": 10,
       "reserved": 21,
-      "available": 218,
-      "gross": 10150,
-      "occupancy_percent": 11.74
+      "available": 216,
+      "gross": 11250,
+      "occupancy_percent": 12.55
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4901,11 +4897,11 @@
       "date": "2026-08-27T18:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 29,
+      "sold": 39,
       "reserved": 21,
-      "available": 197,
-      "gross": 17500,
-      "occupancy_percent": 20.24
+      "available": 187,
+      "gross": 21000,
+      "occupancy_percent": 24.29
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4917,10 +4913,10 @@
       "time": "",
       "seats": 165,
       "sold": 0,
-      "reserved": 9,
-      "available": 156,
-      "gross": 3150,
-      "occupancy_percent": 5.45
+      "reserved": 11,
+      "available": 154,
+      "gross": 4050,
+      "occupancy_percent": 6.67
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4947,10 +4943,10 @@
       "time": "",
       "seats": 165,
       "sold": 4,
-      "reserved": 21,
-      "available": 140,
-      "gross": 8950,
-      "occupancy_percent": 15.15
+      "reserved": 25,
+      "available": 136,
+      "gross": 10350,
+      "occupancy_percent": 17.58
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4961,11 +4957,11 @@
       "date": "2026-08-27T14:30:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 8,
-      "reserved": 13,
-      "available": 226,
-      "gross": 7550,
-      "occupancy_percent": 8.5
+      "sold": 12,
+      "reserved": 15,
+      "available": 220,
+      "gross": 9650,
+      "occupancy_percent": 10.93
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4977,10 +4973,10 @@
       "time": "",
       "seats": 247,
       "sold": 2,
-      "reserved": 31,
-      "available": 214,
-      "gross": 11550,
-      "occupancy_percent": 13.36
+      "reserved": 34,
+      "available": 211,
+      "gross": 12600,
+      "occupancy_percent": 14.57
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5006,11 +5002,11 @@
       "date": "2026-08-27T11:45:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 0,
+      "sold": 6,
       "reserved": 2,
-      "available": 131,
-      "gross": 500,
-      "occupancy_percent": 1.5
+      "available": 125,
+      "gross": 2000,
+      "occupancy_percent": 6.02
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5036,11 +5032,11 @@
       "date": "2026-08-27T14:15:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 0,
+      "sold": 4,
       "reserved": 18,
-      "available": 180,
-      "gross": 7200,
-      "occupancy_percent": 9.09
+      "available": 176,
+      "gross": 8800,
+      "occupancy_percent": 11.11
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5066,11 +5062,11 @@
       "date": "2026-08-27T08:00:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 5,
-      "reserved": 21,
-      "available": 172,
-      "gross": 5200,
-      "occupancy_percent": 13.13
+      "sold": 11,
+      "reserved": 18,
+      "available": 169,
+      "gross": 5800,
+      "occupancy_percent": 14.65
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5096,11 +5092,11 @@
       "date": "2026-08-27T15:00:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 4,
-      "reserved": 21,
-      "available": 173,
-      "gross": 10000,
-      "occupancy_percent": 12.63
+      "sold": 8,
+      "reserved": 18,
+      "available": 172,
+      "gross": 10400,
+      "occupancy_percent": 13.13
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5111,11 +5107,11 @@
       "date": "2026-08-27T12:00:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 2,
+      "sold": 4,
       "reserved": 4,
-      "available": 159,
-      "gross": 2100,
-      "occupancy_percent": 3.64
+      "available": 157,
+      "gross": 2800,
+      "occupancy_percent": 4.85
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5156,11 +5152,11 @@
       "date": "2026-08-27T20:15:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 21,
+      "sold": 22,
       "reserved": 18,
-      "available": 159,
-      "gross": 15600,
-      "occupancy_percent": 19.7
+      "available": 158,
+      "gross": 16000,
+      "occupancy_percent": 20.2
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5172,10 +5168,10 @@
       "time": "",
       "seats": 60,
       "sold": 0,
-      "reserved": 18,
-      "available": 42,
-      "gross": 11700,
-      "occupancy_percent": 30.0
+      "reserved": 21,
+      "available": 39,
+      "gross": 13650,
+      "occupancy_percent": 35.0
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5216,11 +5212,11 @@
       "date": "2026-08-27T07:30:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 14,
+      "sold": 18,
       "reserved": 18,
-      "available": 166,
-      "gross": 6400,
-      "occupancy_percent": 16.16
+      "available": 162,
+      "gross": 7200,
+      "occupancy_percent": 18.18
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5246,11 +5242,11 @@
       "date": "2026-08-27T18:45:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 33,
+      "sold": 45,
       "reserved": 18,
-      "available": 147,
-      "gross": 20400,
-      "occupancy_percent": 25.76
+      "available": 135,
+      "gross": 25200,
+      "occupancy_percent": 31.82
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5261,11 +5257,11 @@
       "date": "2026-08-27T11:15:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 4,
+      "sold": 6,
       "reserved": 18,
-      "available": 176,
-      "gross": 8800,
-      "occupancy_percent": 11.11
+      "available": 174,
+      "gross": 9600,
+      "occupancy_percent": 12.12
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5322,10 +5318,10 @@
       "time": "",
       "seats": 60,
       "sold": 0,
-      "reserved": 18,
-      "available": 42,
-      "gross": 11700,
-      "occupancy_percent": 30.0
+      "reserved": 21,
+      "available": 39,
+      "gross": 13650,
+      "occupancy_percent": 35.0
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5346,46 +5342,52 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "20058:birat-cine",
-      "venue": "birat-cine",
-      "theatre": "Birat Cine - Audi-2",
-      "date": "2026-08-27T11:15:00+05:45",
-      "time": "",
-      "seats": 169,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 2,
-      "available": 167,
-      "gross": 600,
-      "occupancy_percent": 1.18
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "20060:birat-cine",
-      "venue": "birat-cine",
-      "theatre": "Birat Cine - Audi-2",
-      "date": "2026-08-27T19:30:00+05:45",
-      "time": "",
-      "seats": 169,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 169,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "20059:birat-cine",
-      "venue": "birat-cine",
-      "theatre": "Birat Cine - Audi-2",
-      "date": "2026-08-27T15:00:00+05:45",
-      "time": "",
-      "seats": 169,
-      "sold": 2,
-      "reserved": 2,
-      "available": 165,
-      "gross": 1200,
-      "occupancy_percent": 2.37
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5442,10 +5444,10 @@
       "time": "",
       "seats": 306,
       "sold": 14,
-      "reserved": 0,
-      "available": 292,
-      "gross": 2450,
-      "occupancy_percent": 4.58
+      "reserved": 1,
+      "available": 291,
+      "gross": 2800,
+      "occupancy_percent": 4.9
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -5471,11 +5473,11 @@
       "date": "2026-08-27T19:15:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 12,
-      "reserved": 22,
-      "available": 176,
-      "gross": 5950,
-      "occupancy_percent": 16.19
+      "sold": 14,
+      "reserved": 24,
+      "available": 172,
+      "gross": 6650,
+      "occupancy_percent": 18.1
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -5486,11 +5488,11 @@
       "date": "2026-08-27T17:30:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 173,
+      "gross": 1400,
+      "occupancy_percent": 2.26
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -5561,11 +5563,11 @@
       "date": "2026-08-27T14:30:00+05:45",
       "time": "",
       "seats": 110,
-      "sold": 8,
-      "reserved": 0,
-      "available": 102,
-      "gross": 3120,
-      "occupancy_percent": 7.27
+      "sold": 10,
+      "reserved": 2,
+      "available": 98,
+      "gross": 4680,
+      "occupancy_percent": 10.91
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -5606,11 +5608,11 @@
       "date": "2026-08-27T11:15:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 11,
+      "sold": 16,
       "reserved": 0,
-      "available": 248,
-      "gross": 4150,
-      "occupancy_percent": 4.25
+      "available": 243,
+      "gross": 5900,
+      "occupancy_percent": 6.18
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -5666,11 +5668,11 @@
       "date": "2026-08-27T08:15:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 27,
+      "sold": 31,
       "reserved": 0,
-      "available": 232,
-      "gross": 5075,
-      "occupancy_percent": 10.42
+      "available": 228,
+      "gross": 5775,
+      "occupancy_percent": 11.97
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -5756,11 +5758,11 @@
       "date": "2026-08-27T10:00:00+05:45",
       "time": "",
       "seats": 134,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 134,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 130,
+      "gross": 1000,
+      "occupancy_percent": 2.99
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -5772,27 +5774,25 @@
       "time": "",
       "seats": 139,
       "sold": 1,
-      "reserved": 0,
-      "available": 138,
-      "gross": 350,
-      "occupancy_percent": 0.72
+      "reserved": 2,
+      "available": 136,
+      "gross": 1050,
+      "occupancy_percent": 2.16
     },
     {
       "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
       "movie_name": "Awarapan 2",
       "show_id": "186257:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 8",
+      "date": "2026-08-27T08:00:00+05:45",
+      "time": "",
+      "seats": 85,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 85,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
@@ -5843,18 +5843,16 @@
       "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
       "movie_name": "Awarapan 2",
       "show_id": "185380:qfx-durbar",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-durbar",
+      "theatre": "QFX Durbar - AUDI 1",
+      "date": "2026-08-27T11:00:00+05:45",
+      "time": "",
+      "seats": 53,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 53,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -5896,10 +5894,10 @@
       "time": "",
       "seats": 101,
       "sold": 6,
-      "reserved": 0,
-      "available": 95,
-      "gross": 2100,
-      "occupancy_percent": 5.94
+      "reserved": 2,
+      "available": 93,
+      "gross": 2800,
+      "occupancy_percent": 7.92
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -5940,11 +5938,11 @@
       "date": "2026-08-27T12:15:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 20,
-      "reserved": 18,
-      "available": 172,
-      "gross": 6650,
-      "occupancy_percent": 18.1
+      "sold": 26,
+      "reserved": 19,
+      "available": 165,
+      "gross": 7875,
+      "occupancy_percent": 21.43
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -5956,10 +5954,10 @@
       "time": "",
       "seats": 349,
       "sold": 2,
-      "reserved": 1,
-      "available": 346,
-      "gross": 600,
-      "occupancy_percent": 0.86
+      "reserved": 0,
+      "available": 347,
+      "gross": 400,
+      "occupancy_percent": 0.57
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -6042,16 +6040,18 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "185745:qfx-civil",
-      "venue": "qfx-civil",
-      "theatre": "QFX Civil - AUDI 03",
-      "date": "2026-08-27T14:15:00+05:45",
-      "time": "",
-      "seats": 259,
-      "sold": 2,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 257,
-      "gross": 700,
-      "occupancy_percent": 0.77
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -6072,18 +6072,16 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "186293:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 3",
+      "date": "2026-08-27T09:00:00+05:45",
+      "time": "",
+      "seats": 222,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 222,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -6099,7 +6097,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -6121,16 +6119,18 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "185461:qfx-labim",
-      "venue": "qfx-labim",
-      "theatre": "QFX Labim - AUDI 3",
-      "date": "2026-08-27T13:45:00+05:45",
-      "time": "",
-      "seats": 183,
-      "sold": 6,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 177,
-      "gross": 2340,
-      "occupancy_percent": 3.28
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -6196,18 +6196,16 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "185409:qfx-bhaktapur",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 1",
+      "date": "2026-08-27T12:00:00+05:45",
+      "time": "",
+      "seats": 207,
+      "sold": 15,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 192,
+      "gross": 3750,
+      "occupancy_percent": 7.25
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -6243,21 +6241,6 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "185408:qfx-bhaktapur",
-      "venue": "qfx-bhaktapur",
-      "theatre": "QFX Bhaktapur - AUDI 1",
-      "date": "2026-08-27T15:00:00+05:45",
-      "time": "",
-      "seats": 207,
-      "sold": 4,
-      "reserved": 0,
-      "available": 203,
-      "gross": 1000,
-      "occupancy_percent": 1.93
-    },
-    {
-      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
-      "movie_name": "Gauthali",
-      "show_id": "185278:qfx-bageshwori",
       "venue": null,
       "theatre": null,
       "date": "2026-08-27",
@@ -6270,6 +6253,21 @@
       "occupancy_percent": 0,
       "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "185278:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
+      "date": "2026-08-27T15:00:00+05:45",
+      "time": "",
+      "seats": 290,
+      "sold": 0,
+      "reserved": 0,
+      "available": 290,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -6385,11 +6383,11 @@
       "date": "2026-08-27T10:30:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 2,
+      "sold": 6,
       "reserved": 0,
-      "available": 181,
-      "gross": 940,
-      "occupancy_percent": 1.09
+      "available": 177,
+      "gross": 2820,
+      "occupancy_percent": 3.28
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -6425,18 +6423,16 @@
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
       "movie_name": "Spider-Man: Brand New Day - Hindi",
       "show_id": "186289:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 2",
+      "date": "2026-08-27T12:15:00+05:45",
+      "time": "",
+      "seats": 98,
+      "sold": 2,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 96,
+      "gross": 960,
+      "occupancy_percent": 2.04
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -6476,18 +6472,16 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "185581:qfx-butwal",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-butwal",
+      "theatre": "QFX Butwal - AUDI 1",
+      "date": "2026-08-27T12:45:00+05:45",
+      "time": "",
+      "seats": 176,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 176,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
@@ -6590,11 +6584,11 @@
       "date": "2026-08-27T16:30:00+05:45",
       "time": "",
       "seats": 213,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 213,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 211,
+      "gross": 500,
+      "occupancy_percent": 0.94
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -6650,11 +6644,11 @@
       "date": "2026-08-27T12:05:00+05:45",
       "time": "",
       "seats": 204,
-      "sold": 84,
+      "sold": 98,
       "reserved": 0,
-      "available": 120,
-      "gross": 26400,
-      "occupancy_percent": 41.18
+      "available": 106,
+      "gross": 31300,
+      "occupancy_percent": 48.04
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -6665,11 +6659,11 @@
       "date": "2026-08-27T15:50:00+05:45",
       "time": "",
       "seats": 204,
-      "sold": 76,
+      "sold": 82,
       "reserved": 0,
-      "available": 128,
-      "gross": 23100,
-      "occupancy_percent": 37.25
+      "available": 122,
+      "gross": 25400,
+      "occupancy_percent": 40.2
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -6695,11 +6689,11 @@
       "date": "2026-08-27T20:40:00+05:45",
       "time": "",
       "seats": 190,
-      "sold": 19,
-      "reserved": 5,
-      "available": 166,
-      "gross": 7200,
-      "occupancy_percent": 12.63
+      "sold": 28,
+      "reserved": 4,
+      "available": 158,
+      "gross": 9600,
+      "occupancy_percent": 16.84
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -6710,11 +6704,11 @@
       "date": "2026-08-27T17:00:00+05:45",
       "time": "",
       "seats": 190,
-      "sold": 2,
+      "sold": 6,
       "reserved": 2,
-      "available": 186,
-      "gross": 1200,
-      "occupancy_percent": 2.11
+      "available": 182,
+      "gross": 2400,
+      "occupancy_percent": 4.21
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -6725,11 +6719,11 @@
       "date": "2026-08-27T20:30:00+05:45",
       "time": "",
       "seats": 190,
-      "sold": 16,
+      "sold": 21,
       "reserved": 0,
-      "available": 174,
-      "gross": 4000,
-      "occupancy_percent": 8.42
+      "available": 169,
+      "gross": 5250,
+      "occupancy_percent": 11.05
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -6740,11 +6734,11 @@
       "date": "2026-08-27T16:45:00+05:45",
       "time": "",
       "seats": 190,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 190,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 188,
+      "gross": 500,
+      "occupancy_percent": 1.05
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -6920,11 +6914,11 @@
       "date": "2026-08-27T15:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 0,
-      "reserved": 17,
-      "available": 163,
-      "gross": 6800,
-      "occupancy_percent": 9.44
+      "sold": 8,
+      "reserved": 15,
+      "available": 157,
+      "gross": 9200,
+      "occupancy_percent": 12.78
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -6997,11 +6991,11 @@
       "date": "2026-08-27T16:30:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 0,
-      "reserved": 2,
-      "available": 141,
-      "gross": 400,
-      "occupancy_percent": 1.4
+      "sold": 4,
+      "reserved": 0,
+      "available": 139,
+      "gross": 1400,
+      "occupancy_percent": 2.8
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -7012,11 +7006,11 @@
       "date": "2026-08-27T20:15:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 5,
-      "reserved": 18,
-      "available": 120,
-      "gross": 6900,
-      "occupancy_percent": 16.08
+      "sold": 19,
+      "reserved": 9,
+      "available": 115,
+      "gross": 8400,
+      "occupancy_percent": 19.58
     },
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
@@ -7028,10 +7022,10 @@
       "time": "",
       "seats": 143,
       "sold": 0,
-      "reserved": 0,
-      "available": 143,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 3,
+      "available": 140,
+      "gross": 450,
+      "occupancy_percent": 2.1
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -7042,11 +7036,11 @@
       "date": "2026-08-27T12:30:00+05:45",
       "time": "",
       "seats": 240,
-      "sold": 35,
-      "reserved": 23,
-      "available": 182,
-      "gross": 9860,
-      "occupancy_percent": 24.17
+      "sold": 70,
+      "reserved": 0,
+      "available": 170,
+      "gross": 11900,
+      "occupancy_percent": 29.17
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -7067,16 +7061,18 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "704431:elite-cinemas",
-      "venue": "elite-cinemas",
-      "theatre": "Elite Cinemas - Hall-2",
-      "date": "2026-08-27T13:45:00+05:45",
-      "time": "",
-      "seats": 143,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 143,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -7132,11 +7128,11 @@
       "date": "2026-08-27T10:45:00+05:45",
       "time": "",
       "seats": 164,
-      "sold": 2,
+      "sold": 13,
       "reserved": 0,
-      "available": 162,
-      "gross": 400,
-      "occupancy_percent": 1.22
+      "available": 151,
+      "gross": 2600,
+      "occupancy_percent": 7.93
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -7237,11 +7233,11 @@
       "date": "2026-08-27T07:30:00+05:45",
       "time": "",
       "seats": 118,
-      "sold": 0,
-      "reserved": 0,
-      "available": 118,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "sold": 3,
+      "reserved": 1,
+      "available": 114,
+      "gross": 700,
+      "occupancy_percent": 3.39
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -7252,45 +7248,41 @@
       "date": "2026-08-27T07:30:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 2,
+      "sold": 7,
       "reserved": 0,
-      "available": 215,
-      "gross": 400,
-      "occupancy_percent": 0.92
+      "available": 210,
+      "gross": 1400,
+      "occupancy_percent": 3.23
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185454:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-08-27T23:00:00+05:45",
+      "time": "",
+      "seats": 180,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 180,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "186414:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-27",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 3",
+      "date": "2026-08-27T06:30:00+05:45",
+      "time": "",
+      "seats": 183,
+      "sold": 11,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 172,
+      "gross": 2640,
+      "occupancy_percent": 6.01
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -7330,16 +7322,18 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "185391:qfx-one-stop-mall",
-      "venue": "qfx-one-stop-mall",
-      "theatre": "QFX One Stop, Birtamod - AUDI 2",
-      "date": "2026-08-27T10:00:00+05:45",
-      "time": "",
-      "seats": 133,
-      "sold": 1,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 132,
-      "gross": 300,
-      "occupancy_percent": 0.75
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -7350,11 +7344,11 @@
       "date": "2026-08-27T18:40:00+05:45",
       "time": "",
       "seats": 378,
-      "sold": 0,
-      "reserved": 0,
-      "available": 378,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "sold": 10,
+      "reserved": 20,
+      "available": 348,
+      "gross": 8750,
+      "occupancy_percent": 7.94
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -7366,10 +7360,10 @@
       "time": "",
       "seats": 378,
       "sold": 0,
-      "reserved": 0,
-      "available": 378,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 20,
+      "available": 358,
+      "gross": 6000,
+      "occupancy_percent": 5.29
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -7381,10 +7375,10 @@
       "time": "",
       "seats": 378,
       "sold": 0,
-      "reserved": 0,
-      "available": 378,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 20,
+      "available": 358,
+      "gross": 6000,
+      "occupancy_percent": 5.29
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -7415,6 +7409,177 @@
       "available": 133,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "37936:dmax-cinemas",
+      "venue": "dmax-cinemas",
+      "theatre": "D-Max Cinemas - Audi 2",
+      "date": "2026-08-27T19:00:00+05:45",
+      "time": "",
+      "seats": 130,
+      "sold": 24,
+      "reserved": 9,
+      "available": 97,
+      "gross": 9900,
+      "occupancy_percent": 25.38
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "37934:dmax-cinemas",
+      "venue": "dmax-cinemas",
+      "theatre": "D-Max Cinemas - Audi 2",
+      "date": "2026-08-27T11:15:00+05:45",
+      "time": "",
+      "seats": 130,
+      "sold": 0,
+      "reserved": 0,
+      "available": 130,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "186419:qfx-apex-mall",
+      "venue": "qfx-apex-mall",
+      "theatre": "QFX Apex Mall, Damauli - AUDI 1",
+      "date": "2026-08-27T15:00:00+05:45",
+      "time": "",
+      "seats": 120,
+      "sold": 0,
+      "reserved": 0,
+      "available": 120,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "253177:bamel-cinemas",
+      "venue": "bamel-cinemas",
+      "theatre": "Bamel Cinemas - Audi 1",
+      "date": "2026-08-27T15:30:00+05:45",
+      "time": "",
+      "seats": 137,
+      "sold": 0,
+      "reserved": 0,
+      "available": 137,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "253176:bamel-cinemas",
+      "venue": "bamel-cinemas",
+      "theatre": "Bamel Cinemas - Audi 1",
+      "date": "2026-08-27T11:45:00+05:45",
+      "time": "",
+      "seats": 137,
+      "sold": 0,
+      "reserved": 0,
+      "available": 137,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "253174:bamel-cinemas",
+      "venue": "bamel-cinemas",
+      "theatre": "Bamel Cinemas - Audi 1",
+      "date": "2026-08-27T19:15:00+05:45",
+      "time": "",
+      "seats": 137,
+      "sold": 1,
+      "reserved": 0,
+      "available": 136,
+      "gross": 250,
+      "occupancy_percent": 0.73
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "20064:birat-cine",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "iPcoxptpNj3a22WpQ6vSum",
+      "movie_name": "Masterni",
+      "show_id": "253175:bamel-cinemas",
+      "venue": "bamel-cinemas",
+      "theatre": "Bamel Cinemas - Audi 1",
+      "date": "2026-08-27T09:30:00+05:45",
+      "time": "",
+      "seats": 137,
+      "sold": 0,
+      "reserved": 0,
+      "available": 137,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "iPcoxptpNj3a22WpQ6vSum",
+      "movie_name": "Masterni",
+      "show_id": "20065:birat-cine",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "37935:dmax-cinemas",
+      "venue": "dmax-cinemas",
+      "theatre": "D-Max Cinemas - Audi 2",
+      "date": "2026-08-27T15:00:00+05:45",
+      "time": "",
+      "seats": 130,
+      "sold": 0,
+      "reserved": 0,
+      "available": 130,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "186418:qfx-apex-mall",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     }
   ]
 }
