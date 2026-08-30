@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "lastUpdated": "07:36 PM, 30 August 2026",
+  "lastUpdated": "11:49 PM, 30 August 2026",
   "shows": [
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -27,10 +27,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 10,
-      "available": 188,
-      "gross": 2400,
-      "occupancy_percent": 5.05
+      "reserved": 14,
+      "available": 184,
+      "gross": 3360,
+      "occupancy_percent": 7.07
     },
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -308,7 +308,7 @@
       "show_id": "186933:chitwan-cineplex",
       "venue": "chitwan-cineplex",
       "theatre": "QFX Cinemas CG Mall - SCREEN 2",
-      "date": "2026-09-01T17:30:00+05:45",
+      "date": "2026-09-01T18:30:00+05:45",
       "time": "",
       "seats": 143,
       "sold": 0,
@@ -338,7 +338,7 @@
       "show_id": "186932:chitwan-cineplex",
       "venue": "chitwan-cineplex",
       "theatre": "QFX Cinemas CG Mall - SCREEN 2",
-      "date": "2026-09-01T11:30:00+05:45",
+      "date": "2026-09-01T12:15:00+05:45",
       "time": "",
       "seats": 143,
       "sold": 0,
@@ -431,11 +431,11 @@
       "date": "2026-09-01T10:30:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 51,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 49,
+      "gross": 1600,
+      "occupancy_percent": 3.92
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -507,10 +507,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 21,
-      "available": 191,
-      "gross": 7420,
-      "occupancy_percent": 9.91
+      "reserved": 25,
+      "available": 187,
+      "gross": 8850,
+      "occupancy_percent": 11.79
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -536,11 +536,11 @@
       "date": "2026-09-01T20:15:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 0,
-      "reserved": 22,
-      "available": 188,
-      "gross": 5280,
-      "occupancy_percent": 10.48
+      "sold": 2,
+      "reserved": 24,
+      "available": 184,
+      "gross": 6240,
+      "occupancy_percent": 12.38
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -552,10 +552,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 27,
-      "available": 183,
-      "gross": 6480,
-      "occupancy_percent": 12.86
+      "reserved": 30,
+      "available": 180,
+      "gross": 7200,
+      "occupancy_percent": 14.29
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -642,10 +642,10 @@
       "time": "",
       "seats": 212,
       "sold": 16,
-      "reserved": 23,
-      "available": 173,
-      "gross": 13435,
-      "occupancy_percent": 18.4
+      "reserved": 19,
+      "available": 177,
+      "gross": 12075,
+      "occupancy_percent": 16.51
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -746,11 +746,11 @@
       "date": "2026-09-01T19:30:00+05:45",
       "time": "",
       "seats": 285,
-      "sold": 0,
+      "sold": 8,
       "reserved": 4,
-      "available": 281,
-      "gross": 700,
-      "occupancy_percent": 1.4
+      "available": 273,
+      "gross": 2100,
+      "occupancy_percent": 4.21
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -896,11 +896,11 @@
       "date": "2026-09-01T18:30:00+05:45",
       "time": "",
       "seats": 256,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 256,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 254,
+      "gross": 600,
+      "occupancy_percent": 0.78
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1156,7 +1156,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -1173,7 +1173,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -1317,7 +1317,7 @@
       "show_id": "186931:chitwan-cineplex",
       "venue": "chitwan-cineplex",
       "theatre": "QFX Cinemas CG Mall - SCREEN 2",
-      "date": "2026-09-01T14:30:00+05:45",
+      "date": "2026-09-01T15:30:00+05:45",
       "time": "",
       "seats": 143,
       "sold": 0,
@@ -1400,10 +1400,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 17,
-      "available": 193,
-      "gross": 4080,
-      "occupancy_percent": 8.1
+      "reserved": 25,
+      "available": 185,
+      "gross": 6000,
+      "occupancy_percent": 11.9
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -1504,11 +1504,11 @@
       "date": "2026-09-01T18:15:00+05:45",
       "time": "",
       "seats": 98,
-      "sold": 4,
+      "sold": 6,
       "reserved": 0,
-      "available": 94,
-      "gross": 1320,
-      "occupancy_percent": 4.08
+      "available": 92,
+      "gross": 1980,
+      "occupancy_percent": 6.12
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2099,16 +2099,18 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "186790:qfx-civil",
-      "venue": "qfx-civil",
-      "theatre": "QFX Civil - AUDI 01",
-      "date": "2026-09-01T14:30:00+05:45",
-      "time": "",
-      "seats": 519,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-01",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 519,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2539,11 +2541,11 @@
       "date": "2026-09-01T11:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 192,
+      "gross": 800,
+      "occupancy_percent": 2.04
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2584,11 +2586,11 @@
       "date": "2026-09-01T11:45:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 194,
-      "gross": 560,
-      "occupancy_percent": 1.02
+      "available": 192,
+      "gross": 1120,
+      "occupancy_percent": 2.04
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2854,11 +2856,11 @@
       "date": "2026-09-01T21:30:00+05:45",
       "time": "",
       "seats": 169,
-      "sold": 18,
+      "sold": 20,
       "reserved": 0,
-      "available": 151,
-      "gross": 4500,
-      "occupancy_percent": 10.65
+      "available": 149,
+      "gross": 4850,
+      "occupancy_percent": 11.83
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2956,7 +2958,7 @@
       "show_id": "186793:qfx-civil",
       "venue": "qfx-civil",
       "theatre": "QFX Civil - AUDI 03",
-      "date": "2026-09-01T16:00:00+05:45",
+      "date": "2026-09-01T15:45:00+05:45",
       "time": "",
       "seats": 259,
       "sold": 0,
@@ -3166,7 +3168,7 @@
       "show_id": "186795:qfx-civil",
       "venue": "qfx-civil",
       "theatre": "QFX Civil - AUDI 03",
-      "date": "2026-09-01T19:15:00+05:45",
+      "date": "2026-09-01T19:00:00+05:45",
       "time": "",
       "seats": 259,
       "sold": 0,
@@ -3259,11 +3261,11 @@
       "date": "2026-09-01T11:15:00+05:45",
       "time": "",
       "seats": 231,
-      "sold": 0,
+      "sold": 7,
       "reserved": 0,
-      "available": 231,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 224,
+      "gross": 1400,
+      "occupancy_percent": 3.03
     },
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -3320,10 +3322,10 @@
       "time": "",
       "seats": 165,
       "sold": 0,
-      "reserved": 1,
-      "available": 164,
-      "gross": 175,
-      "occupancy_percent": 0.61
+      "reserved": 2,
+      "available": 163,
+      "gross": 400,
+      "occupancy_percent": 1.21
     },
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -3559,11 +3561,11 @@
       "date": "2026-09-01T11:00:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 138,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 134,
+      "gross": 1200,
+      "occupancy_percent": 2.9
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3590,10 +3592,10 @@
       "time": "",
       "seats": 247,
       "sold": 0,
-      "reserved": 2,
-      "available": 245,
-      "gross": 350,
-      "occupancy_percent": 0.81
+      "reserved": 3,
+      "available": 244,
+      "gross": 525,
+      "occupancy_percent": 1.21
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3619,11 +3621,11 @@
       "date": "2026-09-01T15:30:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 0,
-      "reserved": 0,
-      "available": 247,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "sold": 2,
+      "reserved": 1,
+      "available": 244,
+      "gross": 525,
+      "occupancy_percent": 1.21
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
