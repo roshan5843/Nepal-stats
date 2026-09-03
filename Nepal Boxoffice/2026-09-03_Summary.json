@@ -2,11 +2,11 @@
   {
     "movie_id": "nNrxAV2qYnScSjkA24GQRd",
     "movie_name": "Toxic",
-    "total_shows": 103,
-    "seats": 20506,
-    "sold": 1114,
+    "total_shows": 105,
+    "seats": 20884,
+    "sold": 1149,
     "reserved": 329,
-    "available": 19063,
+    "available": 19406,
     "housefull": 2,
     "fastfilling": 0,
     "venues": [
@@ -147,6 +147,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 213,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 12,
+        "reserved": 0,
+        "available": 202,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -472,11 +482,11 @@
       },
       {
         "venue": "ranjana-cineplex",
-        "total_shows": 4,
-        "seats": 784,
-        "sold": 67,
+        "total_shows": 5,
+        "seats": 948,
+        "sold": 90,
         "reserved": 4,
-        "available": 713,
+        "available": 854,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1368,6 +1378,29 @@
         "sold": 0,
         "reserved": 0,
         "available": 129,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
+    "movie_name": "Elephants in the Fog",
+    "total_shows": 1,
+    "seats": 306,
+    "sold": 14,
+    "reserved": 0,
+    "available": 292,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "jai-nepal-cinema",
+        "total_shows": 1,
+        "seats": 306,
+        "sold": 14,
+        "reserved": 0,
+        "available": 292,
         "housefull": 0,
         "fastfilling": 0
       }
