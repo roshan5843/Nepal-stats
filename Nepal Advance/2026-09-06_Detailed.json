@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "lastUpdated": "11:25 PM, 04 September 2026",
+  "lastUpdated": "03:47 AM, 05 September 2026",
   "shows": [
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -491,11 +491,11 @@
       "date": "2026-09-06T15:00:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 198,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 196,
+      "gross": 800,
+      "occupancy_percent": 1.01
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -1331,11 +1331,11 @@
       "date": "2026-09-06T08:30:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 19,
+      "sold": 20,
       "reserved": 16,
-      "available": 212,
-      "gross": 9100,
-      "occupancy_percent": 14.17
+      "available": 211,
+      "gross": 9360,
+      "occupancy_percent": 14.57
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -1677,10 +1677,10 @@
       "time": "",
       "seats": 203,
       "sold": 20,
-      "reserved": 1,
-      "available": 182,
-      "gross": 5250,
-      "occupancy_percent": 10.34
+      "reserved": 0,
+      "available": 183,
+      "gross": 5000,
+      "occupancy_percent": 9.85
     },
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -2097,10 +2097,10 @@
       "time": "",
       "seats": 180,
       "sold": 12,
-      "reserved": 2,
-      "available": 166,
-      "gross": 3920,
-      "occupancy_percent": 7.78
+      "reserved": 0,
+      "available": 168,
+      "gross": 3360,
+      "occupancy_percent": 6.67
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -2216,11 +2216,11 @@
       "date": "2026-09-06T16:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 4,
+      "sold": 5,
       "reserved": 0,
-      "available": 176,
-      "gross": 2240,
-      "occupancy_percent": 2.22
+      "available": 175,
+      "gross": 2800,
+      "occupancy_percent": 2.78
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -2577,10 +2577,10 @@
       "time": "",
       "seats": 151,
       "sold": 14,
-      "reserved": 1,
-      "available": 136,
-      "gross": 6600,
-      "occupancy_percent": 9.93
+      "reserved": 0,
+      "available": 137,
+      "gross": 6160,
+      "occupancy_percent": 9.27
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -4069,11 +4069,11 @@
       "date": "2026-09-06T11:00:00+05:45",
       "time": "",
       "seats": 112,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 110,
-      "gross": 960,
-      "occupancy_percent": 1.79
+      "available": 108,
+      "gross": 1920,
+      "occupancy_percent": 3.57
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -4264,11 +4264,11 @@
       "date": "2026-09-06T08:30:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 17,
+      "sold": 20,
       "reserved": 0,
-      "available": 116,
-      "gross": 3655,
-      "occupancy_percent": 12.78
+      "available": 113,
+      "gross": 4300,
+      "occupancy_percent": 15.04
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -4312,6 +4312,81 @@
       "sold": 0,
       "reserved": 0,
       "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "279:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi-1",
+      "date": "2026-09-06T21:30:00+05:45",
+      "time": "",
+      "seats": 251,
+      "sold": 0,
+      "reserved": 0,
+      "available": 251,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "275:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi-1",
+      "date": "2026-09-06T08:00:00+05:45",
+      "time": "",
+      "seats": 251,
+      "sold": 0,
+      "reserved": 0,
+      "available": 251,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "276:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi-1",
+      "date": "2026-09-06T11:45:00+05:45",
+      "time": "",
+      "seats": 251,
+      "sold": 0,
+      "reserved": 0,
+      "available": 251,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "287:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi 3",
+      "date": "2026-09-06T14:30:00+05:45",
+      "time": "",
+      "seats": 164,
+      "sold": 0,
+      "reserved": 0,
+      "available": 164,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "278:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi-1",
+      "date": "2026-09-06T17:45:00+05:45",
+      "time": "",
+      "seats": 251,
+      "sold": 0,
+      "reserved": 0,
+      "available": 251,
       "gross": 0,
       "occupancy_percent": 0.0
     }
