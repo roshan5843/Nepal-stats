@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "lastUpdated": "05:12 AM, 06 September 2026",
+  "lastUpdated": "09:24 AM, 06 September 2026",
   "shows": [
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -327,10 +327,10 @@
       "time": "",
       "seats": 198,
       "sold": 3,
-      "reserved": 12,
-      "available": 183,
-      "gross": 2625,
-      "occupancy_percent": 7.58
+      "reserved": 14,
+      "available": 181,
+      "gross": 2975,
+      "occupancy_percent": 8.59
     },
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -417,10 +417,10 @@
       "time": "",
       "seats": 136,
       "sold": 16,
-      "reserved": 0,
-      "available": 120,
-      "gross": 3300,
-      "occupancy_percent": 11.76
+      "reserved": 1,
+      "available": 119,
+      "gross": 3500,
+      "occupancy_percent": 12.5
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -432,10 +432,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 18,
-      "available": 194,
-      "gross": 5150,
-      "occupancy_percent": 8.49
+      "reserved": 21,
+      "available": 191,
+      "gross": 5975,
+      "occupancy_percent": 9.91
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -477,10 +477,10 @@
       "time": "",
       "seats": 212,
       "sold": 5,
-      "reserved": 20,
-      "available": 187,
-      "gross": 7025,
-      "occupancy_percent": 11.79
+      "reserved": 22,
+      "available": 185,
+      "gross": 7675,
+      "occupancy_percent": 12.74
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -492,10 +492,10 @@
       "time": "",
       "seats": 212,
       "sold": 2,
-      "reserved": 16,
-      "available": 194,
-      "gross": 5250,
-      "occupancy_percent": 8.49
+      "reserved": 19,
+      "available": 191,
+      "gross": 6225,
+      "occupancy_percent": 9.91
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -552,10 +552,10 @@
       "time": "",
       "seats": 136,
       "sold": 16,
-      "reserved": 0,
-      "available": 120,
-      "gross": 3200,
-      "occupancy_percent": 11.76
+      "reserved": 1,
+      "available": 119,
+      "gross": 3400,
+      "occupancy_percent": 12.5
     },
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -582,10 +582,10 @@
       "time": "",
       "seats": 210,
       "sold": 2,
-      "reserved": 18,
-      "available": 190,
-      "gross": 3500,
-      "occupancy_percent": 9.52
+      "reserved": 22,
+      "available": 186,
+      "gross": 4200,
+      "occupancy_percent": 11.43
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -866,11 +866,11 @@
       "date": "2026-09-07T10:45:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 0,
+      "sold": 2,
       "reserved": 50,
-      "available": 299,
-      "gross": 10000,
-      "occupancy_percent": 14.33
+      "available": 297,
+      "gross": 10400,
+      "occupancy_percent": 14.9
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -926,11 +926,11 @@
       "date": "2026-09-07T07:00:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 2,
-      "reserved": 50,
-      "available": 297,
-      "gross": 10400,
-      "occupancy_percent": 14.9
+      "sold": 6,
+      "reserved": 52,
+      "available": 291,
+      "gross": 11600,
+      "occupancy_percent": 16.62
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -1062,10 +1062,10 @@
       "time": "",
       "seats": 196,
       "sold": 4,
-      "reserved": 0,
-      "available": 192,
-      "gross": 1080,
-      "occupancy_percent": 2.04
+      "reserved": 1,
+      "available": 191,
+      "gross": 1350,
+      "occupancy_percent": 2.55
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -1131,16 +1131,18 @@
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
       "movie_name": "Mirzapur",
       "show_id": "shw_JTjV9OMiPdfg07lzAtd2HM:cineroyale",
-      "venue": "cineroyale",
-      "theatre": "Cineroyale - Audi 1",
-      "date": "2026-09-07T15:30:00+05:45",
-      "time": "",
-      "seats": 217,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-07",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 217,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -1191,16 +1193,18 @@
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
       "movie_name": "Mirzapur",
       "show_id": "shw_g0la5BWLf1ypj5Ms6UX7Da:cineroyale",
-      "venue": "cineroyale",
-      "theatre": "Cineroyale - Audi 1",
-      "date": "2026-09-07T19:30:00+05:45",
-      "time": "",
-      "seats": 217,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-07",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 217,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -1626,16 +1630,18 @@
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
       "movie_name": "Toxic",
       "show_id": "shw_uB1bxUVbzVVxxJWWzrlG1V:cineroyale",
-      "venue": "cineroyale",
-      "theatre": "Cineroyale - Audi 3",
-      "date": "2026-09-07T18:30:00+05:45",
-      "time": "",
-      "seats": 126,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-07",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 126,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2156,11 +2162,11 @@
       "date": "2026-09-07T08:15:00+05:45",
       "time": "",
       "seats": 207,
-      "sold": 4,
+      "sold": 6,
       "reserved": 15,
-      "available": 188,
-      "gross": 3325,
-      "occupancy_percent": 9.18
+      "available": 186,
+      "gross": 3675,
+      "occupancy_percent": 10.14
     },
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -2261,11 +2267,11 @@
       "date": "2026-09-07T12:15:00+05:45",
       "time": "",
       "seats": 53,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 51,
-      "gross": 1600,
-      "occupancy_percent": 3.77
+      "available": 49,
+      "gross": 3200,
+      "occupancy_percent": 7.55
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -2696,11 +2702,11 @@
       "date": "2026-09-07T08:30:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 8,
-      "reserved": 18,
-      "available": 221,
-      "gross": 5590,
-      "occupancy_percent": 10.53
+      "sold": 11,
+      "reserved": 19,
+      "available": 217,
+      "gross": 6450,
+      "occupancy_percent": 12.15
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -2741,11 +2747,11 @@
       "date": "2026-09-07T14:45:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 0,
+      "sold": 1,
       "reserved": 18,
-      "available": 230,
-      "gross": 7740,
-      "occupancy_percent": 7.26
+      "available": 229,
+      "gross": 8170,
+      "occupancy_percent": 7.66
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -2861,11 +2867,11 @@
       "date": "2026-09-07T14:00:00+05:45",
       "time": "",
       "seats": 117,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 117,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 115,
+      "gross": 500,
+      "occupancy_percent": 1.71
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -2906,11 +2912,11 @@
       "date": "2026-09-07T11:00:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 1,
+      "sold": 3,
       "reserved": 0,
-      "available": 137,
-      "gross": 300,
-      "occupancy_percent": 0.72
+      "available": 135,
+      "gross": 900,
+      "occupancy_percent": 2.17
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -3371,11 +3377,11 @@
       "date": "2026-09-07T15:00:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 2,
+      "sold": 5,
       "reserved": 0,
-      "available": 136,
-      "gross": 600,
-      "occupancy_percent": 1.45
+      "available": 133,
+      "gross": 1500,
+      "occupancy_percent": 3.62
     },
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -3432,10 +3438,10 @@
       "time": "",
       "seats": 270,
       "sold": 2,
-      "reserved": 50,
-      "available": 218,
-      "gross": 10400,
-      "occupancy_percent": 19.26
+      "reserved": 52,
+      "available": 216,
+      "gross": 10800,
+      "occupancy_percent": 20.0
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4291,6 +4297,226 @@
       "available": 60,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "29626:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-09-07T17:45:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 17,
+      "reserved": 0,
+      "available": 186,
+      "gross": 5950,
+      "occupancy_percent": 8.37
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "29624:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-09-07T11:15:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 19,
+      "reserved": 0,
+      "available": 184,
+      "gross": 6650,
+      "occupancy_percent": 9.36
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "29622:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-09-07T20:30:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 5950,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "29618:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-09-07T08:30:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 4250,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "29620:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-09-07T14:30:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 5950,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "shw_vTzix7vehUZWiVt6gXXRlz:oasis-cinema",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-07",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "shw_lBoSXcaGp27nLd9jZu6FM2:oasis-cinema",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-07",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
+      "movie_name": "Elephants in the Fog",
+      "show_id": "29623:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-09-07T09:00:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 17,
+      "reserved": 0,
+      "available": 186,
+      "gross": 4250,
+      "occupancy_percent": 8.37
+    },
+    {
+      "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
+      "movie_name": "Elephants in the Fog",
+      "show_id": "29619:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-09-07T12:15:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 5950,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
+      "movie_name": "Elephants in the Fog",
+      "show_id": "29621:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-09-07T18:15:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 17,
+      "reserved": 0,
+      "available": 191,
+      "gross": 5950,
+      "occupancy_percent": 8.17
+    },
+    {
+      "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
+      "movie_name": "Parbati",
+      "show_id": "29625:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-09-07T14:45:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 17,
+      "reserved": 0,
+      "available": 186,
+      "gross": 5950,
+      "occupancy_percent": 8.37
+    },
+    {
+      "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
+      "movie_name": "Parbati",
+      "show_id": "shw_S8Ml1E1uwOEGuBJdzAO1rR:oasis-cinema",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-07",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
+      "movie_name": "Parbati",
+      "show_id": "shw_NyriYYKdiHLcjEaVGUVGBs:oasis-cinema",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-07",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "shw_D890zetXVckC4LxrPCrU6X:oasis-cinema",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-07",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     }
   ]
 }
