@@ -118,8 +118,8 @@
     "total_shows": 32,
     "seats": 5568,
     "sold": 7,
-    "reserved": 1,
-    "available": 5560,
+    "reserved": 0,
+    "available": 5561,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -268,8 +268,8 @@
         "total_shows": 2,
         "seats": 104,
         "sold": 0,
-        "reserved": 1,
-        "available": 103,
+        "reserved": 0,
+        "available": 104,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -451,11 +451,11 @@
   {
     "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
     "movie_name": "Parbati",
-    "total_shows": 17,
-    "seats": 2533,
+    "total_shows": 18,
+    "seats": 2792,
     "sold": 124,
     "reserved": 0,
-    "available": 2409,
+    "available": 2668,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -578,6 +578,16 @@
         "available": 134,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 259,
+        "sold": 0,
+        "reserved": 0,
+        "available": 259,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -586,9 +596,9 @@
     "movie_name": "Hanuman Ansh",
     "total_shows": 70,
     "seats": 13721,
-    "sold": 226,
-    "reserved": 63,
-    "available": 13432,
+    "sold": 232,
+    "reserved": 59,
+    "available": 13430,
     "housefull": 0,
     "fastfilling": 1,
     "venues": [
@@ -696,9 +706,9 @@
         "venue": "qfx-civil",
         "total_shows": 3,
         "seats": 1557,
-        "sold": 6,
+        "sold": 7,
         "reserved": 0,
-        "available": 1551,
+        "available": 1550,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -716,9 +726,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 4,
         "seats": 988,
-        "sold": 7,
+        "sold": 9,
         "reserved": 54,
-        "available": 927,
+        "available": 925,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -736,9 +746,9 @@
         "venue": "qfx-skyline",
         "total_shows": 4,
         "seats": 532,
-        "sold": 119,
-        "reserved": 9,
-        "available": 404,
+        "sold": 122,
+        "reserved": 5,
+        "available": 405,
         "housefull": 0,
         "fastfilling": 1
       },
@@ -840,8 +850,8 @@
     "total_shows": 58,
     "seats": 12597,
     "sold": 78,
-    "reserved": 4,
-    "available": 12515,
+    "reserved": 3,
+    "available": 12516,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -950,8 +960,8 @@
         "total_shows": 4,
         "seats": 1140,
         "sold": 0,
-        "reserved": 4,
-        "available": 1136,
+        "reserved": 3,
+        "available": 1137,
         "housefull": 0,
         "fastfilling": 0
       },
