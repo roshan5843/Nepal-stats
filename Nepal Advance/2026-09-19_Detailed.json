@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "lastUpdated": "02:41 AM, 18 September 2026",
+  "lastUpdated": "05:34 AM, 18 September 2026",
   "shows": [
     {
       "movie_id": "QnuqDbqvzPU92DebGSYkoH",
@@ -777,10 +777,10 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 0,
-      "available": 240,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 239,
+      "gross": 410,
+      "occupancy_percent": 0.42
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -2321,11 +2321,11 @@
       "date": "2026-09-19T08:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 20,
+      "sold": 21,
       "reserved": 0,
-      "available": 227,
-      "gross": 4400,
-      "occupancy_percent": 8.1
+      "available": 226,
+      "gross": 4620,
+      "occupancy_percent": 8.5
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -2577,10 +2577,10 @@
       "time": "",
       "seats": 210,
       "sold": 9,
-      "reserved": 11,
-      "available": 190,
-      "gross": 9600,
-      "occupancy_percent": 9.52
+      "reserved": 12,
+      "available": 189,
+      "gross": 10080,
+      "occupancy_percent": 10.0
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -3326,11 +3326,11 @@
       "date": "2026-09-19T15:00:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 28,
+      "sold": 31,
       "reserved": 0,
-      "available": 105,
-      "gross": 10400,
-      "occupancy_percent": 21.05
+      "available": 102,
+      "gross": 11300,
+      "occupancy_percent": 23.31
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -3431,11 +3431,11 @@
       "date": "2026-09-19T08:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 7,
+      "sold": 10,
       "reserved": 0,
-      "available": 189,
-      "gross": 1225,
-      "occupancy_percent": 3.57
+      "available": 186,
+      "gross": 1750,
+      "occupancy_percent": 5.1
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -3966,16 +3966,18 @@
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
       "movie_name": "Behuli",
       "show_id": "714630:elite-cinemas",
-      "venue": "elite-cinemas",
-      "theatre": "Elite Cinemas - Hall-2",
-      "date": "2026-09-19T20:15:00+05:45",
-      "time": "",
-      "seats": 143,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-19",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 143,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
@@ -4011,16 +4013,18 @@
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
       "movie_name": "Behuli",
       "show_id": "714627:elite-cinemas",
-      "venue": "elite-cinemas",
-      "theatre": "Elite Cinemas - Hall-2",
-      "date": "2026-09-19T11:30:00+05:45",
-      "time": "",
-      "seats": 143,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-19",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 143,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
@@ -4736,11 +4740,11 @@
       "date": "2026-09-19T12:00:00+05:45",
       "time": "",
       "seats": 134,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 132,
-      "gross": 600,
-      "occupancy_percent": 1.49
+      "available": 130,
+      "gross": 1200,
+      "occupancy_percent": 2.99
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
