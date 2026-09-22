@@ -1,5 +1,40 @@
 {
   "date": "2026-09-23",
-  "lastUpdated": "01:59 AM, 23 September 2026",
-  "shows": []
+  "lastUpdated": "04:47 AM, 23 September 2026",
+  "shows": [
+    {
+      "movie_id": "QnuqDbqvzPU92DebGSYkoH",
+      "movie_name": "Karki Saila",
+      "show_id": "149683:cdc-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-23",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "93324:mangyo-jana-jyoti-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-23",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    }
+  ]
 }
