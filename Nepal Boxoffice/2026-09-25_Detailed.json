@@ -1,5 +1,40 @@
 {
   "date": "2026-09-25",
-  "lastUpdated": "12:11 AM, 25 September 2026",
-  "shows": []
+  "lastUpdated": "03:21 AM, 25 September 2026",
+  "shows": [
+    {
+      "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
+      "movie_name": "Avengers: Endgame Encore",
+      "show_id": "26259:birat-cine",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-25",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "93336:mangyo-jana-jyoti-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-25",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
+    }
+  ]
 }
