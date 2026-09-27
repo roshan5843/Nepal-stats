@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "lastUpdated": "12:16 AM, 28 September 2026",
+  "lastUpdated": "04:59 AM, 28 September 2026",
   "shows": [
     {
       "movie_id": "gsgsakLtEhBzDsjt9V3nKD",
@@ -441,16 +441,18 @@
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
       "movie_name": "Pension Patta",
       "show_id": "158c569c-c66a-40b4-941f-c7b63772abd6:ini-lotse-ktm",
-      "venue": "ini-lotse-ktm",
-      "theatre": "iNi Lotse - Audi - 1",
-      "date": "2026-09-30T14:15:00+05:45",
-      "time": "",
-      "seats": 240,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-30",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 240,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -1686,18 +1688,16 @@
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
       "movie_name": "Hanuman Ansh",
       "show_id": "b8165017-6b55-42a7-ba43-7925641734ba:ini-cinemas-nb-center",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-09-30",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-cinemas-nb-center",
+      "theatre": "iNi NB Center - Audi - 2 DTS: X",
+      "date": "2026-09-30T11:00:00+05:45",
+      "time": "",
+      "seats": 210,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 210,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "j39w5HyxNyEgorcTDLmA6t",
@@ -1844,10 +1844,10 @@
       "time": "",
       "seats": 98,
       "sold": 0,
-      "reserved": 2,
-      "available": 96,
-      "gross": 660,
-      "occupancy_percent": 2.04
+      "reserved": 0,
+      "available": 98,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
