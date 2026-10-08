@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "lastUpdated": "01:48 AM, 08 October 2026",
+  "lastUpdated": "06:03 AM, 08 October 2026",
   "shows": [
     {
       "movie_id": "JnKmjZBDodjojK3JQCSVCB",
@@ -741,18 +741,16 @@
       "movie_id": "JnKmjZBDodjojK3JQCSVCB",
       "movie_name": "Drishyam: The Conclusion",
       "show_id": "194455:qfx-durbar",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-10-10",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-durbar",
+      "theatre": "QFX Durbar - AUDI 02",
+      "date": "2026-10-10T08:30:00+05:45",
+      "time": "",
+      "seats": 51,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 51,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "JnKmjZBDodjojK3JQCSVCB",
@@ -1483,11 +1481,11 @@
       "date": "2026-10-10T09:30:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 0,
-      "reserved": 0,
-      "available": 183,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "sold": 4,
+      "reserved": 4,
+      "available": 175,
+      "gross": 1600,
+      "occupancy_percent": 4.37
     },
     {
       "movie_id": "3BwirdtEpq2VQXaXmcuzAN",
