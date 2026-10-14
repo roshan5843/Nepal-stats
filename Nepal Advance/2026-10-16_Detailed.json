@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "lastUpdated": "05:30 AM, 14 October 2026",
+  "lastUpdated": "09:26 AM, 14 October 2026",
   "shows": [
     {
       "movie_id": "7D9kTNJL2ANba6mNUCGnGH",
@@ -50,6 +50,36 @@
       "occupancy_percent": 0,
       "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
+    },
+    {
+      "movie_id": "7D9kTNJL2ANba6mNUCGnGH",
+      "movie_name": "Aa Bata Aama 2",
+      "show_id": "285758:omax-cinema",
+      "venue": "omax-cinema",
+      "theatre": "Omax Cinema - Omax",
+      "date": "2026-10-16T12:01:00+05:45",
+      "time": "",
+      "seats": 378,
+      "sold": 6,
+      "reserved": 0,
+      "available": 372,
+      "gross": 1500,
+      "occupancy_percent": 1.59
+    },
+    {
+      "movie_id": "6KNd4ZRpby5o3PokoZKQiw",
+      "movie_name": "12 Gaun 2",
+      "show_id": "285759:omax-cinema",
+      "venue": "omax-cinema",
+      "theatre": "Omax Cinema - Omax",
+      "date": "2026-10-16T15:00:00+05:45",
+      "time": "",
+      "seats": 378,
+      "sold": 0,
+      "reserved": 0,
+      "available": 378,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
