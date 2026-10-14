@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "lastUpdated": "02:38 AM, 14 October 2026",
+  "lastUpdated": "06:33 AM, 14 October 2026",
   "shows": [
     {
       "movie_id": "JnKmjZBDodjojK3JQCSVCB",
@@ -656,11 +656,11 @@
       "date": "2026-10-15T07:00:00+05:45",
       "time": "",
       "seats": 270,
-      "sold": 74,
+      "sold": 76,
       "reserved": 13,
-      "available": 183,
-      "gross": 21750,
-      "occupancy_percent": 32.22
+      "available": 181,
+      "gross": 22250,
+      "occupancy_percent": 32.96
     },
     {
       "movie_id": "5NNzigz3KHkZNQfVxhkWQB",
@@ -716,11 +716,11 @@
       "date": "2026-10-15T08:00:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 36,
+      "sold": 37,
       "reserved": 0,
-      "available": 141,
-      "gross": 8280,
-      "occupancy_percent": 20.34
+      "available": 140,
+      "gross": 8510,
+      "occupancy_percent": 20.9
     },
     {
       "movie_id": "5NNzigz3KHkZNQfVxhkWQB",
@@ -2081,11 +2081,11 @@
       "date": "2026-10-15T09:30:00+05:45",
       "time": "",
       "seats": 256,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 256,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 252,
+      "gross": 1000,
+      "occupancy_percent": 1.56
     },
     {
       "movie_id": "JnKmjZBDodjojK3JQCSVCB",
@@ -3531,16 +3531,18 @@
       "movie_id": "5NNzigz3KHkZNQfVxhkWQB",
       "movie_name": "Jailer 2",
       "show_id": "4536:friends-cinema-butwal-royal-cine-hub",
-      "venue": "friends-cinema-butwal-royal-cine-hub",
-      "theatre": "Friends Cinema - Butwal - Audi 1",
-      "date": "2026-10-15T20:15:00+05:45",
-      "time": "",
-      "seats": 213,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-10-15",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 213,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "5NNzigz3KHkZNQfVxhkWQB",
@@ -3656,11 +3658,11 @@
       "date": "2026-10-15T07:45:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 6,
+      "sold": 8,
       "reserved": 0,
-      "available": 208,
-      "gross": 1140,
-      "occupancy_percent": 2.8
+      "available": 206,
+      "gross": 1520,
+      "occupancy_percent": 3.74
     },
     {
       "movie_id": "5NNzigz3KHkZNQfVxhkWQB",
@@ -3681,16 +3683,18 @@
       "movie_id": "5NNzigz3KHkZNQfVxhkWQB",
       "movie_name": "Jailer 2",
       "show_id": "195630:qfx-butwal",
-      "venue": "qfx-butwal",
-      "theatre": "QFX Butwal - AUDI 1",
-      "date": "2026-10-15T18:30:00+05:45",
-      "time": "",
-      "seats": 176,
-      "sold": 11,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-10-15",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 165,
-      "gross": 3850,
-      "occupancy_percent": 6.25
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "5NNzigz3KHkZNQfVxhkWQB",
@@ -3821,11 +3825,11 @@
       "date": "2026-10-15T11:30:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 16,
+      "sold": 17,
       "reserved": 0,
-      "available": 160,
-      "gross": 5600,
-      "occupancy_percent": 9.09
+      "available": 159,
+      "gross": 5950,
+      "occupancy_percent": 9.66
     },
     {
       "movie_id": "5NNzigz3KHkZNQfVxhkWQB",
@@ -3971,11 +3975,11 @@
       "date": "2026-10-15T12:15:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 0,
+      "sold": 2,
       "reserved": 6,
-      "available": 224,
-      "gross": 3450,
-      "occupancy_percent": 2.61
+      "available": 222,
+      "gross": 4150,
+      "occupancy_percent": 3.48
     },
     {
       "movie_id": "5NNzigz3KHkZNQfVxhkWQB",
@@ -4001,11 +4005,11 @@
       "date": "2026-10-15T11:00:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 11,
+      "sold": 13,
       "reserved": 10,
-      "available": 117,
-      "gross": 6430,
-      "occupancy_percent": 15.22
+      "available": 115,
+      "gross": 7290,
+      "occupancy_percent": 16.67
     },
     {
       "movie_id": "5NNzigz3KHkZNQfVxhkWQB",
@@ -4632,10 +4636,10 @@
       "time": "",
       "seats": 44,
       "sold": 0,
-      "reserved": 1,
-      "available": 43,
-      "gross": 400,
-      "occupancy_percent": 2.27
+      "reserved": 0,
+      "available": 44,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
