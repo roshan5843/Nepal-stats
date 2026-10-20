@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "lastUpdated": "12:20 AM, 21 October 2026",
+  "lastUpdated": "05:03 AM, 21 October 2026",
   "shows": [
     {
       "movie_id": "7D9kTNJL2ANba6mNUCGnGH",
@@ -447,18 +447,16 @@
       "movie_id": "6WNwZ5gw57z8mPjeouhj83",
       "movie_name": "Chha Maya Chhapakkai 2",
       "show_id": "28505:birat-cine",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-10-23",
-      "time": null,
-      "seats": 0,
+      "venue": "birat-cine",
+      "theatre": "Birat Cine - Audi-1",
+      "date": "2026-10-23T08:15:00+05:45",
+      "time": "",
+      "seats": 122,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 122,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "UNrAoPwcwYAiyyz2pFybiV",
@@ -599,16 +597,18 @@
       "movie_id": "6KNd4ZRpby5o3PokoZKQiw",
       "movie_name": "12 Gaun 2",
       "show_id": "28511:birat-cine",
-      "venue": "birat-cine",
-      "theatre": "Birat Cine - Audi-2",
-      "date": "2026-10-23T20:55:00+05:45",
-      "time": "",
-      "seats": 169,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-10-23",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 169,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "6KNd4ZRpby5o3PokoZKQiw",
@@ -652,10 +652,10 @@
       "time": "",
       "seats": 349,
       "sold": 11,
-      "reserved": 27,
-      "available": 311,
-      "gross": 18810,
-      "occupancy_percent": 10.89
+      "reserved": 25,
+      "available": 313,
+      "gross": 17820,
+      "occupancy_percent": 10.32
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -681,11 +681,11 @@
       "date": "2026-10-23T18:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 68,
+      "sold": 70,
       "reserved": 0,
-      "available": 112,
-      "gross": 32640,
-      "occupancy_percent": 37.78
+      "available": 110,
+      "gross": 33600,
+      "occupancy_percent": 38.89
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -696,11 +696,11 @@
       "date": "2026-10-23T08:15:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 121,
-      "reserved": 2,
-      "available": 57,
-      "gross": 29520,
-      "occupancy_percent": 68.33
+      "sold": 122,
+      "reserved": 0,
+      "available": 58,
+      "gross": 29280,
+      "occupancy_percent": 67.78
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -861,11 +861,11 @@
       "date": "2026-10-23T14:15:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 0,
+      "sold": 6,
       "reserved": 0,
-      "available": 210,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 204,
+      "gross": 2760,
+      "occupancy_percent": 2.86
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -876,11 +876,11 @@
       "date": "2026-10-23T08:30:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 91,
+      "sold": 95,
       "reserved": 0,
-      "available": 428,
-      "gross": 22165,
-      "occupancy_percent": 17.53
+      "available": 424,
+      "gross": 23045,
+      "occupancy_percent": 18.3
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -922,10 +922,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 14,
-      "available": 198,
-      "gross": 8600,
-      "occupancy_percent": 6.6
+      "reserved": 16,
+      "available": 196,
+      "gross": 9760,
+      "occupancy_percent": 7.55
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -966,11 +966,11 @@
       "date": "2026-10-23T10:00:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 37,
+      "sold": 40,
       "reserved": 25,
-      "available": 150,
-      "gross": 21255,
-      "occupancy_percent": 29.25
+      "available": 147,
+      "gross": 22380,
+      "occupancy_percent": 30.66
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1236,11 +1236,11 @@
       "date": "2026-10-23T08:00:00+05:45",
       "time": "",
       "seats": 250,
-      "sold": 100,
+      "sold": 102,
       "reserved": 0,
-      "available": 150,
-      "gross": 20000,
-      "occupancy_percent": 40.0
+      "available": 148,
+      "gross": 20400,
+      "occupancy_percent": 40.8
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1371,11 +1371,11 @@
       "date": "2026-10-23T07:45:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 130,
-      "reserved": 1,
-      "available": 117,
-      "gross": 32450,
-      "occupancy_percent": 52.82
+      "sold": 132,
+      "reserved": 0,
+      "available": 116,
+      "gross": 32670,
+      "occupancy_percent": 53.23
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1386,11 +1386,11 @@
       "date": "2026-10-23T11:00:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 43,
+      "sold": 47,
       "reserved": 18,
-      "available": 187,
-      "gross": 26840,
-      "occupancy_percent": 24.6
+      "available": 183,
+      "gross": 28600,
+      "occupancy_percent": 26.21
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1401,11 +1401,11 @@
       "date": "2026-10-23T11:00:00+05:45",
       "time": "",
       "seats": 359,
-      "sold": 36,
+      "sold": 44,
       "reserved": 0,
-      "available": 323,
-      "gross": 15510,
-      "occupancy_percent": 10.03
+      "available": 315,
+      "gross": 18870,
+      "occupancy_percent": 12.26
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1476,11 +1476,11 @@
       "date": "2026-10-23T18:00:00+05:45",
       "time": "",
       "seats": 265,
-      "sold": 27,
+      "sold": 37,
       "reserved": 0,
-      "available": 238,
-      "gross": 10260,
-      "occupancy_percent": 10.19
+      "available": 228,
+      "gross": 14060,
+      "occupancy_percent": 13.96
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1596,11 +1596,11 @@
       "date": "2026-10-23T13:45:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 62,
+      "sold": 67,
       "reserved": 0,
-      "available": 114,
-      "gross": 23200,
-      "occupancy_percent": 35.23
+      "available": 109,
+      "gross": 24950,
+      "occupancy_percent": 38.07
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1656,11 +1656,11 @@
       "date": "2026-10-23T17:40:00+05:45",
       "time": "",
       "seats": 204,
-      "sold": 124,
+      "sold": 128,
       "reserved": 0,
-      "available": 80,
-      "gross": 38200,
-      "occupancy_percent": 60.78
+      "available": 76,
+      "gross": 39600,
+      "occupancy_percent": 62.75
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1671,11 +1671,11 @@
       "date": "2026-10-23T09:00:00+05:45",
       "time": "",
       "seats": 204,
-      "sold": 27,
+      "sold": 29,
       "reserved": 0,
-      "available": 177,
-      "gross": 8100,
-      "occupancy_percent": 13.24
+      "available": 175,
+      "gross": 8700,
+      "occupancy_percent": 14.22
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1687,10 +1687,10 @@
       "time": "",
       "seats": 204,
       "sold": 107,
-      "reserved": 5,
-      "available": 92,
-      "gross": 35100,
-      "occupancy_percent": 54.9
+      "reserved": 0,
+      "available": 97,
+      "gross": 33200,
+      "occupancy_percent": 52.45
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1726,18 +1726,16 @@
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
       "movie_name": "Kabaddi 5",
       "show_id": "93497:mangyo-jana-jyoti-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-10-23",
-      "time": null,
-      "seats": 0,
+      "venue": "mangyo-jana-jyoti-cinemas",
+      "theatre": "Mango Jana Jyoti Cinemas - Screen 1",
+      "date": "2026-10-23T14:00:00+05:45",
+      "time": "",
+      "seats": 309,
       "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "reserved": 39,
+      "available": 270,
+      "gross": 11700,
+      "occupancy_percent": 12.62
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1768,7 +1766,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -1797,11 +1795,11 @@
       "date": "2026-10-23T06:00:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 52,
+      "sold": 54,
       "reserved": 0,
-      "available": 81,
-      "gross": 8515,
-      "occupancy_percent": 39.1
+      "available": 79,
+      "gross": 8945,
+      "occupancy_percent": 40.6
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1813,10 +1811,10 @@
       "time": "",
       "seats": 138,
       "sold": 74,
-      "reserved": 10,
-      "available": 54,
-      "gross": 26890,
-      "occupancy_percent": 60.87
+      "reserved": 11,
+      "available": 53,
+      "gross": 27320,
+      "occupancy_percent": 61.59
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1852,18 +1850,16 @@
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
       "movie_name": "Kabaddi 5",
       "show_id": "93498:mangyo-jana-jyoti-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-10-23",
-      "time": null,
-      "seats": 0,
+      "venue": "mangyo-jana-jyoti-cinemas",
+      "theatre": "Mango Jana Jyoti Cinemas - Screen 1",
+      "date": "2026-10-23T19:30:00+05:45",
+      "time": "",
+      "seats": 309,
       "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "reserved": 39,
+      "available": 270,
+      "gross": 11700,
+      "occupancy_percent": 12.62
     },
     {
       "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
@@ -1924,7 +1920,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v2/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
