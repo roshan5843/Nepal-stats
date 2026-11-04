@@ -1,44 +1,48 @@
-# name: Nepal 9th Jan Advance Boxoffice Scraper
-# 
+
+
+# name: Nepal 9th Jan Advance Boxoffice Scraper + MongoDB Sync
+
 # on:
 #   schedule:
-#     - cron: "0 */3 * * *"   # ⏰ Runs every 2 hours
-#   workflow_dispatch:       # ✅ Manual run allowed
-# 
+#     - cron: "0 */3 * * *"   # ⏰ Runs every 3 hours
+#   workflow_dispatch:        # ✅ Manual run allowed
+  
 # # ✅ REQUIRED for git push
 # permissions:
 #   contents: write
-#   
-# # ✅ Ek time pe sirf ek job chalega (no race on push)
+
+# # ✅ One job at a time (no race conditions)
 # concurrency:
-#   group: nepal-advance-main
+#   group: nepal-advance-9thjan-main
 #   cancel-in-progress: false
-# 
+
 # jobs:
-#   run:
+#   scrape-and-sync:
 #     runs-on: ubuntu-latest
-# 
+#     timeout-minutes: 30
+
 #     steps:
-#     - name: Checkout repository
+#     - name: 🧾 Checkout repository
 #       uses: actions/checkout@v4
 #       with:
-#         fetch-depth: 0   # ✅ required for rebase & push
-# 
-#     - name: Set up Python
-#       uses: actions/setup-python@v4
+#         fetch-depth: 0
+
+#     - name: 🐍 Set up Python
+#       uses: actions/setup-python@v5
 #       with:
 #         python-version: "3.11"
-# 
-#     - name: Install dependencies
+#         cache: 'pip'
+
+#     - name: 📦 Install scraper dependencies
 #       run: |
 #         pip install requests
-# 
-#     - name: Run Nepal 9th Jan Advance Script
+
+#     - name: 🚀 Run Nepal 9th Jan Advance Script
 #       run: |
-#         echo "🚀 Running Nepal Advance Boxoffice Script..."
-#         python "nepal9thjanadv_2day.py"
-# 
-#     - name: Check for changes
+#         echo "🚀 Running Nepal 9th Jan Advance Boxoffice Script..."
+#         python nepal9thjanadv_2day.py
+
+#     - name: 🔍 Check for changes
 #       id: check_changes
 #       run: |
 #         if [[ -n $(git status --porcelain) ]]; then
@@ -46,18 +50,17 @@
 #         else
 #           echo "changes_detected=false" >> $GITHUB_ENV
 #         fi
-# 
-#     - name: Commit & Push Results (with retry)
+
+#     - name: 💾 Commit & Push Results (with retry)
 #       if: env.changes_detected == 'true'
 #       run: |
 #         git config --global user.name "GitHub Bot"
 #         git config --global user.email "actions@github.com"
-# 
+
 #         git add .
-# 
-#         # ✅ Safe commit
-#         git commit -m "📊 Auto-update: Nepal Advance ($(date '+%d-%m-%Y %I:%M %p'))" || echo "No changes to commit"
-# 
+
+#         git commit -m "📊 Auto-update: Nepal 9th Jan Advance ($(date '+%d-%m-%Y %I:%M %p'))" || echo "No changes to commit"
+
 #         # ✅ Retry logic: pull --rebase + push (max 3 tries)
 #         for i in 1 2 3; do
 #           echo "🔄 Attempt $i to pull --rebase & push..."
@@ -74,103 +77,25 @@
 #           fi
 #         done
 
+#     # ✨✨✨ BUILT-IN MONGODB SYNC ✨✨✨
 
-name: Nepal 9th Jan Advance Boxoffice Scraper + MongoDB Sync
+#     - name: 📦 Install MongoDB dependencies
+#       run: |
+#         pip install pymongo dnspython pytz
 
-on:
-  schedule:
-    - cron: "0 */3 * * *"   # ⏰ Runs every 3 hours
-  workflow_dispatch:        # ✅ Manual run allowed
-  
-# ✅ REQUIRED for git push
-permissions:
-  contents: write
+#     - name: 🔄 Sync Nepal Advance Data to MongoDB
+#       if: success()
+#       env:
+#         MONGODB_URI: ${{ secrets.MONGODB_URI }}
+#         MONGODB_DATABASE: ${{ secrets.MONGODB_DATABASE }}
+#       run: |
+#         python mongodb/sync_nepal_advance.py
 
-# ✅ One job at a time (no race conditions)
-concurrency:
-  group: nepal-advance-9thjan-main
-  cancel-in-progress: false
-
-jobs:
-  scrape-and-sync:
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
-
-    steps:
-    - name: 🧾 Checkout repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-
-    - name: 🐍 Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: "3.11"
-        cache: 'pip'
-
-    - name: 📦 Install scraper dependencies
-      run: |
-        pip install requests
-
-    - name: 🚀 Run Nepal 9th Jan Advance Script
-      run: |
-        echo "🚀 Running Nepal 9th Jan Advance Boxoffice Script..."
-        python nepal9thjanadv_2day.py
-
-    - name: 🔍 Check for changes
-      id: check_changes
-      run: |
-        if [[ -n $(git status --porcelain) ]]; then
-          echo "changes_detected=true" >> $GITHUB_ENV
-        else
-          echo "changes_detected=false" >> $GITHUB_ENV
-        fi
-
-    - name: 💾 Commit & Push Results (with retry)
-      if: env.changes_detected == 'true'
-      run: |
-        git config --global user.name "GitHub Bot"
-        git config --global user.email "actions@github.com"
-
-        git add .
-
-        git commit -m "📊 Auto-update: Nepal 9th Jan Advance ($(date '+%d-%m-%Y %I:%M %p'))" || echo "No changes to commit"
-
-        # ✅ Retry logic: pull --rebase + push (max 3 tries)
-        for i in 1 2 3; do
-          echo "🔄 Attempt $i to pull --rebase & push..."
-          if git pull --rebase && git push; then
-            echo "✅ Push success on attempt $i"
-            break
-          else
-            echo "⚠️ Push failed on attempt $i"
-            if [ "$i" -eq 3 ]; then
-              echo "❌ Giving up after 3 attempts"
-              exit 1
-            fi
-            sleep 10
-          fi
-        done
-
-    # ✨✨✨ BUILT-IN MONGODB SYNC ✨✨✨
-
-    - name: 📦 Install MongoDB dependencies
-      run: |
-        pip install pymongo dnspython pytz
-
-    - name: 🔄 Sync Nepal Advance Data to MongoDB
-      if: success()
-      env:
-        MONGODB_URI: ${{ secrets.MONGODB_URI }}
-        MONGODB_DATABASE: ${{ secrets.MONGODB_DATABASE }}
-      run: |
-        python mongodb/sync_nepal_advance.py
-
-    - name: 📊 Final Summary
-      if: always()
-      run: |
-        echo "================================"
-        echo "Nepal 9th Jan Advance Workflow Complete"
-        echo "================================"
-        echo "Time: $(date +'%Y-%m-%d %H:%M IST')"
-        echo "Status: ${{ job.status }}"
+#     - name: 📊 Final Summary
+#       if: always()
+#       run: |
+#         echo "================================"
+#         echo "Nepal 9th Jan Advance Workflow Complete"
+#         echo "================================"
+#         echo "Time: $(date +'%Y-%m-%d %H:%M IST')"
+#         echo "Status: ${{ job.status }}"
