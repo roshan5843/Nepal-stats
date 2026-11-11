@@ -2,21 +2,41 @@
   {
     "movie_id": "QfmNd5e2Xk7Ysy8WyoayKE",
     "movie_name": "Ramayana: Rise of Legend",
-    "total_shows": 3,
-    "seats": 632,
-    "sold": 96,
-    "reserved": 29,
-    "available": 507,
+    "total_shows": 19,
+    "seats": 3834,
+    "sold": 854,
+    "reserved": 110,
+    "available": 2870,
     "housefull": 0,
-    "fastfilling": 0,
+    "fastfilling": 1,
     "venues": [
       {
         "venue": "big-movies-updated",
+        "total_shows": 3,
+        "seats": 961,
+        "sold": 127,
+        "reserved": 92,
+        "available": 742,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "central-multiplex",
         "total_shows": 1,
-        "seats": 349,
-        "sold": 19,
-        "reserved": 27,
-        "available": 303,
+        "seats": 230,
+        "sold": 93,
+        "reserved": 7,
+        "available": 130,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 2,
+        "seats": 434,
+        "sold": 28,
+        "reserved": 2,
+        "available": 404,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -31,12 +51,171 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-labim",
+        "venue": "one-cinemas-kalimati",
         "total_shows": 1,
-        "seats": 182,
-        "sold": 75,
+        "seats": 151,
+        "sold": 37,
         "reserved": 0,
-        "available": 107,
+        "available": 114,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 2,
+        "seats": 270,
+        "sold": 69,
+        "reserved": 0,
+        "available": 201,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 259,
+        "sold": 74,
+        "reserved": 0,
+        "available": 185,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 53,
+        "sold": 30,
+        "reserved": 0,
+        "available": 23,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 2,
+        "seats": 478,
+        "sold": 167,
+        "reserved": 5,
+        "available": 306,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 2,
+        "seats": 364,
+        "sold": 129,
+        "reserved": 0,
+        "available": 235,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 3,
+        "seats": 533,
+        "sold": 98,
+        "reserved": 2,
+        "available": 433,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "WNKLv5BRHKPwQJ9SYGF5Ea",
+    "movie_name": "Panch Pandav",
+    "total_shows": 3,
+    "seats": 431,
+    "sold": 8,
+    "reserved": 21,
+    "available": 402,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 271,
+        "sold": 8,
+        "reserved": 21,
+        "available": 242,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kamal-binayak-cinemas",
+        "total_shows": 1,
+        "seats": 75,
+        "sold": 0,
+        "reserved": 0,
+        "available": 75,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 85,
+        "sold": 0,
+        "reserved": 0,
+        "available": 85,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
+    "movie_name": "Kabaddi 5",
+    "total_shows": 2,
+    "seats": 284,
+    "sold": 17,
+    "reserved": 0,
+    "available": 267,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 8,
+        "reserved": 0,
+        "available": 93,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 183,
+        "sold": 9,
+        "reserved": 0,
+        "available": 174,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "Cqxb2ks8ehqZAZ7iKTLLq2",
+    "movie_name": "Clayface",
+    "total_shows": 1,
+    "seats": 85,
+    "sold": 3,
+    "reserved": 1,
+    "available": 81,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 85,
+        "sold": 3,
+        "reserved": 1,
+        "available": 81,
         "housefull": 0,
         "fastfilling": 0
       }
